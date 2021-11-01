@@ -37,11 +37,14 @@
 		}
 
 #info {
-	position: absolute;
+	position: fixed;
+	background: white;
+	box-shadow: rgba(0,0,0,0.25) 5px 5px 20px;
 	left: 0;
 	right: 0;
-	top: 1em;
+	top: 0;
 	text-align: center;
+	padding: 0.5em;
 }
 	#info > * {
 		display: inline-block;

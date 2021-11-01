@@ -1,4 +1,4 @@
-export const translations = JSON.parse(localStorage.getItem('translations')) || {
+const defaultDict = {
 	"en": {
 		"urknall": "Big Bang",
 		"verbanden": "bond",
@@ -137,6 +137,7 @@ export const translations = JSON.parse(localStorage.getItem('translations')) || 
 	}
 }
 
+export const translations = JSON.parse(localStorage.getItem('translations')) || defaultDict
 export const translate = (dict, key) => {
 	return dict[key.toLowerCase()]
 }

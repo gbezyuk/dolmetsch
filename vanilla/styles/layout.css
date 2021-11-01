@@ -13,6 +13,10 @@ html, body {
 	background: white;
 	box-shadow: rgba(0,0,0,0.25) 5px 5px 20px;
 }
+	.primary-navigation > h1 {
+		padding: 0 .5em;
+	}
+
 	.primary-navigation > a {
 		display: block;
 		padding: .5em 1em;

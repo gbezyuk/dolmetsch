@@ -1,6 +1,9 @@
 export const text =
-`Kapitel 1
-Ein ziemlich unauffälliges Tier
+`
+Yuval Noah Harari
+Sapiens. Eine kurze Geschichte der Menschheit.
+Teil 1. Die Kognitive Revolution.
+Kapitel 1. Ein ziemlich unauffälliges Tier.
 Vor rund 13,5 Milliarden Jahren entstanden Materie, Energie, Raum und Zeit in einem Ereignis namens Urknall. Die Geschichte dieser grundlegenden Eigenschaften unseres Universums nennen wir Physik.
 Etwa 300000 Jahre später verbanden sich Materie und Energie zu komplexeren Strukturen namens Atome, die sich wiederum zu Molekülen zusammenschlossen. Die Geschichte der Atome, Moleküle und ihrer Reaktionen nennen wir Chemie.
 Vor 3,8 Milliarden Jahren begannen auf einem Planeten namens Erde bestimmte Moleküle, sich zu besonders großen und komplexen Strukturen zu verbinden, die wir als Organismen bezeichnen. Die Geschichte dieser Organismen nennen wir Biologie.

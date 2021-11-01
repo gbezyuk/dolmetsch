@@ -1,6 +1,16 @@
-#text {
+body {
+	margin-top: 4em;
+}
+
+.note {
+	font-size: 0.5rem;
 	max-width: 800px;
 	margin: 4em auto;
+}
+
+#text {
+	max-width: 800px;
+	margin: 2em auto;
 	user-select: none;
 }
 	.word {

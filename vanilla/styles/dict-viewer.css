@@ -3,12 +3,15 @@
 	margin: 4em auto;
 	border-collapse: collapse;
 }
-	#dictTable th, td {
+	#dictTable th,
+	#dictTable td {
 		border: 1px solid lightgray;
 		padding: 1em;
 		white-space: nowrap;
+		text-align: left;
 	}
-		#dictTable th, td > br {
+		#dictTable th > br,
+		#dictTable td > br {
 			display: none;
 		}
 

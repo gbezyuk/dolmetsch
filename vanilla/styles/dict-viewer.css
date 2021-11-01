@@ -1,0 +1,17 @@
+#dictTable {
+	max-width: 800px;
+	margin: 4em auto;
+	border-collapse: collapse;
+}
+	#dictTable th, td {
+		border: 1px solid lightgray;
+		padding: 1em;
+		white-space: nowrap;
+	}
+		#dictTable th, td > br {
+			display: none;
+		}
+
+	#dictTable td:first-child {
+		font-weight: bold;
+	}

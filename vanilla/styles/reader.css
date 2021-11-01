@@ -1,0 +1,63 @@
+#text {
+	max-width: 800px;
+	margin: 4em auto;
+	user-select: none;
+}
+	.word {
+		display: inline-block;
+		margin-right: .3em;
+		border: 1px solid transparent;
+		border-radius: .3em;
+		cursor: pointer;
+		transition: all ease-in-out .1s;
+	}
+		.word:hover {
+			border-color: black;
+		}
+		.word.selected {
+			background-color: lightgreen;
+		}
+		.word.translated {
+			text-decoration: underline;
+			text-decoration-style: dashed;
+			text-decoration-color: lightgray;
+		}
+	.punctuation-mark {
+		display: inline-block;
+		margin-right: .3em;
+		margin-left: -.4em;
+	}
+
+	.number {
+		display: inline-block;
+		margin-right: .3em;
+	}
+		.number:hover {
+			text-decoration: underline;
+		}
+
+#info {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 1em;
+	text-align: center;
+}
+	#info > * {
+		display: inline-block;
+		margin-right: 3em;
+	}
+
+	#info #occurences {
+		color: lightgray;
+	}
+
+	#info .translation {
+		display: inline-block;
+		min-width: 3em;
+		border-bottom: 1px solid lightgray;
+		white-space: nowrap;
+	}
+		#info > .translation > br {
+			display: none;
+		}

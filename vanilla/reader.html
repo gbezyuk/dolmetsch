@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="./styles/layout.css">
+	<link rel="stylesheet" href="./styles/reader.css">
+</head>
+
+<body>
+
+	<nav class="primary-navigation">
+		<a href="./reader.html">reader</a>
+		<a href="./dict-viewer.html">dict viewer</a>
+		<a href="./dict-export.html">dict export</a>
+	</nav>
+
+	<div id="info">
+		<span id="occurences"></span>
+		<span id="originalWord"></span>
+		<span class="translation" id="translationEn" contenteditable placeholder="En"></span>
+		<span class="translation" id="translationRu" contenteditable placeholder="Ru"></span>
+	</div>
+
+	<div id="text"></div>
+
+	<script src="./scripts/reader.js" type="module"></script>
+
+</body>
+</html>

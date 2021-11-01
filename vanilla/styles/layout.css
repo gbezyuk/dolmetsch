@@ -1,0 +1,23 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-size: 25px;
+}
+
+.primary-navigation {
+	position: absolute;
+	right: 0;
+	top: 0;
+	border: 1px solid lightgray;
+}
+	.primary-navigation > a {
+		display: block;
+		padding: .5em 1em;
+	}
+
+[contenteditable]:empty:before{
+	content: attr(placeholder);
+	pointer-events: none;
+	display: block;
+	color: lightgray;
+}

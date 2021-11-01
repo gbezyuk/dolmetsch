@@ -32,5 +32,4 @@ export const translate = (dict, key) => {
 export const setTranslation = (lang, original, translation) => {
 	translations[lang][original.toLocaleLowerCase()] = translation
 	localStorage.setItem('translations', JSON.stringify(translations))
-	renderDictPresenceStatus()
 }

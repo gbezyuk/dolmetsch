@@ -34,6 +34,13 @@ const updateWordSelectionIndication = () => {
 	})
 }
 
+const renderDictPresenceStatus = () => {
+	[...document.getElementsByClassName('word')].map($w => {
+		const w = $w.innerText.toLowerCase()
+		$w.classList.toggle('translated', w in translations.en || w in translations.ru)
+	})
+}
+
 const updateInfo = () => {
 	$originalWord.innerText = selectedWord
 	$occurences.innerText = occurences
@@ -61,7 +68,7 @@ document.body.addEventListener('keyup', (e) => {
 				setTranslation('en', selectedWord, translationText)
 				break
 		}
-		renderDictPresenceStatus()
+		setTimeout(renderDictPresenceStatus, 0)
 	}
 }, true)
 
@@ -77,13 +84,6 @@ initText($text, text)
 const checkTranslations = () => {
 	translationEn = translate(translations.en, selectedWord)
 	translationRu = translate(translations.ru, selectedWord)
-}
-
-const renderDictPresenceStatus = () => {
-	[...document.getElementsByClassName('word')].map($w => {
-		const w = $w.innerText.toLowerCase()
-		$w.classList.toggle('translated', w in translations.en || w in translations.ru)
-	})
 }
 
 renderDictPresenceStatus()

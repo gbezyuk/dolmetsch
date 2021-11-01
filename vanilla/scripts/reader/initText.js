@@ -28,7 +28,7 @@ export const wrapIntoTag = (w) => {
 }
 
 export const initText = ($text, text) => {
-	$text.innerHTML = text.reduce((acc, p) => {
+	$text.innerHTML = text.split('\n').reduce((acc, p) => {
 		const s = p.split(' ').reduce(separatePunctuationReducer, []).map(wrapIntoTag).join('')
 		acc += `<p>${s}</p>`
 		return acc

@@ -1,0 +1,19 @@
+{
+	"key": "kurz",
+	"variants": [
+		{
+			"dictionaryForm": "kurz",
+			"PoS": "adjective",
+			"translations": {
+				"en": "short",
+				"ru": "короткий"
+			},
+			"forms": [
+				"kurz",
+				"kurze",
+				"kurzes",
+				"kurzer"
+			]
+		}
+	]
+}

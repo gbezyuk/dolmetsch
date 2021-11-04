@@ -27,23 +27,27 @@ function analyze (matches) {
 	// just a very quick demo of the analytical approach
 	// one obvious application would be figuring out infinitives
 	const possibilities = []
-	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'e')) {
-		possibilities.push('*e adjective plural or feminine form')
+	let m
+	if (m = matches.find(m => m.affixType === 'suffix' && m.affix === 'e')) {
+		possibilities.push(['*e adjective plural or feminine form', m.unwrapped.toLowerCase()])
 		possibilities.push('*e noun plural or feminine form')
 	}
-	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'en')) {
+	if (m = matches.find(m => m.affixType === 'suffix' && m.affix === 'en')) {
 		possibilities.push('*en verb infinitive or plural form')
 		possibilities.push('*en adjective in accusative')
-		possibilities.push('*en noun plural')
+		possibilities.push(['*en noun plural', m.unwrapped])
 	}
-	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'heit')) {
+	if (m = matches.find(m => m.affixType === 'suffix' && m.affix === 'heit')) {
 		possibilities.push('*heit noun')
 	}
-	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'bar')) {
+	if (m = matches.find(m => m.affixType === 'suffix' && m.affix === 'bar')) {
 		possibilities.push('*bar adjective')
 	}
-	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'lich')) {
+	if (m = matches.find(m => m.affixType === 'suffix' && m.affix === 'lich')) {
 		possibilities.push('*lich adverb')
+	}
+	if (m = matches.find(m => m.affixType === 'suffix' && m.affix === 'es')) {
+		possibilities.push(['*es adjective (in neutrum definite form)', m.unwrapped.toLowerCase()])
 	}
 	return possibilities
 }
@@ -57,7 +61,7 @@ export function test (word) {
 				affixMask: getMask(a),
 				affixType: a.affixType,
 				annotation: a.annotate(word),
-				upwrapped: a.unwrap(word),
+				unwrapped: a.unwrap(word),
 			})
 		}
 	}

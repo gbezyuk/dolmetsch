@@ -1,0 +1,19 @@
+{
+	"key": "unauffällig",
+	"variants": [
+		{
+			"dictionaryForm": "unauffällig",
+			"PoS": "adjective",
+			"translations": {
+				"en": "unremarkable",
+				"ru": "непримечательный"
+			},
+			"forms": [
+				"unauffällig",
+				"unauffällige",
+				"unauffälliges",
+				"unauffälliger"
+			]
+		}
+	]
+}

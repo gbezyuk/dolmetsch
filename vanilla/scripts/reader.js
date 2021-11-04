@@ -2,7 +2,7 @@ import initText from "./reader/initText.js"
 import { translate, translations, setTranslation } from './dict.js'
 import { requestLocalTranslation } from './local-dictionary.js'
 import text from './reader/text.js'
-import { test } from './morphology.js'
+import { test as morphologyTest } from './morphology.js'
 
 const $originalWord = document.getElementById('originalWord')
 // const $occurences = document.getElementById('occurences')
@@ -28,7 +28,7 @@ const handleWordClick = (word) => {
 				.then(updateRemoteDictInfo)
 				.catch(_ => {})
 		}
-		console.log(test(selectedWord))
+		performMorphologyTest()
 	}
 	updateWordSelectionIndication()
 	checkTranslations()
@@ -43,6 +43,22 @@ const resetRemoteDictInfo = () => {
 const updateRemoteDictInfo = (rdi) => {
 	remoteDictInfo = rdi
 	$remoteDictInfo.innerText = JSON.stringify(rdi, null, 2)
+}
+
+const performMorphologyTest = () => {
+	const results = morphologyTest(selectedWord)
+	for (let a of results.analysis) {
+		if (Array.isArray(a) && a.length > 0) {
+			console.log('the dictionary form may be ' + a[1])
+			if (queryLocalDictionary) {
+				requestLocalTranslation(a[1]).then(response => {
+					if (remoteDictInfo === null) {
+						updateRemoteDictInfo(response)
+					}
+				})
+			}
+		}
+	}
 }
 
 const updateWordSelectionIndication = () => {

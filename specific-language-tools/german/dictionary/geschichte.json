@@ -1,0 +1,17 @@
+{
+	"key": "geschichte",
+	"variants": [
+		{
+			"dictionaryForm": "die Geschicte",
+			"PoS": "Noun",
+			"gender": "feminine",
+			"translations": {
+				"en": "history",
+				"ru": "история"
+			},
+			"forms": [
+				"Geschichte"
+			]
+		}
+	]
+}

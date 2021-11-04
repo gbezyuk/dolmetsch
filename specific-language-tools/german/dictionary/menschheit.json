@@ -1,0 +1,20 @@
+{
+	"key": "menschheit",
+	"variants": [
+		{
+			"dictionaryForm": "die Menschheit",
+			"PoS": "Noun",
+			"gender": "feminine",
+			"translations": {
+				"en": "mankind",
+				"ru": "человечество"
+			},
+			"forms": [
+				"Menschheiten"
+			],
+			"constituents": [
+				"mensch"
+			]
+		}
+	]
+}

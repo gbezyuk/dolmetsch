@@ -29,17 +29,21 @@ function analyze (matches) {
 	const possibilities = []
 	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'e')) {
 		possibilities.push('*e adjective plural or feminine form')
-		possibilities.push('*e noun plural form')
+		possibilities.push('*e noun plural or feminine form')
 	}
 	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'en')) {
 		possibilities.push('*en verb infinitive or plural form')
 		possibilities.push('*en adjective in accusative')
+		possibilities.push('*en noun plural')
 	}
 	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'heit')) {
 		possibilities.push('*heit noun')
 	}
 	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'bar')) {
 		possibilities.push('*bar adjective')
+	}
+	if (matches.find(m => m.affixType === 'suffix' && m.affix === 'lich')) {
+		possibilities.push('*lich adverb')
 	}
 	return possibilities
 }

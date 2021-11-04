@@ -61,6 +61,11 @@ body {
 		margin-right: 3em;
 	}
 
+	#info > .title {
+		font-size: 0.5rem;
+		color: lightgray;
+	}
+
 	#info #occurences {
 		color: lightgray;
 	}
@@ -74,3 +79,30 @@ body {
 		#info > .translation > br {
 			display: none;
 		}
+
+.remote-dict-info {
+	position: fixed;
+	left: -300px;
+	top: 5em;
+	bottom: 5em;
+	width: 300px;
+	background: white;
+	font-size: 0.5em;
+	box-shadow: rgba(0,0,0,0.25) 5px 5px 20px;
+}
+	.remote-dict-info.visible {
+		left: 0;
+	}
+		.remote-dict-info.visible > .ear {
+			right: 0;
+		}
+
+	.remote-dict-info > .ear {
+		position: absolute;
+		top: 50%;
+		right: -25px;
+		margin-top: -25px;
+		height: 50px;
+		width: 25px;
+		cursor: pointer;
+	}

@@ -137,4 +137,7 @@ document.getElementById('remote-dict-info-visibility-toggler').addEventListener(
 	}
 })
 
-window.putOwnText = (text) => initText($text, text)
+window.putOwnText = (text) => {
+	initText($text, text)
+	setTimeout(renderDictPresenceStatus, 0)
+}

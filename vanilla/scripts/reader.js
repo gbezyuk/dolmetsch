@@ -82,7 +82,10 @@ const renderDictPresenceStatus = () => {
 }
 
 const updateInfo = () => {
-	$originalWord.innerText = `${selectedWord} (${dictionaryForm || '?'})`
+	$originalWord.innerText =
+		selectedWord === dictionaryForm || !dictionaryForm
+			? selectedWord
+			: `${selectedWord} (${dictionaryForm || '?'})`
 	// $dictionaryForm.innerText = dictionaryForm
 	// $occurences.innerText = occurences
 	$translationEn.innerText = translationEn || ''

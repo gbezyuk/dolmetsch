@@ -5,12 +5,14 @@ import text from './reader/text.js'
 import { test as morphologyTest } from './morphology.js'
 
 const $originalWord = document.getElementById('originalWord')
+const $dictionaryForm = document.getElementById('dictionaryForm')
 // const $occurences = document.getElementById('occurences')
 const $translationEn = document.getElementById('translationEn')
 const $translationRu = document.getElementById('translationRu')
 const $text = document.getElementById('text')
 const $remoteDictInfo = document.getElementById('remote-dict-info')
 let selectedWord = ''
+let dictionaryForm = ''
 let translationEn = ''
 let translationRu = ''
 // let occurences = 0
@@ -80,7 +82,8 @@ const renderDictPresenceStatus = () => {
 }
 
 const updateInfo = () => {
-	$originalWord.innerText = selectedWord
+	$originalWord.innerText = `${selectedWord} (${dictionaryForm || '?'})`
+	// $dictionaryForm.innerText = dictionaryForm
 	// $occurences.innerText = occurences
 	$translationEn.innerText = translationEn || ''
 	$translationRu.innerText = translationRu || ''
@@ -115,6 +118,7 @@ initText($text, text)
 const checkTranslations = () => {
 	translationEn = translate(translations.en, selectedWord)
 	translationRu = translate(translations.ru, selectedWord)
+	dictionaryForm = translate(translations.dictionaryForm, selectedWord)
 }
 
 renderDictPresenceStatus()

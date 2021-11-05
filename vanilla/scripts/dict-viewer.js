@@ -14,8 +14,9 @@ const renderDict = () => {
 	keys.sort()
 	$dictTBody.innerHTML = keys.map(k => `<tr>
 		<td>${k}</td>
-		<td class="translation translation-en" contenteditable>${translations.en[k]}</td>
-		<td class="translation translation-ru" contenteditable>${translations.ru[k]}</td>
+		<td class="translation dictionary-form" contenteditable>${translations.dictionaryForm[k] || ''}</td>
+		<td class="translation translation-ru" contenteditable>${translations.ru[k] || ''}</td>
+		<td class="translation translation-en" contenteditable>${translations.en[k] || ''}</td>
 	</tr>`).join('')
 }
 
@@ -30,6 +31,9 @@ document.body.addEventListener('keyup', (e) => {
 		}
 		if (e.target.classList.contains('translation-en')) {
 			setTranslation('en', selectedWord, translationText)
+		}
+		if (e.target.classList.contains('dictionary-form')) {
+			setTranslation('dictionaryForm', selectedWord, translationText)
 		}
 	}
 }, true)

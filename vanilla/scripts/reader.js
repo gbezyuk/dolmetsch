@@ -129,3 +129,5 @@ document.getElementById('remote-dict-info-visibility-toggler').addEventListener(
 			.catch(_ => {})
 	}
 })
+
+window.putOwnText = (text) => initText($text, text)

@@ -141,3 +141,8 @@ window.putOwnText = (text) => {
 	initText($text, text)
 	setTimeout(renderDictPresenceStatus, 0)
 }
+
+const $ownTextButton = document.getElementById('put-own-text-button')
+$ownTextButton.addEventListener('click', () => {
+	window.putOwnText(prompt('copy-paste your text here'))
+})

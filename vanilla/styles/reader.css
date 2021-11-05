@@ -8,6 +8,10 @@ body {
 	margin: 4em auto;
 }
 
+button {
+	cursor: pointer;
+}
+
 #text {
 	max-width: 800px;
 	margin: 2em auto;

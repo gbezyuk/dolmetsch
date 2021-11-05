@@ -15,6 +15,12 @@ html, body {
 }
 	.primary-navigation > h1 {
 		padding: 0 .5em;
+		margin: 0;
+	}
+
+	.primary-navigation > h2 {
+		padding: 0 .5em;
+		margin: 0;
 	}
 
 	.primary-navigation > a {

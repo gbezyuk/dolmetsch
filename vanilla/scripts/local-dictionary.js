@@ -7,7 +7,7 @@ export const requestLocalTranslation = (word) => {
 	if (word in cache) {
 		return cache[word] ? Promise.resolve(cache[word]) : Promise.reject(cache[word])
 	}
-	return fetch(`/scripts/german-tools/dictionary/${word.toLocaleLowerCase()}.json`)
+	return fetch(`/scripts/german-tools/local-dictionary/${word.toLocaleLowerCase()}.json`)
 		.then((response) => {
 			if (response.ok) {
 				return cache[word] = response.json()

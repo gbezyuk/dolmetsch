@@ -1,6 +1,7 @@
-import defaultDict from "./defaultDict.js"
+import harariDict from "./german-tools/text-specific-dictionaries/harari.js"
 
-export const translations = JSON.parse(localStorage.getItem('translations')) || defaultDict
+export const translations = JSON.parse(localStorage.getItem('translations')) || harariDict
+
 // data format migration
 if (!translations["dictionaryForm"]) {
 	translations["dictionaryForm"] = {}

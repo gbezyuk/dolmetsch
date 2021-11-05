@@ -137,12 +137,15 @@ document.getElementById('remote-dict-info-visibility-toggler').addEventListener(
 	}
 })
 
+const $defaultTextCopyrightNote = document.getElementById('default-text-copyright-note')
+
 window.putOwnText = (text) => {
 	initText($text, text)
 	setTimeout(renderDictPresenceStatus, 0)
+	$defaultTextCopyrightNote.style.display = 'none'
 }
 
 const $ownTextButton = document.getElementById('put-own-text-button')
 $ownTextButton.addEventListener('click', () => {
-	window.putOwnText(prompt('copy-paste your text here'))
+	window.putOwnText(prompt('copy-paste your text here; yep, it may be rather large'))
 })

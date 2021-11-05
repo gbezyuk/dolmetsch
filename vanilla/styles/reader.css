@@ -9,7 +9,11 @@ body {
 }
 
 button {
+	width: 800px;
+	font-size: 1.5em;
 	cursor: pointer;
+	display: block;
+	margin: 0 auto;
 }
 
 #text {

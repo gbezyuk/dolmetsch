@@ -1,9 +1,23 @@
-const $dictExportRu = document.getElementById('dict-export-ru')
-const $dictExportEn = document.getElementById('dict-export-en')
-const $dictExportDf = document.getElementById('dict-export-df')
-import { translations } from './dict.js'
+import { getDict } from './dict.js'
 
-$dictExportRu.innerText = JSON.stringify(translations.ru, Object.keys(translations.ru).sort(), 2)
-$dictExportEn.innerText = JSON.stringify(translations.en, Object.keys(translations.en).sort(), 2)
-$dictExportDf.innerText = JSON.stringify(translations.dictionaryForm, Object.keys(translations.dictionaryForm).sort(), 2)
+let currentLanguage = 'de'
+const $de = document.getElementById('dict-export')
 
+const renderExport = () => {
+	let stringified = ''
+	for (let targetLanguage of ['ru', 'en', 'dictionaryForm']) {
+		const dict = getDict(currentLanguage, targetLanguage)
+		stringified += targetLanguage + ':\n' + JSON.stringify(dict, Object.keys(dict).sort(), 2) + '\n'
+	}
+	$de.innerText = stringified
+}
+
+const $currentTextlanguageSelector = document.getElementById('current-text-language-selector')
+if ($currentTextlanguageSelector) {
+	$currentTextlanguageSelector.addEventListener('input', () => {
+		currentLanguage = $currentTextlanguageSelector.value
+		renderExport()
+	})
+}
+
+renderExport()

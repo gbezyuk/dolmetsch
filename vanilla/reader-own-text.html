@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="./styles/layout.css">
+	<link rel="stylesheet" href="./styles/reader.css">
+</head>
+
+<body>
+
+	<nav id="primary-navigation" class="primary-navigation"></nav>
+
+	<div id="info">
+		<span class="title">Personal dictionary:</span>
+		<!-- <span id="occurences"></span> -->
+		<span id="originalWord"></span>
+		<!-- (<span id="dictionaryForm"></span>) -->
+		<span class="translation" id="translationEn" contenteditable placeholder="En"></span>
+		<span class="translation" id="translationRu" contenteditable placeholder="Ru"></span>
+	</div>
+
+	<div class="remote-dict-info">
+		<div class="ear" id="remote-dict-info-visibility-toggler"></div>
+		<pre id="remote-dict-info"></pre>
+	</div>
+
+	<textarea id="put-own-text-input" placeholder="copy-paste your text here">Vor rund 13,5 Milliarden Jahren entstanden Materie, Energie, Raum und Zeit in einem Ereignis namens Urknall. Die Geschichte dieser grundlegenden Eigenschaften unseres Universums nennen wir Physik.
+Etwa 300000 Jahre später verbanden sich Materie und Energie zu komplexeren Strukturen namens Atome, die sich wiederum zu Molekülen zusammenschlossen. Die Geschichte der Atome, Moleküle und ihrer Reaktionen nennen wir Chemie.</textarea>
+	<button id="put-own-text-button">load text and start reading</button>
+
+	<select id="current-text-language-selector"></select>
+
+	<div id="text"></div>
+
+	<script src="scripts/layout.js" type="module"></script>
+	<script src="./scripts/reader-own-text.js" type="module"></script>
+
+</body>
+</html>

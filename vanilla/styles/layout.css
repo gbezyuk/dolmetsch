@@ -42,3 +42,10 @@ html, body {
 	display: block;
 	color: lightgray;
 }
+
+#current-text-language-selector {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
+}

@@ -1,5 +1,4 @@
-export const isPunctuationMark = (char) =>
-    char === '.' || char === ',' || char === ':'
+export const isPunctuationMark = (char) => ".?!,:;".includes(char)
 
 export const separatePunctuationReducer = (acc, word) => {
     if (!word || !word.length) {

@@ -1,5 +1,5 @@
 import initText from "./reader/initText.js"
-import { translate, translations, setTranslation } from './dict.js'
+import { getTranslation, isTranslated, setTranslation } from './dict.js'
 import { requestLocalTranslation } from './local-dictionary.js'
 import text from './reader/text.js'
 import { test as morphologyTest } from './morphology.js'
@@ -11,6 +11,8 @@ const $translationEn = document.getElementById('translationEn')
 const $translationRu = document.getElementById('translationRu')
 const $text = document.getElementById('text')
 const $remoteDictInfo = document.getElementById('remote-dict-info')
+
+let currentLanguage = 'de'
 let selectedWord = ''
 let dictionaryForm = ''
 let translationEn = ''
@@ -18,6 +20,9 @@ let translationRu = ''
 // let occurences = 0
 
 let remoteDictInfo = null
+
+let queryLocalDictionary = false
+const $defaultTextCopyrightNote = document.getElementById('default-text-copyright-note')
 
 const handleWordClick = (word) => {
 	if (selectedWord === word) {
@@ -77,7 +82,7 @@ const updateWordSelectionIndication = () => {
 const renderDictPresenceStatus = () => {
 	[...document.getElementsByClassName('word')].map($w => {
 		const w = $w.innerText.toLowerCase()
-		$w.classList.toggle('translated', w in translations.en || w in translations.ru)
+		$w.classList.toggle('translated', isTranslated(currentLanguage, w))
 	})
 }
 
@@ -92,60 +97,83 @@ const updateInfo = () => {
 	$translationRu.innerText = translationRu || ''
 }
 
-document.body.addEventListener('click', (e) => {
-	if (e.target.classList.contains('word')) {
-		handleWordClick(e.target.innerText)
-	}
-})
-
-document.body.addEventListener('keyup', (e) => {
-	if (!selectedWord) {
-		return
-	}
-	if (e.target.classList.contains('translation')) {
-		const translationText = e.target.innerText
-		switch (e.target.id) {
-			case 'translationRu':
-				setTranslation('ru', selectedWord, translationText)
-				break
-			case 'translationEn':
-				setTranslation('en', selectedWord, translationText)
-				break
-		}
-		setTimeout(renderDictPresenceStatus, 0)
-	}
-}, true)
-
-initText($text, text)
-
 const checkTranslations = () => {
-	translationEn = translate(translations.en, selectedWord)
-	translationRu = translate(translations.ru, selectedWord)
-	dictionaryForm = translate(translations.dictionaryForm, selectedWord)
+	translationEn = getTranslation(currentLanguage, 'en', selectedWord)
+	translationRu = getTranslation(currentLanguage, 'ru', selectedWord)
+	dictionaryForm = getTranslation(currentLanguage, 'dictionaryForm', selectedWord)
 }
 
-renderDictPresenceStatus()
-
-let queryLocalDictionary = false
-document.getElementById('remote-dict-info-visibility-toggler').addEventListener('click', (event) => {
-	queryLocalDictionary = !queryLocalDictionary
-	event.currentTarget.parentNode.classList.toggle('visible', queryLocalDictionary)
-	if (queryLocalDictionary) {
-		requestLocalTranslation(selectedWord)
-			.then(updateRemoteDictInfo)
-			.catch(_ => {})
-	}
-})
-
-const $defaultTextCopyrightNote = document.getElementById('default-text-copyright-note')
-
-window.putOwnText = (text) => {
+const putOwnText = (text) => {
 	initText($text, text)
 	setTimeout(renderDictPresenceStatus, 0)
-	$defaultTextCopyrightNote.style.display = 'none'
+	$defaultTextCopyrightNote && ($defaultTextCopyrightNote.style.display = 'none')
 }
 
-const $ownTextButton = document.getElementById('put-own-text-button')
-$ownTextButton.addEventListener('click', () => {
-	window.putOwnText(prompt('copy-paste your text here; yep, it may be rather large'))
-})
+export function initReaderPage (useDemoText) {
+
+	document.body.addEventListener('click', (e) => {
+		if (e.target.classList.contains('word')) {
+			handleWordClick(e.target.innerText)
+		}
+	})
+
+	document.body.addEventListener('keyup', (e) => {
+		if (!selectedWord) {
+			return
+		}
+		if (e.target.classList.contains('translation')) {
+			const translationText = e.target.innerText
+			switch (e.target.id) {
+				case 'translationRu':
+					setTranslation(currentLanguage, 'ru', selectedWord, translationText)
+					break
+				case 'translationEn':
+					setTranslation(currentLanguage, 'en', selectedWord, translationText)
+					break
+			}
+			setTimeout(renderDictPresenceStatus, 0)
+		}
+	}, true)
+
+	document.getElementById('remote-dict-info-visibility-toggler').addEventListener('click', (event) => {
+		queryLocalDictionary = !queryLocalDictionary
+		event.currentTarget.parentNode.classList.toggle('visible', queryLocalDictionary)
+		if (queryLocalDictionary) {
+			requestLocalTranslation(selectedWord)
+				.then(updateRemoteDictInfo)
+				.catch(_ => {})
+		}
+	})
+
+	if (useDemoText) {
+		initText($text, text)
+		renderDictPresenceStatus()
+	}
+
+	const $ownTextButton = document.getElementById('put-own-text-button')
+	const $ownTextInput = document.getElementById('put-own-text-input')
+	$ownTextButton?.addEventListener('click', () => {
+		if ($ownTextInput) {
+			putOwnText($ownTextInput.value)
+			$ownTextInput.value = ''
+		} else {
+			putOwnText(prompt('copy-paste your text here; yep, it may be rather large'))
+		}
+	})
+
+	window.putOwnText = putOwnText
+
+	const $currentTextlanguageSelector = document.getElementById('current-text-language-selector')
+	if ($currentTextlanguageSelector) {
+		currentLanguage = $currentTextlanguageSelector.value
+		$currentTextlanguageSelector.addEventListener('input', () => {
+			currentLanguage = $currentTextlanguageSelector.value
+			renderDictPresenceStatus()
+			checkTranslations()
+			updateInfo()
+		})
+	}
+}
+
+
+export default initReaderPage

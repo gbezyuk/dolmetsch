@@ -8,6 +8,13 @@ body {
 	margin: 4em auto;
 }
 
+textarea {
+	width: 800px;
+	font-size: 0.8em;
+	display: block;
+	margin: 0 auto;
+}
+
 button {
 	width: 800px;
 	font-size: 1.5em;

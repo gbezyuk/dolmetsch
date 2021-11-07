@@ -26,7 +26,7 @@ export class LiveTimer extends HTMLElement {
 	emitTick () {
 		this._now = new Date()
 		const event = new Event("tick");
-		event.detail = this._now.getTime()
+		event.details = this._now.getTime()
 		this._rendered = false;
 		this.render();
   		this.dispatchEvent(event);

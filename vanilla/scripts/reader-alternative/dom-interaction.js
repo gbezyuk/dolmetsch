@@ -81,11 +81,15 @@ export function fixViewStyleClasses (selectionState) {
 				$sentence === selectionState.$selectedSentence
 			)
 			for (let $word of $sentence.childNodes) {
+				const $wp = $word.getElementsByClassName('word-proper')[0]
+				if (!$wp) {
+					continue
+				}
 				$word.classList.toggle('selected',
 					$word === selectionState.$selectedWord
 				)
 				$word.classList.toggle('occurence',
-					sanitizeWord($word.innerText) === selectionState.selectedWordSanitized
+					sanitizeWord($wp.innerText) === selectionState.selectedWordSanitized
 				)
 			}
 		}

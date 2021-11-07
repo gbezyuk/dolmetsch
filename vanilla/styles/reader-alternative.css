@@ -1,0 +1,133 @@
+body {
+	margin-top: 4em;
+}
+
+#text {
+	max-width: 800px;
+	margin: 2em auto;
+	/* font-size: 0; */
+}
+
+	#text .paragraph.selected {
+		/* border-color: #90ee9055; */
+		background-color: #90ee9022;
+	}
+
+	#text .sentence.selected {
+		/* border-color: #90ee90aa; */
+		background-color: #90ee9044;
+	}
+
+	#text .paragraph,
+	#text .sentence,
+	#text .word {
+		/* border: 1px solid transparent; */
+		border-radius: .3em;
+		transition: all ease-in-out .1s;
+	}
+
+	#text .word {
+		/* font-size: 1rem; */
+		display: inline; /* just inline for new reader, to allow text selection */
+		margin-right: .3em;
+		cursor: pointer;
+
+	}
+		/* #text *.selected {
+			background-color: #90ee9015;
+		} */
+
+		#text .whitespaces {
+			font-size: 0;
+		}
+
+		#text .word:hover {
+			/* border-color: black; */
+			background-color: goldenrod;
+		}
+		#text .word.selected,
+		#text .word.occurence.selected {
+			background-color: #90ee90;
+		}
+		#text .word.occurence {
+			background-color: #90ee9044;
+		}
+		#text .word.translated {
+			text-decoration: underline;
+			text-decoration-style: dashed;
+			text-decoration-color: lightgray;
+		}
+	.punctuation-mark {
+		display: inline-block;
+		margin-right: .3em;
+		margin-left: -.4em;
+	}
+
+	.number {
+		display: inline-block;
+		margin-right: .3em;
+	}
+		.number:hover {
+			text-decoration: underline;
+		}
+
+#info {
+	position: fixed;
+	background: white;
+	box-shadow: rgba(0,0,0,0.25) 5px 5px 20px;
+	left: 0;
+	right: 0;
+	top: 0;
+	text-align: center;
+	padding: 0.5em;
+}
+	#info > * {
+		display: inline-block;
+		margin-right: 3em;
+	}
+
+	#info > .title {
+		font-size: 0.5rem;
+		color: lightgray;
+	}
+
+	#info #occurences {
+		color: lightgray;
+	}
+
+	#info .translation {
+		display: inline-block;
+		min-width: 3em;
+		border-bottom: 1px solid lightgray;
+		white-space: nowrap;
+	}
+		#info > .translation > br {
+			display: none;
+		}
+
+.remote-dict-info {
+	position: fixed;
+	left: -300px;
+	top: 5em;
+	bottom: 5em;
+	width: 300px;
+	background: white;
+	font-size: 0.5em;
+	box-shadow: rgba(0,0,0,0.25) 5px 5px 20px;
+}
+	.remote-dict-info.visible {
+		left: 0;
+	}
+		.remote-dict-info.visible > .ear {
+			right: 0;
+		}
+
+	.remote-dict-info > .ear {
+		position: absolute;
+		top: 50%;
+		right: -25px;
+		margin-top: -25px;
+		height: 50px;
+		width: 25px;
+		cursor: pointer;
+	}

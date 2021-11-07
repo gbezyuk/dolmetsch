@@ -11,6 +11,22 @@ export const languagesAvailable = [
 		"code": "es",
 		"name": "Spanish",
 	},
+	{
+		"code": "fr",
+		"name": "French",
+	},
+	{
+		"code": "it",
+		"name": "Italian",
+	},
+	{
+		"code": "pl",
+		"name": "Polish",
+	},
+	{
+		"code": "bg",
+		"name": "Bulgarian",
+	},
 ]
 
 export default languagesAvailable

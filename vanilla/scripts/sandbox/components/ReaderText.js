@@ -40,11 +40,16 @@ export class ReaderText extends HTMLElement {
 	attributeChangedCallback (name, oldValue, newValue) {
 		switch (name) {
 			case 'raw-text':
-				this._rendered = false;
-				this.render();
+				if (this._rendered) {
+					this._rendered = false;
+					this.render();
+				}
 				break
 			case 'original-language':
-				this._renderDictPresenceStatus()
+				this._currentLanguage = newValue
+				if (this._rendered) {
+					this._renderDictPresenceStatus()
+				}
 				break
 		}
 	}
@@ -59,7 +64,8 @@ export class ReaderText extends HTMLElement {
 		this.dispatchEvent(event);
 	}
 
-	_onVocabUpdated () {
+	_onVocabUpdated (e) {
+		e.stopPropagation()
 		this._renderDictPresenceStatus()
 	}
 

@@ -1,0 +1,33 @@
+#info {
+	position: fixed;
+	background: white;
+	box-shadow: rgba(0,0,0,0.25) 5px 5px 20px;
+	left: 0;
+	right: 0;
+	top: 0;
+	text-align: center;
+	padding: 0.5em;
+}
+	#info > * {
+		display: inline-block;
+		margin-right: 3em;
+	}
+
+	#info > .title {
+		font-size: 0.5rem;
+		color: lightgray;
+	}
+
+	#info #occurences {
+		color: lightgray;
+	}
+
+	#info .translation {
+		display: inline-block;
+		min-width: 3em;
+		border-bottom: 1px solid lightgray;
+		white-space: nowrap;
+	}
+		#info > .translation > br {
+			display: none;
+		}

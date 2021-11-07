@@ -1,19 +1,19 @@
 import ReaderText from "./components/ReaderText.js"
+import WordInfo from "./components/WordInfo.js"
 import defaultRawText from "../reader/text.js"
 
 console.log("Träumen Androiden von elektrischen Schafen?")
 
 const $readerText = document.getElementById('readerText')
+const $wordInfo = document.getElementById('wordInfo')
+
 $readerText.setAttribute('raw-text', defaultRawText)
+
 $readerText.addEventListener('selection-change', ({ details: { wordRaw, wordSanitized } }) => {
-	console.log(wordRaw, wordSanitized)
+	$wordInfo.setAttribute('original-word', wordRaw)
+	$wordInfo.setAttribute('original-word-sanitized', wordSanitized)
 })
 
-console.log('going NL')
-$readerText.setAttribute('original-language', 'nl')
-// $readerText.dispatchEvent(new Event("vocab-updated"))
-
-setTimeout(() => {
-	console.log('going DE')
-	$readerText.setAttribute('original-language', 'de')
-}, 2000)
+$wordInfo.addEventListener('translation-updated', (e) => {
+	$readerText.dispatchEvent(new Event("vocab-updated"))
+})

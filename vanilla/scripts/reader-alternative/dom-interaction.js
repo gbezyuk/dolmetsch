@@ -2,7 +2,10 @@ import { gParseRawText, punctuation } from './text-parsing.js'
 import { sequence } from './func-utils.js'
 import { isNumber, sanitizeWord, smartTrimLeft, smartTrimRight } from './str-utils.js'
 
-export function fillTextNode ($textNode, rawText) {
+export function fillTextNode ($textNode, rawText, append=false) {
+	if (!append) {
+		$textNode.innerText = ''
+	}
 	for (let p of gParseRawText(rawText)) {
 		const $p = document.createElement('p')
 		$p.className = 'paragraph'

@@ -1,150 +1,66 @@
-const rawText =`
-Der Maschinenraum war riesig und hatte eine gewölbte Decke wie eine Kathedrale. Der Fusionsreaktor nahm das Zentrum ein. Dort stimmte etwas nicht. Wo sie erwartet hatte, Anzeigen, Abschirmungen und Monitore zu sehen, floss etwas über den Reaktorkern, das ihr vorkam wie eine Schicht Schlamm. Langsam schwebte Julie hinüber, hielt sich aber noch mit einer Hand an der Leiter fest. Der seltsame Geruch wurde stärker.
-
-So etwas wie den Schlamm, der um den Reaktor festgebacken war, hatte sie noch nie gesehen. Durch die Masse zogen sich Schläuche, die an Adern oder Luftröhren erinnerten. Einige Teile pulsierten. Also war es kein Schlamm.
-
-Es lebte.
-
-Ein Auswuchs des Dings drehte sich zu ihr herum. Verglichen mit den Ausmaßen der Masse war es nicht größer als eine Zehe oder ein kleiner Finger. Es war Kapitän Darrens Kopf.
-
-»Hilf mir«, sagte er.
-`
-
-// console.log(rawText)
-
-function* variativeSplit (text, separators) {
-	if (!separators) {
-		yield text
-		return
-	}
-	if (!separators.length) {
-		for (let sample in variativeSplit(text, [separators])) {
-			yield sample
-		}
-		return
-	}
-	let sample = ''
-	let newChunkStartIndex = 0
-	let i = 0
-	for (i = 0; i < text.length; i++) {
-		const char = text[i]
-		sample += char
-		if (separators.find(separator => sample.endsWith(separator))) {
-			yield text.slice(newChunkStartIndex, i + 1)
-			sample = ''
-			newChunkStartIndex = i + 1
-		}
-	}
-	if (newChunkStartIndex < i) {
-		yield text.slice(newChunkStartIndex)
-	}
-}
-
-function* parseRawTextParagraphs (rawText) {
-	for (let paragraph of rawText.split('\n').filter(s => s.length > 0)) {
-		yield paragraph
-	}
-}
-
-function* parseRawTextSentences (rawText) {
-	for (let paragraph of [...variativeSplit(rawText, ['. ', '? ', '! ', '.\n', '?\n', '!\n', '«, '])].filter(s => s.length > 0)) {
-		yield paragraph
-	}
-}
-
-function* parseRawTextWords (sentence) {
-	for (let word of [...variativeSplit(sentence, [' ',])]) {
-		yield word
-	}
-}
-
-
-function *parseRawText (rawText) {
-	for (let paragraph of parseRawTextParagraphs(rawText)) {
-		const p = []
-		for (let sentence of parseRawTextSentences(paragraph)) {
-			// for (let word of parseRawTextWords(sentence)) {
-			// 	yield word
-			// }
-			p.push([...parseRawTextWords(sentence)])
-		}
-		// yield '\n'
-		yield(p)
-	}
-}
-
-// for (let word of parseRawText(rawText)) {
-// 	console.log(word)
-// }
-
-// const parsedText = [...parseRawText(rawText)]
-// console.log(parsedText)
+import { initReader, fillTextNode } from "./reader-alternative/dom-interaction.js"
+import { getTranslation, isTranslated, setTranslation } from './dict.js'
+import demoText from './reader/text.js'
 
 const $text = document.getElementById('text')
+const targetLanguages = ['en', 'ru']
+const currentLanguage = 'de'
 
-for (let p of parseRawText(rawText)) {
-	const $p = document.createElement('p')
-	$p.className = 'paragraph'
-	for (let s of p) {
-		const $s = document.createElement('span')
-		$s.className = 'sentence'
-		for (let w of s) {
-			const wTrimmed = w.trimRight(' ')
-			const $w = document.createElement('span')
-			$w.className = 'word'
-
-			const $ww = document.createElement('span')
-			$ww.innerText = wTrimmed
-			$ww.className = 'word-proper'
-			$w.appendChild($ww)
-
-			if (wTrimmed.length < w.length) {
-				const $s = document.createElement('span')
-				$s.innerText = w.slice(w.length - (w.length - wTrimmed.length))
-				$s.className = 'whitespaces'
-				$w.appendChild($s)
-			}
-			$s.appendChild($w)
-		}
-		$p.appendChild($s)
-	}
-	$text.appendChild($p)
+const renderDictPresenceStatus = () => {
+	[...document.getElementsByClassName('word-proper')].map($w => {
+		const w = $w.innerText.toLowerCase()
+		$w.classList.toggle('translated', isTranslated(currentLanguage, w))
+	})
 }
 
-function sanitizeWord (word) {
-	return word.replace(/\W/g, '').toLocaleLowerCase()
+function onSelectionStateChange (selectionState) {
+	// console.log(
+	// 	selectionState.selectedWordSanitized,
+	// 	selectionState.selectedWord,
+	// 	targetLanguages.map(tl => getTranslation(currentLanguage, tl, selectionState.selectedWordSanitized))
+	// )
+	updateInfo(selectionState)
 }
 
-function fixViewStyleClasses () {
-	for (let $paragraph of $text.childNodes) {
-		$paragraph.classList.toggle('selected', $paragraph === $selectedParagraph)
-		for (let $sentence of $paragraph.childNodes) {
-			$sentence.classList.toggle('selected', $sentence === $selectedSentence)
-			for (let $word of $sentence.childNodes) {
-				$word.classList.toggle('selected', $word === $selectedWord)
-				$word.classList.toggle('occurence', sanitizeWord($word.innerText) === selectedWordSanitized)
-			}
-		}
-	}
+const $originalWord = document.getElementById('originalWord')
+// const $dictionaryForm = document.getElementById('dictionaryForm')
+// const $occurences = document.getElementById('occurences')
+const $translationEn = document.getElementById('translationEn')
+const $translationRu = document.getElementById('translationRu')
+
+function updateInfo (selectionState) {
+	const selectedWord = selectionState.selectedWord
+	const dictionaryForm = getTranslation(currentLanguage, 'dictionaryForm', selectionState.selectedWordSanitized)
+	const translationEn = getTranslation(currentLanguage, 'en', selectionState.selectedWordSanitized)
+	const translationRu = getTranslation(currentLanguage, 'ru', selectionState.selectedWordSanitized)
+	$originalWord.innerText =
+		selectedWord === dictionaryForm || !dictionaryForm
+			? selectedWord
+			: `${selectedWord} (${dictionaryForm || '?'})`
+	// $dictionaryForm.innerText = dictionaryForm
+	// $occurences.innerText = occurences
+	$translationEn.innerText = translationEn || ''
+	$translationRu.innerText = translationRu || ''
 }
 
-let $selectedParagraph, $selectedSentence, $selectedWord, selectedWordSanitized
+const selectionState = initReader($text, onSelectionStateChange)
+fillTextNode($text, demoText)
+renderDictPresenceStatus()
 
-document.addEventListener('click', (e) => {
-	if (e.target.classList.contains('word-proper')) {
-		e.preventDefault()
-		e.stopPropagation()
-		selectedWordSanitized = sanitizeWord(e.target.innerText)
-		if ($selectedWord === e.target) {
-			selectedWordSanitized = ''
-			$selectedWord = null
-			$selectedSentence = null
-			$selectedParagraph = null
-		} else {
-			$selectedWord = e.target.parentNode
-			$selectedSentence = $selectedWord.parentNode
-			$selectedParagraph = $selectedSentence.parentNode
-		}
-		fixViewStyleClasses()
+document.body.addEventListener('keyup', (e) => {
+	if (!selectionState.selectedWord) {
+		return
 	}
-})
+	if (e.target.classList.contains('translation')) {
+		const translationText = e.target.innerText
+		switch (e.target.id) {
+			case 'translationRu':
+				setTranslation(currentLanguage, 'ru', selectionState.selectedWord, translationText)
+				break
+			case 'translationEn':
+				setTranslation(currentLanguage, 'en', selectionState.selectedWord, translationText)
+				break
+		}
+		setTimeout(renderDictPresenceStatus, 0)
+	}
+}, true)

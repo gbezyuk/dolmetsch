@@ -31,7 +31,7 @@ body {
 		display: inline; /* just inline for new reader, to allow text selection */
 		margin-right: .3em;
 		cursor: pointer;
-
+		/* word-break: keep-all; */
 	}
 		/* #text *.selected {
 			background-color: #90ee9015;
@@ -41,18 +41,18 @@ body {
 			font-size: 0;
 		}
 
-		#text .word:hover {
+		#text .word:hover > .word-proper {
 			/* border-color: black; */
 			background-color: goldenrod;
 		}
-		#text .word.selected,
-		#text .word.occurence.selected {
+		#text .word.selected > .word-proper,
+		#text .word.occurence.selected > .word-proper {
 			background-color: #90ee90;
 		}
-		#text .word.occurence {
+		#text .word.occurence > .word-proper {
 			background-color: #90ee9044;
 		}
-		#text .word.translated {
+		#text .word-proper.translated {
 			text-decoration: underline;
 			text-decoration-style: dashed;
 			text-decoration-color: lightgray;

@@ -10,7 +10,7 @@ export default defineConfig({
 		vue({
 			template: {
 			  compilerOptions: {
-				isCustomElement: tag => tag === 'reader-text'
+				isCustomElement: tag => tag.endsWith('-webcomponent')
 			  }
 			}
 		}),

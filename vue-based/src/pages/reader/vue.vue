@@ -11,7 +11,7 @@ const rawText = ref(sample)
 <template>
 	<main>
 		<centralizer>
-			<h2>Reader Demo</h2>
+			<h2>Reader Demo: naïvely-Vue-based, very slow</h2>
 			<reader-text
 				:originalLanguage="originalLanguage"
 				:rawText="rawText"

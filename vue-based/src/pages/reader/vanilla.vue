@@ -33,7 +33,7 @@ function renderDictPresenceStatus () {
 <template>
 	<main>
 		<centralizer>
-			<h2>Reader Demo</h2>
+			<h2>Reader Demo: pure Vanilla</h2>
 			<div ref="text" id="text"></div>
 		</centralizer>
 	</main>

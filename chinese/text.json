@@ -1,0 +1,122 @@
+{
+  "name": {
+    "english": "Coffee",
+    "original": "咖啡"
+  },
+  "phrases": [
+    {
+      "pinyin": "wǒ zuìjìn kànle yì piān wénzhāng",
+      "english": "I recently read an article",
+      "hanzi": {
+        "simplified": "我最近看了一篇文章"
+      }
+    },
+    {
+      "pinyin": "shuō hē kāfēi duì shēntǐ bù hǎo",
+      "hanzi": {
+        "simplified": "说喝咖啡对身体不好"
+      },
+      "english": "That said drinking coffee is bad for you"
+    }
+  ],
+  "dictionary": [
+    {
+      "pinyin": "wǒ",
+      "hanzi": {
+        "simplified": "我"
+      },
+      "english": "I"
+    },
+    {
+      "pinyin": "zuìjìn",
+      "hanzi": {
+        "simplified": "最近"
+      },
+      "english": "recently"
+    },
+    {
+      "pinyin": "kàn",
+      "hanzi": {
+        "simplified": "看"
+      },
+      "english": "read"
+    },
+    {
+      "pinyin": "le",
+      "hanzi": {
+        "simplified": "了"
+      },
+      "english": "(completeness marker)"
+    },
+    {
+      "pinyin": "yì",
+      "hanzi": {
+        "simplified": "一"
+      },
+      "english": "one, a, an"
+    },
+    {
+      "pinyin": "piān",
+      "hanzi": {
+        "simplified": "篇"
+      },
+      "english": "(measure word)"
+    },
+    {
+      "pinyin": "wénzhāng",
+      "hanzi": {
+        "simplified": "文章"
+      },
+      "english": "article"
+    },
+    {
+      "pinyin": "shuō",
+      "hanzi": {
+        "simplified": "说"
+      },
+      "english": "say"
+    },
+    {
+      "pinyin": "hē",
+      "hanzi": {
+        "simplified": "喝"
+      },
+      "english": "drink"
+    },
+    {
+      "pinyin": "kāfēi",
+      "hanzi": {
+        "simplified": "咖啡"
+      },
+      "english": "coffee"
+    },
+    {
+      "pinyin": "duì",
+      "hanzi": {
+        "simplified": "对"
+      },
+      "english": "true; for"
+    },
+    {
+      "pinyin": "shēntǐ",
+      "hanzi": {
+        "simplified": "身体"
+      },
+      "english": "body, health"
+    },
+    {
+      "pinyin": "bù",
+      "hanzi": {
+        "simplified": "不"
+      },
+      "english": "no, not"
+    },
+    {
+      "pinyin": "hǎo",
+      "hanzi": {
+        "simplified": "好"
+      },
+      "english": "good, OK"
+    }
+  ]
+}

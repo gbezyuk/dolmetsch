@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<style>
+			#selected-word-info {
+				float: right;
+				max-width: 25%;
+			}
+				#selected-word-info > .transcription {
+					font-size: 2em;
+				}
+				#selected-word-info > #hanzi {
+					font-size: 6em;
+				}
+				#selected-word-info > .translation > dd {
+					font-size: 1.5em;
+				}
+
+			#text {
+				float: left;
+				max-width: 65%;
+				font-size: 5em;
+				padding: 1em;
+			}
+				#text p {
+					margin: 0;
+					padding: 0;
+				}
+					#text p::selection {
+						background-color: lightgreen;
+					}
+
+					/* #text p::after {
+						content: '。'
+					} */
+
+			.play, .stop {
+				cursor: pointer;
+			}
+				.play::after {
+					content: '▶'
+				}
+				.stop::after {
+					content: '■'
+				}
+		</style>
+	</head>
+
+	<body>
+
+		<div class="hint">Try double-clicking on words in the text.</div>
+
+		<div id="selected-word-info">
+			<div id="hanzi"></div>
+			<div class="transcription">
+				<span id="pinyin"></span>
+				<span class="play"></span>
+			</div>
+			<dl class="translation">
+				<dt>EN</dt>
+				<dd id="english"></dd>
+				<dt>GE</dt>
+				<dd id="german"></dd>
+				<dt>SP</dt>
+				<dd id="spanish"></dd>
+				<dt>RU</dt>
+				<dd id="russian"></dd>
+			</dl>
+		</div>
+
+		<audio src="./audio.webm" id="audio"></audio>
+
+		<div id="text">
+			<p data-index="0">
+				<span class="play"></span>
+				我最近看了一篇文章说喝咖啡对身体不好
+			</p>
+			<p data-index="1">
+				<span class="play"></span>
+				我很喜欢喝咖啡
+			</p>
+		</div>
+
+	<script>
+
+		const phrases = [
+			"我最近看了一篇文章说喝咖啡对身体不好",
+			"我很喜欢喝咖啡",
+		]
+
+		const textAudioPositionsSlow = [
+			{
+				start: 16,
+				end: 30,
+			},
+			{
+				start: 31.3,
+				end: 35,
+			},
+		]
+
+		const textAudioPositions = textAudioPositionsSlow
+
+		const $audio = document.getElementById('audio')
+		let stopAt = Infinity
+
+		$audio.addEventListener('timeupdate', () => {
+			if ($audio.currentTime > stopAt) {
+				stopPlayback()
+			}
+		})
+
+		document.addEventListener('keydown', e => {
+			switch (e.code) {
+				case "Escape":
+        			stopPlayback()
+					break;
+				case "Space":
+					console.log($audio.currentTime)
+					break
+    		}
+		})
+
+		const stopPlayback = () => {
+			$audio.pause()
+			Array.from(document.getElementsByClassName('stop')).map(e => {
+				e.classList.toggle('stop', false)
+				e.classList.toggle('play', true)
+			})
+		}
+
+		const play = (timerange) => {
+			if (!timerange || !timerange.start) {
+				return false
+			}
+			$audio.pause()
+			$audio.currentTime = timerange.start
+			stopAt = timerange.end
+			$audio.play()
+			return true
+		}
+
+		const playText = (index) => {
+			return play(textAudioPositions[index])
+		}
+
+		const selectLongestSample = (audio) => {
+			let maxDurationSoFar = -1
+			let maxIndex = -1
+			let result = undefined
+			Object.keys(audio).map(
+				(key) => {
+					const sample = audio[key]
+					const duration = sample.end - sample.start
+					if (duration > maxDurationSoFar) {
+						maxDurationSoFar = duration
+						maxIndex = key
+						result = sample
+					}
+				}
+			)
+			console.log(maxIndex)
+			return result
+		}
+
+		const playWord = (index) => {
+			try {
+				return play(selectLongestSample(words[index]?.audio))
+			} catch (TypeError) {
+				return false
+			}
+		}
+
+		document.addEventListener('click', e => {
+			if (e.target.classList.contains('stop')) {
+				stopPlayback()
+			}
+		})
+
+		document.getElementById('text').addEventListener('click', e => {
+			const $el = e.target
+			if ($el.classList.contains('play')) {
+				if (playText($el.parentElement.dataset.index)) {
+					setTimeout(() => {
+						$el.classList.toggle('play', false)
+						$el.classList.toggle('stop', true)
+					})
+				}
+			}
+		})
+
+		document.getElementById('pinyin').parentElement.addEventListener('click', e => {
+			const $el = e.target
+			if ($el.classList.contains('play')) {
+				const index = $el.parentElement.dataset.index
+				if (playWord(index)) {
+					setTimeout(() => {
+						$el.classList.toggle('play', false)
+						$el.classList.toggle('stop', true)
+					})
+				} else {
+					findWordAudio(index)
+				}
+			}
+		})
+
+		const getPreviousWord = (range) => {
+			let end = range.startOffset
+			let start = end - 1
+			let sample, found
+			const text = range.commonAncestorContainer.textContent //.trim()
+			while (start >= 0) {
+				sample = text.slice(start, end)
+				found = !!translateHanzi(sample)?.audio
+
+				if (found) {
+					break
+				}
+
+				for (let altEnd = start + 1; altEnd < end; altEnd++) {
+					sample = text.slice(start, altEnd)
+					found = !!translateHanzi(sample)?.audio
+					if (found) {
+						end = altEnd
+						break
+					}
+				}
+
+				if (found) {
+					break
+				}
+
+				start--
+			}
+			if (found) {
+				return translateHanzi(sample)
+			}
+		}
+
+		const findWordAudio = (index) => {
+			const previous = getPreviousWord(selectedRange)
+			const timerange = { start: previous.audio[selectedPhraseIndex].end || 0, end: Infinity }
+			play(timerange)
+		}
+
+		const selection2text = (selection) => {
+			if (selection.isCollapsed) {
+				return ''
+			}
+			const range = selection.getRangeAt(0)
+			return range2text(range)
+		}
+
+		const range2text = (range) => {
+			return range.commonAncestorContainer.textContent.slice(
+				range.startOffset,
+				range.endOffset
+			)
+		}
+
+		let selectedWord = ''
+		let selectedRange
+		let selectedWordInfo
+		let selectedPhraseIndex
+
+		const findFirstAndLastWords = (range) => {
+			let start = range.startOffset, end = range.endOffset
+			if (end <= start) {
+				return {
+					firstWord: '',
+					lastWord: '',
+				}
+			}
+			const text = range.commonAncestorContainer.textContent
+			let firstWordStart = start, firstWordEnd, firstWord
+			let foundFirst = false
+
+			for (firstWordStart = Math.max(0, start - 1); firstWordStart <= end; firstWordStart++) {
+				for (firstWordEnd = firstWordStart + 1; firstWordEnd <= end; firstWordEnd++) {
+					firstWord = text.slice(firstWordStart, firstWordEnd)
+					if (translateHanzi(firstWord)) {
+						foundFirst = true
+						break
+					}
+				}
+				if (foundFirst) {
+					break
+				}
+			}
+
+			let lastWordStart, lastWordEnd = range.endOffset, lastWord
+			let foundLast = false
+
+			for (lastWordEnd = end + 1; lastWordEnd >= start; lastWordEnd++) {
+				for (lastWordStart = lastWordEnd - 1; lastWordStart >= start; lastWordStart--) {
+					lastWord = text.slice(lastWordStart, lastWordEnd)
+					if (translateHanzi(lastWord)) {
+						foundLast = true
+						break
+					}
+				}
+				if (foundLast) {
+					break
+				}
+			}
+
+			// TODO: handle edge cases
+
+			// if ((firstWord.length === 1 && firstWordStart === start - 1) ||
+			// 	(lastWord.length === 1 && lastWordEnd === end + 1)
+			// ) {
+			// 	if (firstWord.length === 1 && firstWordStart === start - 1) {
+			// 		range.startOffset += 1
+			// 	}
+			// 	if (lastWord.length === 1 && lastWordEnd === end + 1) {
+			// 		range.endOffset -= 1
+			// 	}
+			// 	return findFirstAndLastWords(range)
+			// }
+
+			return {
+				firstWord,
+				lastWord,
+			}
+		}
+
+		document.addEventListener('selectionchange', () => {
+			const selection = document.getSelection()
+			selectedWord = selection2text(selection)
+			if (selectedWord) {
+				selectedRange = selection.getRangeAt(0)
+				selectedPhraseIndex = selectedRange.commonAncestorContainer.parentElement.dataset.index
+				selectedWordInfo = translateHanzi(selectedWord)
+				if (selectedWordInfo) {
+					if (selectedWordInfo.audio?.length) {
+						play(selectedWordInfo.audio[selectedPhraseIndex])
+					}
+				} else {
+					const { firstWord, lastWord } = findFirstAndLastWords(selectedRange)
+					const fw = translateHanzi(firstWord)
+					const lw = translateHanzi(lastWord)
+					const timerange = {
+						start: (fw && fw.audio && fw.audio[selectedPhraseIndex] && fw.audio[selectedPhraseIndex].start) || textAudioPositions[0].start,
+						end: (lw && lw.audio && lw.audio[selectedPhraseIndex] && lw.audio[selectedPhraseIndex].end) || textAudioPositions[textAudioPositions.length - 1].end,
+					}
+					play(timerange)
+				}
+			} else {
+				selectedRange = selectedWordInfo = undefined
+			}
+			rerenderTranslation()
+		})
+
+		const rerenderTranslation = () => {
+			if (!selectedWord || !selectedWordInfo || !selectedWordInfo.translations) {
+				return
+			}
+			const translations = selectedWordInfo.translations
+			const transcriptions = selectedWordInfo
+			document.getElementById('hanzi').innerText = selectedWord
+			document.getElementById('pinyin').innerText = transcriptions.pinyin
+			document.getElementById('pinyin').parentElement.dataset.index = hanziIndex[selectedWord]
+			Object.keys(translations).map(
+				language =>
+				document.getElementById(language).innerText = translations[language]
+			)
+		}
+
+		const words = [
+			{
+				"pinyin": "wǒ",
+				"hanzi": {
+					"simplified": "我"
+				},
+				translations: {
+					"english": "I",
+					"german": "ich",
+					"russian": "я",
+					"spanish": "yo",
+				},
+				audio: {
+					0: {
+						start: 16.4,
+						end: 16.6,
+					},
+					1: {
+						start: 31.3,
+						end: 31.8,
+					},
+				}
+			},
+			{
+				"pinyin": "zuìjìn",
+				"hanzi": {
+					"simplified": "最近"
+				},
+				translations: {
+					"english": "recently",
+					"german": "kürzlich",
+					"russian": "недавно",
+					"spanish": "recientemente",
+				},
+				audio: {
+					0: {
+						start: 16.9,
+						end: 17.8,
+					},
+				}
+			},
+			{
+				"pinyin": "kànle",
+				"hanzi": {
+					"simplified": "看了"
+				},
+				translations: {
+					"english": "have read",
+					"german": "gelesen",
+					"russian": "прочитал",
+					"spanish": "leí",
+				},
+				audio: {
+					0: {
+						start: 18,
+						end: 18.8,
+					},
+				}
+			},
+			{
+				"pinyin": "yìpiān",
+				"hanzi": {
+					"simplified": "一篇"
+				},
+				translations: {
+					"english": "a, an (article)",
+					"german": "ein (Artikel)",
+					"russian": "один, некоторый (текст)",
+					"spanish": "un (artículo)",
+				},
+				audio: {
+					0: {
+						start: 19.3,
+						end: 20,
+					},
+				}
+			},
+			{
+				"pinyin": "wénzhāng",
+				"hanzi": {
+					"simplified": "文章"
+				},
+				translations: {
+					"english": "article",
+					"german": "Artikel",
+					"russian": "статья",
+					"spanish": "artículo",
+				},
+				audio: {
+					0: {
+						start: 20.6,
+						end: 21.4,
+					},
+				}
+			},
+			{
+				"pinyin": "shuō",
+				"hanzi": {
+					"simplified": "说"
+				},
+				translations: {
+					"english": "say",
+					"german": "sagen",
+					"russian": "говорить",
+					"spanish": "decir",
+				},
+				audio: {
+					0: {
+						start: 23,
+						end: 24,
+					},
+				}
+			},
+			{
+				"pinyin": "hē",
+				"hanzi": {
+					"simplified": "喝"
+				},
+				translations: {
+					"english": "drink",
+					"german": "trinken",
+					"russian": "пить",
+					"spanish": "beber",
+				},
+				audio: {
+					0: {
+						start: 24.6,
+						end: 24.9,
+					},
+					1: {
+						start: 34.0,
+						end: 34.1,
+					},
+				}
+			},
+			{
+				"pinyin": "kāfēi",
+				"hanzi": {
+					"simplified": "咖啡"
+				},
+				translations: {
+					"english": "coffee",
+					"german": "Kaffee",
+					"russian": "кофе",
+					"spanish": "café",
+				},
+				audio: {
+					0: {
+						start: 25.15,
+						end: 25.6,
+					},
+					1: {
+						start: 34.3,
+						end: 35,
+					},
+				}
+			},
+			{
+				"pinyin": "duì",
+				"hanzi": {
+					"simplified": "对"
+				},
+				translations: {
+					"english": "true; for",
+					"german": "rechts, genau; für",
+					"russian": "правильно; для",
+					"spanish": "correcto; para",
+				},
+				audio: {
+					0: {
+						start: 26.6,
+						end: 26.7,
+					},
+				}
+			},
+			{
+				"pinyin": "shēntǐ",
+				"hanzi": {
+					"simplified": "身体"
+				},
+				translations: {
+					"english": "body; health",
+					"german": "Körper; Gesundheit; Karroserie",
+					"russian": "тело; здоровье",
+					"spanish": "cuerpo; salud",
+				},
+				audio: {
+					0: {
+						start: 27.0,
+						end: 27.6,
+					},
+				}
+			},
+			{
+				"pinyin": "bùhǎo",
+				"hanzi": {
+					"simplified": "不好"
+				},
+				translations: {
+					"english": "bad, not good",
+					"german": "schlecht, nicht gut",
+					"russian": "плохо, нехорошо",
+					"spanish": "malo, no bueno",
+				},
+				audio: {
+					0: {
+						start: 28,
+						end: 28.8,
+					},
+				}
+			},
+			{
+				"pinyin": "hěn xǐhuan",
+				"hanzi": {
+					"simplified": "很喜欢"
+				},
+				translations: {
+					"english": "like very much",
+					"german": "mag sehr",
+					"russian": "очень нравиться",
+					"spanish": "gusta mucho",
+				},
+				audio: {
+					1: {
+						start: 32.2,
+						end: 33.35,
+					},
+				}
+			},
+		]
+
+		const generateDictionaryIndex = (dictionary, lookup) => {
+			return dictionary.reduce(
+				(index, entry, i) => {
+					index[lookup(entry)] = i
+					return index
+				},
+				{}
+			)
+		}
+
+		const hanziIndex = generateDictionaryIndex(words, (e => e.hanzi.simplified))
+		const translateHanzi = (hanzi) => words[hanziIndex[hanzi]]
+
+	</script>
+
+	</body>
+
+</html>

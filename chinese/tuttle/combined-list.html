@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Combined List :: Tuttle Chinese Characters</title>
+	<style>
+		.wrapper {
+			display: block;
+			border: 1px solid lightgray;
+		}
+			.chinese-character {
+				display: inline-block;
+				padding: 1em;
+				border: 2px solid black;
+				margin: 1em;
+				background: lightgray;
+				position: relative;
+			}
+				.chinese-character > .id {
+					font-size: 2em;
+					display: block;
+					position: absolute;
+					right: 0.25em;
+					top: 0.25em;
+					color: white;
+				}
+				.chinese-character > .hanzi {
+					font-size: 6em;
+					display: block;
+				}
+				.chinese-character > .pinyin {
+					display: block;
+					font-size: 2em;
+				}
+				.chinese-character > .english {
+					display: block;
+					font-weight: bold;
+					font-size: 2em;
+				}
+
+			.chinese-word {
+				display: inline-block;
+				padding: 1em;
+				border: 1px solid black;
+				margin: 1em;
+			}
+				.chinese-word > .hanzi {
+					font-size: 4em;
+					display: block;
+				}
+				.chinese-word > .pinyin {
+					display: block;
+					font-size: 2em;
+				}
+				.chinese-word > .english {
+					display: block;
+					font-weight: bold;
+					font-size: 2em;
+				}
+	</style>
+</head>
+
+<body>
+	<div id="characters"></div>
+	<script type="module" src="./combined-list.js"></script>
+</body>
+
+</html>

@@ -10,3 +10,5 @@ const renderWords = () => {
 }
 
 renderWords()
+
+console.log('total:', words.length, 'words')

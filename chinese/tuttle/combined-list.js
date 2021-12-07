@@ -30,3 +30,5 @@ const renderCharacters = () => {
 }
 
 renderCharacters()
+
+console.log('total:', characters.length, 'characters;', words.length, 'words')

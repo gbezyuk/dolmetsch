@@ -1,0 +1,267 @@
+see https://en.wikipedia.org/wiki/Kangxi_radical (the html table is parsable)
+1	一	1	one	yī	nhất	いち / ichi	한일 / hanil	42		王、丁、七、三
+2	丨	1	line	gǔn	cổn	ぼう / bō	뚫을곤 / ddulheulgon	21		十、中、串、丰
+3	丶	1	dot	zhǔ	chủ	てん / ten	점주 / jeomju	10		丸、凡、丹、户
+4	丿
+(乀、⺄)	1	slash	piě	phiệt	の / no	삐침별 / bbichimbyeol	33		乂、乃、久、八
+5	乙
+(乚、乛)	1	second	yǐ	ất	おつ / otsu	새을 / saeeul	42		九、乞、也
+6	亅	1	hook	jué	quyết	はねぼう / hanebō	갈고리궐 / galgorigweol	19		了、矛、事
+7	二	2	two	èr	nhị	ふた / futa	두이 / dui	29		貳、于、云、些
+8	亠	2	lid	tóu	đầu	なべぶた / nabebuta	돼지해머리 / dwaejihaemeori	38		方、亡、亢、交
+9	人
+(亻)	2	man	rén	nhân (nhân đứng)	ひと / hito	사람인 (변) / saramin (byeon)	794		你、什、仁、仇
+10	儿	2	son, legs	ér	nhân (nhân đi)	にんにょう / ninnyō	어진사람인발 / eojinsaraminbal	52	(pr. 兒)	兒、兀、允、元
+11	入	2	enter	rù	nhập	いる / iru	들입 / deurip	28		內、全、兩、汆
+12	八
+(丷)	2	eight	bā	bát	はちがしら / hachigashira	여덟팔 / yeodeolbpal	44		公、六、兮、穴
+13	冂	2	wide	jiōng	quynh
+khuynh	まきがまえ / makigamae	멀경몸 / meolgyeongmom	50		冇、冊、冉、肉
+14	冖	2	cloth cover	mì	mịch	わかんむり / wakammuri	민갓머리 / mingatmeori	30		冗、冠、冥、運
+15	冫	2	ice	bīng	băng	にすい / nisui	이수변 / isubyeon	115		冬、冰、冶、凉
+16	几	2	table	jī	kỷ	つくえ / tsukue	안석궤 / anseokgwe	38		風、殳、凡、凱
+17	凵	2	receptacle	kǎn	khảm	うけばこ / ukebako	위튼입구몸 / witeunipgumom	23		凶、凸、凹、齒
+18	刀
+(刂、⺈)	2	knife	dāo	đao	かたな / katana	(선) 칼도 (방) / (seon) kaldo (bang)	377		刁、解、分、劍
+19	力	2	power	lì	lực	ちから / chikara	힘력 / himryeok	163		加、功、劣、男
+20	勹	2	wrap	bāo	bao	つつみがまえ / tsutsumigamae	쌀포몸 / ssalpomom	64		包、勺、勻、勾
+21	匕	2	spoon	bǐ	chủy	さじのひ / sajinohi	비수비 / bisubi	19		化、北、匙、比
+22	匚	2	box	fāng	phương	はこがまえ / hakogamae	튼입구몸 / teunipgumom	64		匿、區、巨、匠
+23	匸	2	hiding enclosure	xǐ/xì	hệ	かくしがまえ / kakushigamae	감출혜몸 / gamchulhyemom	17		亡、匹、匼、匽
+24	十	2	ten	shí	thập	じゅう / jū	열십 / yeolsip	55		千、木、卅、升
+25	卜	2	divination	bǔ	bốc	ぼくのと / bokunoto	점복 / jeombok	45		下、上、卡、占
+26	卩
+(㔾)	2	seal (device)	jié	tiết	ふしづくり / fushizukuri	병부절 / byeongbujeol	40		即、卬、卷、夗
+27	厂	2	cliff	hǎn[1]	hán	がんだれ / gandare	민엄호 / mineomho	129	(pr. 廠)	厄、原、厚、厰
+28	厶	2	private	sī	tư (khư)	む / mu	마늘모 / maneulmo	40		台、公、去、參、
+29	又	2	again	yòu	hựu	また / mata	또우 / ddou	91		叉、及、友、取
+30	口	3	mouth	kǒu	khẩu	くち / kuchi	입구 / ipgu	1,146		哎、古、只、品
+31	囗	3	enclosure	wéi	vi	くにがまえ / kunigamae	큰입구 (몸) / keunipgu (mom)	118		囚、四、國、圍
+32	土	3	earth	tǔ	thổ	つち / tsuchi	흙토 / heulkto	580		地、圣、圭、堯
+33	士	3	scholar	shì	sĩ	さむらい / samurai	선비사 / seonbisa	24		壬、喜、時、壽
+34	夂	3	go	zhǐ	trĩ (truy)	ふゆがしら / fuyugashira	뒤져올치 / dwijyeoolchi	11		各、冬、夆、愛
+35	夊	3	go slowly	suī	tuy	すいにょう / suinyō	천천히걸을쇠발 / cheoncheonhigeoreulsoebal	23		夌、复、夏
+36	夕	3	evening	xī	tịch	ゆうべ / yūbe	저녁석 / jeonyeokseok	34		外、夗、多、岁
+37	大	3	big	dà	đại	だい / dai	큰대 / keundae	132		太、天、夭、夯
+38	女	3	woman	nǚ	nữ	おんな / onna	계집녀 / gyejipnyeo	681		妳、婆、奶、如
+39	子	3	child	zǐ	tử	こ / ko	아들자 / adeulja	83		孩、學、孔、仔
+40	宀	3	roof	mián	miên	うかんむり / ukammuri	갓머리 / gatmeori	246		家、安、寧、它
+41	寸	3	inch	cùn	thốn	すん / sun	마디촌 / madichon	40		村、寺、封、射
+42	小
+(⺌、⺍)	3	small	xiǎo	tiểu	しょう / shō	작을소 / jageulso	41		少、尖、當、栄
+43	尢
+(尣)	3	lame	wāng	uông	まげあし / mageashi	절름발이왕 / jeolleumbariwang	66		尤、尷、尬、尩
+44	尸	3	corpse	shī	thi	しかばね / shikabane	주검시엄 / jugeomsieom	148	(pr. 屍)	屍、尺、尼、尻
+45	屮	3	sprout	chè	triệt	てつ / tetsu	왼손좌 / oensonjwa	38		艸、屯、屰、頓
+46	山	3	mountain	shān	sơn	やま / yama	뫼산 / moesan	636		嵗、密、峰、幽
+47	巛
+(川)	3	river	chuān	xuyên	まがりがわ / magarigawa	개미허리 (내천) / gaemiheori (naecheon)	26		川、州、順、災
+48	工	3	work	gōng	công	たくみ / takumi	장인공 / jangingong	17		左、巧、功、式
+49	己	3	oneself	jǐ	kỷ	おのれ / onore	몸기 / momgi	20		記、改、忌、龍
+50	巾	3	turban	jīn	cân	はば / haba	수건건 / sugeongeon	295		市、帥、刷、砸
+51	干	3	dry	gān	can	ほす / hosu	방패간 / bangpaegan	9	(pr. 乾、幹)	旱、开、平、年
+52	幺
+(么)	3	short thread	yāo	yêu	いとがしら / itogashira	작을요 / jageulyo	50		幻、麼、幽、幾
+53	广	3	dotted cliff	yǎn	nghiễm	まだれ / madare	엄호 / eomho	15	(pr. 廣)	庀、庂、庄
+54	廴	3	long stride	yǐn	dẫn	えんにょう / ennyō	민책받침 / minchaekbatchim	9		廵、廷、延
+55	廾	3	arch	gǒng	củng	にじゅうあし / nijūashi	스물입발 / sumeuripbal	50		廿、弁、弄
+56	弋	3	shoot	yì	dặc	しきがまえ / shikigamae	주살익 / jusarik	15		弌、弍、弎
+57	弓	3	bow	gōng	cung	ゆみ / yumi	활궁 / hwalgung	165		弔、引、弗
+58	彐
+(彑)	3	snout	jì	ký/kệ	けいがしら / keigashira	튼가로왈 / teungarowal	25		彔、彖、彗
+59	彡	3	bristle	shān	sam	さんづくり / sandzukuri	터럭삼 / teoreoksam	62		形、彤、彥
+60	彳	3	step	chì	sách	ぎょうにんべん / gyōnimben	두인변 / duinbyeon	215		㣔、彴、彷
+61	心
+(忄、⺗)	4	heart	xīn	tâm	りっしんべん / risshimben	마음심 (심방변 / 마음심밑) / maeumsim (simbangbyeon / maeumsimmit)	1,115		必、忉、忌
+62	戈	4	halberd	gē	qua	かのほこ / kanohoko	창과 / changgwa	116		戊、戉、戌
+63	戶
+(户、戸)	4	door	hù	hộ	と / to	지게호 / jigeho	44	户	戹、戼、戽
+64	手
+(扌、龵)	4	hand	shǒu	thủ	て / te	손수 (재방변) / sonsu (jaebangbyeon)	1,203		才、扎、扐
+65	支	4	branch	zhī	chi	しにょう / shinyō	지탱할지 / jitaenghalji	26		攰、攱、攲
+66	攴
+(攵)	4	rap, tap	pū	phộc	ぼくづくり / bokuzukuri	칠복 (등글월문) / chilbok (deunggeulweolmun)	296		收、攷、攸
+67	文	4	script	wén	văn	ぶん / bun	글월문 / geulweolmun	26		斉、斌、斐
+68	斗	4	dipper	dǒu	đẩu	とます / tomasu	말두 / maldu	32		料、斚、斛
+69	斤	4	axe	jīn	cân	おの / ono	날근 / nalgeun	55		斥、斧、斨
+70	方	4	square	fāng	phương	ほう / hō	모방 / mobang	92		㫃、於、㫄
+71	无
+(旡)	4	not	wú	vô	なし / nashi	이미기방 / imigibang	12		既、旣、旤
+72	日	4	sun	rì	nhật	にち / nichi	날일 / naril	453		旦、旨、早
+73	曰	4	say	yuē	viết	いわく / iwaku	가로왈 / garowal	37		曲、曳、更
+74	月	4	moon	yuè	nguyệt	つき / tsuki	달월 / dalweol	69		有、朋、服
+75	木	4	tree	mù	mộc	き / ki	나무목 / namumok	1,369		未、末、本
+76	欠	4	lack	qiàn	khiếm	あくび / akubi	하품흠 / hapumheum	235		次、欣、欥
+77	止	4	stop	zhǐ	chỉ	とめる / tomeru	그칠지 / geuchilji	99		正、此、步
+78	歹
+(歺)	4	death	dǎi	đãi (ngạt)	がつ / gatsu	죽을사변 / jugeulsabyeon	231		歺、死、歿
+79	殳	4	weapon	shū	thù	ほこつくり / hokotsukuri	갖은등글월문 / gajeundeunggeulweolmun	93		段、殷、殺
+80	毋
+(母)	4	do not	wú	vô	なかれ / nakare	말무 / malmu	16		母、每、毐
+81	比	4	compare	bǐ	tỷ	くらべる / kuraberu	견줄비 / gyeonjulbi	21		毖、毗、毘
+82	毛	4	fur	máo	mao	け / ke	터럭모 / teoreokmo	211		毡、毣、毧
+83	氏	4	clan	shì	thị	うじ / uji	각시씨 / gaksissi	10		氐、民、氓
+84	气	4	steam	qì	khí	きがまえ / kigamae	기운기엄 / giungieom	17	(pr. 氣)	氕、氘、氚
+85	水
+(氵、氺)	4	water	shuǐ	thủy	みず / mizu	(아래) 물수 (삼수변) / (arae) mulsu (samsubyeon)	1,595		永、氷、氾
+86	火
+(灬)	4	fire	huǒ	hỏa	ひ / hi	불화 (연화발) / bulhwa (yeonhwabal)	639		灰、灯、灶
+87	爪
+(爫)	4	claw	zhǎo	trảo	つめ / tsume	손톱조 / sontopjo	36		爬、爭、爰
+88	父	4	father	fù	phụ	ちち / chichi	아버지 / abeoji	10		爸、爹、爺
+89	爻	4	Trigrams	yáo	hào	こう / kō	점괘효 / jeomgwaehyo	16		爼、爽、爾
+90	爿
+(丬)	4	split wood	qiáng	tường	しょうへん / shōhen	장수장변 / jangsujangbyeon	48		牀、牁、牂
+91	片	4	slice	piàn	phiến	かた / kata	조각편 / jogakpyeon	77		版、牉、牌
+92	牙	4	fang	yá	nha	きば / kiba	어금니아 / eogeumnia	9		㸦、㸧、牚
+93	牛
+(牜、⺧)	4	cow	niú	ngưu	うし / ushi	소우 / sou	233		牝、牟、牠
+94	犬
+(犭)	4	dog	quǎn	khuyển	いぬ / inu	개견 (개사슴록변) / gaegyeon (gaesaseumnokbyeon)	444		犮、犯、犰
+95	玄	5	profound	xuán	huyền	げん / gen	검을현 / geomeulhyeon	6		玅、率、玈
+96	玉
+(王、玊)	5	jade	yù	ngọc	たま / tama	구슬옥변 / guseulokbyeon	473		玻、瑪、璧
+97	瓜	5	melon	guā	qua	うり / uri	오이과 / oigwa	55		瓝、瓞、瓟
+98	瓦	5	tile	wǎ	ngõa	かわら / kawara	기와와 / giwawa	174		㼚、瓮、瓫
+99	甘	5	sweet	gān	cam	あまい / amai	달감 / dalgam	22		甚、甜、甛
+100	生	5	life	shēng	sinh	うまれる / umareru	날생 / nalsaeng	22		甡、產、甥
+101	用	5	use	yòng (shuǎi)	dụng	もちいる / mochiiru	쓸용 / sseulyong	10		甩、甫、甬
+102	田	5	field	tián	điền	た / ta	밭전 / batjeon	192		由、甲、申
+103	疋
+(⺪)	5	bolt of cloth	pǐ	thất/sơ	ひき / hiki	짝필 / jjakpil	15		疌、疏、疎
+104	疒	5	sickness	nè	nạch	やまいだれ / yamaidare	병질엄 / byeongjileom	526		疔、疚、疝
+105	癶	5	footsteps	bō	bát	はつがしら / hatsugashira	필발머리 / pilbalmeori	15		癸、癹、発
+106	白	5	white	bái	bạch	しろ / shiro	흰백 / heuinbaek	109		百、皀、皁
+107	皮	5	skin	pí	bì	けがわ / kegawa	가죽피 / gajukpi	94		皯、皰、皴
+108	皿	5	dish	mǐn	mãnh	さら / sara	그릇명 / geureutmyeong	129		盂、盃、盅
+109	目
+(⺫)	5	eye	mù	mục	め / me	눈목 / nunmok	647		盯、盱、盲
+110	矛	5	spear	máo	mâu	むのほこ / munohoko	창모 / changmo	65		矜、矞、矟
+111	矢	5	arrow	shǐ	thỉ	や / ya	화살시 / hwasalsi	64		矣、知、矧
+112	石	5	stone	shí	thạch	いし / ishi	돌석 / dolseok	499		矸、矻、矼
+113	示
+(礻)	5	spirit	shì	thị (kỳ)	しめす / shimesu	보일시 (변) / boilsi (byeon)	213		礼、礽、社
+114	禸	5	track	róu	nhựu	ぐうのあし / gūnoashi	짐승발자국유 / jimseungbaljagugyu	12		禹、禺、离
+115	禾	5	grain	hé	hòa	のぎ / nogi	벼화 / byeohwa	431		禿、秀、私
+116	穴	5	cave	xué	huyệt	あな / ana	구멍혈 / gumeonghyeol	298		究、穸、空
+117	立	5	stand	lì	lập	たつ / tatsu	설립 / seollip	101		竑、竒、竘
+118	竹
+(⺮)	6	bamboo	zhú	trúc	たけ / take	대죽 / daejuk	953		竺、竽、竿
+119	米	6	rice	mǐ	mễ	こめ / kome	쌀미 / ssalmi	318		籸、籹、籽
+120	糸
+(糹)	6	silk	mì	mịch	いと / ito	실사 / silsa	823	纟	系、糾、紀
+121	缶	6	jar	fǒu	phẫu	ほとぎ / hotogi	장군부 / janggunbu	77		缸、缺、缽
+122	网
+(⺲、罓、⺳)	6	net	wǎng	võng	あみがしら / amigashira	그물망 / geumulmang	163		罔、罕、罘
+123	羊
+(⺶、⺷)	6	sheep	yáng	dương	ひつじ / hitsuji	양양 / yangyang	156		羋、羌、美
+124	羽	6	feather	yǔ	vũ	はね / hane	깃우 / gisu	220		羿、翀、翁
+125	老
+(耂)	6	old	lǎo	lão	おい / oi	늙을로 / neulgeullo	22		考、者、耆
+126	而	6	and	ér	nhi	しかして / shikashite	말이을이 / malieuri	22		耍、耎、耏
+127	耒	6	plow	lěi	lỗi	らいすき / raisuki	가래뢰 / garaeroe	84		耔、耕、耖
+128	耳	6	ear	ěr	nhĩ	みみ / mimi	귀이 / gwii	172		耴、耵、耷
+129	聿
+(⺺、⺻)	6	brush	yù	duật	ふでづくり / fudezukuri	붓율 / busyul	19		肄、肆、肅
+130	肉
+(⺼)	6	meat	ròu	nhục	にく / niku	고기육 (육달월) / gogiyuk (yukdalwol)	674	月	肊、肋、然
+131	臣	6	minister	chén	thần	しん / shin	신하신 / sinhasin	16		臤、臥、臧
+132	自	6	self	zì	tự	みずから / mizukara	스스로자 / seuseuroja	34		臬、臭、臯
+133	至	6	arrive	zhì	chí	いたる / itaru	이를지 / ireulji	24		致、臷、臺
+134	臼	6	mortar	jiù	cữu	うす / usu	절구구 (변) / jeolgugu (byeon)	71		臾、臿、舁
+135	舌	6	tongue	shé	thiệt	した / shita	혀설 / hyeoseol	31		舍、舐、舑
+136	舛	6	oppose	chuǎn	suyễn	ます / masu	어그러질천 / eogeureojilcheon	10		舜、舝、舞
+137	舟	6	boat	zhōu	chu	ふね / fune	배주 / baeju	197		舠、舡、舢
+138	艮	6	stopping	gèn	cấn	こん / kon	괘이름간 / gwaeireumgan	5		良、艱
+139	色	6	color	sè	sắc	いろ / iro	빛색 / bitsaek	21		艳、艴、艵
+140	艸
+(⺿)	6	grass	cǎo	thảo	くさ / kusa	풀초 (초두머리) / pulcho (chodumeori)	1,902	⺾	艽、艾、芃
+141	虍	6	tiger	hū	hô	とらかんむり / torakammuri	범호엄 / beomhoeom	114		虎、虐、虒
+142	虫	6	insect	chóng	trùng	むし / mushi	벌레훼 / beollehwe	1,067	(pr. 蟲)	虬、虯、虱
+143	血	6	blood	xuè	huyết	ち / chi	피혈 / pihyeol	60		衁、衂、衃
+144	行	6	walk enclosure	xíng	hành/hàng	ぎょう / gyō	다닐행 / danilhaeng	53		衍、衎、衒
+145	衣
+(⻂)	6	clothes	yī	y	ころも / koromo	옷의 (변) /oseui (byeon)	607		初、表、衫
+146	襾
+(西、覀)	6	cover	yà	á	ア / a	덮개 / deopgae	29		西、要、覂
+147	見	7	see	jiàn	kiến	みる / miru	볼견 / bolgyeon	161	见	規、覓、視
+148	角
+(⻇)	7	horn	jiǎo	giác	つの / tsuno	뿔각 / bbulgak	158	⻆	觓、觔、觕
+149	言
+(訁)	7	speech	yán	ngôn	ことば / kotoba	말씀언 / malsseumeon	861	讠	訂、訃、計
+150	谷	7	valley	gǔ	cốc	たに / tani	골곡 / golgok	54		谹、谽、谿
+151	豆	7	bean	dòu	đậu	まめ / mame	콩두 / kongdu	68		豇、豈、豉
+152	豕	7	pig	shǐ	thỉ	いのこ / inoko	돼지시 / dwaejisi	148		豗、豚、豜
+153	豸	7	badger	zhì	trãi	むじな / mujina	갖은돼지시변 / gajeundwaejisibyeon	140		豺、豻、豹
+154	貝	7	shell	bèi	bối	かい / kai	조개패 / jogaepae	277	贝	貞、負、財
+155	赤	7	red	chì	xích	あか / aka	붉을적 / bulgeuljeok	31		赦、赧、赨
+156	走	7	run	zǒu	tẩu	はしる / hashiru	달릴주 / dallilju	285		赳、赴、赶
+157	足
+(⻊)	7	foot	zú	túc	あし / ashi	발족 / baljok	580		趴、趵、趷
+158	身	7	body	shēn	thân	み / mi	몸신 / momsin	97		躬、躭、躰
+159	車	7	cart	chē	xa	くるま / kuruma	수레거 / suregeo	361	车	軋、軌、軍
+160	辛	7	bitter	xīn	tân	からい / karai	매울신 / maeulsin	36		辜、辝、辟
+161	辰	7	morning	chén	thần/thìn	しんのたつ / shinnotatsu	별진 / byeoljin	15		辱、農、辴
+162	辵
+(⻌、⻍、⻎)	7	walk	chuò	sước	しんにょう / shinnyō	갖은책받침 (책받침) / gajeunchaekbatchim (chaekbatchim)	381		边、巡、迂
+163	邑
+(⻏)	7	city	yì	ấp	むら / mura	고을읍 (우부방) / goeureup (ububang)	350		邕、邗、邘
+164	酉	7	wine	yǒu	dậu	ひよみのとり / hyominotori	닭유 / dalgyu	290		酊、酋、酌
+165	釆	7	distinguish	biàn	biện	のごめ / nogome	분별할변 / bunbyeolhalbyeon	14		采、釉、釋
+166	里	7	village	lǐ	lý	さと / sato	마을리 / maeulli	14		重、野、量
+167	金
+(釒)	8	gold	jīn	kim	かね / kane	쇠금 / soegeum	806	钅	釓、釔、釕
+168	長
+(镸)	8	long	cháng	trường/trưởng	ながい / nagai	길장 (변) / giljang (byeon)	55	长	镺、镻、镼
+169	門	8	gate	mén	môn	もん / mon	문문 / munmun	246	门	閂、閃、閆
+170	阜
+(⻖)	8	mound	fù	phụ	おか / oka	언덕부 (좌부변) / eondeokbu (jwabubyeon)	348		阞、阡、阢
+171	隶	8	slave	lì	lệ	れいづくり / reizukuri	미칠이 / michiri	12		𨽻、隷、隸
+172	隹	8	short-tailed bird	zhuī	chuy	ふるとり / furutori	새추 / saechu	233		隻、隼、隽
+173	雨	8	rain	yǔ	vũ	あめ / ame	비우 / biu	298		雩、雪、雯
+174	靑
+(青)	8	blue	qīng	thanh	あお / ao	푸를청 / pureulcheong	17		靖、静、靚
+175	非	8	wrong	fēi	phi	あらず / arazu	아닐비 / anilbi	25		靟、靠、靡
+176	面
+(靣)	9	face	miàn	diện	めん / men	낯면 / natmyeon	66		靤、靦、靧
+177	革	9	leather	gé	cách	かくのかわ / kakunokawa	가죽혁 / gajukhyeok	305		靭、靮、靳
+178	韋	9	tanned leather	wéi	vi	なめしがわ / nameshigawa	가죽위 / gajugwi	100	韦	韌、韍、韎
+179	韭	9	leek	jiǔ	cửu	にら / nira	부추구 / buchugu	20		韰、韲、䪢
+180	音	9	sound	yīn	âm	おと / oto	소리음 / sorieum	43		竟、章、韵
+181	頁	9	leaf	yè	hiệt	おおがい / ōgai	머리혈 / meorihyeol	372	页	頂、頃、頄
+182	風	9	wind	fēng	phong	かぜ / kaze	바람풍 / barampung	182	风	颩、颭、颮
+183	飛	9	fly	fēi	phi	とぶ / tobu	날비 / nalbi	92	飞	䬡、飜、飝
+184	食
+(飠)	9	eat	shí	thực	しょく / shoku	밥식 (변) / bapsik (byeon)	403	饣	飡、飢、飣
+185	首	9	head	shǒu	thủ	くび / kubi	머리수 / meorisu	20		馗、䭫、馘
+186	香	9	fragrant	xiāng	hương	においこう / nioikō	향기향 / hyanggihyang	37		馝、馞、馡
+187	馬	10	horse	mǎ	mã	うま / uma	말마 / malma	472	马	馭、馮、馯
+188	骨	10	bone	gǔ	cốt	ほね / hone	뼈골 / ppyeogol	185	⻣	骫、骭、骯
+189	高
+(髙)	10	tall	gāo	cao	たかい / takai	높을고 / nopeulgo	34		髚、髛、𩫛
+190	髟	10	hair	biāo	bưu/tiêu	かみがしら / kamigashira	터럭발 / teoreokbal	243		髠、髡、髢
+191	鬥	10	fight	dòu	đấu	とうがまえ / tōgamae	싸울투 / ssaultu	23		鬦、鬧、鬨
+192	鬯	10	sacrificial wine	chàng	sưởng	ちょう / chō	울창주창 / ulchangjuchang	8		鬰、鬱
+193	鬲	10	cauldron	lì	cách	かなえ / kanae	다리굽은솥력 / darigubeunsotryeok	73		鬳、鬴、鬵
+194	鬼	10	ghost	guǐ	quỷ	おに / oni	귀신귀 / gwisingwi	141		鬾、魁、魂
+195	魚	11	fish	yú	ngư	うお / uo	물고기어 / mulgogieo	571	鱼	魟、魠、魦
+196	鳥	11	bird	niǎo	điểu	とり / tori	새조 / saejo	750	鸟	鳦、鳧、鳩
+197	鹵	11	salt	lǔ	lỗ	ろ / ro	짠땅로 / jjanddangro	44	卤	鹹、鹺、鹼
+198	鹿	11	deer	lù	lộc	しか / shika	사슴록 / saseumrok	104		麀、麁、麂
+199	麥	11	wheat	mài	mạch	むぎ / mugi	보리맥 / borimaek	131	麦	麨、麩、麪
+200	麻	11	hemp	má	ma	あさ / asa	삼마 / samma	34		麼、麾、黁
+201	黃	12	yellow	huáng	hoàng	きいろ / kiiro	누를황 / nureulhwang	42	黄	黈、䵍、黌
+202	黍	12	millet	shǔ	thử	きび / kibi	기장서 / gijangseo	46		黎、黏、黐
+203	黑	12	black	hēi	hắc	くろ / kuro	검을흑 / geomeulheuk	172		墨、黓、黔
+204	黹	12	embroidery	zhǐ	chỉ	ふつ / futsu	바느질할치 / baneujilhalchi	8		黺、黻、黼
+205	黽	13	frog	mǐn	mãnh	べん / ben	맹꽁이 / maengkkongi	40	黾	黿、鼀、鼁
+206	鼎	13	tripod	dǐng	đỉnh	かなえ / kanae	솥정 / sotjeong	14		鼏、鼐、鼒
+207	鼓	13	drum	gǔ	cổ	つづみ / tsudzumi	북고 / bukgo	46		鼕、鼖、鼗
+208	鼠	13	rat	shǔ	thử	ねずみ / nezumi	쥐서 / jwiseo	92		鼢、鼥、鼩
+209	鼻	14	nose	bí	tị	はな / hana	코비 / kobi	49		鼽、鼾、齁
+210	齊
+(斉)	14	even	qí	tề	せい / sei	가지런할제 / gajireonhalje	18	齐	齋、齌、齍
+211	齒	15	tooth	chǐ	xỉ	は / ha	이치 / ichi	162	齿	齔、齕、齖
+212	龍	16	dragon	lóng	long	りゅう / ryū	용룡 / yongryong	14	龙	龏、龑、龔
+213	龜	16	turtle	guī	quy	かめ / kame	거북귀 / geobukgwi	24	龟	䶰、龝、龞
+214	龠	17	flute	yuè	dược	やく / yaku	피리약 / piriyak	19		龡、龢、龤

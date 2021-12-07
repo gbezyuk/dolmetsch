@@ -1,7 +1,7 @@
-import characters from './data/characters.js'
-import words from './data/words.js'
-import ChineseCharacter from './components/ChineseCharacter.js'
-import ChineseWord from './components/ChineseWord.js'
+import characters from '../data/characters.js'
+import words from '../data/words.js'
+import ChineseCharacter from '../components/ChineseCharacter.js'
+import ChineseWord from '../components/ChineseWord.js'
 
 const renderCharacters = () => {
 	const html = characters.reduce((html, character) => {
@@ -20,6 +20,9 @@ const renderCharacters = () => {
 					hanzi="${character.hanzi}"
 					pinyin="${character.pinyin}"
 					english="${character.english}"
+					radical="${character.radical?.character || ''}"
+					composition="${character.composition || ''}"
+					components="${character.components || ''}"
 				>
 				</chinese-character>
 				${wordsHtml}

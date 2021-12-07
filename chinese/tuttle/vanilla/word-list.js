@@ -1,5 +1,5 @@
-import words from './data/words.js'
-import ChineseWord from './components/ChineseWord.js'
+import words from '../data/words.js'
+import ChineseWord from '../components/ChineseWord.js'
 
 const renderWords = () => {
 	const html = words.reduce((html, word) => {

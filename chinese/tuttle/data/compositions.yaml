@@ -1,0 +1,73 @@
+--- # see https://en.wikipedia.org/wiki/Chinese_character_description_languages#Ideographic_Description_Sequences
+-
+  id: 0
+  character: ⿰
+  name: left to right
+  acronym: l2r
+  size: 2
+-
+  id: 1
+  character: ⿱
+  name: above to below
+  acronym: a2b
+  size: 2
+-
+  id: 2
+  character: ⿲
+  name: left to middle and right
+  acronym: l2m2r
+  size: 3
+-
+  id: 3
+  character: ⿳
+  name: above to middle and below
+  acronym: a2m2b
+  size: 3
+-
+  id: 4
+  character: ⿴
+  name: full surround
+  acronym: fs
+  size: 2
+-
+  id: 5
+  character: ⿵
+  name: surround from above
+  acronym: s4a
+  size: 2
+-
+  id: 6
+  character: ⿶
+  name: surround from below
+  acronym: s4b
+  size: 2
+-
+  id: 7
+  character: ⿷
+  name: surround from left
+  acronym: s4l
+  size: 2
+-
+  id: 8
+  character: ⿸
+  name: surround from upper left
+  acronym: s4ul
+  size: 2
+-
+  id: 9
+  character: ⿹
+  name: surround from upper right
+  acronym: s4ur
+  size: 2
+-
+  id: 10
+  character: ⿺
+  name: surround from lower left
+  acronym: s4ll
+  size: 2
+-
+  id: 11
+  character: ⿻
+  name: overlaid
+  acronym: ol
+  size: 2

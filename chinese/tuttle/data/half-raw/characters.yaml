@@ -4,46 +4,66 @@
   hanzi: 一
   pinyin: yī (yí; yì)
   english: one
+  radical: 一
 -
   id: 2
   hanzi: 二
   pinyin: èr
   english: two
+  composition: ⿱
+  components: [一, 一]
 -
   id: 3
   hanzi: 三
   pinyin: sān
   english: three
+  composition: ⿱
+  components: [一, 二]
 -
   id: 4
   hanzi: 十
   pinyin: shí
   english: ten
+  composition: 0
+  components: []
 -
   id: 5
   hanzi: 口
   pinyin: kǒu
   english: mouth
+  composition: ⿱
+  components: [冂, 一]
 -
   id: 6
   hanzi: 日
   pinyin: rì
   english: sun
+  composition: ⿴
+  components: [囗, 一]
 -
   id: 7
   hanzi: 几
   pinyin: jǐ (jī)
   english: several
+  composition: ⿰
+  components: [丿, ㇈]
+  radical: 几
 -
   id: 8
   hanzi: 也
   pinyin: yě
   english: also
+  composition: ⿻
+  components: [乜, 丨]
+  radical: 乙
 -
   id: 9
   hanzi: 不
   pinyin: bù (bú)
   english: not
+  composition: ⿸
+  components: [丆, 卜]
+  radical: 一
 -
   id: 10a
   hanzi: 木

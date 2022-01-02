@@ -1,0 +1,633 @@
+[
+	{
+		"hanzi": "笑",
+		"pinyin": "xiao4",
+		"english": "to laugh",
+		"audios": [
+			"13110807185526_14099_1ff4b.mp3",
+			"32000101211192700.mp3",
+			"32000101020122423.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "大笑",
+		"pinyin": "da4_xiao4",
+		"english": "laugh",
+		"type": "word"
+	},
+	{
+		"hanzi": "笑话",
+		"pinyin": "xiao4_hua4",
+		"english": "joke",
+		"audios": [
+			"13110807185525_16376_68e58.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "开玩笑",
+		"pinyin": "kai1_wan2_xiao4",
+		"english": "to play a joke",
+		"audios": [
+			"13110807183912_16153_23208.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "乔",
+		"pinyin": "qiao2",
+		"english": "tall",
+		"audios": [
+			"/audio/13972236_1368823832351.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "桥",
+		"pinyin": "qiao2",
+		"english": "bridge",
+		"audios": [
+			"13110807184725_16243_99d83.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "歹",
+		"pinyin": "dai3",
+		"english": "chip, evil",
+		"audios": [
+			"32000101021023737.mp3",
+			"13110807182819_14326_d91f7.mp3",
+			"32000101208164644.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "列",
+		"pinyin": "lie4",
+		"english": "a row (of things); to line up",
+		"audios": [
+			"/audio/13938834_1371816407316.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "例",
+		"pinyin": "li4",
+		"english": "example",
+		"audios": [
+			"/audio/13924341_1371221372137.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "例如",
+		"pinyin": "li4_ru2",
+		"english": "for example",
+		"audios": [
+			"13110807184046_16186_2ccf9.mp3",
+			"/audio/13970622_1371221396396.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "比例",
+		"pinyin": "bi3_li4",
+		"english": "proportion",
+		"audios": [
+			"13110807180955_16536_a8f4f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "例子",
+		"pinyin": "li4_zi5",
+		"english": "case",
+		"audios": [
+			"/audio/13942055_1371221403179.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "死",
+		"pinyin": "si3",
+		"english": "to die",
+		"audios": [
+			"32000101211181248.mp3",
+			"13110807185034_16315_fc4b3.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "解",
+		"pinyin": "jie3;_xie4;_jie4",
+		"english": "to divide",
+		"type": "character"
+	},
+	{
+		"hanzi": "了解",
+		"pinyin": "liao3_jie3",
+		"english": "to understand",
+		"audios": [
+			"576642000120905081145.mp3",
+			"/audio/13993607_1368193028305.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "解决",
+		"pinyin": "jie3_jue2",
+		"english": "to solve",
+		"audios": [
+			"13110807183658_204485_222e9.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "解放",
+		"pinyin": "jie3_fang4",
+		"english": "to liberate",
+		"audios": [
+			"13110807183658_17018_9708d.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "急",
+		"pinyin": "ji2",
+		"english": "urgent",
+		"audios": [
+			"13110807183611_65217_442c7.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "着急",
+		"pinyin": "zhao2_ji2",
+		"english": "to feel anxious",
+		"audios": [
+			"13110807185838_15899_04892.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "急忙",
+		"pinyin": "ji2_mang2",
+		"english": "hastily",
+		"audios": [
+			"13110807183606_16953_85bb3.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "彦",
+		"pinyin": "yan4",
+		"english": "accomplished",
+		"type": "character"
+	},
+	{
+		"hanzi": "颜",
+		"pinyin": "yan2",
+		"english": "colour",
+		"audios": [
+			"13110807185742_24155_156c6.mp3",
+			"32000101208180242.mp3",
+			"32000101116171835.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "颜色",
+		"pinyin": "yan2_se4",
+		"english": "color",
+		"audios": [
+			"32000101208180318.mp3",
+			"13110807185740_24774_4060f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "许",
+		"pinyin": "xu3",
+		"english": "to allow; to promise",
+		"audios": [
+			"13110807185552_13419_1d07c.mp3",
+			"32000101021040358.mp3",
+			"32000101210095111.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "许多",
+		"pinyin": "xu3_duo1",
+		"english": "many",
+		"audios": [
+			"13110807185551_16389_14b8f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "也许",
+		"pinyin": "ye3_xu3",
+		"english": "perhaps",
+		"audios": [
+			"13110807185754_16406_f192b.mp3",
+			"/audio/13919311_1368194113510.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "需",
+		"pinyin": "xu1",
+		"english": "to need",
+		"audios": [
+			"13110807185551_193270_11ad5.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "需要",
+		"pinyin": "xu1_yao4",
+		"english": "to need",
+		"audios": [
+			"13110807185550_15869_2805b.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "须",
+		"pinyin": "xu1",
+		"english": "moustache",
+		"audios": [
+			"13110807185551_14745_11ad5.mp3",
+			"32000101209140308.mp3",
+			"32000101021112246.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "必须",
+		"pinyin": "bi4_xu1",
+		"english": "must",
+		"audios": [
+			"13110807180959_15639_bbcbd.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "续",
+		"pinyin": "xu4",
+		"english": "to replenish; to continue",
+		"audios": [
+			"13110807185553_65215_e5b8c.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "继续",
+		"pinyin": "ji4_xu4",
+		"english": "to continue",
+		"audios": [
+			"13110807183617_16112_b29dc.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "手续",
+		"pinyin": "shou3_xu4",
+		"english": "formalities",
+		"audios": [
+			"13110807185012_17394_3c2ed.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "令",
+		"pinyin": "ling4",
+		"english": "to command",
+		"audios": [
+			"32000101021022834.mp3",
+			"13110807184103_14295_a8870.mp3",
+			"32000101211174309.mp3",
+			"/audio/13982231_1371213980030.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "冷",
+		"pinyin": "leng3",
+		"english": "cold",
+		"audios": [
+			"32000101021073039.mp3",
+			"32000101208172851.mp3",
+			"13110807184039_14646_bf175.mp3",
+			"/audio/14014750_1371813305668.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "零",
+		"pinyin": "ling2",
+		"english": "zero",
+		"audios": [
+			"32000101021022845.mp3",
+			"13110807184101_14296_c3ebd.mp3",
+			"32000101212143704.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "领",
+		"pinyin": "ling3",
+		"english": "to lead",
+		"audios": [
+			"13110807184103_14298_032fa.mp3",
+			"32000101209132958.mp3",
+			"32000101021022908.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "领导",
+		"pinyin": "ling3_dao3",
+		"english": "to lead",
+		"audios": [
+			"13110807184102_17131_47f8b.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "本领",
+		"pinyin": "ben3_ling3",
+		"english": "skill",
+		"audios": [
+			"13110807180951_16533_21fa2.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "召",
+		"pinyin": "zhao4",
+		"english": "to convene",
+		"audios": [
+			"/audio/13978338_1372263554756.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "绍",
+		"pinyin": "shao4",
+		"english": "to introduce",
+		"audios": [
+			"13110807184924_24167_450f2.mp3",
+			"32000101211192307.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "昭",
+		"pinyin": "zhao1",
+		"english": "illustrious",
+		"type": "character"
+	},
+	{
+		"hanzi": "照",
+		"pinyin": "zhao4",
+		"english": "to illuminate (also:  according to)",
+		"audios": [
+			"32000101021065405.mp3",
+			"13110807185840_14580_dfe75.mp3",
+			"32000101211191901.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "照顾",
+		"pinyin": "zhao4_gu5",
+		"english": "to take care of",
+		"audios": [
+			"13110807185839_15900_4562f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "照相",
+		"pinyin": "zhao4_xiang4",
+		"english": "take a photograph",
+		"type": "word"
+	},
+	{
+		"hanzi": "关照",
+		"pinyin": "guan1_zhao4",
+		"english": "to take care of",
+		"audios": [
+			"13110807183231_18539_ca6fb.mp3",
+			"/audio/13988783_1371646863311.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "照片",
+		"pinyin": "zhao4_pian4",
+		"english": "photo",
+		"audios": [
+			"32000101210091419.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "查",
+		"pinyin": "zha1",
+		"english": "A surname",
+		"type": "character"
+	},
+	{
+		"hanzi": "查对",
+		"pinyin": "cha2_dui4",
+		"english": "verify",
+		"type": "word"
+	},
+	{
+		"hanzi": "检",
+		"pinyin": "jian3",
+		"english": "to check",
+		"audios": [
+			"576642000120905075904.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "检查",
+		"pinyin": "jian3_cha2",
+		"english": "inspection",
+		"audios": [
+			"576642000120905075343.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "脸",
+		"pinyin": "lian3",
+		"english": "face",
+		"audios": [
+			"13110807184053_15769_c22b0.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "脸红",
+		"pinyin": "lian3_hong2",
+		"english": "to blush",
+		"type": "word"
+	},
+	{
+		"hanzi": "险",
+		"pinyin": "xian3",
+		"english": "danger",
+		"type": "character"
+	},
+	{
+		"hanzi": "危险",
+		"pinyin": "wei1_xian3",
+		"english": "danger",
+		"audios": [
+			"13110807185313_16352_07d86.mp3",
+			"/audio/13988501_1372260544581.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "验",
+		"pinyin": "yan4",
+		"english": "to examine",
+		"audios": [
+			"32000101211182431.mp3",
+			"32000101021111948.mp3",
+			"13110807185746_14732_57a20.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "经验",
+		"pinyin": "jing1_yan4",
+		"english": "experience (usually work related)",
+		"audios": [
+			"13110807183717_16144_99f19.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "试",
+		"pinyin": "shi4",
+		"english": "to try",
+		"audios": [
+			"32000101212104212.mp3",
+			"13110807185006_14585_30186.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "试验",
+		"pinyin": "_shi4_yan4",
+		"english": "to experiment",
+		"audios": [
+			"13110807185004_19493_a902d.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "试试",
+		"pinyin": "shi4_shi5",
+		"english": "to try",
+		"type": "word"
+	},
+	{
+		"hanzi": "考",
+		"pinyin": "kao3",
+		"english": "to be tested",
+		"audios": [
+			"13110807183917_14679_a537b.mp3",
+			"32000101211172718.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "考试",
+		"pinyin": "kao3_shi4",
+		"english": "exam",
+		"audios": [
+			"32000101209093109.mp3",
+			"13110807183917_15529_c3c97.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "考场",
+		"pinyin": "kao3_chang3",
+		"english": "specialized field",
+		"type": "word"
+	},
+	{
+		"hanzi": "斗",
+		"pinyin": "dou3;_dou4",
+		"english": "peck",
+		"audios": [
+			"32000101021063713.mp3",
+			"32000101210083147.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "科",
+		"pinyin": "ke1",
+		"english": "science",
+		"audios": [
+			"13110807183921_14514_b4fdb.mp3",
+			"32000101210132135.mp3",
+			"32000101021063735.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "科学",
+		"pinyin": "ke1_xue2",
+		"english": "science",
+		"audios": [
+			"32000101210132202.mp3",
+			"13110807183920_16157_69c31.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "科长",
+		"pinyin": "ke1_zhang3",
+		"english": "branch director",
+		"type": "word"
+	},
+	{
+		"hanzi": "科学家",
+		"pinyin": "ke1_xue2_jia1",
+		"english": "scientist",
+		"audios": [
+			"32000101210132239.mp3",
+			"13110807183919_204459_77cfb.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "研",
+		"pinyin": "yan2",
+		"english": "to grind (also: study; research)",
+		"audios": [
+			"13110807185741_184974_156c6.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "科研",
+		"pinyin": "ke1_yan2",
+		"english": "research",
+		"type": "word"
+	}
+]

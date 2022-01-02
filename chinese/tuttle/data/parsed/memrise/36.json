@@ -1,0 +1,488 @@
+[
+	{
+		"hanzi": "坚",
+		"pinyin": "jian1",
+		"english": "resolute (also: strong; solid)",
+		"audios": [
+			"13110807183630_206906_fb517.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "坚持",
+		"pinyin": "jian1_chi2",
+		"english": "to persevere (also: to insist)",
+		"audios": [
+			"13110807183626_16119_0fdc6.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "坚决",
+		"pinyin": "jian1_jue2",
+		"english": "uncompromising",
+		"audios": [
+			"13110807183628_16978_7be8c.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "紧",
+		"pinyin": "jin3",
+		"english": "tight",
+		"audios": [
+			"13110807183708_17025_03f69.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "紧张",
+		"pinyin": "jin3_zhang1",
+		"english": "nervous",
+		"audios": [
+			"13110807183708_16136_7973f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "要紧",
+		"pinyin": "yao4_jin2",
+		"english": "urgent",
+		"type": "word"
+	},
+	{
+		"hanzi": "不要紧",
+		"pinyin": "bu2_yao4_jin3",
+		"english": "not urgent",
+		"type": "word"
+	},
+	{
+		"hanzi": "览",
+		"pinyin": "lan3",
+		"english": "to look over",
+		"audios": [
+			"13110807184032_24190_45f69.mp3",
+			"32000101211193439.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "展览",
+		"pinyin": "zhan3_lan3",
+		"english": "to put on display",
+		"audios": [
+			"13110807185830_17702_759db.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "游览",
+		"pinyin": "you2_lan3",
+		"english": "to go sight-seeing",
+		"audios": [
+			"13110807185841_17667_fca08.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "监",
+		"pinyin": "jian1",
+		"english": "supervisor",
+		"type": "character"
+	},
+	{
+		"hanzi": "蓝",
+		"pinyin": "lan2",
+		"english": "blue",
+		"audios": [
+			"32000101021035909.mp3",
+			"32000101208154033.mp3",
+			"13110807184032_14461_1c36a.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "蓝图",
+		"pinyin": "lan2_tu2",
+		"english": "blueprint",
+		"type": "word"
+	},
+	{
+		"hanzi": "篮",
+		"pinyin": "lan2",
+		"english": "basket",
+		"audios": [
+			"32000101208150652.mp3",
+			"13110807184031_24739_1c36a.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "篮球",
+		"pinyin": "lan2_qiu2",
+		"english": "basketball",
+		"audios": [
+			"13110807184031_24738_7b596.mp3",
+			"32000101208150831.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "福",
+		"pinyin": "fu2",
+		"english": "good fortune",
+		"audios": [
+			"13110807183105_124874_a348b.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "幸福",
+		"pinyin": "xing4_fu2",
+		"english": "blessed",
+		"audios": [
+			"13110807185542_16386_23c12.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "富",
+		"pinyin": "fu4",
+		"english": "rich",
+		"audios": [
+			"13110807183112_16036_5e919.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "丰",
+		"pinyin": "feng1",
+		"english": "fertile",
+		"audios": [
+			"13110807183059_184971_aaf17.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "丰富",
+		"pinyin": "feng1_fu4",
+		"english": "abundant",
+		"audios": [
+			"13110807183056_16032_ff77a.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "丰产",
+		"pinyin": "feng1_chan3",
+		"english": "high yield",
+		"type": "word"
+	},
+	{
+		"hanzi": "邦",
+		"pinyin": "bang1",
+		"english": "state",
+		"audios": [
+			"48200120113030054_570766_f17cc.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "帮",
+		"pinyin": "bang1",
+		"english": "to help",
+		"audios": [
+			"32000101211191402.mp3",
+			"13110807180933_14735_e651d.mp3",
+			"32000101021112020.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "帮助",
+		"pinyin": "bang1_zhu4",
+		"english": "assistance",
+		"audios": [
+			"13110807180933_15476_cb6a9.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "帮忙",
+		"pinyin": "bang1_mang2",
+		"english": "to help",
+		"audios": [
+			"13110807180933_15631_05890.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "韦",
+		"pinyin": "wei2",
+		"english": "to walk off",
+		"audios": [
+			"13110807185316_14709_db3de.mp3",
+			"32000101212130840.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "围",
+		"pinyin": "wei2",
+		"english": "to enclose",
+		"audios": [
+			"13110807185316_14717_db3de.mp3",
+			"32000101021111603.mp3",
+			"32000101211182142.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "周围",
+		"pinyin": "zhou1_wei2",
+		"english": "surroundings",
+		"audios": [
+			"13110807185923_16477_b6fa4.mp3",
+			"/audio/13981688_1372266018137.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "伟",
+		"pinyin": "wei3",
+		"english": "great",
+		"audios": [
+			"13110807185318_27054_4a9da.mp3",
+			"/audio/13943299_1371216999747.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "挂",
+		"pinyin": "gua4",
+		"english": "to hang",
+		"audios": [
+			"13110807183229_16063_2a418.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "挂号",
+		"pinyin": "gua4_hao4",
+		"english": "to take a number",
+		"audios": [
+			"13110807183229_16861_0218f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "封",
+		"pinyin": "feng1",
+		"english": "to seal up",
+		"audios": [
+			"13110807183059_196329_aaf17.mp3",
+			"32000101021035526.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "信封",
+		"pinyin": "xin4_feng1",
+		"english": "envelope",
+		"audios": [
+			"13110807185535_17581_0c1a6.mp3",
+			"/audio/13990621_1371224187405.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "封建",
+		"pinyin": "feng1_jian4",
+		"english": "feudal",
+		"audios": [
+			"13110807183057_18400_f05cd.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "封里",
+		"pinyin": "feng1_li3",
+		"english": "inside front/back cover (of a book)",
+		"type": "word"
+	},
+	{
+		"hanzi": "街",
+		"pinyin": "jie1",
+		"english": "street",
+		"audios": [
+			"32000101211104915.mp3",
+			"13110807183654_14449_cfe2b.mp3",
+			"32000101021035514.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "街道",
+		"pinyin": "jie1_dao4",
+		"english": "street",
+		"audios": [
+			"13110807183652_15738_70532.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "革",
+		"pinyin": "ge2",
+		"english": "cowhide",
+		"audios": [
+			"32000101021064157.mp3",
+			"13110807183200_14534_4e125.mp3",
+			"32000101208182215.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "鞋",
+		"pinyin": "xie2",
+		"english": "shoe",
+		"audios": [
+			"32000101021064606.mp3",
+			"32000101210134600.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "脱鞋",
+		"pinyin": "tuo1_xie2",
+		"english": "take off one's shoes",
+		"type": "word"
+	},
+	{
+		"hanzi": "鞋带",
+		"pinyin": "xie2_dai4",
+		"english": "latchet",
+		"type": "word"
+	},
+	{
+		"hanzi": "双",
+		"pinyin": "shuang1",
+		"english": "twin",
+		"audios": [
+			"32000101021073703.mp3",
+			"13110807185026_14675_69ff1.mp3",
+			"32000101212125706.mp3",
+			"/audio/13997759_1372261680664.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "双方",
+		"pinyin": "shuang1_fang1",
+		"english": "both sides; bilateral",
+		"audios": [
+			"13110807185026_17411_6888d.mp3",
+			"/audio/13988731_1372261727266.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "双号",
+		"pinyin": "shuang1_hao4",
+		"english": "even numbers",
+		"type": "word"
+	},
+	{
+		"hanzi": "炼",
+		"pinyin": "lian4",
+		"english": "to smelt; to refine",
+		"audios": [
+			"32000101212102339.mp3",
+			"13110807184054_24788_37578.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "练",
+		"pinyin": "lian4",
+		"english": "to practice",
+		"audios": [
+			"13110807184054_24409_37578.mp3",
+			"32000101212095316.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "熟练",
+		"pinyin": "shu2_lian4",
+		"english": "experienced",
+		"audios": [
+			"13110807185019_17404_6e85d.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "段",
+		"pinyin": "duan4",
+		"english": "paragraph",
+		"audios": [
+			"13110807182909_15680_a454e.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "手段",
+		"pinyin": "shou3_duan4",
+		"english": "method",
+		"type": "word"
+	},
+	{
+		"hanzi": "锻",
+		"pinyin": "duan4",
+		"english": "to forge",
+		"audios": [
+			"13110807182908_80151_a454e.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "锻炼",
+		"pinyin": "duan4_lian4",
+		"english": "to exercise",
+		"audios": [
+			"13110807182908_15681_ed3ea.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "屯",
+		"pinyin": "tun2",
+		"english": "difficult",
+		"type": "character"
+	},
+	{
+		"hanzi": "顿",
+		"pinyin": "dun4",
+		"english": "to stop",
+		"audios": [
+			"13110807182914_16011_95dfe.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "烦",
+		"pinyin": "fan2",
+		"english": "to be irritated",
+		"audios": [
+			"32000101021073158.mp3",
+			"32000101211171715.mp3",
+			"13110807183033_14654_3058c.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "烦劳",
+		"pinyin": "fan2_lao2",
+		"english": "to trouble (somebody to do something)",
+		"type": "word"
+	}
+]

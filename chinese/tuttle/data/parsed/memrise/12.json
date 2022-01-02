@@ -1,0 +1,472 @@
+[
+	{
+		"hanzi": "年",
+		"pinyin": "nian2",
+		"english": "year",
+		"audios": [
+			"32000101116170005.mp3",
+			"32000101212143048.mp3",
+			"13110807184516_14780_a264e.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "今年",
+		"pinyin": "jin1_nian2",
+		"english": "this year",
+		"audios": [
+			"/audio/13952263_1371211885123.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "去年",
+		"pinyin": "qu4_nian2",
+		"english": "last year",
+		"audios": [
+			"/audio/13969747_1372261423103.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "明年",
+		"pinyin": "ming2_nian2",
+		"english": "next year",
+		"type": "word"
+	},
+	{
+		"hanzi": "没",
+		"pinyin": "mei2",
+		"english": "without",
+		"audios": [
+			"32000101209141007.mp3",
+			"32000101020125741.mp3",
+			"139900000120117234843.mp3",
+			"13110807184219_14201_b06f4.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "没有",
+		"pinyin": "mei2_you3",
+		"english": "to not have",
+		"type": "word"
+	},
+	{
+		"hanzi": "没用",
+		"pinyin": "mei2_yong4",
+		"english": "to be useless",
+		"type": "word"
+	},
+	{
+		"hanzi": "广",
+		"pinyin": "guang3",
+		"english": "vast, lean-to (radical)",
+		"audios": [
+			"13110807183237_3763_9c4ff.mp3",
+			"32000101020084317.mp3",
+			"32000101209130441.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "广大",
+		"pinyin": "guang3_da4",
+		"english": "vast",
+		"audios": [
+			"13110807183236_16880_94033.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "广告",
+		"pinyin": "guang3_gao4",
+		"english": "advertising",
+		"audios": [
+			"13110807183236_16069_64621.mp3",
+			"32000101211170145.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "床",
+		"pinyin": "chuang2",
+		"english": "bed",
+		"audios": [
+			"13110807182727_14495_d028e.mp3",
+			"32000101208151939.mp3",
+			"32000101021063323.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "河床",
+		"pinyin": "he2_chuang2",
+		"english": "riverbed",
+		"type": "word"
+	},
+	{
+		"hanzi": "机床",
+		"pinyin": "ji1_chuang2",
+		"english": "machine tools",
+		"type": "word"
+	},
+	{
+		"hanzi": "床上",
+		"pinyin": "chuang2_shang4",
+		"english": "in bed",
+		"type": "word"
+	},
+	{
+		"hanzi": "长",
+		"pinyin": "zhang3",
+		"english": "to increase",
+		"audios": [
+			"13110807185835_81636_0d106.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "长江",
+		"pinyin": "chang2_jiang1",
+		"english": "Yangtze river",
+		"audios": [
+			"13110807182644_15956_b13a1.mp3",
+			"32000101212143003.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "长大",
+		"pinyin": "zhang3_da4",
+		"english": "to grow up",
+		"audios": [
+			"32000101211185021.mp3",
+			"13110807185834_26840_ceda5.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "生长",
+		"pinyin": "sheng1_zhang3",
+		"english": "grow",
+		"type": "word"
+	},
+	{
+		"hanzi": "班长",
+		"pinyin": "ban1_zhang3",
+		"english": "team leader",
+		"audios": [
+			"13110807180927_34061_8c24d.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "弓",
+		"pinyin": "gong1",
+		"english": "bow",
+		"audios": [
+			"13110807183216_3792_5286a.mp3",
+			"32000101020125855.mp3",
+			"32000101208155425.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "张",
+		"pinyin": "zhang1",
+		"english": "to stretch",
+		"audios": [
+			"32000101020130517.mp3",
+			"13110807185834_14221_6ecb8.mp3",
+			"32000101212102834.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "本",
+		"pinyin": "ben3",
+		"english": "root",
+		"audios": [
+			"13110807180952_13359_de05c.mp3",
+			"32000101210110301.mp3",
+			"32000101020121415.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "本子",
+		"pinyin": "ben3_zi5",
+		"english": "book",
+		"type": "word"
+	},
+	{
+		"hanzi": "本来",
+		"pinyin": "ben3_lai2",
+		"english": "original",
+		"audios": [
+			"13110807180951_15932_029e8.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "本地",
+		"pinyin": "ben3_di4",
+		"english": "local",
+		"type": "word"
+	},
+	{
+		"hanzi": "日本",
+		"pinyin": "ri4_ben3",
+		"english": "Japan",
+		"audios": [
+			"13110807184740_24752_f00b9.mp3",
+			"32000101209115730.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "体",
+		"pinyin": "ti3",
+		"english": "body",
+		"audios": [
+			"13110807185256_13428_6aa85.mp3",
+			"32000101208154856.mp3",
+			"32000101021040905.mp3",
+			"/audio/13960716_1371219466835.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "身体",
+		"pinyin": "shen1_ti3",
+		"english": "human body",
+		"type": "word"
+	},
+	{
+		"hanzi": "个体",
+		"pinyin": "ge4_ti3",
+		"english": "individual",
+		"audios": [
+			"13110807183201_18479_70e02.mp3",
+			"/audio/13938415_1368906352599.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "书",
+		"pinyin": "shu1",
+		"english": "book",
+		"audios": [
+			"32000101116170124.mp3",
+			"32000101208155136.mp3",
+			"13110807185019_14143_40072.mp3",
+			"/audio/13920731_1368194225533.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "书法",
+		"pinyin": "shu1_fa3",
+		"english": "calligraphy",
+		"audios": [
+			"32000101208161841.mp3",
+			"13110807185016_19510_3f25d.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "立",
+		"pinyin": "li4",
+		"english": "to stand",
+		"audios": [
+			"32000101212102627.mp3",
+			"13110807184050_14045_ac1ff.mp3",
+			"32000101020083748.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "自立",
+		"pinyin": "zi4_li4",
+		"english": "self-help",
+		"type": "word"
+	},
+	{
+		"hanzi": "树立",
+		"pinyin": "shu4_li4",
+		"english": "to plant",
+		"type": "word"
+	},
+	{
+		"hanzi": "位",
+		"pinyin": "wei4",
+		"english": "position",
+		"audios": [
+			"32000101021022403.mp3",
+			"13110807185323_14278_89249.mp3",
+			"/audio/13985004_1371218812454.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "地位",
+		"pinyin": "di4_wei4",
+		"english": "position",
+		"type": "word"
+	},
+	{
+		"hanzi": "拉",
+		"pinyin": "la1",
+		"english": "to pull",
+		"audios": [
+			"13110807184028_16170_564b1.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "啦",
+		"pinyin": "la;_la1;_la2",
+		"english": "a contraction of 了 (le) and 啊 (a)",
+		"type": "character"
+	},
+	{
+		"hanzi": "火",
+		"pinyin": "huo3",
+		"english": "fire",
+		"audios": [
+			"32000101020071930.mp3",
+			"13110807183416_13995_596ee.mp3",
+			"32000101209095047.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "火车",
+		"pinyin": "huo3_che1",
+		"english": "train",
+		"audios": [
+			"32000101212125147.mp3",
+			"32000101117103457.mp3",
+			"13110807183414_14993_fdf2e.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "灯",
+		"pinyin": "deng1",
+		"english": "lamp",
+		"audios": [
+			"32000101021111451.mp3",
+			"32000101209125555.mp3",
+			"13110807182840_14714_240f3.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "电灯",
+		"pinyin": "dian4_deng1",
+		"english": "electric light",
+		"type": "word"
+	},
+	{
+		"hanzi": "占",
+		"pinyin": "zhan1;_zhan4",
+		"english": "to divine",
+		"audios": [
+			"13110807185829_14002_f93e5.mp3",
+			"/audio/13970850_1372259789367.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "站",
+		"pinyin": "zhan4",
+		"english": "station",
+		"audios": [
+			"13110807185833_14285_3b00f.mp3",
+			"32000101021022629.mp3",
+			"32000101210174010.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "车站",
+		"pinyin": "che1_zhan4",
+		"english": "train station",
+		"type": "word"
+	},
+	{
+		"hanzi": "点",
+		"pinyin": "dian3",
+		"english": "a bit",
+		"audios": [
+			"32000101020072441.mp3",
+			"13110807182848_14003_dc50b.mp3",
+			"32000101208112109.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "点心",
+		"pinyin": "dian3_xin1",
+		"english": "dim sum",
+		"audios": [
+			"32000101116212550.mp3",
+			"32000101208202757.mp3",
+			"13110807182847_15007_cfa0d.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "地点",
+		"pinyin": "di4_dian3",
+		"english": "place",
+		"type": "word"
+	},
+	{
+		"hanzi": "一点儿",
+		"pinyin": "yi1_dian3_er5",
+		"english": "a bit",
+		"audios": [
+			"/audio/14018080_1364227462986.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "有点儿",
+		"pinyin": "you3_dian3_er5",
+		"english": "some",
+		"type": "word"
+	},
+	{
+		"hanzi": "店",
+		"pinyin": "dian4",
+		"english": "shop",
+		"audios": [
+			"32000101210154025.mp3",
+			"13110807182852_14288_8a17b.mp3",
+			"32000101021022708.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "书店",
+		"pinyin": "shu1_dian4",
+		"english": "bookstore",
+		"audios": [
+			"/audio/13917710_1368194291811.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "酒店",
+		"pinyin": "jiu3_dian4",
+		"english": "hotel",
+		"audios": [
+			"32000101209112911.mp3",
+			"13110807183724_26843_eaae8.mp3"
+		],
+		"type": "word"
+	}
+]

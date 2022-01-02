@@ -1,0 +1,529 @@
+[
+	{
+		"hanzi": "反",
+		"pinyin": "fan3",
+		"english": "to rebel",
+		"audios": [
+			"32000101212100112.mp3",
+			"13110807183038_14351_40440.mp3",
+			"32000101021024611.mp3",
+			"32000120103105108.mp3",
+			"/audio/13941103_1372261918141.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "反对",
+		"pinyin": "fan3_dui4",
+		"english": "to fight against",
+		"audios": [
+			"13110807183033_16021_7b930.mp3",
+			"/audio/13920442_1372261987747.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "反动",
+		"pinyin": "fan3_dong4",
+		"english": "countermovement",
+		"audios": [
+			"/audio/13938618_1372261953336.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "饭",
+		"pinyin": "fan4",
+		"english": "rice (cooked or boiled)",
+		"audios": [
+			"13110807183039_14352_ca975.mp3",
+			"32000120103105139.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "午饭",
+		"pinyin": "wu3_fan4",
+		"english": "lunch",
+		"audios": [
+			"/audio/14001094_1372259025316.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "饭店",
+		"pinyin": "fan4_dian4",
+		"english": "restaurant",
+		"audios": [
+			"32000101210105343.mp3",
+			"13110807183038_26844_21a89.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "板",
+		"pinyin": "ban3",
+		"english": "board",
+		"audios": [
+			"32000101021024651.mp3",
+			"13110807180928_14354_6a0de.mp3",
+			"32000101208154119.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "老板",
+		"pinyin": "lao3_ban3",
+		"english": "boss",
+		"audios": [
+			"13110807184034_17095_f45a7.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "米",
+		"pinyin": "mi3",
+		"english": "rice",
+		"audios": [
+			"32000101210105529.mp3",
+			"13110807184225_13476_f8498.mp3",
+			"32000101020075404.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "大米",
+		"pinyin": "da4_mi3",
+		"english": "rice",
+		"type": "word"
+	},
+	{
+		"hanzi": "米饭",
+		"pinyin": "mi3_fan4",
+		"english": "cooked rice",
+		"audios": [
+			"13110807184224_54264_43c77.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "青",
+		"pinyin": "qing1",
+		"english": "green",
+		"audios": [
+			"13110807184736_14000_d2c51.mp3",
+			"32000101020072238.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "青年",
+		"pinyin": "_qing1_nian2",
+		"english": "young people",
+		"type": "word"
+	},
+	{
+		"hanzi": "年青",
+		"pinyin": "nian2_qing1",
+		"english": "young",
+		"type": "word"
+	},
+	{
+		"hanzi": "请",
+		"pinyin": "qing3",
+		"english": "please",
+		"audios": [
+			"32000101020072250.mp3",
+			"32000101210092409.mp3",
+			"13110807184740_14001_abe62.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "请问",
+		"pinyin": "qing3_wen4",
+		"english": "may I ask",
+		"audios": [
+			"13110807184740_27081_b77ca.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "清",
+		"pinyin": "qing1",
+		"english": "clear",
+		"audios": [
+			"32000101208165803.mp3",
+			"13110807184736_14211_d2c51.mp3",
+			"32000101020130139.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "晴",
+		"pinyin": "qing2",
+		"english": "clear (weather)",
+		"audios": [
+			"13110807184738_14210_7369a.mp3",
+			"32000101208165906.mp3",
+			"32000101020130116.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "晴天",
+		"pinyin": "qing2_tian1",
+		"english": "sunny day",
+		"type": "word"
+	},
+	{
+		"hanzi": "情",
+		"pinyin": "qing2",
+		"english": "emotion",
+		"audios": [
+			"32000101209092027.mp3",
+			"13110807184739_14209_7369a.mp3",
+			"32000101020130103.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "事情",
+		"pinyin": "shi4_qing5",
+		"english": "affair",
+		"audios": [
+			"13110807185002_17385_00aae.mp3",
+			"/audio/13952507_1368193628072.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "同情",
+		"pinyin": "tong2_qing2",
+		"english": "compassion",
+		"audios": [
+			"13110807185310_16342_5e6a4.mp3",
+			"/audio/13943465_1372264669117.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "心情",
+		"pinyin": "xin1_qing2",
+		"english": "mood",
+		"audios": [
+			"13110807185532_16378_691bd.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "睛",
+		"pinyin": "jing1",
+		"english": "eyeball",
+		"audios": [
+			"32000101209094037.mp3",
+			"13110807183719_14097_b5008.mp3",
+			"32000101020122249.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "眼睛",
+		"pinyin": "yan3_jing1",
+		"english": "eyes",
+		"audios": [
+			"32000101209093740.mp3",
+			"32000101117114651.mp3",
+			"13110807185743_204510_474c3.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "精",
+		"pinyin": "jing1",
+		"english": "refined",
+		"audios": [
+			"32000101210105040.mp3",
+			"32000101021073316.mp3",
+			"13110807183718_14661_b5008.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "精力",
+		"pinyin": "jing1_li4",
+		"english": "energy (as in effort)",
+		"audios": [
+			"13110807183714_17034_2a504.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "亮",
+		"pinyin": "liang4",
+		"english": "light",
+		"audios": [
+			"13110807184057_14073_fc91a.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "月亮",
+		"pinyin": "yue4_liang5",
+		"english": "moon",
+		"audios": [
+			"32000101209135321.mp3",
+			"13110807185906_15895_6fbc6.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "亭",
+		"pinyin": "ting2",
+		"english": "pavilion",
+		"audios": [
+			"/audio/13959144_1368191183586.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "停",
+		"pinyin": "ting2",
+		"english": "to stop",
+		"audios": [
+			"32000101212102809.mp3",
+			"32000101021113500.mp3",
+			"13110807185308_14916_ac35a.mp3",
+			"/audio/14008915_1371226345088.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "单",
+		"pinyin": "dan1",
+		"english": "single",
+		"audios": [
+			"32000101021063306.mp3",
+			"13110807182825_14494_6b6ff.mp3",
+			"/audio/14018066_1372259494049.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "单位",
+		"pinyin": "dan1_wei4",
+		"english": "unit",
+		"audios": [
+			"13110807182824_16694_7b376.mp3",
+			"/audio/13994388_1372259519137.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "单词",
+		"pinyin": "dan1_ci2",
+		"english": "word",
+		"audios": [
+			"/audio/13948191_1372259572233.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "单人床",
+		"pinyin": "dan1_ren2_chuang2",
+		"english": "single bed",
+		"type": "word"
+	},
+	{
+		"hanzi": "间",
+		"pinyin": "jian1",
+		"english": "space",
+		"audios": [
+			"32000101020130229.mp3",
+			"32000101210173345.mp3",
+			"13110807183631_14215_fb517.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "房间",
+		"pinyin": "fang2_jian1",
+		"english": "room",
+		"audios": [
+			"13110807183041_15498_33fe8.mp3",
+			"32000101210110228.mp3",
+			"32000101117111306.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "中间",
+		"pinyin": "zhong1_jian1",
+		"english": "in the middle of",
+		"audios": [
+			"13110807185916_15904_ce1ec.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "时间",
+		"pinyin": "shi2_jian1",
+		"english": "time",
+		"audios": [
+			"13110807184951_15564_f87a2.mp3",
+			"32000101211165654.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "之间",
+		"pinyin": "zhi1_jian1",
+		"english": "between",
+		"audios": [
+			"/audio/13921131_1368823517060.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "洗手间",
+		"pinyin": "xi3_shou3_jian1",
+		"english": "toilet",
+		"audios": [
+			"32000101212105336.mp3",
+			"13110807185453_15029_72146.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "简",
+		"pinyin": "jian3",
+		"english": "simplified",
+		"audios": [
+			"32000101021112315.mp3",
+			"13110807183634_14748_2473f.mp3",
+			"32000101210154743.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "简单",
+		"pinyin": "jian3_dan1",
+		"english": "simple",
+		"audios": [
+			"13110807183631_15730_08bad.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "合",
+		"pinyin": "he2",
+		"english": "to shut (also: to join)",
+		"audios": [
+			"13110807183343_13364_bef2f.mp3",
+			"32000101212102033.mp3",
+			"32000101020125501.mp3",
+			"/audio/13973981_1372264426651.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "合理",
+		"pinyin": "he2_li3",
+		"english": "rational",
+		"audios": [
+			"13110807183340_16906_eec2b.mp3",
+			"/audio/13969487_1372264533811.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "合作",
+		"pinyin": "he2_zuo4",
+		"english": "cooperation",
+		"audios": [
+			"13110807183342_16911_fec44.mp3",
+			"/audio/14006491_1372264455894.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "合同",
+		"pinyin": "he2_tong5",
+		"english": "contract",
+		"audios": [
+			"13110807183341_16908_83eb0.mp3",
+			"/audio/13947284_1372264465275.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "拿",
+		"pinyin": "na2",
+		"english": "to hold",
+		"audios": [
+			"32000101211191626.mp3",
+			"13110807184505_15783_310f4.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "拿去",
+		"pinyin": "na2_qu4",
+		"english": "to take away",
+		"type": "word"
+	},
+	{
+		"hanzi": "拾",
+		"pinyin": "shi2",
+		"english": "to pick up",
+		"audios": [
+			"13110807184956_19458_6040d.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "哈",
+		"pinyin": "ha1",
+		"english": "laughter",
+		"audios": [
+			"13110807183326_16896_c374c.mp3",
+			"/audio/13982506_1372266999251.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "哈哈",
+		"pinyin": "ha1_ha1",
+		"english": "sound of laughter",
+		"type": "word"
+	},
+	{
+		"hanzi": "给",
+		"pinyin": "gei3",
+		"english": "to give",
+		"audios": [
+			"13110807183204_14194_f2aac.mp3",
+			"32000101211184145.mp3",
+			"32000101020125514.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "答",
+		"pinyin": "da1;_da2",
+		"english": "to answer",
+		"audios": [
+			"13110807182808_76178_4e849.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "回答",
+		"pinyin": "hui2_da2",
+		"english": "to answer",
+		"audios": [
+			"13110807183409_15517_958ac.mp3"
+		],
+		"type": "word"
+	}
+]

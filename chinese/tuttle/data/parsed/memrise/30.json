@@ -1,0 +1,574 @@
+[
+	{
+		"hanzi": "节",
+		"pinyin": "jie2",
+		"english": "festival",
+		"audios": [
+			"13110807183657_160832_0c913.mp3",
+			"32000101021064005.mp3",
+			"32000101209094532.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "节目",
+		"pinyin": "jie2_mu4",
+		"english": "program",
+		"audios": [
+			"13110807183656_15740_f0799.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "节日",
+		"pinyin": "jie2_ri4",
+		"english": "holiday; festival",
+		"audios": [
+			"13110807183656_15741_cff86.mp3",
+			"32000101209112201.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "却",
+		"pinyin": "que4",
+		"english": "but",
+		"audios": [
+			"13110807184752_16257_17da0.mp3",
+			"/audio/13991627_1372260605223.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "脚",
+		"pinyin": "jiao3",
+		"english": "foot",
+		"audios": [
+			"32000101209103127.mp3",
+			"13110807183648_15735_5ccb1.mp3",
+			"32000101116172225.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "脚步",
+		"pinyin": "jiao3_bu4",
+		"english": "footstep",
+		"type": "word"
+	},
+	{
+		"hanzi": "脚灯",
+		"pinyin": "jia3_deng1",
+		"english": "footlight",
+		"type": "word"
+	},
+	{
+		"hanzi": "报",
+		"pinyin": "bao4",
+		"english": "to announce",
+		"audios": [
+			"13110807180944_14119_63d20.mp3",
+			"32000101020123327.mp3",
+			"32000101211170347.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "报名",
+		"pinyin": "bao4_ming2",
+		"english": "to sign up",
+		"audios": [
+			"13110807180943_15929_18e50.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "报道",
+		"pinyin": "bao4_dao4",
+		"english": "report",
+		"audios": [
+			"13110807180941_15928_ed340.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "服",
+		"pinyin": "fu2",
+		"english": "to serve",
+		"audios": [
+			"32000101021063650.mp3",
+			"32000101212101841.mp3",
+			"13110807183106_14510_a348b.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "服务",
+		"pinyin": "fu2_wu4",
+		"english": "to serve / service",
+		"type": "word"
+	},
+	{
+		"hanzi": "衣服",
+		"pinyin": "yi1_fu5",
+		"english": "clothes",
+		"audios": [
+			"13110807185757_15453_714cc.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "服务员",
+		"pinyin": "fu2_wu4_yuan2",
+		"english": "waiter",
+		"audios": [
+			"32000101212130819.mp3",
+			"13110807183104_15500_f8473.mp3",
+			"32000101117115930.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "通",
+		"pinyin": "tong1",
+		"english": "through",
+		"audios": [
+			"13110807185309_26762_9b3e3.mp3",
+			"32000101211165215.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "通过",
+		"pinyin": "tong1_guo4",
+		"english": "to pass through",
+		"audios": [
+			"13110807185308_16340_bc501.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "通知",
+		"pinyin": "tong1_zhi1",
+		"english": "to notify",
+		"type": "word"
+	},
+	{
+		"hanzi": "交通",
+		"pinyin": "jiao1_tong1",
+		"english": "traffic, to be connected",
+		"audios": [
+			"13110807183645_16128_174e6.mp3",
+			"/audio/13984827_1368189046806.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "痛快",
+		"pinyin": "tong4_kuai4;_tong4_kuai5",
+		"english": "overjoyed",
+		"audios": [
+			"13110807185314_17472_9c711.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "痛苦",
+		"pinyin": "tong4_ku3",
+		"english": "pain",
+		"audios": [
+			"13110807185313_17471_9adbc.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "危",
+		"pinyin": "wei1",
+		"english": "danger",
+		"audios": [
+			"/audio/13988792_1372260509922.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "危机",
+		"pinyin": "wei1_ji1",
+		"english": "crisis",
+		"audios": [
+			"13110807185313_19688_cffec.mp3",
+			"/audio/13975123_1372260539669.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "顾",
+		"pinyin": "gu4",
+		"english": "to look after",
+		"audios": [
+			"13110807183228_81105_37ce6.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "顾客",
+		"pinyin": "gu4_ke4",
+		"english": "client",
+		"audios": [
+			"13110807183226_16061_2025f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "亡",
+		"pinyin": "wang2",
+		"english": "to die",
+		"audios": [
+			"13110807185308_14106_e8de5.mp3",
+			"32000101211191451.mp3",
+			"32000101020122626.mp3",
+			"/audio/13998360_1368188442813.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "忙",
+		"pinyin": "mang2",
+		"english": "to be busy",
+		"audios": [
+			"32000101020122813.mp3",
+			"32000101211171052.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "忘",
+		"pinyin": "wang4",
+		"english": "to forget",
+		"audios": [
+			"13110807185312_24413_70079.mp3",
+			"32000101211184007.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "忘记",
+		"pinyin": "wang4_ji4",
+		"english": "to forget",
+		"audios": [
+			"13110807185311_15845_7e699.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "望",
+		"pinyin": "wang4",
+		"english": "to hope",
+		"audios": [
+			"32000101209112512.mp3",
+			"13110807185312_24605_70079.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "雨",
+		"pinyin": "yu3",
+		"english": "rain",
+		"audios": [
+			"32000101021022743.mp3",
+			"32000101210104642.mp3",
+			"13110807185854_14291_02ab8.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "雨衣",
+		"pinyin": "yu3_yi1",
+		"english": "raincoat",
+		"type": "word"
+	},
+	{
+		"hanzi": "下雨",
+		"pinyin": "xia4_yu3",
+		"english": "to rain",
+		"audios": [
+			"13110807185459_15439_797e3.mp3",
+			"/audio/13955614_1364232721518.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "雪",
+		"pinyin": "xue3",
+		"english": "snow",
+		"audios": [
+			"32000101021072016.mp3",
+			"13110807185559_14643_6f6fc.mp3",
+			"32000101210172440.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "雪人",
+		"pinyin": "xue3_ren2",
+		"english": "snowman",
+		"type": "word"
+	},
+	{
+		"hanzi": "下雪",
+		"pinyin": "xia4_xue3",
+		"english": "to snow",
+		"audios": [
+			"/audio/13914442_1364232727226.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "参",
+		"pinyin": "can1",
+		"english": "to join",
+		"audios": [
+			"13110807182633_14562_dc4e0.mp3",
+			"32000101021064921.mp3",
+			"32000101211192335.mp3",
+			"/audio/14006034_1372261448381.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "参观",
+		"pinyin": "can1_guan1",
+		"english": "to visit",
+		"audios": [
+			"13110807182631_15952_1344d.mp3",
+			"/audio/13958113_1372261530187.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "参加",
+		"pinyin": "can1_jia1",
+		"english": "to participate",
+		"audios": [
+			"13110807182632_15647_c3a92.mp3",
+			"32000101211194343.mp3",
+			"/audio/13958306_1372261463481.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "景",
+		"pinyin": "jing3",
+		"english": "view",
+		"audios": [
+			"32000101212130440.mp3",
+			"32000101021023520.mp3",
+			"13110807183720_14317_48cac.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "影",
+		"pinyin": "ying3",
+		"english": "shadow",
+		"audios": [
+			"32000101210133346.mp3",
+			"13110807185832_14319_bf610.mp3",
+			"32000101021023626.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "影响",
+		"pinyin": "ying3_xiang3",
+		"english": "an influence",
+		"audios": [
+			"13110807185832_15887_2961b.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "电影",
+		"pinyin": "dian4_ying3",
+		"english": "film",
+		"audios": [
+			"32000101117115041.mp3",
+			"13110807182851_15019_6b7d5.mp3",
+			"32000101209094849.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "影子",
+		"pinyin": "ying3_zi5",
+		"english": "shadow",
+		"type": "word"
+	},
+	{
+		"hanzi": "合影",
+		"pinyin": "he2_ying3",
+		"english": "group photo",
+		"audios": [
+			"13110807183342_16910_9ca8c.mp3",
+			"/audio/13917471_1372264484486.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "电影院",
+		"pinyin": "dian4_ying3_yuan4",
+		"english": "cinema",
+		"type": "word"
+	},
+	{
+		"hanzi": "喝",
+		"pinyin": "he1",
+		"english": "to drink",
+		"audios": [
+			"32000101211181845.mp3",
+			"13110807183338_14405_61f9e.mp3",
+			"32000101021034134.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "喝酒",
+		"pinyin": "he1_jiu3",
+		"english": "drink alcohol",
+		"type": "word"
+	},
+	{
+		"hanzi": "喝汤",
+		"pinyin": "he1_tang1",
+		"english": "drink soup",
+		"type": "word"
+	},
+	{
+		"hanzi": "渴",
+		"pinyin": "ke3",
+		"english": "thirsty",
+		"type": "character"
+	},
+	{
+		"hanzi": "口渴",
+		"pinyin": "kou3_ke3",
+		"english": "thirsty",
+		"audios": [
+			"/audio/13944379_1372263221182.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "继",
+		"pinyin": "ji4",
+		"english": "to continue",
+		"type": "character"
+	},
+	{
+		"hanzi": "世",
+		"pinyin": "shi4",
+		"english": "generation",
+		"type": "character"
+	},
+	{
+		"hanzi": "世纪",
+		"pinyin": "shi4_ji4",
+		"english": "century",
+		"audios": [
+			"13110807185001_16296_290a3.mp3",
+			"/audio/14007468_1369241301482.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "去世",
+		"pinyin": "qu4_shi4",
+		"english": "passed away",
+		"audios": [
+			"13110807184745_17288_829a7.mp3",
+			"32000101211194444.mp3",
+			"/audio/13926587_1372261413164.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "介",
+		"pinyin": "jie4",
+		"english": "to introduce",
+		"audios": [
+			"13110807183704_13384_012a8.mp3",
+			"32000101212103437.mp3",
+			"32000101021040305.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "界",
+		"pinyin": "jie4",
+		"english": "world",
+		"audios": [
+			"32000101212133428.mp3",
+			"32000101021040315.mp3",
+			"13110807183704_13417_012a8.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "世界",
+		"pinyin": "shi4_jie4",
+		"english": "the world",
+		"audios": [
+			"/audio/13944564_1369241154387.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "亦",
+		"pinyin": "yi4",
+		"english": "also (also: armpit)",
+		"audios": [
+			"32000101021073127.mp3",
+			"32000101208143332.mp3",
+			"13110807185819_14651_28f2b.mp3",
+			"/audio/13936108_1368189765985.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "变",
+		"pinyin": "bian4",
+		"english": "to change (to transform, to become)",
+		"audios": [
+			"13110807181008_65279_7375c.mp3",
+			"/audio/13974255_1372262864223.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "变成",
+		"pinyin": "bian4_cheng2",
+		"english": "to change into",
+		"audios": [
+			"/audio/13972559_1372262939631.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "改变",
+		"pinyin": "gai3_bian4",
+		"english": "to change",
+		"audios": [
+			"13110807183143_16041_816ce.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "变化",
+		"pinyin": "bian4_hua4",
+		"english": "change",
+		"audios": [
+			"13110807181006_15640_d4ddd.mp3",
+			"/audio/13934032_1372262874467.mp3"
+		],
+		"type": "word"
+	}
+]

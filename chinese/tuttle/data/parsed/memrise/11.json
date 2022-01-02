@@ -1,0 +1,516 @@
+[
+	{
+		"hanzi": "厂",
+		"pinyin": "chang3",
+		"english": "factory, slope (radical meaning)",
+		"audios": [
+			"32000101210155655.mp3",
+			"13110807182646_3739_1149f.mp3",
+			"32000101117102559.mp3",
+			"/audio/13914512_1372260702702.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "工厂",
+		"pinyin": "gong1_chang3",
+		"english": "factory",
+		"audios": [
+			"13110807183208_16835_10f12.mp3",
+			"32000101209094207.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "后",
+		"pinyin": "hou4",
+		"english": "behind",
+		"audios": [
+			"32000101021023913.mp3",
+			"32000101208152616.mp3",
+			"13110807183351_14333_3639c.mp3",
+			"/audio/13985577_1372264977443.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "后边",
+		"pinyin": "hou4_bian1",
+		"english": "behind",
+		"audios": [
+			"/audio/13926727_1372265103930.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "以后",
+		"pinyin": "yi3_hou4",
+		"english": "after",
+		"audios": [
+			"13110807185810_15881_b12ab.mp3",
+			"32000101208124228.mp3",
+			"/audio/13987359_1371214239888.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "后天",
+		"pinyin": "hou4_tian1",
+		"english": "the day after tomorrow",
+		"audios": [
+			"13110807183350_24184_b4e5e.mp3",
+			"32000101211163830.mp3",
+			"/audio/13986064_1372265010577.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "而",
+		"pinyin": "er2",
+		"english": "and yet, beard (radical)",
+		"audios": [
+			"32000101020124037.mp3",
+			"13110807183000_14142_6ed04.mp3",
+			"32000101208151633.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "从而",
+		"pinyin": "cong2_er2",
+		"english": "as a result",
+		"audios": [
+			"13110807182735_16666_9e544.mp3",
+			"/audio/13936066_1371213620361.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "而后",
+		"pinyin": "er2_hou4",
+		"english": "after that",
+		"type": "word"
+	},
+	{
+		"hanzi": "找",
+		"pinyin": "zhao3",
+		"english": "to look for",
+		"audios": [
+			"32000101020130625.mp3",
+			"32000101211193221.mp3",
+			"13110807185838_14228_86ed1.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "找到",
+		"pinyin": "zhao3_dao4",
+		"english": "to find",
+		"type": "word"
+	},
+	{
+		"hanzi": "打",
+		"pinyin": "da3",
+		"english": "to hit",
+		"audios": [
+			"32000101211191531.mp3",
+			"13110807182815_14551_80b29.mp3",
+			"32000101021064615.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "打动",
+		"pinyin": "da3_dong4",
+		"english": "to be moved",
+		"type": "word"
+	},
+	{
+		"hanzi": "打倒",
+		"pinyin": "da3_dao3",
+		"english": "to overthrow",
+		"type": "word"
+	},
+	{
+		"hanzi": "对",
+		"pinyin": "dui4",
+		"english": "against, correct",
+		"audios": [
+			"13110807182913_14244_4edf6.mp3",
+			"32000101208124511.mp3",
+			"32000101020131131.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "对手",
+		"pinyin": "dui4_shou3",
+		"english": "opponent",
+		"audios": [
+			"13110807182911_16743_9f09b.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "对了",
+		"pinyin": "dui4_le5",
+		"english": "right",
+		"type": "word"
+	},
+	{
+		"hanzi": "树",
+		"pinyin": "shu4",
+		"english": "tree",
+		"audios": [
+			"13110807185023_15821_83b40.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "树干",
+		"pinyin": "shu4_gan4",
+		"english": "tree trunk",
+		"type": "word"
+	},
+	{
+		"hanzi": "男",
+		"pinyin": "nan2",
+		"english": "male",
+		"audios": [
+			"13110807184511_13376_cffba.mp3",
+			"32000101020075323.mp3",
+			"32000101209133138.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "男人",
+		"pinyin": "nan2_ren2",
+		"english": "man",
+		"audios": [
+			"13110807184510_15546_18431.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "里",
+		"pinyin": "li3",
+		"english": "village (also: in, inside)",
+		"audios": [
+			"13110807184045_13355_df119.mp3",
+			"32000101020124153.mp3",
+			"32000101212130506.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "里边",
+		"pinyin": "li3_bian1",
+		"english": "inside",
+		"type": "word"
+	},
+	{
+		"hanzi": "这里",
+		"pinyin": "zhe4_li3;_zhe4_li5",
+		"english": "here",
+		"audios": [
+			"32000101209111715.mp3",
+			"13110807185841_24819_e24f7.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "哪里",
+		"pinyin": "na3_li5",
+		"english": "where",
+		"type": "word"
+	},
+	{
+		"hanzi": "公里",
+		"pinyin": "gong1_li3",
+		"english": "kilometer",
+		"type": "word"
+	},
+	{
+		"hanzi": "理",
+		"pinyin": "li3",
+		"english": "logic",
+		"audios": [
+			"32000101020124310.mp3",
+			"32000101209131836.mp3",
+			"13110807184044_13395_df119.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "道理",
+		"pinyin": "dao4_li3",
+		"english": "reason, sense",
+		"audios": [
+			"13110807182836_16708_4cd8c.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "电",
+		"pinyin": "dian4",
+		"english": "electricity",
+		"audios": [
+			"32000101020072524.mp3",
+			"32000101209091755.mp3",
+			"13110807182852_14778_8a17b.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "电车",
+		"pinyin": "dian4_che1",
+		"english": "tram",
+		"audios": [
+			"13110807182849_26849_1b5a4.mp3",
+			"32000101212125210.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "同",
+		"pinyin": "tong2",
+		"english": "the same",
+		"audios": [
+			"32000101211164404.mp3",
+			"13110807185312_24180_108a9.mp3",
+			"/audio/13918325_1372264620140.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "同时",
+		"pinyin": "tong2_shi2",
+		"english": "the same time",
+		"audios": [
+			"13110807185310_17468_e951b.mp3",
+			"32000101211164431.mp3",
+			"/audio/13993663_1372264679250.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "同学",
+		"pinyin": "tong2_xue2",
+		"english": "classmate",
+		"audios": [
+			"32000101208165415.mp3",
+			"13110807185311_15431_c3c8a.mp3",
+			"/audio/13994611_1372264638909.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "不同",
+		"pinyin": "bu4_tong2",
+		"english": "different",
+		"audios": [
+			"/audio/13970592_1364233693027.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "同样",
+		"pinyin": "tong2_yang4",
+		"english": "same",
+		"type": "word"
+	},
+	{
+		"hanzi": "心",
+		"pinyin": "xin1",
+		"english": "heart",
+		"audios": [
+			"32000101116165428.mp3",
+			"13110807185535_14788_eefc1.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "安心",
+		"pinyin": "an1_xin1",
+		"english": "to feel at ease",
+		"audios": [
+			"13110807180820_34048_9f5ae.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "中心",
+		"pinyin": "zhong1_xin1",
+		"english": "centre",
+		"audios": [
+			"13110807185918_17753_59230.mp3",
+			"32000101117104810.mp3",
+			"32000101208163056.mp3",
+			"/audio/13965877_1368910816459.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "用心",
+		"pinyin": "yong4_xin1",
+		"english": "sincerely",
+		"type": "word"
+	},
+	{
+		"hanzi": "小心",
+		"pinyin": "xiao3_xin1",
+		"english": "be careful",
+		"audios": [
+			"13110807185524_15860_6d9ec.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "必",
+		"pinyin": "bi4",
+		"english": "certainly",
+		"audios": [
+			"32000101020122755.mp3",
+			"13110807181002_14109_a161c.mp3",
+			"32000101208163338.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "必要",
+		"pinyin": "bi4_yao4",
+		"english": "necessary",
+		"audios": [
+			"13110807181000_16542_56390.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "不必",
+		"pinyin": "bu2_bi4",
+		"english": "need not",
+		"audios": [
+			"13110807181027_16561_9f2fa.mp3",
+			"/audio/13937143_1364234468826.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "相",
+		"pinyin": "xiang1",
+		"english": "each other",
+		"audios": [
+			"32000120429133816.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "相同",
+		"pinyin": "xiang1_tong2",
+		"english": "identical",
+		"audios": [
+			"13110807185512_15857_d81f1.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "想",
+		"pinyin": "xiang3",
+		"english": "to think",
+		"audios": [
+			"32000101212103613.mp3",
+			"32000101021023303.mp3",
+			"13110807185515_14309_79e98.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "理想",
+		"pinyin": "li3_xiang3",
+		"english": "a dream",
+		"audios": [
+			"13110807184043_16183_2d110.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "想法",
+		"pinyin": "xiang3_fa3",
+		"english": "way of thinking",
+		"type": "word"
+	},
+	{
+		"hanzi": "想一下",
+		"pinyin": "xiang3_yi1_xia4",
+		"english": "to think",
+		"type": "word"
+	},
+	{
+		"hanzi": "思",
+		"pinyin": "si1",
+		"english": "to think",
+		"audios": [
+			"32000101021032834.mp3",
+			"13110807185034_14379_ab9a9.mp3",
+			"32000101212103632.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "思想",
+		"pinyin": "si1_xiang3",
+		"english": "thought",
+		"audios": [
+			"32000101211165012.mp3",
+			"13110807185033_17420_a3041.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "今",
+		"pinyin": "jin1",
+		"english": "present",
+		"audios": [
+			"13110807183705_14191_ad3af.mp3",
+			"32000101020070657.mp3",
+			"32000101210094727.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "今天",
+		"pinyin": "jin1_tian1",
+		"english": "today",
+		"type": "word"
+	},
+	{
+		"hanzi": "今后",
+		"pinyin": "jin1_hou4",
+		"english": "henceforth",
+		"audios": [
+			"/audio/14014286_1371210762178.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "念",
+		"pinyin": "nian4",
+		"english": "to read (also: to think of)",
+		"audios": [
+			"13110807184517_14195_036e2.mp3",
+			"32000101212103652.mp3",
+			"32000101020125527.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "想念",
+		"pinyin": "xiang3_nian4",
+		"english": "to miss",
+		"audios": [
+			"13110807185514_17556_7fd17.mp3"
+		],
+		"type": "word"
+	}
+]

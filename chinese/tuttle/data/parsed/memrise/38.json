@@ -1,0 +1,581 @@
+[
+	{
+		"hanzi": "昔",
+		"pinyin": "xi1",
+		"english": "the old days",
+		"audios": [
+			"32000101211164229.mp3",
+			"13110807185452_14572_ab50d.mp3",
+			"32000101021065115.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "错",
+		"pinyin": "cuo4",
+		"english": "mistake",
+		"audios": [
+			"32000101209134950.mp3",
+			"32000101021065559.mp3",
+			"13110807182740_14589_7da02.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "错误",
+		"pinyin": "cuo4_wu4",
+		"english": "error",
+		"type": "word"
+	},
+	{
+		"hanzi": "不错",
+		"pinyin": "bu4_cuo4;_bu2_cuo4",
+		"english": "not bad (pretty good)",
+		"audios": [
+			"32000101210073020.mp3",
+			"/audio/13999643_1369240788984.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "借",
+		"pinyin": "jie4",
+		"english": "to borrow (also: to lend)",
+		"audios": [
+			"13110807183704_15744_012a8.mp3",
+			"/audio/13941465_1371225320684.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "借用",
+		"pinyin": "jie4_yong4",
+		"english": "to borrow sth",
+		"type": "word"
+	},
+	{
+		"hanzi": "散",
+		"pinyin": "san4;_san3",
+		"english": "to break up",
+		"audios": [
+			"81252000120312191618.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "散布",
+		"pinyin": "san4_bu4",
+		"english": "to scatter",
+		"type": "word"
+	},
+	{
+		"hanzi": "船",
+		"pinyin": "chuan2",
+		"english": "ship",
+		"audios": [
+			"13110807182726_14444_f7fbf.mp3",
+			"32000101021035421.mp3",
+			"32000101210133942.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "汽船",
+		"pinyin": "qi4_chuan2",
+		"english": "steamboat",
+		"type": "word"
+	},
+	{
+		"hanzi": "船场",
+		"pinyin": "chuan2_chang3",
+		"english": "shipyard",
+		"type": "word"
+	},
+	{
+		"hanzi": "船员",
+		"pinyin": "chuan2_yuan2",
+		"english": "sailor",
+		"type": "word"
+	},
+	{
+		"hanzi": "船票",
+		"pinyin": "chuan2_piao4",
+		"english": "boat ticket",
+		"type": "word"
+	},
+	{
+		"hanzi": "铅",
+		"pinyin": "qian1",
+		"english": "lead (metal)",
+		"audios": [
+			"13110807184718_14129_b1d71.mp3",
+			"32000101020123724.mp3",
+			"32000101209130331.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "铅笔",
+		"pinyin": "qian1_bi3",
+		"english": "pencil",
+		"type": "word"
+	},
+	{
+		"hanzi": "蛋",
+		"pinyin": "dan4",
+		"english": "egg",
+		"audios": [
+			"32000101021074106.mp3",
+			"32000101209091643.mp3",
+			"13110807182828_14689_fc607.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "鸡蛋",
+		"pinyin": "ji1_dan4",
+		"english": "chicken egg",
+		"audios": [
+			"32000101116212145.mp3",
+			"32000101208163907.mp3",
+			"13110807183559_14803_efd94.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "林",
+		"pinyin": "lin2",
+		"english": "forest",
+		"audios": [
+			"13110807184058_13391_53c61.mp3",
+			"32000101209103504.mp3",
+			"32000101021041050.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "楚",
+		"pinyin": "chu3",
+		"english": "distinct",
+		"audios": [
+			"576642000120905081545.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "清楚",
+		"pinyin": "qing1_chu5",
+		"english": "clear",
+		"audios": [
+			"13110807184731_15803_a2c59.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "麻",
+		"pinyin": "ma2",
+		"english": "hemp; numb",
+		"audios": [
+			"13110807184206_14653_d131a.mp3",
+			"32000101021073147.mp3",
+			"32000101209111552.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "麻烦",
+		"pinyin": "ma2_fan5",
+		"english": "inconvenient",
+		"audios": [
+			"13110807184205_16201_8a667.mp3",
+			"32000101209114730.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "麻药",
+		"pinyin": "ma2_yao4",
+		"english": "anaesthetic",
+		"type": "word"
+	},
+	{
+		"hanzi": "麻烦您",
+		"pinyin": "ma2_fan2_nin2",
+		"english": "would you mind...",
+		"type": "word"
+	},
+	{
+		"hanzi": "嘛",
+		"pinyin": "ma5",
+		"english": "a modal particle",
+		"audios": [
+			"13110807184207_19045_57402.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "隶",
+		"pinyin": "li4",
+		"english": "attached to",
+		"type": "character"
+	},
+	{
+		"hanzi": "康",
+		"pinyin": "kang1",
+		"english": "healthy",
+		"audios": [
+			"48200120113030055_60345_9fb26.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "健康",
+		"pinyin": "jian4_kang1",
+		"english": "health",
+		"audios": [
+			"13110807183636_15731_e5bd1.mp3",
+			"/audio/14011682_1371226445284.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "录",
+		"pinyin": "lu4",
+		"english": "to record",
+		"type": "character"
+	},
+	{
+		"hanzi": "录音",
+		"pinyin": "lu4_yin1",
+		"english": "to record (sound)",
+		"audios": [
+			"13110807184110_17141_ae824.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "记录",
+		"pinyin": "ji4_lu4",
+		"english": "record",
+		"audios": [
+			"13110807183615_16958_094eb.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "绿",
+		"pinyin": "lv4",
+		"english": "green",
+		"audios": [
+			"32000101021040110.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "红绿灯",
+		"pinyin": "hong2_lv4_deng1",
+		"english": "traffic lights",
+		"audios": [
+			"32000101117113423.mp3",
+			"32000101212125120.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "旅",
+		"pinyin": "lv3",
+		"english": "trip (also: travel, to travel)",
+		"audios": [
+			"32000101021073305.mp3",
+			"32000101212125326.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "旅行",
+		"pinyin": "lv3_xing2",
+		"english": "to travel",
+		"audios": [
+			"32000101212104122.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "旅客",
+		"pinyin": "lv3_ke4",
+		"english": "traveler",
+		"type": "word"
+	},
+	{
+		"hanzi": "俞",
+		"pinyin": "yu2",
+		"english": "to say \"yes\"",
+		"type": "character"
+	},
+	{
+		"hanzi": "愉",
+		"pinyin": "yu2",
+		"english": "pleased",
+		"type": "character"
+	},
+	{
+		"hanzi": "愉快",
+		"pinyin": "yu2_kuai4",
+		"english": "cheerful",
+		"audios": [
+			"13110807185849_16431_b0c43.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "输",
+		"pinyin": "shu1",
+		"english": "to lose",
+		"audios": [
+			"13110807185018_16305_40072.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "运输",
+		"pinyin": "yun4_shu1",
+		"english": "to transport, transportation",
+		"audios": [
+			"13110807185909_17688_95aed.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "输出",
+		"pinyin": "shu1_chu1",
+		"english": "export",
+		"type": "word"
+	},
+	{
+		"hanzi": "输家",
+		"pinyin": "shu1_jia1",
+		"english": "a loser (gambling)",
+		"type": "word"
+	},
+	{
+		"hanzi": "凉",
+		"pinyin": "liang2;_liang4",
+		"english": "cool",
+		"audios": [
+			"13110807184055_14645_120a9.mp3",
+			"32000101021073025.mp3",
+			"/audio/14009513_1371813871946.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "凉快",
+		"pinyin": "liang2_kuai5",
+		"english": "nice and cold",
+		"audios": [
+			"32000101210072046.mp3",
+			"13110807184055_16190_566dc.mp3",
+			"/audio/13974171_1371813882060.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "谅",
+		"pinyin": "liang4",
+		"english": "to forgive",
+		"type": "character"
+	},
+	{
+		"hanzi": "宛",
+		"pinyin": "wan3",
+		"english": "indirect (speech)",
+		"type": "character"
+	},
+	{
+		"hanzi": "碗",
+		"pinyin": "wan3",
+		"english": "bowl",
+		"audios": [
+			"13110807185306_15843_8f68c.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "饭碗",
+		"pinyin": "fan4_wan3",
+		"english": "rice bowl",
+		"type": "word"
+	},
+	{
+		"hanzi": "香",
+		"pinyin": "xiang1",
+		"english": "fragrant",
+		"audios": [
+			"13110807185514_14069_ff593.mp3",
+			"32000101020084620.mp3",
+			"32000101209104322.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "香水",
+		"pinyin": "xiang1_shui4",
+		"english": "perfume",
+		"type": "word"
+	},
+	{
+		"hanzi": "香精",
+		"pinyin": "xiang1_jing1",
+		"english": "essence (of plant)",
+		"type": "word"
+	},
+	{
+		"hanzi": "象棋",
+		"pinyin": "xiang4_qi2",
+		"english": "chess",
+		"audios": [
+			"13110807185517_17563_e8b5c.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "香客",
+		"pinyin": "xiang1_ke4",
+		"english": "worshipper",
+		"type": "word"
+	},
+	{
+		"hanzi": "香火",
+		"pinyin": "xiang1_huo3",
+		"english": "to burn incense",
+		"type": "word"
+	},
+	{
+		"hanzi": "奴",
+		"pinyin": "nu2",
+		"english": "slave",
+		"type": "character"
+	},
+	{
+		"hanzi": "努",
+		"pinyin": "nu3",
+		"english": "to exert",
+		"audios": [
+			"/audio/14009090_1372257330140.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "努力",
+		"pinyin": "nu3_li4",
+		"english": "to put effort in",
+		"audios": [
+			"13110807184522_15791_cadc1.mp3",
+			"/audio/13995800_1372257334801.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "焦",
+		"pinyin": "jiao1",
+		"english": "burnt, surname Jiao",
+		"audios": [
+			"81252000120930014934.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "蕉",
+		"pinyin": "jiao1",
+		"english": "banana",
+		"audios": [
+			"576642000120905080647.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "香蕉",
+		"pinyin": "xiang1_jiao1",
+		"english": "banana",
+		"audios": [
+			"13110807185512_15856_9bebb.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "唐",
+		"pinyin": "tang2",
+		"english": "surname Tang",
+		"audios": [
+			"13110807185247_14341_45267.mp3",
+			"32000101021024204.mp3",
+			"32000101211115331.mp3",
+			"/audio/14003147_1372267234323.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "糖",
+		"pinyin": "tang2",
+		"english": "sugar",
+		"audios": [
+			"32000101021024234.mp3",
+			"13110807185247_14342_45267.mp3",
+			"32000101211113542.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "糖果",
+		"pinyin": "tang2_guo3",
+		"english": "candy",
+		"type": "word"
+	},
+	{
+		"hanzi": "糖衣",
+		"pinyin": "tang2_yi1",
+		"english": "icing",
+		"type": "word"
+	},
+	{
+		"hanzi": "酸",
+		"pinyin": "suan1",
+		"english": "sour",
+		"audios": [
+			"13110807185039_14699_5c52b.mp3",
+			"32000101021111141.mp3",
+			"32000101210173045.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "酸牛奶",
+		"pinyin": "suan1_niu2_nai3",
+		"english": "yogurt",
+		"type": "word"
+	},
+	{
+		"hanzi": "委",
+		"pinyin": "wei3",
+		"english": "to entrust",
+		"type": "character"
+	},
+	{
+		"hanzi": "矮",
+		"pinyin": "ai3",
+		"english": "to be short",
+		"audios": [
+			"32000101020122556.mp3",
+			"32000101211171811.mp3",
+			"13110807180818_14104_3a43e.mp3",
+			"32110523112155_14104_3a43e.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "矮子",
+		"pinyin": "ai3_zi3",
+		"english": "a short person",
+		"type": "word"
+	}
+]

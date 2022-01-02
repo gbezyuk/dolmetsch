@@ -1,0 +1,548 @@
+[
+	{
+		"hanzi": "事",
+		"pinyin": "shi4",
+		"english": "business",
+		"audios": [
+			"32000101021023728.mp3",
+			"13110807185007_14325_30186.mp3",
+			"32000101208161305.mp3",
+			"/audio/13998018_1368193321856.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "故事",
+		"pinyin": "gu4_shi5",
+		"english": "story",
+		"audios": [
+			"13110807183226_16858_6c525.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "做事",
+		"pinyin": "zuo4_shi4",
+		"english": "to do things",
+		"audios": [
+			"/audio/13955100_1371226222468.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "办事",
+		"pinyin": "ban4_shi4",
+		"english": "to handle affairs",
+		"audios": [
+			"13110807180931_34062_a635f.mp3",
+			"/audio/13991005_1372256775846.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "事实",
+		"pinyin": "shi4_shi2",
+		"english": "in fact",
+		"audios": [
+			"13110807185002_17386_ef4be.mp3",
+			"/audio/14013139_1368193601029.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "没事儿",
+		"pinyin": "mei2_shi4_er5",
+		"english": "no problem",
+		"type": "word"
+	},
+	{
+		"hanzi": "面",
+		"pinyin": "mian4",
+		"english": "face",
+		"audios": [
+			"32000101021064542.mp3",
+			"32000101209094137.mp3",
+			"13110807184229_14548_3ac4d.mp3",
+			"81252000120328190915.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "见面",
+		"pinyin": "jian4_mian4",
+		"english": "to meet (by appointment)",
+		"audios": [
+			"13110807183637_15732_c0066.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "方面",
+		"pinyin": "fang1_mian4",
+		"english": "side (also: respect, aspect)",
+		"audios": [
+			"13110807183040_16025_3ef3c.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "外面",
+		"pinyin": "wai4_mian5",
+		"english": "outside",
+		"type": "word"
+	},
+	{
+		"hanzi": "前面",
+		"pinyin": "qian2_mian4",
+		"english": "ahead",
+		"audios": [
+			"13110807184719_15404_72b1f.mp3",
+			"/audio/13947392_1372256347307.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "对面",
+		"pinyin": "dui4_mian4",
+		"english": "opposite",
+		"audios": [
+			"32000101210081917.mp3",
+			"13110807182911_16010_ec276.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "地面",
+		"pinyin": "di4_mian4",
+		"english": "floor",
+		"type": "word"
+	},
+	{
+		"hanzi": "此",
+		"pinyin": "ci3",
+		"english": "this",
+		"audios": [
+			"13110807182733_14239_b8b32.mp3",
+			"32000101211164859.mp3",
+			"32000101116173323.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "些",
+		"pinyin": "xie1",
+		"english": "a few",
+		"audios": [
+			"13110807185527_14240_da76d.mp3",
+			"32000101020131041.mp3",
+			"/audio/13989104_1368188421038.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "那些",
+		"pinyin": "na4_xie1",
+		"english": "those",
+		"type": "word"
+	},
+	{
+		"hanzi": "一些",
+		"pinyin": "yi1_xie1",
+		"english": "a few",
+		"audios": [
+			"/audio/13932320_1364225155773.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "这些",
+		"pinyin": "zhe4_xie1",
+		"english": "these",
+		"audios": [
+			"13110807185843_31275_01954.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "有些",
+		"pinyin": "you3_xie1",
+		"english": "to have some",
+		"type": "word"
+	},
+	{
+		"hanzi": "倍",
+		"pinyin": "bei4",
+		"english": "times (multiplier)",
+		"type": "character"
+	},
+	{
+		"hanzi": "四倍",
+		"pinyin": "si4_bei4",
+		"english": "fourfold",
+		"type": "word"
+	},
+	{
+		"hanzi": "部",
+		"pinyin": "bu4",
+		"english": "department",
+		"audios": [
+			"32000101208183243.mp3",
+			"13110807181039_27043_17f99.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "部分",
+		"pinyin": "bu4_fen5",
+		"english": "part",
+		"audios": [
+			"13110807181032_16564_f89c5.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "干部",
+		"pinyin": "gan4_bu5",
+		"english": "cadre",
+		"type": "word"
+	},
+	{
+		"hanzi": "部门",
+		"pinyin": "bu4_men2",
+		"english": "department",
+		"audios": [
+			"13110807181034_16567_84e13.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "内部",
+		"pinyin": "nei4_bu4",
+		"english": "interior",
+		"audios": [
+			"/audio/13935306_1371648618574.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "部长",
+		"pinyin": "bu4_zhang3",
+		"english": "Minister",
+		"type": "word"
+	},
+	{
+		"hanzi": "南部",
+		"pinyin": "nan2_bu4",
+		"english": "southern part",
+		"audios": [
+			"/audio/13934514_1372259692002.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "北",
+		"pinyin": "bei3",
+		"english": "north",
+		"audios": [
+			"32000101020075256.mp3",
+			"32000101210072714.mp3",
+			"13110807180947_14022_75212.mp3",
+			"/audio/13952954_1372258262412.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "北边",
+		"pinyin": "bei3_bian1",
+		"english": "north side",
+		"audios": [
+			"/audio/13938542_1372258324284.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "北面",
+		"pinyin": "bei3_mian4",
+		"english": "northern side",
+		"audios": [
+			"/audio/13952854_1372258339308.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "西北",
+		"pinyin": "xi1_bei3",
+		"english": "northwest",
+		"type": "word"
+	},
+	{
+		"hanzi": "将",
+		"pinyin": "jiang1",
+		"english": "to handle, will be",
+		"audios": [
+			"32000101021073235.mp3",
+			"32000101211191256.mp3",
+			"13110807183641_14657_ab826.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "将来",
+		"pinyin": "jiang1_lai2",
+		"english": "the future",
+		"audios": [
+			"32000101211164129.mp3",
+			"13110807183640_16122_0a04a.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "将要",
+		"pinyin": "jiang1_yao4",
+		"english": "will",
+		"type": "word"
+	},
+	{
+		"hanzi": "东",
+		"pinyin": "dong1",
+		"english": "east",
+		"audios": [
+			"13110807182856_14472_0fccb.mp3",
+			"32000101209091400.mp3",
+			"32000101021041249.mp3",
+			"/audio/13995339_1369513355105.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "东边",
+		"pinyin": "dong1_bian1",
+		"english": "the east side",
+		"audios": [
+			"/audio/13914752_1369513483048.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "东西",
+		"pinyin": "dong1_xi5",
+		"english": "thing",
+		"audios": [
+			"/audio/13918931_1369513467420.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "东北",
+		"pinyin": "dong1_bei3",
+		"english": "northeast",
+		"type": "word"
+	},
+	{
+		"hanzi": "东方",
+		"pinyin": "dong1_fang1",
+		"english": "East",
+		"audios": [
+			"/audio/13974711_1369513419569.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "乐",
+		"pinyin": "le4",
+		"english": "happiness",
+		"audios": [
+			"13110807184036_14779_e5b41.mp3",
+			"32000101020130151.mp3",
+			"/audio/13967557_1368823654888.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "音乐",
+		"pinyin": "yin1_yue4",
+		"english": "music",
+		"audios": [
+			"32000101209135949.mp3",
+			"13110807185824_15023_76120.mp3",
+			"32000101117115110.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "算",
+		"pinyin": "suan4",
+		"english": "to calculate, to figure, to count, to plan",
+		"audios": [
+			"13110807185039_14655_6478e.mp3",
+			"32000101021073211.mp3",
+			"32000101211173608.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "打算",
+		"pinyin": "da3_suan4",
+		"english": "to plan",
+		"audios": [
+			"32000101212095110.mp3",
+			"13110807182813_15663_72f28.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "第",
+		"pinyin": "di4",
+		"english": "ordinal number",
+		"audios": [
+			"13110807182846_25033_737c5.mp3",
+			"32000101210082208.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "第一",
+		"pinyin": "di4_yi1",
+		"english": "first",
+		"audios": [
+			"13110807182845_15494_ea1f2.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "弟",
+		"pinyin": "di4",
+		"english": "younger brother",
+		"audios": [
+			"32000101212143543.mp3",
+			"13110807182846_14772_737c5.mp3",
+			"32000101021113200.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "弟弟",
+		"pinyin": "di4_di5",
+		"english": "younger brother",
+		"audios": [
+			"13110807182843_15493_cf0d6.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "劳",
+		"pinyin": "lao2",
+		"english": "to toil",
+		"audios": [
+			"/audio/13982489_1372257390064.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "劳动",
+		"pinyin": "lao2_dong4",
+		"english": "labour",
+		"audios": [
+			"13110807184034_17092_30bf1.mp3",
+			"/audio/13961770_1372257404898.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "加",
+		"pinyin": "jia1",
+		"english": "to increase",
+		"audios": [
+			"13110807183624_13389_369bc.mp3",
+			"32000101021040945.mp3",
+			"32000101211191945.mp3",
+			"/audio/14016572_1372256892755.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "加以",
+		"pinyin": "jia1_yi3",
+		"english": "in addition",
+		"type": "word"
+	},
+	{
+		"hanzi": "加工",
+		"pinyin": "jia1_gong1",
+		"english": "processing",
+		"audios": [
+			"/audio/13950531_1372256944381.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "驾",
+		"pinyin": "jia4",
+		"english": "to harness",
+		"audios": [
+			"13110807183625_193277_c8b05.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "劳驾",
+		"pinyin": "lao2_jia4",
+		"english": "please",
+		"audios": [
+			"13110807184034_17093_2b897.mp3",
+			"/audio/13946314_1372257461934.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "咖啡",
+		"pinyin": "ka1_fei1",
+		"english": "coffee",
+		"audios": [
+			"32000101208172602.mp3",
+			"13110807183908_15527_387e4.mp3",
+			"/audio/13968660_1372266465541.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "非",
+		"pinyin": "fei1",
+		"english": "wrong",
+		"audios": [
+			"32000101021112443.mp3",
+			"13110807183047_14749_a3924.mp3",
+			"32000101212142837.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "非法",
+		"pinyin": "fei1_fa3",
+		"english": "illegal",
+		"audios": [
+			"13110807183046_18370_4b4ed.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "排",
+		"pinyin": "pai2",
+		"english": "to line up",
+		"audios": [
+			"32000101211192943.mp3",
+			"13110807184605_14760_71935.mp3",
+			"32000101021112747.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "安排",
+		"pinyin": "an1_pai2",
+		"english": "to arrange",
+		"audios": [
+			"13110807180820_15919_058a3.mp3"
+		],
+		"type": "word"
+	}
+]

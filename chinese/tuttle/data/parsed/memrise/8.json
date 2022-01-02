@@ -1,0 +1,432 @@
+[
+	{
+		"hanzi": "安",
+		"pinyin": "an1",
+		"english": "peace",
+		"audios": [
+			"13110807180821_14567_c684b.mp3",
+			"32000101210083034.mp3",
+			"32000101021065000.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "天安门",
+		"pinyin": "tian1_an1_men2",
+		"english": "Tiananmen",
+		"type": "word"
+	},
+	{
+		"hanzi": "字",
+		"pinyin": "zi4",
+		"english": "Chinese character",
+		"audios": [
+			"32000101021022327.mp3",
+			"13110807185957_14276_25232.mp3",
+			"32000101208164416.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "汉字",
+		"pinyin": "han4_zi4",
+		"english": "Chinese character",
+		"audios": [
+			"251425000120219164722.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "名字",
+		"pinyin": "ming2_zi5",
+		"english": "name",
+		"audios": [
+			"32000101116165454.mp3",
+			"32000101209140545.mp3",
+			"13110807184235_15389_8082e.mp3",
+			"/audio/13997128_1372264819618.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "目",
+		"pinyin": "mu4",
+		"english": "eye",
+		"audios": [
+			"32000101209093638.mp3",
+			"13110807184243_14095_1c4bf.mp3",
+			"32000101020122231.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "目前",
+		"pinyin": "mu4_qian2",
+		"english": "currently",
+		"audios": [
+			"13110807184242_17190_67c01.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "自",
+		"pinyin": "zi4",
+		"english": "self",
+		"audios": [
+			"13110807185957_14256_25232.mp3",
+			"32000101020131705.mp3",
+			"32000101210132904.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "自动",
+		"pinyin": "zi4_dong4",
+		"english": "automatic",
+		"audios": [
+			"13110807185953_17787_d7013.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "自行车",
+		"pinyin": "zi4_xing2_che1",
+		"english": "bicycle",
+		"audios": [
+			"13110807185955_15616_9125d.mp3",
+			"32000101208153135.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "咱",
+		"pinyin": "zan2",
+		"english": "we (including addressee)",
+		"audios": [
+			"/audio/13914434_1372266534444.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "咱们",
+		"pinyin": "zan2_men5",
+		"english": "we (including addressee)",
+		"audios": [
+			"13110807185817_16445_2ae45.mp3",
+			"/audio/13932736_1372266539795.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "阳",
+		"pinyin": "yang2",
+		"english": "yang",
+		"audios": [
+			"32000101212142929.mp3",
+			"32000101021071951.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "太阳",
+		"pinyin": "tai4_yang2;_tai4_yang5",
+		"english": "the sun",
+		"audios": [
+			"32000101211113907.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "阴",
+		"pinyin": "yin1",
+		"english": "yin",
+		"audios": [
+			"32000101021071752.mp3",
+			"32000101212143234.mp3",
+			"13110807185824_14640_be876.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "阴天",
+		"pinyin": "yin1_tian1",
+		"english": "cloudy day",
+		"type": "word"
+	},
+	{
+		"hanzi": "那",
+		"pinyin": "na4",
+		"english": "that",
+		"audios": [
+			"32000101211163735.mp3",
+			"32000101020125403.mp3",
+			"13110807184507_14189_260e0.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "那个",
+		"pinyin": "na4_ge5",
+		"english": "that",
+		"type": "word"
+	},
+	{
+		"hanzi": "那么",
+		"pinyin": "na4_me5",
+		"english": "so",
+		"type": "word"
+	},
+	{
+		"hanzi": "那儿",
+		"pinyin": "na4_er5",
+		"english": "there",
+		"audios": [
+			"32000101211164647.mp3",
+			"13110807184507_15393_43b84.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "那边",
+		"pinyin": "na4_bian1;_na4_bian5",
+		"english": "that side",
+		"type": "word"
+	},
+	{
+		"hanzi": "哪",
+		"pinyin": "na3",
+		"english": "which",
+		"audios": [
+			"13110807184506_14190_746dc.mp3",
+			"32000101212132154.mp3",
+			"32000101020125414.mp3",
+			"/audio/13982475_1372267108536.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "哪儿",
+		"pinyin": "na3_er5",
+		"english": "where",
+		"type": "word"
+	},
+	{
+		"hanzi": "哪个",
+		"pinyin": "na3_ge5",
+		"english": "which",
+		"audios": [
+			"/audio/13940593_1372267113242.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "西",
+		"pinyin": "xi1",
+		"english": "west",
+		"audios": [
+			"13110807185452_14141_ab50d.mp3",
+			"32000101020124026.mp3",
+			"32000101212131757.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "西边",
+		"pinyin": "xi1_bian1",
+		"english": "west",
+		"type": "word"
+	},
+	{
+		"hanzi": "西安",
+		"pinyin": "xi1_an1",
+		"english": "Xi'an",
+		"audios": [
+			"32000101117103749.mp3",
+			"32000101212142907.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "要",
+		"pinyin": "yao4",
+		"english": "to want",
+		"audios": [
+			"32000101212104535.mp3",
+			"13110807185753_14153_afc31.mp3",
+			"32000101020124351.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "不要",
+		"pinyin": "bu2_yao4",
+		"english": "don't want to",
+		"type": "word"
+	},
+	{
+		"hanzi": "要是",
+		"pinyin": "yao4_shi5",
+		"english": "if",
+		"audios": [
+			"13110807185753_17623_f55df.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "酒",
+		"pinyin": "jiu3",
+		"english": "wine",
+		"audios": [
+			"32000101212132731.mp3",
+			"13110807183725_14391_0a2a7.mp3",
+			"576642000120905081302.mp3",
+			"32000101021033757.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "酒杯",
+		"pinyin": "jiu3_bei1",
+		"english": "stoup",
+		"type": "word"
+	},
+	{
+		"hanzi": "从",
+		"pinyin": "cong2",
+		"english": "following, from",
+		"audios": [
+			"32000101021035731.mp3",
+			"13110807182737_13385_bb7f6.mp3",
+			"32000101211183947.mp3",
+			"/audio/13995078_1371213389143.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "从前",
+		"pinyin": "cong2_qian2",
+		"english": "once upon a time",
+		"audios": [
+			"13110807182736_16667_8e323.mp3",
+			"/audio/13948047_1371213528056.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "自从",
+		"pinyin": "zi4_cong2",
+		"english": "ever since",
+		"audios": [
+			"13110807185953_17786_b0cf1.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "村",
+		"pinyin": "cun1",
+		"english": "hamlet",
+		"audios": [
+			"13110807182739_14594_e539c.mp3",
+			"32000101021065813.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "村子",
+		"pinyin": "cun1_zi5",
+		"english": "village",
+		"type": "word"
+	},
+	{
+		"hanzi": "时",
+		"pinyin": "shi2",
+		"english": "time",
+		"audios": [
+			"13110807184957_14489_6040d.mp3",
+			"32000101211165600.mp3",
+			"32000101021041623.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "小时",
+		"pinyin": "xiao3_shi2",
+		"english": "hour",
+		"audios": [
+			"13110807185522_15584_30fe3.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "有时",
+		"pinyin": "you3_shi2",
+		"english": "sometimes",
+		"type": "word"
+	},
+	{
+		"hanzi": "过",
+		"pinyin": "guo4",
+		"english": "past tense",
+		"audios": [
+			"32000101021063830.mp3",
+			"32000101210082905.mp3",
+			"13110807183248_14519_8c4c1.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "过来",
+		"pinyin": "guo4_lai2",
+		"english": "to come over",
+		"type": "word"
+	},
+	{
+		"hanzi": "过去",
+		"pinyin": "guo4_qu5;_guo4_qu4",
+		"english": "in the past",
+		"type": "word"
+	},
+	{
+		"hanzi": "身",
+		"pinyin": "shen1",
+		"english": "body",
+		"audios": [
+			"32000101208154932.mp3",
+			"13110807184931_14007_1ef91.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "动身",
+		"pinyin": "dong4_shen1",
+		"english": "get out on a journey",
+		"audios": [
+			"/audio/14002374_1372257285748.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "身边",
+		"pinyin": "shen1_bian1",
+		"english": "side",
+		"type": "word"
+	},
+	{
+		"hanzi": "谢",
+		"pinyin": "xie4",
+		"english": "to thank",
+		"audios": [
+			"32000101021113110.mp3",
+			"32000101211163154.mp3",
+			"13110807185530_15447_f20cb.mp3",
+			"13110807185530_14014_982ee.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "谢谢你",
+		"pinyin": "xie4_xie5_ni3",
+		"english": "thank you",
+		"type": "word"
+	}
+]

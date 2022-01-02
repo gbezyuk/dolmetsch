@@ -1,0 +1,516 @@
+[
+	{
+		"hanzi": "飞",
+		"pinyin": "fei1",
+		"english": "to fly",
+		"audios": [
+			"13110807183047_14774_a3924.mp3",
+			"32000101021113228.mp3",
+			"32000101211183927.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "飞机",
+		"pinyin": "fei1_ji1",
+		"english": "airplane",
+		"audios": [
+			"13110807183046_15353_16446.mp3",
+			"32000101208125020.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "气",
+		"pinyin": "qi4",
+		"english": "to breathe",
+		"audios": [
+			"13110807184714_14139_2ddcd.mp3",
+			"32000101211173350.mp3",
+			"32000101020124007.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "天气",
+		"pinyin": "tian1_qi4",
+		"english": "weather",
+		"audios": [
+			"13110807185257_15429_8739e.mp3",
+			"32000101212131459.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "力气",
+		"pinyin": "li4_qi5",
+		"english": "strength",
+		"audios": [
+			"13110807184046_16185_1c457.mp3",
+			"32000101211105132.mp3",
+			"/audio/13970749_1372256719958.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "暖气",
+		"pinyin": "nuan3_qi4",
+		"english": "heater",
+		"type": "word"
+	},
+	{
+		"hanzi": "火气",
+		"pinyin": "huo3_qi4",
+		"english": "anger",
+		"type": "word"
+	},
+	{
+		"hanzi": "汽",
+		"pinyin": "qi4",
+		"english": "steam",
+		"audios": [
+			"32000101021035412.mp3",
+			"13110807184713_14443_2ddcd.mp3",
+			"32000101210174032.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "汽车",
+		"pinyin": "qi4_che1",
+		"english": "car",
+		"audios": [
+			"32000101208162512.mp3",
+			"13110807184711_24775_3ac2f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "亿",
+		"pinyin": "yi4",
+		"english": "one hundred million (also: to calculate)",
+		"audios": [
+			"13110807185821_14085_28f2b.mp3",
+			"32000101020122000.mp3",
+			"32000101210081356.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "艺",
+		"pinyin": "yi4",
+		"english": "art",
+		"audios": [
+			"13110807185821_14084_28f2b.mp3",
+			"32000101020121946.mp3",
+			"32000101208143459.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "文艺",
+		"pinyin": "wen2_yi4",
+		"english": "literature and art",
+		"audios": [
+			"13110807185326_19714_50756.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "乞",
+		"pinyin": "qi3",
+		"english": "to beg",
+		"audios": [
+			"13110807184710_14345_74ff0.mp3",
+			"32000101021024305.mp3",
+			"32000101211172813.mp3",
+			"/audio/13935572_1368823904243.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "吃",
+		"pinyin": "chi1",
+		"english": "to eat",
+		"audios": [
+			"13110807182707_14346_32a09.mp3",
+			"32000101211182020.mp3",
+			"32000101021024315.mp3",
+			"/audio/13957643_1372264154634.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "好吃",
+		"pinyin": "hao3_chi1",
+		"english": "tasty",
+		"audios": [
+			"13110807183335_15512_f3e16.mp3",
+			"32000101211115446.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "吃饭",
+		"pinyin": "chi1_fan4",
+		"english": "to eat food",
+		"audios": [
+			"/audio/13991171_1372264214186.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "小吃",
+		"pinyin": "xiao3_chi1",
+		"english": "snack",
+		"audios": [
+			"13110807185521_17570_1354d.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "吃完",
+		"pinyin": "chi1_wan2",
+		"english": "finish eating",
+		"type": "word"
+	},
+	{
+		"hanzi": "全",
+		"pinyin": "quan2",
+		"english": "entire",
+		"audios": [
+			"32000101021040210.mp3",
+			"32000101208180706.mp3",
+			"13110807184749_13381_a1612.mp3",
+			"/audio/13988559_1371229717257.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "完全",
+		"pinyin": "wan2_quan2",
+		"english": "complete",
+		"audios": [
+			"13110807185304_16347_a092f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "全部",
+		"pinyin": "quan2_bu4",
+		"english": "complete",
+		"audios": [
+			"13110807184746_16254_ef1dc.mp3",
+			"/audio/13930515_1371230766879.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "全体",
+		"pinyin": "quan2_ti3",
+		"english": "all",
+		"audios": [
+			"/audio/13960149_1371229729719.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "安全",
+		"pinyin": "an1_quan2",
+		"english": "safety",
+		"audios": [
+			"13110807180820_15920_91ab9.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "色",
+		"pinyin": "se4",
+		"english": "color",
+		"audios": [
+			"13110807184913_14246_d2f1e.mp3",
+			"32000101020131248.mp3",
+			"32000101208180205.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "红色",
+		"pinyin": "hong2_se4",
+		"english": "red",
+		"type": "word"
+	},
+	{
+		"hanzi": "角",
+		"pinyin": "jue2;_jiao3",
+		"english": "role (in a play)",
+		"type": "character"
+	},
+	{
+		"hanzi": "三角",
+		"pinyin": "san1_jiao3",
+		"english": "triangle",
+		"type": "word"
+	},
+	{
+		"hanzi": "确",
+		"pinyin": "que4",
+		"english": "authenticated",
+		"type": "character"
+	},
+	{
+		"hanzi": "确实",
+		"pinyin": "que4_shi2",
+		"english": "indeed",
+		"audios": [
+			"13110807184751_204495_b88d0.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "正确",
+		"pinyin": "zheng4_que4",
+		"english": "correct",
+		"audios": [
+			"13110807185856_16458_bac57.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "嘴",
+		"pinyin": "zui3",
+		"english": "mouth",
+		"audios": [
+			"13110807190008_16496_8dcba.mp3",
+			"32000101116172512.mp3",
+			"32000101209135746.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "最",
+		"pinyin": "zui4",
+		"english": "most, superlative",
+		"audios": [
+			"13110807190010_14393_f49cd.mp3",
+			"32000101021033828.mp3",
+			"32000101211114107.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "炎",
+		"pinyin": "yan2",
+		"english": "blaze",
+		"type": "character"
+	},
+	{
+		"hanzi": "谈",
+		"pinyin": "tan2",
+		"english": "to chat",
+		"audios": [
+			"13110807185244_14747_b93e2.mp3",
+			"32000101211173948.mp3",
+			"32000101021112301.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "会谈",
+		"pinyin": "hui2_tan2",
+		"english": "discussions",
+		"type": "word"
+	},
+	{
+		"hanzi": "座谈",
+		"pinyin": "zuo4_tan2",
+		"english": "to discuss",
+		"type": "word"
+	},
+	{
+		"hanzi": "写",
+		"pinyin": "xie3",
+		"english": "to write",
+		"audios": [
+			"32000101021113216.mp3",
+			"32000101212105105.mp3",
+			"13110807185529_14773_54a98.mp3",
+			"/audio/13987298_1371650117515.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "听写",
+		"pinyin": "ting1_xie3",
+		"english": "dictate",
+		"audios": [
+			"/audio/13922256_1372265525999.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "写作",
+		"pinyin": "xie3_zuo4",
+		"english": "composition",
+		"audios": [
+			"/audio/13968644_1371650122651.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "书写",
+		"pinyin": "shu1_xie3",
+		"english": "to write",
+		"audios": [
+			"/audio/13969945_1368194237689.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "大写",
+		"pinyin": "da4_xie3",
+		"english": "capital letters",
+		"type": "word"
+	},
+	{
+		"hanzi": "号",
+		"pinyin": "hao4",
+		"english": "number",
+		"audios": [
+			"32000101210073346.mp3",
+			"32000101020072007.mp3",
+			"13110807183337_14484_5c2fe.mp3",
+			"/audio/13934560_1372264070224.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "单号",
+		"pinyin": "dan1_hao4",
+		"english": "odd numbers",
+		"type": "word"
+	},
+	{
+		"hanzi": "口号",
+		"pinyin": "kou3_hao4",
+		"english": "slogan",
+		"audios": [
+			"/audio/14011422_1372263157104.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "度",
+		"pinyin": "du4",
+		"english": "degree",
+		"audios": [
+			"32000101208183106.mp3",
+			"13110807182906_14658_a6453.mp3",
+			"32000101021073244.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "度过",
+		"pinyin": "du4_guo4",
+		"english": "to pass",
+		"audios": [
+			"13110807182905_16737_f076b.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "态",
+		"pinyin": "tai4",
+		"english": "attitude",
+		"audios": [
+			"13110807185242_75375_03e15.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "态度",
+		"pinyin": "tai4_du5,_tai4_du4",
+		"english": "manner; attitude",
+		"audios": [
+			"13110807185241_16325_1bf80.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "市",
+		"pinyin": "shi4",
+		"english": "market",
+		"audios": [
+			"32000101209133631.mp3",
+			"13110807185005_204490_30186.mp3",
+			"32000101021022822.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "城市",
+		"pinyin": "cheng2_shi4",
+		"english": "city",
+		"audios": [
+			"32000101208165034.mp3",
+			"13110807182701_15654_2f680.mp3",
+			"32000101117105007.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "都市",
+		"pinyin": "du1_shi4",
+		"english": "city",
+		"audios": [
+			"13110807182902_18287_893a1.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "师",
+		"pinyin": "shi1",
+		"english": "teacher",
+		"audios": [
+			"32000101211162310.mp3",
+			"13110807184947_14293_7b644.mp3",
+			"32000101021022812.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "老师",
+		"pinyin": "lao3_shi1",
+		"english": "teacher",
+		"audios": [
+			"32000101211162334.mp3",
+			"32000101116170545.mp3",
+			"13110807184035_15375_29781.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "教师",
+		"pinyin": "jiao4_shi1",
+		"english": "teacher",
+		"type": "word"
+	},
+	{
+		"hanzi": "带",
+		"pinyin": "dai4",
+		"english": "to bring",
+		"audios": [
+			"32000101021111252.mp3",
+			"13110807182822_14705_f6a94.mp3",
+			"32000101211173438.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "地带",
+		"pinyin": "di4_dai4",
+		"english": "region",
+		"type": "word"
+	}
+]

@@ -1,0 +1,170 @@
+[
+	{
+		"hanzi": "文",
+		"pinyin": "wen2",
+		"english": "pattern (also: language)",
+		"audios": [
+			"32000101210083000.mp3",
+			"13110807185327_13997_8a35a.mp3",
+			"32000101020071947.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "这",
+		"pinyin": "zhe4",
+		"english": "this",
+		"audios": [
+			"13110807185843_14329_aad79.mp3",
+			"32000101021023808.mp3",
+			"32000101211164919.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "这个",
+		"pinyin": "zhe4_ge5",
+		"english": "this",
+		"type": "word"
+	},
+	{
+		"hanzi": "这儿",
+		"pinyin": "zhe4_er5",
+		"english": "here",
+		"audios": [
+			"13110807185843_15464_fb3d3.mp3",
+			"32000101209111631.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "门",
+		"pinyin": "men2",
+		"english": "gate",
+		"audios": [
+			"32000101020071900.mp3",
+			"32000101209105804.mp3",
+			"13110807184221_3765_74763.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "们",
+		"pinyin": "men5",
+		"english": "plural",
+		"audios": [
+			"32000101020122053.mp3",
+			"32000101210093348.mp3",
+			"/audio/13914842_1371214447194.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "他们",
+		"pinyin": "ta1_men5",
+		"english": "they",
+		"audios": [
+			"/audio/13923918_1371213702649.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "她们",
+		"pinyin": "ta1_men5",
+		"english": "they (female)",
+		"type": "word"
+	},
+	{
+		"hanzi": "人们",
+		"pinyin": "ren2_men5",
+		"english": "people",
+		"audios": [
+			"/audio/13923691_1368806056578.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "止",
+		"pinyin": "zhi3",
+		"english": "to stop; toe (radical)",
+		"audios": [
+			"32000101020071306.mp3",
+			"32000101212105153.mp3",
+			"13110807185908_206095_02647.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "正",
+		"pinyin": "zheng4",
+		"english": "straight",
+		"audios": [
+			"13110807185859_13999_7b056.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "是",
+		"pinyin": "shi4",
+		"english": "to be",
+		"audios": [
+			"32000101020074143.mp3",
+			"13110807185008_14012_30186.mp3",
+			"32000101211170826.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "手",
+		"pinyin": "shou3",
+		"english": "hand",
+		"audios": [
+			"13110807185013_3774_74f74.mp3",
+			"32000101020070418.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "戈",
+		"pinyin": "ge1",
+		"english": "lance (also: spear)",
+		"audios": [
+			"32000101020070513.mp3",
+			"13110807183158_13988_75b00.mp3",
+			"32000101209125630.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "我",
+		"pinyin": "wo3",
+		"english": "I (also: me)",
+		"audios": [
+			"32000101020070953.mp3",
+			"32000101209114010.mp3",
+			"13110807185329_13992_a0757.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "我们",
+		"pinyin": "wo3_men5",
+		"english": "we",
+		"audios": [
+			"13110807185328_15434_d2804.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "中",
+		"pinyin": "zhong1",
+		"english": "middle",
+		"audios": [
+			"32000101116170315.mp3",
+			"32000101209134512.mp3",
+			"13110807185918_196401_8ecce.mp3",
+			"/audio/13967158_1368906438575.mp3"
+		],
+		"type": "character"
+	}
+]

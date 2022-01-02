@@ -1,0 +1,194 @@
+[
+	{
+		"hanzi": "一",
+		"pinyin": "yi1",
+		"english": "one",
+		"audios": [
+			"13110807185804_3730_5803b.mp3",
+			"32000101210081244.mp3",
+			"32000101020071357.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "二",
+		"pinyin": "er4",
+		"english": "two",
+		"audios": [
+			"13110807183001_3737_e9802.mp3",
+			"32000101212125728.mp3",
+			"32000101020072637.mp3",
+			"/audio/14002070_1368193672278.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "三",
+		"pinyin": "san1",
+		"english": "three",
+		"audios": [
+			"32000101020121606.mp3",
+			"13110807184910_14080_1863c.mp3",
+			"32000101211165150.mp3",
+			"/audio/14004638_1364230559464.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "十",
+		"pinyin": "shi2",
+		"english": "ten",
+		"audios": [
+			"32000101211162734.mp3",
+			"32000101020071535.mp3",
+			"13110807184957_3738_6040d.mp3",
+			"/audio/13947809_1372258837543.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "口",
+		"pinyin": "kou3",
+		"english": "mouth",
+		"audios": [
+			"32000101209135718.mp3",
+			"13110807183935_3778_912d9.mp3",
+			"32000101020070636.mp3",
+			"/audio/13994872_1372263142463.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "日",
+		"pinyin": "ri4",
+		"english": "sun",
+		"audios": [
+			"32000101020070805.mp3",
+			"32000101211113839.mp3",
+			"13110807184742_206088_c11e8.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "几",
+		"pinyin": "ji3",
+		"english": "how (much/many)",
+		"audios": [
+			"/audio/13956472_1371814051058.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "也",
+		"pinyin": "ye3",
+		"english": "also",
+		"audios": [
+			"32000101020121540.mp3",
+			"13110807185755_14077_8bf4c.mp3",
+			"32000101208125608.mp3",
+			"/audio/13994734_1368194106883.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "不",
+		"pinyin": "bu4",
+		"english": "not",
+		"audios": [
+			"32000101020130530.mp3",
+			"32000101210072953.mp3",
+			"13110807181039_14223_17f99.mp3",
+			"/audio/13987440_1364232749214.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "木",
+		"pinyin": "mu4",
+		"english": "wood, tree (radical)",
+		"audios": [
+			"13110807184243_13026_1c4bf.mp3",
+			"32000101212125259.mp3",
+			"32000101020074311.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "机",
+		"pinyin": "ji1",
+		"english": "machine",
+		"audios": [
+			"32000101209132710.mp3",
+			"32000101021035440.mp3",
+			"13110807183604_14446_8d121.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "杯",
+		"pinyin": "bei1",
+		"english": "cup",
+		"audios": [
+			"32000101208182558.mp3",
+			"13110807180946_24403_df6ae.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "人",
+		"pinyin": "ren2",
+		"english": "man, person",
+		"audios": [
+			"13110807184737_3745_337a8.mp3",
+			"91726000110819035656.mp3",
+			"32000101209133212.mp3",
+			"32000101020070345.mp3",
+			"/audio/14017496_1368806015308.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "他",
+		"pinyin": "ta1",
+		"english": "he",
+		"audios": [
+			"13110807185239_14088_58ce2.mp3",
+			"32000101020122037.mp3",
+			"/audio/13985725_1371213688599.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "力",
+		"pinyin": "li4",
+		"english": "strength",
+		"audios": [
+			"32000101211104949.mp3",
+			"32000101020073928.mp3",
+			"13110807184050_3750_ac1ff.mp3",
+			"/audio/13998300_1372256699600.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "女",
+		"pinyin": "nv3",
+		"english": "woman",
+		"audios": [
+			"32000101212133009.mp3",
+			"32000101020083522.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "她",
+		"pinyin": "ta1",
+		"english": "she",
+		"audios": [
+			"32000101210133602.mp3",
+			"13110807185239_14087_58ce2.mp3",
+			"32000101020122025.mp3"
+		],
+		"type": "character"
+	}
+]

@@ -1,0 +1,574 @@
+[
+	{
+		"hanzi": "幺",
+		"pinyin": "no_pronunciation",
+		"english": "coil (radical)",
+		"type": "character"
+	},
+	{
+		"hanzi": "系",
+		"pinyin": "ji4",
+		"english": "to fasten",
+		"audios": [
+			"576642000120905080619.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "关系",
+		"pinyin": "guan1_xi5;_guan1_xi4",
+		"english": "relationship",
+		"audios": [
+			"13110807183231_15703_3f49c.mp3",
+			"/audio/14015392_1371646879118.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "联系",
+		"pinyin": "lian2_xi4",
+		"english": "connection",
+		"audios": [
+			"13110807184052_16189_972bb.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "没关系",
+		"pinyin": "mei2_guan1_xi5",
+		"english": "it doesn't matter",
+		"audios": [
+			"13110807184215_15386_36e16.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "累",
+		"pinyin": "lei4",
+		"english": "tired",
+		"audios": [
+			"32000101211165815.mp3",
+			"13110807184038_14091_392ac.mp3",
+			"32000101020122123.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "践",
+		"pinyin": "jian4",
+		"english": "fulfill a promise",
+		"type": "character"
+	},
+	{
+		"hanzi": "实践",
+		"pinyin": "shi2_jian4",
+		"english": "practice",
+		"audios": [
+			"13110807184951_17367_eaa83.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "钱",
+		"pinyin": "qian2",
+		"english": "money",
+		"audios": [
+			"13110807184720_14177_d1fe2.mp3",
+			"32000101209135229.mp3",
+			"32000101020125023.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "零钱",
+		"pinyin": "ling2_qian2",
+		"english": "change (of money)",
+		"audios": [
+			"13110807184100_17129_3f37b.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "浅",
+		"pinyin": "qian3",
+		"english": "shallow",
+		"audios": [
+			"13110807184721_14178_f1a8d.mp3",
+			"32000101020125039.mp3",
+			"32000101210133415.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "礼",
+		"pinyin": "li3",
+		"english": "ceremony",
+		"audios": [
+			"13110807184044_14539_df119.mp3",
+			"32000101021064255.mp3",
+			"32000101208163311.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "礼物",
+		"pinyin": "li3_wu4",
+		"english": "gift",
+		"audios": [
+			"13110807184043_15767_b32a7.mp3",
+			"32000101209110319.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "礼堂",
+		"pinyin": "li3_tang2",
+		"english": "assembly hall",
+		"audios": [
+			"13110807184043_26663_65b39.mp3",
+			"32000101208143750.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "乱",
+		"pinyin": "luan4",
+		"english": "messy (also: chaotic)",
+		"audios": [
+			"32000101209134409.mp3",
+			"13110807184111_14614_74a6e.mp3",
+			"32000101021070424.mp3",
+			"/audio/14011966_1368194769183.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "乱说",
+		"pinyin": "luan4_shuo1",
+		"english": "to talk nonsense",
+		"type": "word"
+	},
+	{
+		"hanzi": "乱世",
+		"pinyin": "luan4_shi4",
+		"english": "the world in chaos",
+		"type": "word"
+	},
+	{
+		"hanzi": "育",
+		"pinyin": "yu4",
+		"english": "to rear",
+		"audios": [
+			"32000101212100030.mp3",
+			"32000101021070617.mp3",
+			"13110807185859_14623_cfb7f.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "教育",
+		"pinyin": "jiao4_yu4",
+		"english": "to educate",
+		"audios": [
+			"13110807183651_16131_938be.mp3",
+			"32000101211182117.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "体育",
+		"pinyin": "ti3_yu4",
+		"english": "sports",
+		"audios": [
+			"32000101210173715.mp3",
+			"13110807185256_15833_6e708.mp3",
+			"/audio/13966233_1371219565680.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "体育场",
+		"pinyin": "ti3_yu4_chang3",
+		"english": "stadium",
+		"audios": [
+			"/audio/13914886_1371219572832.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "流",
+		"pinyin": "liu2",
+		"english": "to flow",
+		"audios": [
+			"32000101021112532.mp3",
+			"13110807184107_14752_e36e9.mp3",
+			"32000101209102803.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "交流",
+		"pinyin": "jiao1_liu2",
+		"english": "communication",
+		"audios": [
+			"13110807183644_16127_f5305.mp3",
+			"/audio/13970876_1368188986604.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "流利",
+		"pinyin": "liu2_li4",
+		"english": "fluent",
+		"audios": [
+			"13110807184105_16196_6415d.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "穴",
+		"pinyin": "xue2",
+		"english": "cave",
+		"audios": [
+			"32000101116170939.mp3",
+			"13110807185559_14034_7c4b2.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "究",
+		"pinyin": "jiu1",
+		"english": "to investigate (also: to study carefully)",
+		"type": "character"
+	},
+	{
+		"hanzi": "研究",
+		"pinyin": "yan2_jiu1",
+		"english": "research",
+		"type": "word"
+	},
+	{
+		"hanzi": "空",
+		"pinyin": "kong4",
+		"english": "free time",
+		"audios": [
+			"576642000120905081010.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "空气",
+		"pinyin": "kong1_qi4",
+		"english": "air",
+		"audios": [
+			"13110807183931_16163_21176.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "空间",
+		"pinyin": "kong1_jian1",
+		"english": "space",
+		"audios": [
+			"13110807183931_17078_97e64.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "空中",
+		"pinyin": "kong1_zhong1",
+		"english": "airborne",
+		"type": "word"
+	},
+	{
+		"hanzi": "太空",
+		"pinyin": "tai4_kong1",
+		"english": "outer space",
+		"type": "word"
+	},
+	{
+		"hanzi": "突",
+		"pinyin": "tu1;_tu2",
+		"english": "to dash",
+		"type": "character"
+	},
+	{
+		"hanzi": "突然",
+		"pinyin": "tu1_ran2",
+		"english": "sudden",
+		"audios": [
+			"13110807185316_15839_5e9d4.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "突出",
+		"pinyin": "tu1_chu1",
+		"english": "prominent",
+		"audios": [
+			"13110807185316_17475_6266c.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "深",
+		"pinyin": "shen1",
+		"english": "deep",
+		"audios": [
+			"32000101021111728.mp3",
+			"32000101208182947.mp3",
+			"13110807184931_14723_1ef91.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "抽",
+		"pinyin": "chou1",
+		"english": "to draw out",
+		"audios": [
+			"32000101021111155.mp3",
+			"32000101211181747.mp3",
+			"13110807182714_14700_ce3ed.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "抽水",
+		"pinyin": "chou1_shui3",
+		"english": "unwatering",
+		"type": "word"
+	},
+	{
+		"hanzi": "抽身",
+		"pinyin": "chou1_shen1",
+		"english": "to withdraw",
+		"type": "word"
+	},
+	{
+		"hanzi": "邮",
+		"pinyin": "you2",
+		"english": "mail",
+		"audios": [
+			"32000101021064716.mp3",
+			"32000101209132834.mp3",
+			"13110807185844_14558_0eb3a.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "邮票",
+		"pinyin": "you2_piao4",
+		"english": "postage stamp",
+		"type": "word"
+	},
+	{
+		"hanzi": "申",
+		"pinyin": "shen1",
+		"english": "to explain",
+		"audios": [
+			"13110807184931_14754_1ef91.mp3",
+			"32000101021112642.mp3",
+			"32000101211182637.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "神",
+		"pinyin": "shen2",
+		"english": "spirit",
+		"type": "character"
+	},
+	{
+		"hanzi": "寅",
+		"pinyin": "yin2",
+		"english": "(3rd Earthly Branch)",
+		"type": "character"
+	},
+	{
+		"hanzi": "演",
+		"pinyin": "yan3",
+		"english": "to evolve",
+		"audios": [
+			"13110807185745_14582_5e392.mp3",
+			"32000101021065424.mp3",
+			"32000101211182406.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "演出",
+		"pinyin": "yan3_chu1",
+		"english": "to perform",
+		"audios": [
+			"32000101212094850.mp3",
+			"13110807185742_16399_5232b.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "表演",
+		"pinyin": "biao3_yan3",
+		"english": "performance",
+		"audios": [
+			"13110807181012_15642_e446c.mp3",
+			"32000101210083509.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "演员",
+		"pinyin": "yan3_yuan2",
+		"english": "actor",
+		"audios": [
+			"32000101208114648.mp3",
+			"13110807185745_16400_a91f1.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "开眼",
+		"pinyin": "kai1_yan3",
+		"english": "to begin",
+		"type": "word"
+	},
+	{
+		"hanzi": "黄",
+		"pinyin": "huang2",
+		"english": "yellow",
+		"audios": [
+			"32000101021040124.mp3",
+			"32000101212143130.mp3",
+			"13110807183406_14464_be320.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "黄河",
+		"pinyin": "huang2_he2",
+		"english": "Yellow River",
+		"type": "word"
+	},
+	{
+		"hanzi": "共",
+		"pinyin": "gong4",
+		"english": "collectively",
+		"audios": [
+			"13110807183218_14305_65f85.mp3",
+			"32000101021023151.mp3",
+			"32000101208172941.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "一共",
+		"pinyin": "yi2_gong4",
+		"english": "altogether",
+		"audios": [
+			"13110807185806_15877_06830.mp3",
+			"32000101208125652.mp3",
+			"/audio/13918428_1364225250431.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "公共",
+		"pinyin": "gong1_gong4",
+		"english": "public",
+		"audios": [
+			"/audio/13918406_1371230940056.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "公共汽车",
+		"pinyin": "gong1_gong4_qi4_che1",
+		"english": "bus",
+		"audios": [
+			"32000101117104729.mp3",
+			"32000101208161231.mp3",
+			"13110807183209_15505_2d287.mp3",
+			"/audio/13921873_1371231380231.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "画",
+		"pinyin": "hua4",
+		"english": "to paint",
+		"audios": [
+			"32000101021111442.mp3",
+			"13110807183400_14712_b8b84.mp3",
+			"32000101211194318.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "画儿",
+		"pinyin": "hua4_er5",
+		"english": "painting",
+		"type": "word"
+	},
+	{
+		"hanzi": "画报",
+		"pinyin": "hua4_bao4",
+		"english": "illustrated magazine",
+		"audios": [
+			"32000101209114501.mp3",
+			"13110807183358_24163_cf730.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "怕",
+		"pinyin": "pa4",
+		"english": "to fear",
+		"audios": [
+			"32000101211183611.mp3",
+			"13110807184603_27036_8eb2b.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "可怕",
+		"pinyin": "ke3_pa4",
+		"english": "terrible; frightening",
+		"audios": [
+			"13110807183923_17071_f4238.mp3",
+			"/audio/13986789_1372263816305.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "哪怕",
+		"pinyin": "na3_pa4",
+		"english": "even",
+		"audios": [
+			"13110807184506_17192_ff11b.mp3",
+			"/audio/13927976_1372267118227.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "拍",
+		"pinyin": "pai1",
+		"english": "to clap",
+		"audios": [
+			"32000101211174112.mp3",
+			"13110807184604_14710_4befc.mp3",
+			"32000101021111419.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "拍手",
+		"pinyin": "pai1_shou3",
+		"english": "clap",
+		"type": "word"
+	},
+	{
+		"hanzi": "拍子",
+		"pinyin": "pai1_zi5",
+		"english": "beat (music)",
+		"type": "word"
+	}
+]

@@ -3,6 +3,11 @@ export default [
 		"id": 1,
 		"hanzi": "一",
 		"pinyin": "yī (yí; yì)",
+		"audios": [
+			"syllables/yi/yi1/yi1_1.mp3",
+			"syllables/yi/yi1/yi1_2.mp3",
+			"syllables/yi/yi1/yi1_3.mp3",
+		],
 		"english": "one",
 		"radical": { "id": 1, "character": "一" },
 		"composition": null,

@@ -1,0 +1,596 @@
+[
+	{
+		"hanzi": "哭",
+		"pinyin": "ku1",
+		"english": "to cry",
+		"audios": [
+			"32000101021065448.mp3",
+			"13110807183936_14584_7814d.mp3",
+			"32000101211180214.mp3",
+			"/audio/13956462_1372267123232.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "器",
+		"pinyin": "qi4",
+		"english": "utensil",
+		"audios": [
+			"13110807184713_14583_2ddcd.mp3",
+			"32000101212130206.mp3",
+			"32000101021065435.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "机器",
+		"pinyin": "ji1_qi4",
+		"english": "machine",
+		"audios": [
+			"13110807183602_16950_e00e5.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "品",
+		"pinyin": "pin3",
+		"english": "product",
+		"audios": [
+			"32000101210095017.mp3",
+			"13110807184624_14543_c2c01.mp3",
+			"32000101021064341.mp3",
+			"/audio/13949472_1372266921222.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "操",
+		"pinyin": "cao1",
+		"english": "to hold",
+		"audios": [
+			"32000101021064351.mp3",
+			"32000101211191604.mp3",
+			"13110807182636_14544_e9eb6.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "澡",
+		"pinyin": "zao3",
+		"english": "bath",
+		"audios": [
+			"13110807185821_24397_13a50.mp3",
+			"32000101208151132.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "洗澡",
+		"pinyin": "xi3_zao3;_xi2_zao3",
+		"english": "to bathe",
+		"audios": [
+			"32000101211170800.mp3",
+			"13110807185454_15853_dd378.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "早",
+		"pinyin": "zao3",
+		"english": "early",
+		"audios": [
+			"13110807185821_14493_13a50.mp3",
+			"32000101209091122.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "早饭",
+		"pinyin": "zao3_fan4",
+		"english": "breakfast",
+		"audios": [
+			"32000101208160359.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "早上",
+		"pinyin": "zao3_shang5",
+		"english": "early morning",
+		"audios": [
+			"13110807185820_15608_4daf7.mp3",
+			"32000101209135459.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "章",
+		"pinyin": "zhang1",
+		"english": "chapter",
+		"audios": [
+			"13110807185834_75371_6ecb8.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "文章",
+		"pinyin": "wen2_zhang1",
+		"english": "article",
+		"audios": [
+			"13110807185326_16355_7cb69.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "草",
+		"pinyin": "cao3",
+		"english": "grass",
+		"audios": [
+			"13110807182637_15648_ec831.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "草地",
+		"pinyin": "cao3_di4",
+		"english": "lawn",
+		"type": "word"
+	},
+	{
+		"hanzi": "草原",
+		"pinyin": "cao3_yuan2",
+		"english": "grasslands",
+		"type": "word"
+	},
+	{
+		"hanzi": "包",
+		"pinyin": "bao1",
+		"english": "to wrap",
+		"audios": [
+			"13110807180936_14229_5752c.mp3",
+			"32000101020130637.mp3",
+			"32000101212105046.mp3",
+			"/audio/13980307_1372258004586.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "面包",
+		"pinyin": "mian4_bao1",
+		"english": "bread",
+		"audios": [
+			"32000101208160133.mp3",
+			"32000101116211917.mp3",
+			"13110807184227_14804_b76d9.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "钱包",
+		"pinyin": "qian2_bao1",
+		"english": "wallet",
+		"type": "word"
+	},
+	{
+		"hanzi": "包子",
+		"pinyin": "bao1_zi5",
+		"english": "steamed stuffed bun",
+		"audios": [
+			"13110807180936_14930_3410b.mp3",
+			"32000101117102720.mp3",
+			"32000101210174058.mp3",
+			"/audio/13933158_1372258036360.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "书包",
+		"pinyin": "shu1_bao1",
+		"english": "school bag",
+		"audios": [
+			"13110807185016_24784_f9299.mp3",
+			"32000101210131905.mp3",
+			"/audio/13997734_1368194251716.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "饱",
+		"pinyin": "bao3",
+		"english": "to be full",
+		"audios": [
+			"32000101211171626.mp3",
+			"13110807180941_14235_658ad.mp3",
+			"32000101020130830.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "报",
+		"pinyin": "bao4",
+		"english": "to announce",
+		"audios": [
+			"13110807180944_14119_63d20.mp3",
+			"32000101020123327.mp3",
+			"32000101211170347.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "跑",
+		"pinyin": "pao3",
+		"english": "to run",
+		"audios": [
+			"32000101212101246.mp3",
+			"13110807184609_14230_011bb.mp3",
+			"32000101020130651.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "跑步",
+		"pinyin": "pao3_bu4",
+		"english": "to run",
+		"audios": [
+			"32000101212101312.mp3",
+			"13110807184608_15551_204af.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "跑道",
+		"pinyin": "pao3_dao4",
+		"english": "runway",
+		"type": "word"
+	},
+	{
+		"hanzi": "商",
+		"pinyin": "shang1",
+		"english": "to trade",
+		"audios": [
+			"13110807184920_14911_b639b.mp3",
+			"32000101212103820.mp3",
+			"32000101020123512.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "商店",
+		"pinyin": "shang1_dian4",
+		"english": "store",
+		"audios": [
+			"13110807184918_15412_5b5a1.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "商业",
+		"pinyin": "shang1_ye4",
+		"english": "business",
+		"audios": [
+			"13110807184919_17335_f25c8.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "商场",
+		"pinyin": "shang1_chang3",
+		"english": "shopping mall",
+		"type": "word"
+	},
+	{
+		"hanzi": "商人",
+		"pinyin": "shang1_ren2",
+		"english": "businessman",
+		"audios": [
+			"32000101208161337.mp3",
+			"13110807184919_24153_41c23.mp3",
+			"32000101116170147.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "宿",
+		"pinyin": "su4",
+		"english": "to lodge",
+		"audios": [
+			"13110807185038_20603_e08f8.mp3",
+			"32000101211193113.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "食宿",
+		"pinyin": "shi2_su4",
+		"english": "food and lodging",
+		"type": "word"
+	},
+	{
+		"hanzi": "予",
+		"pinyin": "yu3",
+		"english": "to grant",
+		"audios": [
+			"13110807185854_14010_02ab8.mp3",
+			"32000101211184730.mp3",
+			"32000101020073943.mp3",
+			"/audio/13962834_1368193076345.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "预",
+		"pinyin": "yu4",
+		"english": "beforehand",
+		"audios": [
+			"13110807185859_14638_cfb7f.mp3",
+			"32000101208152411.mp3",
+			"32000101021071017.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "预备",
+		"pinyin": "yu4_bei4",
+		"english": "preparation",
+		"type": "word"
+	},
+	{
+		"hanzi": "舍",
+		"pinyin": "she4;_she3",
+		"english": "house",
+		"audios": [
+			"32000101209112938.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "宿舍",
+		"pinyin": "su4_she4",
+		"english": "dormitory",
+		"audios": [
+			"32000101208203853.mp3",
+			"13110807185037_17423_63edb.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "舒",
+		"pinyin": "shu1",
+		"english": "to relax",
+		"audios": [
+			"32000101117112819.mp3",
+			"32000101212100512.mp3",
+			"13110807185019_14356_40072.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "舒服",
+		"pinyin": "shu1_fu5,_shu1_fu2",
+		"english": "comfortable",
+		"audios": [
+			"32000101208180358.mp3",
+			"32000101117105100.mp3",
+			"13110807185016_15819_30cee.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "兴",
+		"pinyin": "xing4;_xing1",
+		"english": "to be happy",
+		"audios": [
+			"32000101021064624.mp3",
+			"13110807185539_14552_392d7.mp3",
+			"32000101211171650.mp3",
+			"/audio/13946256_1371648081643.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "高兴",
+		"pinyin": "gao1_xing4",
+		"english": "happy",
+		"audios": [
+			"13110807183155_15355_c9b34.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "矛",
+		"pinyin": "mao2",
+		"english": "spear",
+		"type": "character"
+	},
+	{
+		"hanzi": "橘",
+		"pinyin": "ju2",
+		"english": "tangerine",
+		"type": "character"
+	},
+	{
+		"hanzi": "橘子",
+		"pinyin": "ju2_zi5",
+		"english": "orange",
+		"audios": [
+			"251425000120220022409.mp3",
+			"251425000120220022519.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "举",
+		"pinyin": "ju3",
+		"english": "to hold up",
+		"audios": [
+			"13110807183732_14560_9deef.mp3",
+			"32000101211191715.mp3",
+			"32000101021064741.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "举行",
+		"pinyin": "ju3_xing2",
+		"english": "to hold a meeting",
+		"audios": [
+			"32000101211191650.mp3",
+			"13110807183732_15751_3af5b.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "句",
+		"pinyin": "ju4",
+		"english": "sentence",
+		"audios": [
+			"13110807183735_14156_9df98.mp3",
+			"32000101020124451.mp3",
+			"32000101210133120.mp3",
+			"/audio/13948615_1372263420160.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "句子",
+		"pinyin": "ju4_zi5",
+		"english": "sentence",
+		"audios": [
+			"13110807183734_15752_5725f.mp3",
+			"/audio/13924762_1372263429733.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "局",
+		"pinyin": "ju2",
+		"english": "office, chessboard (radical meaning)",
+		"audios": [
+			"13110807183730_14467_5865c.mp3",
+			"32000101021040519.mp3",
+			"32000101208163758.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "邮局",
+		"pinyin": "you2_ju2",
+		"english": "post office",
+		"audios": [
+			"32000101210094055.mp3",
+			"32000101117101133.mp3",
+			"13110807185841_14984_0906c.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "局长",
+		"pinyin": "ju2_zhang3",
+		"english": "director",
+		"type": "word"
+	},
+	{
+		"hanzi": "够",
+		"pinyin": "gou4",
+		"english": "enough",
+		"audios": [
+			"32000101209092415.mp3",
+			"13110807183221_14284_c10a3.mp3",
+			"32000101021022516.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "能够",
+		"pinyin": "neng2_gou4",
+		"english": "to be able",
+		"type": "word"
+	},
+	{
+		"hanzi": "付",
+		"pinyin": "fu4",
+		"english": "to pay",
+		"audios": [
+			"13110807183112_14912_5e919.mp3",
+			"32000101020074231.mp3",
+			"32000101212094719.mp3",
+			"/audio/13918926_1371213722415.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "附",
+		"pinyin": "fu4",
+		"english": "near",
+		"audios": [
+			"32000101021070147.mp3",
+			"32000101209140842.mp3",
+			"13110807183112_14607_5e919.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "附近",
+		"pinyin": "fu4_jin4",
+		"english": "nearby",
+		"audios": [
+			"32000101209140745.mp3",
+			"32000101117110917.mp3",
+			"13110807183109_15692_c84cf.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "府",
+		"pinyin": "fu3",
+		"english": "government office",
+		"type": "character"
+	},
+	{
+		"hanzi": "政府",
+		"pinyin": "zheng4_fu3",
+		"english": "government",
+		"audios": [
+			"13110807185854_17729_4f221.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "凶",
+		"pinyin": "xiong1",
+		"english": "fierce",
+		"audios": [
+			"/audio/13998367_1371814181810.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "离",
+		"pinyin": "li2",
+		"english": "to depart",
+		"audios": [
+			"32000101021070218.mp3",
+			"13110807184041_14609_f91dd.mp3",
+			"32000101211181136.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "遇",
+		"pinyin": "yu4",
+		"english": "to meet",
+		"audios": [
+			"13110807185858_64979_cfb7f.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "脱",
+		"pinyin": "tuo1",
+		"english": "to shed",
+		"audios": [
+			"13110807185324_16345_e00d3.mp3"
+		],
+		"type": "character"
+	}
+]

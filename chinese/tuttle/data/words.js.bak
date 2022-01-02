@@ -1,0 +1,362 @@
+export default [
+	{
+		"english": "woman",
+		"pinyin": "nv3_ren2",
+		"hanzi": "女人"
+	},
+	{
+		"english": "cup",
+		"pinyin": "bei1_zi5",
+		"hanzi": "杯子"
+	},
+	{
+		"english": "son",
+		"pinyin": "er2_zi5",
+		"hanzi": "儿子"
+	},
+	{
+		"english": "daughter",
+		"pinyin": "nv3_er4",
+		"hanzi": "女儿"
+	},
+	{
+		"english": "manpower",
+		"pinyin": "ren2_li4",
+		"hanzi": "人力"
+	},
+	{
+		"english": "population",
+		"pinyin": "ren2_kou3",
+		"hanzi": "人口"
+	},
+	{
+		"english": "day, date; life",
+		"pinyin": "ri4_zi5",
+		"hanzi": "日子"
+	},
+	{
+		"english": "written Japanese",
+		"pinyin": "ri4_wen2",
+		"hanzi": "日文"
+	},
+	{
+		"english": "this one",
+		"pinyin": "zhe4_ge4",
+		"hanzi": "这个"
+	},
+	{
+		"english": "here",
+		"pinyin": "zhe4_er5",
+		"hanzi": "这儿"
+	},
+	{
+		"english": "doorway",
+		"pinyin": "men2_kou3",
+		"hanzi": "门口"
+	},
+	{
+		"english": "they",
+		"pinyin": "ta1_men5",
+		"hanzi": "他们"
+	},
+	{
+		"english": "they (females)",
+		"pinyin": "ta1_men5",
+		"hanzi": "她们"
+	},
+	{
+		"english": "people",
+		"pinyin": "ren2_men5",
+		"hanzi": "人们"
+	},
+	{
+		"english": "mobile phone",
+		"pinyin": "shou3_ji1",
+		"hanzi": "手机"
+	},
+	{
+		"english": "we",
+		"pinyin": "wo3_men5",
+		"hanzi": "我们"
+	},
+	{
+		"english": "written Chinese",
+		"pinyin": "zhong1_wen2",
+		"hanzi": "中文"
+	},
+	{
+		"english": "like this",
+		"pinyin": "zhe4_me5",
+		"hanzi": "这么"
+	},
+	{
+		"english": "what",
+		"pinyin": "shen2_me5",
+		"hanzi": "什么"
+	},
+	{
+		"english": "etc.",
+		"pinyin": "shen2_me5_de5",
+		"hanzi": "什么的"
+	},
+	{
+		"english": "doing A while also doing B",
+		"pinyin": "yi1_bian1",
+		"hanzi": "一边"
+	},
+	{
+		"english": "this side",
+		"pinyin": "zhe4_bian1",
+		"hanzi": "这边"
+	},
+	{
+		"english": "above; high up",
+		"pinyin": "shang4_bian5",
+		"hanzi": "上边"
+	},
+	{
+		"english": "below, under",
+		"pinyin": "xia4_bian5",
+		"hanzi": "下边"
+	},
+	{
+		"english": "briefly; casually",
+		"pinyin": "yi2_xia4_er5",
+		"hanzi": "一下儿"
+	},
+	{
+		"english": "at once",
+		"pinyin": "ma3_shang4",
+		"hanzi": "马上"
+	},
+	{
+		"english": "mum",
+		"pinyin": "ma1_ma5",
+		"hanzi": "妈妈"
+	},
+	{
+		"english": "adult",
+		"pinyin": "da4_ren2",
+		"hanzi": "大人"
+	},
+	{
+		"english": "wife; Mrs.",
+		"pinyin": "tai4_tai5",
+		"hanzi": "太太"
+	},
+	{
+		"english": "doctor",
+		"pinyin": "dai4_fu1",
+		"hanzi": "大夫"
+	},
+	{
+		"english": "wife",
+		"pinyin": "fu1_ren2",
+		"hanzi": "夫人"
+	},
+	{
+		"english": "size",
+		"pinyin": "da4_xiao3",
+		"hanzi": "大小"
+	},
+	{
+		"english": "you (plural)",
+		"pinyin": "ni3_men5",
+		"hanzi": "你们"
+	},
+	{
+		"english": "both A and B",
+		"pinyin": "you4",
+		"hanzi": "又"
+	},
+	{
+		"english": "friendly",
+		"pinyin": "you3_hao3",
+		"hanzi": "友好"
+	},
+	{
+		"english": "underground",
+		"pinyin": "di4_xia4",
+		"hanzi": "地下"
+	},
+	{
+		"english": "-ing prefix",
+		"pinyin": "zheng4_zai4",
+		"hanzi": "正在"
+	},
+	{
+		"english": "physical exercise",
+		"pinyin": "yun4_dong4",
+		"hanzi": "运动"
+	},
+	{
+		"english": "to start work",
+		"pinyin": "dong4_shou3",
+		"hanzi": "动手"
+	},
+	{
+		"english": "chance, opportunity",
+		"pinyin": "ji1_hui4",
+		"hanzi": "机会"
+	},
+	{
+		"english": "congress, assembly",
+		"pinyin": "da4_hui4",
+		"hanzi": "大会"
+	},
+	{
+		"english": "one moment",
+		"pinyin": "yi1_hui4_er5",
+		"hanzi": "一会儿"
+	},
+	{
+		"english": "China",
+		"pinyin": "zhong1_guo2",
+		"hanzi": "中国"
+	},
+	{
+		"english": "February",
+		"pinyin": "er4_yue4",
+		"hanzi": "二月"
+	},
+	{
+		"english": "March",
+		"pinyin": "san1_yue4",
+		"hanzi": "三月"
+	},
+	{
+		"english": "three months",
+		"pinyin": "san1_ge5_yue4",
+		"hanzi": "三个月"
+	},
+	{
+		"english": "friend",
+		"pinyin": "peng2_you3",
+		"hanzi": "朋友"
+	},
+	{
+		"english": "friends",
+		"pinyin": "peng2_you3_men5",
+		"hanzi": "朋友们"
+	},
+	{
+		"english": "some",
+		"pinyin": "you3_de5",
+		"hanzi": "有的"
+	},
+	{
+		"english": "forceful",
+		"pinyin": "you3_li4",
+		"hanzi": "有力"
+	},
+	{
+		"english": "younger sister",
+		"pinyin": "mei4_mei4",
+		"hanzi": "妹妹"
+	},
+	{
+		"english": "come up",
+		"pinyin": "shang4_lai2",
+		"hanzi": "上来"
+	},
+	{
+		"english": "come down",
+		"pinyin": "xia4_lai2",
+		"hanzi": "下来"
+	},
+	{
+		"english": "novel",
+		"pinyin": "xiao3_shuo1",
+		"hanzi": "小说"
+	},
+	{
+		"english": "spoken language",
+		"pinyin": "kou3_yu3",
+		"hanzi": "口语"
+	},
+	{
+		"english": "spoken Japanese",
+		"pinyin": "ri4_yu3",
+		"hanzi": "日语"
+	},
+	{
+		"english": "spoken Chinese",
+		"pinyin": "han4_yu3",
+		"hanzi": "汉语"
+	},
+	{
+		"english": "how",
+		"pinyin": "duo1_me5",
+		"hanzi": "多么"
+	},
+	{
+		"english": "cloudy",
+		"pinyin": "duo1_yun2",
+		"hanzi": "多云"
+	},
+	{
+		"english": "famous",
+		"pinyin": "you3_ming2",
+		"hanzi": "有名"
+	},
+	{
+		"english": "outside",
+		"pinyin": "wai4_bian5",
+		"hanzi": "外边"
+	},
+	{
+		"english": "foreign spoken language",
+		"pinyin": "wai4_yu3",
+		"hanzi": "外语"
+	},
+	{
+		"english": "foreign written language",
+		"pinyin": "wai4_wen2",
+		"hanzi": "外文"
+	},
+	{
+		"english": "foreign country",
+		"pinyin": "wai4_guo2",
+		"hanzi": "外国"
+	},
+	{
+		"english": "excluded",
+		"pinyin": "zai4_wai4",
+		"hanzi": "在外"
+	},
+	{
+		"english": "outsider",
+		"pinyin": "wai4_ren2",
+		"hanzi": "外人"
+	},
+	{
+		"english": "foreigner",
+		"pinyin": "wai4_guo2_ren2",
+		"hanzi": "外国人"
+	},
+	{
+		"english": "knife",
+		"pinyin": "dao1_zi0",
+		"hanzi": "刀子"
+	},
+	{
+		"english": "totally",
+		"pinyin": "shi2_fen1",
+		"hanzi": "十分"
+	},
+	{
+		"english": "daytime",
+		"pinyin": "bai2_tian1",
+		"hanzi": "白天"
+	},
+	{
+		"english": "",
+		"pinyin": "",
+		"hanzi": ""
+	},
+	{
+		"english": "every day",
+		"pinyin": "tian1_tian1",
+		"hanzi": "天天"
+	},
+]

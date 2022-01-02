@@ -1,0 +1,748 @@
+[
+	{
+		"hanzi": "示",
+		"pinyin": "shi4",
+		"english": "sign",
+		"audios": [
+			"13110807185007_14031_30186.mp3",
+			"32000101020075646.mp3",
+			"32000101210154554.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "示意",
+		"pinyin": "shi4_yi4",
+		"english": "suggestion",
+		"type": "word"
+	},
+	{
+		"hanzi": "票",
+		"pinyin": "piao4",
+		"english": "ticket",
+		"audios": [
+			"32000101211165352.mp3",
+			"13110807184622_14564_de554.mp3",
+			"32000101020124409.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "票子",
+		"pinyin": "piao4_zi3",
+		"english": "tessera",
+		"type": "word"
+	},
+	{
+		"hanzi": "门票",
+		"pinyin": "men2_piao4",
+		"english": "ticket",
+		"type": "word"
+	},
+	{
+		"hanzi": "飞机票",
+		"pinyin": "fei1_ji1_piao4",
+		"english": "airplane ticket",
+		"type": "word"
+	},
+	{
+		"hanzi": "火车票",
+		"pinyin": "huo3_che1_piao4",
+		"english": "train ticket",
+		"type": "word"
+	},
+	{
+		"hanzi": "漂",
+		"pinyin": "piao1",
+		"english": "to float",
+		"audios": [
+			"13110807184621_14154_54095.mp3",
+			"32000101020124416.mp3",
+			"32000101211183903.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "漂亮",
+		"pinyin": "piao4_liang5",
+		"english": "pretty",
+		"audios": [
+			"13110807184622_15400_00930.mp3",
+			"32000101117115156.mp3",
+			"32000101210094847.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "社",
+		"pinyin": "she4",
+		"english": "society",
+		"audios": [
+			"32000101021111959.mp3",
+			"32000101210172510.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "社会",
+		"pinyin": "she4_hui4",
+		"english": "society",
+		"audios": [
+			"13110807184925_16276_4156f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "祝",
+		"pinyin": "zhu4",
+		"english": "to wish",
+		"audios": [
+			"13110807185935_15910_9d38c.mp3",
+			"32000101212104939.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "视",
+		"pinyin": "shi4",
+		"english": "to look at",
+		"audios": [
+			"13110807185007_14039_30186.mp3",
+			"32000101211193152.mp3",
+			"32000101020080206.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "电视",
+		"pinyin": "dian4_shi4",
+		"english": "television",
+		"audios": [
+			"13110807182850_15342_2bd93.mp3",
+			"32000101211162710.mp3",
+			"32000101117111758.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "近视",
+		"pinyin": "jin4_shi4",
+		"english": "shortsighted",
+		"audios": [
+			"13110807183711_18816_79c4e.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "表",
+		"pinyin": "biao3",
+		"english": "watch; display",
+		"audios": [
+			"32000101116171657.mp3",
+			"13110807181013_24154_87bf3.mp3",
+			"32000101212131220.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "表示",
+		"pinyin": "biao3_shi4",
+		"english": "to express",
+		"audios": [
+			"13110807181011_15641_5c28e.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "手表",
+		"pinyin": "shou3_biao3",
+		"english": "wristwatch",
+		"audios": [
+			"13110807185010_15565_ad2cb.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "表现",
+		"pinyin": "biao3_xian4",
+		"english": "to show",
+		"audios": [
+			"13110807181012_16552_f92f2.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "发表",
+		"pinyin": "fa1_biao3",
+		"english": "to publish; to make an announcement",
+		"audios": [
+			"13110807183025_16752_0da60.mp3",
+			"/audio/13998658_1372262584682.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "表面",
+		"pinyin": "biao3_mian4",
+		"english": "surface",
+		"audios": [
+			"13110807181011_16549_98c38.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "表明",
+		"pinyin": "biao3_ming2",
+		"english": "to make clear",
+		"audios": [
+			"13110807181011_16550_b11be.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "衣",
+		"pinyin": "yi1",
+		"english": "gown",
+		"audios": [
+			"32000120126132143.mp3",
+			"32000120126131605.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "大衣",
+		"pinyin": "da4_yi1",
+		"english": "overcoat",
+		"audios": [
+			"13110807182817_24785_6cd4a.mp3",
+			"32000101210082451.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "洗衣机",
+		"pinyin": "xi3_yi1_ji1",
+		"english": "washing machine",
+		"audios": [
+			"32000101117113552.mp3",
+			"32000101212131055.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "农",
+		"pinyin": "nong2",
+		"english": "agriculture",
+		"audios": [
+			"32000101020130556.mp3",
+			"13110807184521_14226_5d6f5.mp3",
+			"32000101208124643.mp3",
+			"/audio/13930438_1371650266134.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "农业",
+		"pinyin": "nong2_ye4",
+		"english": "agriculture",
+		"audios": [
+			"13110807184521_17207_70de5.mp3",
+			"/audio/13924326_1371650271329.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "农村",
+		"pinyin": "nong2_cun1",
+		"english": "countryside",
+		"audios": [
+			"32000101117105300.mp3",
+			"32000101208181850.mp3",
+			"13110807184520_16219_4959e.mp3",
+			"/audio/13930102_1371650335152.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "初",
+		"pinyin": "chu1",
+		"english": "at first",
+		"type": "character"
+	},
+	{
+		"hanzi": "最初",
+		"pinyin": "zui4_chu1",
+		"english": "first",
+		"audios": [
+			"13110807190008_17808_f2d7b.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "初步",
+		"pinyin": "chu1_bu4",
+		"english": "initial step",
+		"audios": [
+			"13110807182716_18124_5be1c.mp3",
+			"/audio/13916427_1372254934876.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "皮",
+		"pinyin": "pi2",
+		"english": "skin",
+		"audios": [
+			"13110807184618_14750_e4cfc.mp3",
+			"32000101210155307.mp3",
+			"32000101021112504.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "被",
+		"pinyin": "bei4",
+		"english": "by (indicates passive-voice sentences or clauses)",
+		"audios": [
+			"13110807180950_15931_a02c4.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "被子",
+		"pinyin": "bei4_zi5",
+		"english": "quilt",
+		"audios": [
+			"13110807180949_16531_2cb33.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "破",
+		"pinyin": "po4",
+		"english": "broken",
+		"audios": [
+			"13110807184633_16233_3ef76.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "破产",
+		"pinyin": "po4_chan3",
+		"english": "to go bankrupt",
+		"audios": [
+			"13110807184632_17241_07360.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "坏",
+		"pinyin": "huai4",
+		"english": "bad",
+		"audios": [
+			"13110807183402_14719_4181e.mp3",
+			"32000101208145724.mp3",
+			"32000101021111632.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "破坏",
+		"pinyin": "po4_huai4",
+		"english": "to wreck",
+		"audios": [
+			"13110807184632_17242_fa686.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "且",
+		"pinyin": "qie3",
+		"english": "moreover, a long time (radical)",
+		"audios": [
+			"13110807184726_14159_d57e2.mp3",
+			"32000101208113012.mp3",
+			"32000101020124534.mp3",
+			"/audio/13923662_1369241122696.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "而且",
+		"pinyin": "er2_qie3",
+		"english": "in addition",
+		"type": "word"
+	},
+	{
+		"hanzi": "姐",
+		"pinyin": "jie3",
+		"english": "older sister",
+		"audios": [
+			"13110807183700_14219_2c16d.mp3",
+			"32000101210081117.mp3",
+			"32000101020130315.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "姐姐",
+		"pinyin": "jie3_jie5",
+		"english": "older sister",
+		"audios": [
+			"13110807183658_15522_9c9c6.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "小姐",
+		"pinyin": "xiao3_jie5,_xiao3_jie3",
+		"english": "young lady",
+		"audios": [
+			"13110807185521_15444_4f93f.mp3",
+			"32000101212143523.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "姐妹",
+		"pinyin": "jie3_mei4",
+		"english": "sisters",
+		"type": "word"
+	},
+	{
+		"hanzi": "助",
+		"pinyin": "zhu4",
+		"english": "to help",
+		"audios": [
+			"13110807185935_14736_9d38c.mp3",
+			"32000101211191427.mp3",
+			"/audio/13983197_1372257300897.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "助手",
+		"pinyin": "zhu4_shou3",
+		"english": "assistant",
+		"audios": [
+			"13110807185933_20250_ab9ee.mp3",
+			"/audio/13999376_1372257315853.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "租",
+		"pinyin": "zu1",
+		"english": "to rent",
+		"audios": [
+			"13110807190002_14161_56a63.mp3",
+			"32000101210105227.mp3",
+			"32000101116171335.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "出租汽车",
+		"pinyin": "chu1_zu1_qi4_che1",
+		"english": "taxi",
+		"type": "word"
+	},
+	{
+		"hanzi": "祖",
+		"pinyin": "zu3",
+		"english": "ancestor",
+		"audios": [
+			"13110807190006_14160_71950.mp3",
+			"32000101020124548.mp3",
+			"32000101208130049.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "祖国",
+		"pinyin": "zu3_guo2",
+		"english": "homeland",
+		"type": "word"
+	},
+	{
+		"hanzi": "组",
+		"pinyin": "zu3",
+		"english": "to organize",
+		"audios": [
+			"32000101211194115.mp3",
+			"32000101020124556.mp3",
+			"13110807190006_14162_71950.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "组织",
+		"pinyin": "zu3_zhi1",
+		"english": "to organize",
+		"audios": [
+			"13110807190006_16495_c2fa8.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "宜",
+		"pinyin": "yi2",
+		"english": "appropriate",
+		"audios": [
+			"32000101020124718.mp3",
+			"32000101208143044.mp3",
+			"13110807185810_14165_c8a9b.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "便宜",
+		"pinyin": "pian2_yi5",
+		"english": "cheap",
+		"audios": [
+			"32000101208163604.mp3",
+			"13110807184620_15552_8c62b.mp3",
+			"/audio/13967862_1371222845786.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "谊",
+		"pinyin": "yi4",
+		"english": "friendship",
+		"type": "character"
+	},
+	{
+		"hanzi": "友谊",
+		"pinyin": "you3_yi4",
+		"english": "friendship",
+		"audios": [
+			"13110807185846_16430_ddc22.mp3",
+			"/audio/13949121_1372261675576.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "直",
+		"pinyin": "zhi2",
+		"english": "straight",
+		"audios": [
+			"32000101021023926.mp3",
+			"32000101211104727.mp3",
+			"13110807185906_14334_4aece.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "一直",
+		"pinyin": "yi1_zhi2;_yi4_zhi2",
+		"english": "continuous",
+		"audios": [
+			"13110807185802_15880_b9543.mp3",
+			"/audio/13973446_1364228928833.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "真",
+		"pinyin": "zhen1",
+		"english": "real",
+		"audios": [
+			"13110807185846_181040_7dfa7.mp3",
+			"32000101210104728.mp3",
+			"32000101021024021.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "真正",
+		"pinyin": "zhen1_zheng4",
+		"english": "genuine",
+		"audios": [
+			"13110807185845_16452_15311.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "认真",
+		"pinyin": "ren4_zhen1",
+		"english": "conscientious",
+		"audios": [
+			"13110807184739_15809_1febb.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "真理",
+		"pinyin": "zhen1_li3",
+		"english": "truth",
+		"audios": [
+			"13110807185844_17714_82f69.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "真实",
+		"pinyin": "zhen1_shi2",
+		"english": "true",
+		"audios": [
+			"13110807185845_17715_33cc5.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "毛",
+		"pinyin": "mao2",
+		"english": "fur",
+		"audios": [
+			"32000101020122747.mp3",
+			"32000101209105419.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "羊毛",
+		"pinyin": "yang2_mao2",
+		"english": "fleece",
+		"type": "word"
+	},
+	{
+		"hanzi": "毛衣",
+		"pinyin": "mao2_yi1",
+		"english": "wool sweater",
+		"type": "word"
+	},
+	{
+		"hanzi": "笔",
+		"pinyin": "bi3",
+		"english": "brush",
+		"audios": [
+			"32000101020123337.mp3",
+			"13110807180956_14120_635bf.mp3",
+			"32000101208160733.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "毛笔",
+		"pinyin": "mao2_bi3",
+		"english": "writing brush",
+		"audios": [
+			"13110807184213_26858_da6a9.mp3",
+			"32000101212142809.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "笔记",
+		"pinyin": "bi3_ji4",
+		"english": "note",
+		"audios": [
+			"13110807180954_34266_89d30.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "民",
+		"pinyin": "min2",
+		"english": "people",
+		"audios": [
+			"32000101021033606.mp3",
+			"13110807184231_14383_ddab2.mp3",
+			"32000101211164308.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "农民",
+		"pinyin": "nong2_min2",
+		"english": "peasant",
+		"audios": [
+			"13110807184521_17206_69d8a.mp3",
+			"32000101210083121.mp3",
+			"/audio/13982476_1371650340007.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "人民",
+		"pinyin": "ren2_min2",
+		"english": "the people",
+		"audios": [
+			"/audio/13997651_1368806318511.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "民主",
+		"pinyin": "min2_zhu3",
+		"english": "democracy",
+		"audios": [
+			"13110807184231_17172_c78d0.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "民歌",
+		"pinyin": "min2_ge1",
+		"english": "folk song",
+		"type": "word"
+	},
+	{
+		"hanzi": "民用",
+		"pinyin": "min2_yong4",
+		"english": "civilian use",
+		"type": "word"
+	},
+	{
+		"hanzi": "代",
+		"pinyin": "dai4",
+		"english": "generation",
+		"audios": [
+			"32000101021070438.mp3",
+			"32000101209105906.mp3",
+			"13110807182822_14615_f6a94.mp3",
+			"/audio/13978514_1371213826122.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "现代",
+		"pinyin": "xian4_dai4",
+		"english": "modern times",
+		"audios": [
+			"13110807185506_16366_3d41b.mp3",
+			"32000101209135137.mp3",
+			"32000101117110744.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "代表",
+		"pinyin": "dai4_biao3",
+		"english": "representative, to represent",
+		"audios": [
+			"13110807182819_15985_17258.mp3",
+			"/audio/13936320_1371213922576.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "时代",
+		"pinyin": "shi2_dai4",
+		"english": "age",
+		"audios": [
+			"13110807184948_17365_8e6e6.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "年代",
+		"pinyin": "nian2_dai4",
+		"english": "decade",
+		"audios": [
+			"13110807184515_17200_cf1ac.mp3"
+		],
+		"type": "word"
+	}
+]

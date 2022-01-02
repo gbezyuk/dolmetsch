@@ -1,0 +1,489 @@
+[
+	{
+		"hanzi": "建",
+		"pinyin": "jian4",
+		"english": "to construct",
+		"audios": [
+			"13110807183639_72905_5b7a3.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "建设",
+		"pinyin": "jian4_she4",
+		"english": "construction",
+		"audios": [
+			"13110807183637_16988_e9497.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "建立",
+		"pinyin": "jian4_li4",
+		"english": "to build",
+		"audios": [
+			"13110807183636_16986_3a53f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "健",
+		"pinyin": "jian4",
+		"english": "healthy",
+		"audios": [
+			"13110807183639_24408_5b7a3.mp3",
+			"/audio/13925821_1371226427254.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "健儿",
+		"pinyin": "jian4_er2",
+		"english": "good athlete",
+		"type": "word"
+	},
+	{
+		"hanzi": "廷",
+		"pinyin": "ting2",
+		"english": "palace courtyard",
+		"type": "character"
+	},
+	{
+		"hanzi": "庭",
+		"pinyin": "ting2",
+		"english": "court",
+		"audios": [
+			"32000101208181945.mp3",
+			"13110807185306_24798_ac35a.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "家庭",
+		"pinyin": "jia1_ting2",
+		"english": "household",
+		"audios": [
+			"32000101209113203.mp3",
+			"13110807183621_16965_b1513.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "挺",
+		"pinyin": "ting3",
+		"english": "rather",
+		"audios": [
+			"13110807185308_16339_bb5ba.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "挺立",
+		"pinyin": "ting3_li4",
+		"english": "to stand erect",
+		"type": "word"
+	},
+	{
+		"hanzi": "肖",
+		"pinyin": "xiao4",
+		"english": "to resemble",
+		"type": "character"
+	},
+	{
+		"hanzi": "消",
+		"pinyin": "xiao1",
+		"english": "to disappear",
+		"type": "character"
+	},
+	{
+		"hanzi": "取消",
+		"pinyin": "qu3_xiao1",
+		"english": "to cancel",
+		"audios": [
+			"13110807184744_17287_02246.mp3",
+			"/audio/13976250_1372262732658.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "消化",
+		"pinyin": "xiao1_hua4",
+		"english": "to digest",
+		"audios": [
+			"13110807185519_17566_7c067.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "息",
+		"pinyin": "xi1",
+		"english": "to rest",
+		"audios": [
+			"13110807185451_24404_ab50d.mp3",
+			"32000101212100843.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "消息",
+		"pinyin": "xiao1_xi5",
+		"english": "news",
+		"audios": [
+			"13110807185520_16373_69607.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "留",
+		"pinyin": "liu2",
+		"english": "to leave (something behind)",
+		"audios": [
+			"32000101211192751.mp3",
+			"13110807184107_16194_e36e9.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "留念",
+		"pinyin": "liu2_nian4",
+		"english": "to keep as a souvenir",
+		"audios": [
+			"13110807184105_19018_154e3.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "留学生",
+		"pinyin": "liu2_xue2_sheng1",
+		"english": "exchange student",
+		"audios": [
+			"13110807184106_20602_4ea62.mp3",
+			"32000101209093147.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "派",
+		"pinyin": "_pai4",
+		"english": "to send",
+		"audios": [
+			"13110807184606_17213_1e9ec.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "派别",
+		"pinyin": "pai4_bie2",
+		"english": "denomination",
+		"audios": [
+			"13110807184605_19161_e912c.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "派系",
+		"pinyin": "pai4_xi4",
+		"english": "faction",
+		"type": "word"
+	},
+	{
+		"hanzi": "派头",
+		"pinyin": "pai4_tou2",
+		"english": "manner",
+		"type": "word"
+	},
+	{
+		"hanzi": "展",
+		"pinyin": "zhan3",
+		"english": "to spread out",
+		"type": "character"
+	},
+	{
+		"hanzi": "发展",
+		"pinyin": "fa1_zhan3",
+		"english": "development",
+		"audios": [
+			"13110807183029_16017_2f37d.mp3",
+			"/audio/13932311_1372262236838.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "展出",
+		"pinyin": "zhan3_chu1",
+		"english": "to put on display",
+		"type": "word"
+	},
+	{
+		"hanzi": "畏",
+		"pinyin": "wei4",
+		"english": "to fear",
+		"audios": [
+			"13110807185322_17509_89249.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "喂",
+		"pinyin": "wei4",
+		"english": "hello",
+		"audios": [
+			"13110807185322_24166_89249.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "候",
+		"pinyin": "hou4",
+		"english": "to wait",
+		"audios": [
+			"32000101021041636.mp3",
+			"32000101212104430.mp3",
+			"13110807183350_14490_3639c.mp3",
+			"/audio/13981578_1371225241412.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "时候",
+		"pinyin": "shi2_hou5;_shi2_hou4",
+		"english": "time",
+		"audios": [
+			"32000101211165623.mp3",
+			"32000101117115553.mp3",
+			"13110807184950_15025_163a7.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "有时候",
+		"pinyin": "you3_shi2_hou5",
+		"english": "sometimes",
+		"type": "word"
+	},
+	{
+		"hanzi": "气候",
+		"pinyin": "qi4_hou4",
+		"english": "climate",
+		"audios": [
+			"13110807184711_16238_bf5e3.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "齐",
+		"pinyin": "qi2",
+		"english": "neat",
+		"audios": [
+			"13110807184706_14525_bcda9.mp3",
+			"32000101210071645.mp3",
+			"32000101021063941.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "整齐",
+		"pinyin": "zheng3_qi2",
+		"english": "tidy",
+		"audios": [
+			"32000101211165429.mp3",
+			"32000101117111856.mp3",
+			"13110807185853_16454_8bf51.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "一齐",
+		"pinyin": "yi1_qi2",
+		"english": "simultaneously",
+		"audios": [
+			"13110807185800_26745_fab52.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "挤",
+		"pinyin": "ji3",
+		"english": "crowded (also: to cram, jostle, squeeze)",
+		"audios": [
+			"13110807183613_65581_43be1.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "挤奶",
+		"pinyin": "ji3_nai3",
+		"english": "milking",
+		"type": "word"
+	},
+	{
+		"hanzi": "济",
+		"pinyin": "ji4",
+		"english": "to benefit",
+		"audios": [
+			"32000101211173103.mp3",
+			"32000101021063953.mp3",
+			"13110807183619_14526_9f6e7.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "经济",
+		"pinyin": "jing1_ji4",
+		"english": "economy",
+		"audios": [
+			"13110807183714_16140_7f50f.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "黑",
+		"pinyin": "hei1",
+		"english": "black",
+		"audios": [
+			"13110807183344_14769_1d04e.mp3",
+			"32000101021113122.mp3",
+			"32000101208153729.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "黑板",
+		"pinyin": "hei1_ban3",
+		"english": "blackboard",
+		"audios": [
+			"13110807183344_15712_0af27.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "黑市",
+		"pinyin": "hei1_shi4",
+		"english": "blackmarket",
+		"type": "word"
+	},
+	{
+		"hanzi": "黑白",
+		"pinyin": "hei1_bai2",
+		"english": "black and white",
+		"type": "word"
+	},
+	{
+		"hanzi": "曾",
+		"pinyin": "ceng2",
+		"english": "once (in the past)",
+		"type": "character"
+	},
+	{
+		"hanzi": "增",
+		"pinyin": "zeng1",
+		"english": "to increase",
+		"audios": [
+			"13110807185824_31276_3026e.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "增加",
+		"pinyin": "zeng1_jia1",
+		"english": "to raise / multiplication / increase",
+		"audios": [
+			"13110807185824_16448_905c1.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "增长",
+		"pinyin": "zeng1_zhang3",
+		"english": "to grow",
+		"audios": [
+			"13110807185824_16449_45b93.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "免",
+		"pinyin": "mian3",
+		"english": "to exempt",
+		"audios": [
+			"/audio/13979960_1371228400484.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "晚",
+		"pinyin": "wan3",
+		"english": "late",
+		"audios": [
+			"32000101209125938.mp3",
+			"32000101021063751.mp3",
+			"13110807185307_14516_8f68c.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "晚饭",
+		"pinyin": "wan3_fan4",
+		"english": "dinner",
+		"audios": [
+			"32000101208203002.mp3",
+			"13110807185305_26864_d275a.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "晚上",
+		"pinyin": "wan3_shang4;_wan3_shang5",
+		"english": "evening",
+		"audios": [
+			"13110807185305_15577_520b4.mp3",
+			"32000101209092920.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "晚会",
+		"pinyin": "wan3_hui4",
+		"english": "party",
+		"type": "word"
+	},
+	{
+		"hanzi": "象",
+		"pinyin": "xiang4",
+		"english": "elephant",
+		"audios": [
+			"32000101209091901.mp3",
+			"13110807185517_24182_4519c.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "像",
+		"pinyin": "xiang4",
+		"english": "to look like",
+		"audios": [
+			"32000101211193359.mp3",
+			"13110807185517_17559_4519c.mp3",
+			"/audio/14009722_1371227274765.mp3"
+		],
+		"type": "character"
+	},
+	{
+		"hanzi": "好像",
+		"pinyin": "hao3_xiang4",
+		"english": "as if",
+		"audios": [
+			"13110807183335_16081_df616.mp3"
+		],
+		"type": "word"
+	},
+	{
+		"hanzi": "换",
+		"pinyin": "huan4",
+		"english": "to change; to exchange",
+		"audios": [
+			"13110807183404_15719_66eaa.mp3"
+		],
+		"type": "character"
+	}
+]

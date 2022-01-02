@@ -7,6 +7,7 @@ const renderCharacters = () => {
 			hanzi="${character.hanzi}"
 			pinyin="${character.pinyin}"
 			english="${character.english}"
+			audios="${character.audios ? `data:application/json,${btoa(JSON.stringify(character.audios))}` : ""}"
 			radical="${character.radical?.character || ''}"
 			composition="${character.composition || ''}"
 			components="${character.components || ''}"

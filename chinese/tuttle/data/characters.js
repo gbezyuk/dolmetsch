@@ -1,4 +1,4 @@
-export default [
+export const characters = [
 	{
 		"id": 1,
 		"hanzi": "一",
@@ -9300,3 +9300,5 @@ export default [
 		"components": ["吂", "月", "贝", "凡"]
 	}
 ]
+
+export default characters

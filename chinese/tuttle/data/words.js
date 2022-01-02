@@ -1188,3 +1188,4 @@ export const words = [
 	{ hanzi: '爬墙', pinyin: 'pa2_qiang2', english: 'to climb a wall' },
 	{ hanzi: '赢利', pinyin: 'ying2_li4', english: 'profit' },
 ]
+export default words

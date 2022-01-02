@@ -1,4 +1,4 @@
-[
+export const lessons = [
   [
     '一', '二', '三', '十',
     '口', '日', '几', '也',
@@ -504,3 +504,5 @@
     '赢利'
   ]
 ]
+
+export default lessons

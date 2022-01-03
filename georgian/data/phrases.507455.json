@@ -1,0 +1,430 @@
+[
+	{
+		"georgian": "ძალიან ვწუხვარ",
+		"english": "I'm very sorry (expressing empathy)"
+	},
+	{
+		"georgian": "ძალიან ვწუხვარ რომ ავად ხარ",
+		"english": "I'm very sorry that you're ill"
+	},
+	{
+		"georgian": "იმედია მალე კარგად გახდები",
+		"english": "I hope that you will get well soon"
+	},
+	{
+		"georgian": "ძალიან ვწუხვარ რომ ავად ხარ, მაგრამ იმედია მალე კარგად გახდები",
+		"english": "I’m very sorry that you’re ill, but I hope you will get well soon"
+	},
+	{
+		"georgian": "სწავლა",
+		"english": "to learn (inf.)"
+	},
+	{
+		"georgian": "დავიწყე",
+		"english": "I started"
+	},
+	{
+		"georgian": "ქართული ენის სწავლა შარშან დავიწყე",
+		"english": "I started to learn the Georgian language last year"
+	},
+	{
+		"georgian": "წასვლა",
+		"english": "to go (inf.)"
+	},
+	{
+		"georgian": "ზაფხულში მინდოდა საქართველოში წასვლა",
+		"english": "I wanted to go to Georgia in spring"
+	},
+	{
+		"georgian": "ვერ მოვახერხე",
+		"english": "I couldn't"
+	},
+	{
+		"georgian": "გაზაფხულში მინდოდა საქართველოში წასვლა მაგრამ ვერ მოვახერხე",
+		"english": "I wanted to go to Georgia in spring but I couldn’t"
+	},
+	{
+		"georgian": "ამინდი",
+		"english": "weather"
+	},
+	{
+		"georgian": "რა კარგი ამინდია!",
+		"english": "What good weather!"
+	},
+	{
+		"georgian": "წავიდეთ",
+		"english": "let's go"
+	},
+	{
+		"georgian": "პარკში წავიდეთ თუ გინდა",
+		"english": "Let’s go to the park if you like"
+	},
+	{
+		"georgian": "რა კარგი ამინდია! პარკში წავიდეთ თუ გინდა",
+		"english": "What good weather!  Let’s go to the park if you like"
+	},
+	{
+		"georgian": "მწყენს",
+		"english": "it makes me sick / I can't tolerate it"
+	},
+	{
+		"georgian": "ნიგვზიანი",
+		"english": "with walnuts"
+	},
+	{
+		"georgian": "ნიგვზიანი საჭმელი მწყენს",
+		"english": "I can’t tolerate food with walnuts"
+	},
+	{
+		"georgian": "საცივი",
+		"english": "chicken in walnut sauce (lit. \"cold dish\")"
+	},
+	{
+		"georgian": "მადლობთ არ მინდა საცივი",
+		"english": "I don’t want satsivi (chicken in walnut sauce), thanks"
+	},
+	{
+		"georgian": "ნიგვზიანი საჭმელი მწყენს, მადლობთ არ მინდა საცივი",
+		"english": "I can’t tolerate food with walnuts; I don’t want satsivi (chicken in walnut sauce), thanks"
+	},
+	{
+		"georgian": "დღეს ჩემი დაბადებისდღეა",
+		"english": "It’s my birthday today"
+	},
+	{
+		"georgian": "მეუღლე",
+		"english": "spouse/partner"
+	},
+	{
+		"georgian": "თუ შეძლებთ მესტუმრეთ თქვენ და თქვენი მეუღლე 7 საათზე",
+		"english": "Please be my guest, you and your partner, at 7 o'clock"
+	},
+	{
+		"georgian": "ტაბიძის 7 ნომერში ვცხოვრობ",
+		"english": "I live at number 7 Tabidze Street"
+	},
+	{
+		"georgian": "დღეს ჩემი დაბადებისდღეა. თუ შეძლებთ მესტუმრეთ თქვენ და თქვენი მეუღლე 7 საათზე. ტაბიძის 7 ნომერში ვცხოვრობ",
+		"english": "It’s my birthday today. Please be my guest, you and your partner, at 7 o'clock. I live at number 7 Tabidze Street"
+	},
+	{
+		"georgian": "უცნაური",
+		"english": "strange"
+	},
+	{
+		"georgian": "სიჩუმე",
+		"english": "silence"
+	},
+	{
+		"georgian": "გამეფებული",
+		"english": "reigning/prevailing"
+	},
+	{
+		"georgian": "უცნაური სიჩუმეა გამეფებული ამ საკითხთან დაკავშირებით.",
+		"english": "A strange silence reigns over this matter"
+	},
+	{
+		"georgian": "რაშია საქმე?",
+		"english": "What is the matter?"
+	},
+	{
+		"georgian": "უცნაური სიჩუმეა გამეფებული ამ საკითხთან დაკავშირებით. რაშია საქმე?",
+		"english": "A strange silence reigns over this matter.  What is the matter?"
+	},
+	{
+		"georgian": "დამაგვიანდება",
+		"english": "I'll be late"
+	},
+	{
+		"georgian": "დიდი ბოდიში მაგრამ ალბათ ათი-თხუთმეტი წუთი დამაგვიანდება",
+		"english": "I’m very sorry but I will probably be late by 10-15 minutes"
+	},
+	{
+		"georgian": "ხშირად",
+		"english": "often"
+	},
+	{
+		"georgian": "დავდიოდი ლაშქრობებში",
+		"english": "I used to go hiking"
+	},
+	{
+		"georgian": "როცა სტუდენტი ვიყავი ხშირად დავდიოდი ლაშქრობებში",
+		"english": "When I was a student I used to hike often"
+	},
+	{
+		"georgian": "დაკავებული",
+		"english": "busy"
+	},
+	{
+		"georgian": "... ახლა კი ისეთი დაკავებული ვარ რომ სამი წელია არსად ვყოფილვარ",
+		"english": "... but now I’m so busy that I haven’t been anywhere for 3 years"
+	},
+	{
+		"georgian": "როცა სტუდენტი ვიყავი ხშირად დავდიოდი ლაშქრობებში, ახლა კი ისეთი დაკავებული ვარ რომ სამი წელია არსად ვყოფილვარ",
+		"english": "When I was a student I used to hike often, but now I’m so busy that I haven’t been anywhere for 3 years"
+	},
+	{
+		"georgian": "მოკლე",
+		"english": "short"
+	},
+	{
+		"georgian": "ადამიანის ცხოვრება ძალზედ მოკლეა",
+		"english": "Human life is very short"
+	},
+	{
+		"georgian": "მოვუფრთხილდეთ",
+		"english": "we look after"
+	},
+	{
+		"georgian": "ჯობია ერთმანეთს მოვუფრთხილდეთ",
+		"english": "it’s better to look after each other"
+	},
+	{
+		"georgian": "ადამიანის ცხოვრება ძალზედ მოკლეა, ამიტომ ჯობია ერთმანეთს მოვუფრთხილდეთ",
+		"english": "Human life is very short, therefore it’s better to look after each other"
+	},
+	{
+		"georgian": "რა წიგნს კითხულობ ახლა?",
+		"english": "What book are you reading now?"
+	},
+	{
+		"georgian": "არაფერს განსაკუთრებულს",
+		"english": "Nothing special"
+	},
+	{
+		"georgian": "რა წიგნს კითხულობ ახლა? - არაფერს განსაკუთრებულს",
+		"english": "What book are you reading now? Nothing special."
+	},
+	{
+		"georgian": "ჩემი ძმა არ არის დაოჯახებული და არც აპირებს",
+		"english": "My brother is not married and also isn’t going to be."
+	},
+	{
+		"georgian": "შეიკარი ღვედი შენი სიცოცხლისათვის!",
+		"english": "Fasten your seatbelt, for your life!"
+	},
+	{
+		"georgian": "სჯობს გვიან ვიდრე არასდროს",
+		"english": "Better late than never."
+	},
+	{
+		"georgian": "ნუ ლაპარაკობ ხმამაღლა, ისედაც მესმის ყველაფერი.",
+		"english": "Don’t speak loudly, I understand it anyway/I can hear very well"
+	},
+	{
+		"georgian": "ყველფრის გაკეთებას შეძლებ თუ მოინდომებ",
+		"english": "You can do anything if you want to."
+	},
+	{
+		"georgian": "გამიმეორეთ თუ შეიძლება ვერ გავიგე რა თქვით",
+		"english": "Repeat it for me please, I cannot understand what you said."
+	},
+	{
+		"georgian": "დამირეკე როცა მოიცლი, საქმე მაქვს შენთან",
+		"english": "Call me when you will be free, I have something [to discuss] with you."
+	},
+	{
+		"georgian": "დღეს სამსახურში ჩემს უფროსს შევეკამათე",
+		"english": "Today at work I had an argument with my boss"
+	},
+	{
+		"georgian": "არ არის ამ საქმეში ჩახედული",
+		"english": "he hasn’t looked deeply into this matter [i.e. he hasn’t got a clue]"
+	},
+	{
+		"georgian": "ისე იღებს გადაწყვეტილებებს",
+		"english": "that’s how he makes [takes] decisions"
+	},
+	{
+		"georgian": "დღეს სამსახურში ჩემს უფროსს შევეკამათე, იმიტომ რომ არ არის ამ საქმეში ჩახედული, და ისე იღებს გადაწყვეტილებებს",
+		"english": "Today at work I had an argument with my boss, because he hasn’t looked deeply into this matter [i.e. he hasn’t got a clue] and that’s how he makes [takes] decisions."
+	},
+	{
+		"georgian": "ასე მითხრეს, რომ შენი მეგობარი ნიკი ძალზედ სასიამოვნო, თბილი, გულუხვი და საინტერესო ადამინია.",
+		"english": "They told me that your friend Nick is a very pleasant, warm, kind and interesting person."
+	},
+	{
+		"georgian": "როდის გამაცნონ?",
+		"english": "When will you introduce me?"
+	},
+	{
+		"georgian": "ასე მითხრეს, რომ შენი მეგობარი ნიკი ძალზედ სასიამოვნო, თბილი, გულუხვი და საინტერესო ადამინია. როდის გამაცნონ?",
+		"english": "They told me that your friend Nick is a very pleasant, warm, kind and interesting person.  When will you introduce me?"
+	},
+	{
+		"georgian": "შოთა რუსთაველმა თქვა: 'რაც მტრობას დაუნგრევია სიყვარულს უშენებია-ო.' ",
+		"english": "Shota Rustaveli said: ‘Whatever envy can ruin, love can build’."
+	},
+	{
+		"georgian": "სრული სიმართლეა, ვეთანხმები მეც",
+		"english": "It is absolutely true, I also agree with him."
+	},
+	{
+		"georgian": "შოთა რუსთაველმა თქვა: 'რაც მტრობას დაუნგრევია სიყვარულს უშენებია-ო.' სრული სიმართლეა, ვეთანხმები მეც.",
+		"english": "Shota Rustaveli said: ‘Whatever envy can ruin, love can build’.  It is absolutely true, I also agree with him."
+	},
+	{
+		"georgian": "მოდი რა ჩუმად ვილაპარაკოთ",
+		"english": "Come on, let’s speak quietly."
+	},
+	{
+		"georgian": "არ მინდა რომ ბავშვმა გაიღვიძოს",
+		"english": "I don’t want the child to wake up."
+	},
+	{
+		"georgian": "მოდი რა ჩუმად ვილაპარაკოთ. არ მინდა რომ ბავშვმა გაიღვიძოს",
+		"english": "Come on, let’s speak quietly.  I don’t want the child to wake up."
+	},
+	{
+		"georgian": "გილოცავთ შობა-ახალ წელიწადს! მრავალს დაესწარით!",
+		"english": "Merry Christmas and New Year! Many more to come!"
+	},
+	{
+		"georgian": "დღეს გაკვეთილზე ნამდვილად  ვერ მოვალ",
+		"english": "Today I definitely can’t come to the lesson"
+	},
+	{
+		"georgian": "სამსახურში ძალზედ ბევრი საქმე მაქვს",
+		"english": "I have quite a lot of things to do at work/a lot of business [matters] at work."
+	},
+	{
+		"georgian": "დღეს გაკვეთილზე ნამდვილად  ვერ მოვალ, სამსახურში ძალზედ ბევრი საქმე მაქვს.",
+		"english": "Today I definitely can’t come to the lesson; I have quite a lot of things to do at work/a lot of business [matters] at work."
+	},
+	{
+		"georgian": "სამწუხაროდ ვერ წამოვალ კინოში",
+		"english": "Unfortunately I can’t come to the cinema"
+	},
+	{
+		"georgian": "ველოდები ჩემ შვილს",
+		"english": "I’m waiting for my child."
+	},
+	{
+		"georgian": "სამწუხაროდ ვერ წამოვალ კინოში, ველოდები ჩემ შვილს.",
+		"english": "Unfortunately I can’t come to the cinema, I’m waiting for my child."
+	},
+	{
+		"georgian": "კარგ ხასიადზე ვარ დღეს",
+		"english": "I'm in a good mood today"
+	},
+	{
+		"georgian": "მზე ანათებს",
+		"english": "the sun is shining"
+	},
+	{
+		"georgian": "კარგ ხასიადზე ვარ დღეს, მზე ანათებს და იმიტომ.",
+		"english": "I’m in a good mood today, the sun is shining and that’s why."
+	},
+	{
+		"georgian": "დიდი ხანია არ მინახიხარ",
+		"english": "I haven’t seen you for ages"
+	},
+	{
+		"georgian": "გამიხარდა შენი ნახვა",
+		"english": "I'm happy to see you"
+	},
+	{
+		"georgian": "დიდი ხანია არ მინახიხარ, გამიხარდა შენი ნახვა.",
+		"english": "I haven’t seen you for ages, I’m happy to see you."
+	},
+	{
+		"georgian": "გამაგებინე რატომ ნერვიულობ, რა ხდება?",
+		"english": "Why are you nervous, what’s going on?"
+	},
+	{
+		"georgian": "მეგობარმა გამაბრაზა",
+		"english": "My friend angered/upset me"
+	},
+	{
+		"georgian": "არ იდარდო, ყველაფერი დალაგდება",
+		"english": "Don’t worry, everything will work out."
+	},
+	{
+		"georgian": "ყოველ დღე წერე და იკითხე ქართულად 20 წუთი, თუ გინდა რომ ისწავლო ენა.",
+		"english": "Every day, write and read in Georgian for 20 minutes, if you want to learn the language."
+	},
+	{
+		"georgian": "სამწუხაროდ გული მაწუხებს და არ შემიძლია  ჭაჭის დალევა და ბევრი ტკბილის ჭამა.",
+		"english": "Unfortunately I have a heart condition so I can’t drink chacha or eat too many sweet things."
+	},
+	{
+		"georgian": "თუ შეიძლება ქართულად ვილაპარაკოთ, ეს ჩემთვის კარგი პრაკტიკა იქნება.",
+		"english": "Please let’s talk Georgian, it will be good practice for me."
+	},
+	{
+		"georgian": "ვინ არიან შენი ოჯახის წევრები? ვინ არიან შენი მშობლები? და-ძმა? ბებია-ბაბუა?",
+		"english": "Who are your family members? Who are your parents, siblings, grandparents?"
+	},
+	{
+		"georgian": "რამდენი გინდათ საბურთალომდე?  - ორმოცდაათი ლარი",
+		"english": "How much do you charge to get to Saburtalo? 50 laris"
+	},
+	{
+		"georgian": "დარწმუნებული ვარ ორმაგს მახდევინებ, რადგანაც უცხოელი ვარ.",
+		"english": "I'm sure you're charging me double because I am a foreigner."
+	},
+	{
+		"georgian": "თუ შეიძლება გამიცხელეთ ეს ხაჭაპური. თან უნდა წავიღო.",
+		"english": "Please heat up this khachapuri for me. I want to take it away."
+	},
+	{
+		"georgian": "მეცოდები. შენ საწყალო!",
+		"english": "I pity you / you poor thing!"
+	},
+	{
+		"georgian": "ჭიქით ყიდით ღვინოს? მთელი ბოთლი არ მინდა",
+		"english": "Do you serve wine by the glass? I don’t want a whole bottle."
+	},
+	{
+		"georgian": "თუ შეიძლება გააჩერეთ ამ ქუჩის ბოლოს.",
+		"english": "Please stop at the end of this street."
+	},
+	{
+		"georgian": "უკაცრავად დამაგვიანდა.",
+		"english": "Sorry I'm late."
+	},
+	{
+		"georgian": "ზღაპარი მომიყევით რა!",
+		"english": "Please tell me a fairytale!"
+	},
+	{
+		"georgian": "იცით რომელი სოკო იჭმევა და რომელი არა?",
+		"english": "Do you know which mushrooms are safe to eat, and which aren’t?"
+	},
+	{
+		"georgian": "კარგად გამოიყურები, საიდუმლოს გამიზიარებ?",
+		"english": "You look well, what is your secret?"
+	},
+	{
+		"georgian": "ვიფიქრებ ვიყიდო თუ არა და დავბრუნდები.",
+		"english": "I will think about it. / I will think about [buying] it and come back."
+	},
+	{
+		"georgian": "ფრთხილად! შეანელეთ თუ შეიძლება.",
+		"english": "Be careful! Please slow down."
+	},
+	{
+		"georgian": "სახიფათოა!",
+		"english": "Danger!"
+	},
+	{
+		"georgian": "იჩქარეთ!",
+		"english": "Hurry up!"
+	},
+	{
+		"georgian": "მომაშორეთ ეს კაცი/ქალი!",
+		"english": "Take this man/woman away!"
+	},
+	{
+		"georgian": "რაზე ოცნებობ?",
+		"english": "What are your dreams? / What do you dream of?"
+	},
+	{
+		"georgian": "ვინ ისვრის?",
+		"english": "Who is shooting?"
+	},
+	{
+		"georgian": "საიდან მოდის სროლის/აფეთქების ხმა?",
+		"english": "From where do we hear the shooting/explosion?"
+	}
+]

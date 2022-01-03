@@ -1,0 +1,3074 @@
+[
+	{
+		"georgian": "კარი",
+		"english": "door"
+	},
+	{
+		"georgian": "მისალმება",
+		"english": "greeting"
+	},
+	{
+		"georgian": "გამარჯობა",
+		"english": "hello"
+	},
+	{
+		"georgian": "ბოდიში",
+		"english": "excuse me"
+	},
+	{
+		"georgian": "ნახვამდის",
+		"english": "goodbye"
+	},
+	{
+		"georgian": "უკაცრავად",
+		"english": "pardon me"
+	},
+	{
+		"georgian": "გმადლობთ",
+		"english": "thank you (polite)"
+	},
+	{
+		"georgian": "კარგად",
+		"english": "well"
+	},
+	{
+		"georgian": "ძალიან კარგი",
+		"english": "very good"
+	},
+	{
+		"georgian": "ცუდად",
+		"english": "badly/poorly"
+	},
+	{
+		"georgian": "ძალიან ცუდი",
+		"english": "very bad"
+	},
+	{
+		"georgian": "როგორ ხარ?",
+		"english": "how are you?"
+	},
+	{
+		"georgian": "როგორ ხართ?",
+		"english": "how are you? (polite)"
+	},
+	{
+		"georgian": "როგორ ბრძანდებით?",
+		"english": "how are you? (very polite)"
+	},
+	{
+		"georgian": "არაფრის",
+		"english": "you are welcome"
+	},
+	{
+		"georgian": "მაგიდა",
+		"english": "table"
+	},
+	{
+		"georgian": "სკამი",
+		"english": "chair"
+	},
+	{
+		"georgian": "კალამი",
+		"english": "pen"
+	},
+	{
+		"georgian": "ჩანთა",
+		"english": "bag"
+	},
+	{
+		"georgian": "კატა",
+		"english": "cat"
+	},
+	{
+		"georgian": "ძაღლი",
+		"english": "dog"
+	},
+	{
+		"georgian": "კაცი",
+		"english": "man"
+	},
+	{
+		"georgian": "ქალი",
+		"english": "woman"
+	},
+	{
+		"georgian": "გოგო",
+		"english": "girl"
+	},
+	{
+		"georgian": "ბიჭი",
+		"english": "boy"
+	},
+	{
+		"georgian": "პარლამენტი",
+		"english": "parliament"
+	},
+	{
+		"georgian": "ჟურნალისტი",
+		"english": "journalist"
+	},
+	{
+		"georgian": "ბავშვი",
+		"english": "child"
+	},
+	{
+		"georgian": "პასპორტი",
+		"english": "passport"
+	},
+	{
+		"georgian": "ჩაი",
+		"english": "tea"
+	},
+	{
+		"georgian": "ვიზა",
+		"english": "visa"
+	},
+	{
+		"georgian": "სახელი",
+		"english": "name"
+	},
+	{
+		"georgian": "გვარი",
+		"english": "last name"
+	},
+	{
+		"georgian": "დიდი",
+		"english": "big"
+	},
+	{
+		"georgian": "პატარა",
+		"english": "small"
+	},
+	{
+		"georgian": "მოხუცი",
+		"english": "old person"
+	},
+	{
+		"georgian": "ახალგაზრდა",
+		"english": "young person"
+	},
+	{
+		"georgian": "საგანი",
+		"english": "thing"
+	},
+	{
+		"georgian": "სახლი",
+		"english": "house"
+	},
+	{
+		"georgian": "შინ",
+		"english": "at home"
+	},
+	{
+		"georgian": "ოთახი",
+		"english": "room"
+	},
+	{
+		"georgian": "მანქანა",
+		"english": "car"
+	},
+	{
+		"georgian": "თბილისი",
+		"english": "Tbilisi"
+	},
+	{
+		"georgian": "საქართველო",
+		"english": "Georgia"
+	},
+	{
+		"georgian": "ქვეყანა",
+		"english": "country"
+	},
+	{
+		"georgian": "და",
+		"english": "and"
+	},
+	{
+		"georgian": "გაცნობა",
+		"english": "to introduce"
+	},
+	{
+		"georgian": "პიროვნება",
+		"english": "person, personality"
+	},
+	{
+		"georgian": "ნივთი",
+		"english": "thing"
+	},
+	{
+		"georgian": "ენა",
+		"english": "language"
+	},
+	{
+		"georgian": "სასიამოვნო",
+		"english": "nice"
+	},
+	{
+		"georgian": "სასიამოვნოა",
+		"english": "it is nice"
+	},
+	{
+		"georgian": "ჩემთვისაც",
+		"english": "likewise"
+	},
+	{
+		"georgian": "წამი",
+		"english": "second"
+	},
+	{
+		"georgian": "წუთი",
+		"english": "minute"
+	},
+	{
+		"georgian": "საათი",
+		"english": "clock"
+	},
+	{
+		"georgian": "დღე",
+		"english": "day"
+	},
+	{
+		"georgian": "დილა",
+		"english": "morning"
+	},
+	{
+		"georgian": "შუა",
+		"english": "middle (noun)"
+	},
+	{
+		"georgian": "შუადღე",
+		"english": "afternoon"
+	},
+	{
+		"georgian": "საღამო",
+		"english": "evening"
+	},
+	{
+		"georgian": "კვირა",
+		"english": "week"
+	},
+	{
+		"georgian": "ღამე",
+		"english": "night"
+	},
+	{
+		"georgian": "თვე",
+		"english": "month"
+	},
+	{
+		"georgian": "დღეს",
+		"english": "today"
+	},
+	{
+		"georgian": "დილას",
+		"english": "in the morning"
+	},
+	{
+		"georgian": "შუადღეს",
+		"english": "in the afternoon"
+	},
+	{
+		"georgian": "საღამოს",
+		"english": "in the evening"
+	},
+	{
+		"georgian": "კვირას",
+		"english": "on Sunday"
+	},
+	{
+		"georgian": "ღამე, ღამით",
+		"english": "at night"
+	},
+	{
+		"georgian": "წელი",
+		"english": "year"
+	},
+	{
+		"georgian": "თუ",
+		"english": "or"
+	},
+	{
+		"georgian": "მშვიდობა",
+		"english": "peace"
+	},
+	{
+		"georgian": "დილა მშვიდობისა",
+		"english": "good morning"
+	},
+	{
+		"georgian": "საღამო მშვიდობისა",
+		"english": "good evening"
+	},
+	{
+		"georgian": "ღამე მშვიდობისა",
+		"english": "good night"
+	},
+	{
+		"georgian": "გ-ქვი-ა",
+		"english": "your name is"
+	},
+	{
+		"georgian": "მგზავრობა",
+		"english": "travel"
+	},
+	{
+		"georgian": "შეხვედრა",
+		"english": "meeting"
+	},
+	{
+		"georgian": "სკოლა",
+		"english": "school"
+	},
+	{
+		"georgian": "ქუჩა",
+		"english": "street"
+	},
+	{
+		"georgian": "ალბათ",
+		"english": "probably"
+	},
+	{
+		"georgian": "საინტერესო",
+		"english": "interesting"
+	},
+	{
+		"georgian": "ატმოსფერო",
+		"english": "atmosphere"
+	},
+	{
+		"georgian": "საათი",
+		"english": "clock"
+	},
+	{
+		"georgian": "ქალაქი",
+		"english": "city"
+	},
+	{
+		"georgian": "ტურისტი",
+		"english": "tourist"
+	},
+	{
+		"georgian": "მუსიკა",
+		"english": "music"
+	},
+	{
+		"georgian": "ჯერ",
+		"english": "yet"
+	},
+	{
+		"georgian": "შემდეგ",
+		"english": "after"
+	},
+	{
+		"georgian": "ცოტა",
+		"english": "few"
+	},
+	{
+		"georgian": "ბევრი",
+		"english": "many"
+	},
+	{
+		"georgian": "სადილი",
+		"english": "dinner"
+	},
+	{
+		"georgian": "სადილზე",
+		"english": "at dinner"
+	},
+	{
+		"georgian": "წასვლა",
+		"english": "to go"
+	},
+	{
+		"georgian": "მი-დი-ს",
+		"english": "s/he goes"
+	},
+	{
+		"georgian": "მოსვლა",
+		"english": "to come"
+	},
+	{
+		"georgian": "მო-დი-ს",
+		"english": "s/he comes"
+	},
+	{
+		"georgian": "გემრიელად მიირთვით",
+		"english": "Bon appetite"
+	},
+	{
+		"georgian": "რა გნებავთ?",
+		"english": "What would you like?"
+	},
+	{
+		"georgian": "ინებეთ",
+		"english": "Here you are"
+	},
+	{
+		"georgian": "მობრძანდით",
+		"english": "come in"
+	},
+	{
+		"georgian": "მიბრძანდით",
+		"english": "after you"
+	},
+	{
+		"georgian": "დაბრძანდით",
+		"english": "have a seat"
+	},
+	{
+		"georgian": "კარგად ბრძანდებოდეთ",
+		"english": "be well (very polite)"
+	},
+	{
+		"georgian": "კარგად იყავი",
+		"english": "goodbye, be well"
+	},
+	{
+		"georgian": "სალათა",
+		"english": "salad"
+	},
+	{
+		"georgian": "სასმელი",
+		"english": "drink"
+	},
+	{
+		"georgian": "ყავა",
+		"english": "coffee"
+	},
+	{
+		"georgian": "ჩაი",
+		"english": "tea"
+	},
+	{
+		"georgian": "ღვინო",
+		"english": "wine"
+	},
+	{
+		"georgian": "ლუდი",
+		"english": "beer"
+	},
+	{
+		"georgian": "წვენი",
+		"english": "juice"
+	},
+	{
+		"georgian": "წყალი",
+		"english": "water"
+	},
+	{
+		"georgian": "რძე",
+		"english": "milk"
+	},
+	{
+		"georgian": "პური",
+		"english": "bread"
+	},
+	{
+		"georgian": "კარაქი",
+		"english": "butter"
+	},
+	{
+		"georgian": "ზეთი",
+		"english": "oil"
+	},
+	{
+		"georgian": "ყველი",
+		"english": "cheese"
+	},
+	{
+		"georgian": "შაქარი",
+		"english": "sugar"
+	},
+	{
+		"georgian": "კვერცხი",
+		"english": "egg"
+	},
+	{
+		"georgian": "სოკო",
+		"english": "mushroom"
+	},
+	{
+		"georgian": "კიდევ",
+		"english": "again"
+	},
+	{
+		"georgian": "მიმტანი",
+		"english": "waiter"
+	},
+	{
+		"georgian": "სამზარეულო",
+		"english": "kitchen"
+	},
+	{
+		"georgian": "გ-ი-ნდ-ა-თ",
+		"english": "you want (polite)"
+	},
+	{
+		"georgian": "შეკვეთა",
+		"english": "order"
+	},
+	{
+		"georgian": "მაღაზია",
+		"english": "shop"
+	},
+	{
+		"georgian": "ანგარიში",
+		"english": "bill"
+	},
+	{
+		"georgian": "გემრიელი",
+		"english": "tasty"
+	},
+	{
+		"georgian": "ყველაფერი",
+		"english": "everything"
+	},
+	{
+		"georgian": "საუზმე",
+		"english": "breakfast"
+	},
+	{
+		"georgian": "სადილი",
+		"english": "dinner"
+	},
+	{
+		"georgian": "ვახშამი",
+		"english": "supper"
+	},
+	{
+		"georgian": "ხალხი",
+		"english": "people"
+	},
+	{
+		"georgian": "ქალაქი",
+		"english": "city"
+	},
+	{
+		"georgian": "თეთრი",
+		"english": "white"
+	},
+	{
+		"georgian": "შავი",
+		"english": "black"
+	},
+	{
+		"georgian": "ახალი",
+		"english": "new"
+	},
+	{
+		"georgian": "ძველი",
+		"english": "old"
+	},
+	{
+		"georgian": "მოხარშული",
+		"english": "boiled"
+	},
+	{
+		"georgian": "ნდომა",
+		"english": "to want"
+	},
+	{
+		"georgian": "უ-ნდ-ა",
+		"english": "s/he wants"
+	},
+	{
+		"georgian": "ადრე",
+		"english": "early"
+	},
+	{
+		"georgian": "ასეთი",
+		"english": "such"
+	},
+	{
+		"georgian": "არავინ",
+		"english": "nobody"
+	},
+	{
+		"georgian": "არსად",
+		"english": "nowhere"
+	},
+	{
+		"georgian": "კედელი",
+		"english": "wall"
+	},
+	{
+		"georgian": "რუკა",
+		"english": "map"
+	},
+	{
+		"georgian": "ყოველთვის",
+		"english": "always"
+	},
+	{
+		"georgian": "მიღება",
+		"english": "reception"
+	},
+	{
+		"georgian": "მთელი",
+		"english": "whole"
+	},
+	{
+		"georgian": "მუშა",
+		"english": "worker"
+	},
+	{
+		"georgian": "პუნქტუალური",
+		"english": "punctual"
+	},
+	{
+		"georgian": "ოფიციალური",
+		"english": "official"
+	},
+	{
+		"georgian": "დაკავებული",
+		"english": "busy"
+	},
+	{
+		"georgian": "სხვა",
+		"english": "other"
+	},
+	{
+		"georgian": "ნომერი",
+		"english": "number"
+	},
+	{
+		"georgian": "ნათელი",
+		"english": "light (bright)"
+	},
+	{
+		"georgian": "ბნელი",
+		"english": "dark"
+	},
+	{
+		"georgian": "გ-ი-სმენ(თ)",
+		"english": "I am listening to you"
+	},
+	{
+		"georgian": "არშაბათი",
+		"english": "Monday"
+	},
+	{
+		"georgian": "სამშაბათი",
+		"english": "Tuesday"
+	},
+	{
+		"georgian": "ოთხშაბათი",
+		"english": "Wednesday"
+	},
+	{
+		"georgian": "ხუთშაბათი",
+		"english": "Thursday"
+	},
+	{
+		"georgian": "პარასკევი",
+		"english": "Friday"
+	},
+	{
+		"georgian": "შაბათი",
+		"english": "Saturday"
+	},
+	{
+		"georgian": "კვირა",
+		"english": "Sunday"
+	},
+	{
+		"georgian": "შაბათ-კვირა",
+		"english": "weekend"
+	},
+	{
+		"georgian": "მუშაობა",
+		"english": "to work"
+	},
+	{
+		"georgian": "მუშა-ობ-ს",
+		"english": "s/he works"
+	},
+	{
+		"georgian": "ბოლო ფასი?",
+		"english": "final price?"
+	},
+	{
+		"georgian": "რა ღირს?",
+		"english": "What does it cost?"
+	},
+	{
+		"georgian": "აიღეთ",
+		"english": "Here you are / Take it"
+	},
+	{
+		"georgian": "უ-ნდ-ა ი-ყიდ-ო-ს",
+		"english": "He wants to buy"
+	},
+	{
+		"georgian": "რომ",
+		"english": "that (conj.)"
+	},
+	{
+		"georgian": "ხურდა",
+		"english": "change (coins)"
+	},
+	{
+		"georgian": "ძვირი",
+		"english": "expensive"
+	},
+	{
+		"georgian": "იაფი",
+		"english": "cheap"
+	},
+	{
+		"georgian": "რამე",
+		"english": "something"
+	},
+	{
+		"georgian": "ფასი",
+		"english": "price"
+	},
+	{
+		"georgian": "ნახევარი",
+		"english": "half"
+	},
+	{
+		"georgian": "მწვანილი",
+		"english": "herbs"
+	},
+	{
+		"georgian": "ხორცი",
+		"english": "meat"
+	},
+	{
+		"georgian": "თევზი",
+		"english": "fish"
+	},
+	{
+		"georgian": "ძროხა",
+		"english": "cow"
+	},
+	{
+		"georgian": "ქათამი",
+		"english": "chicken"
+	},
+	{
+		"georgian": "ინდაური",
+		"english": "turkey"
+	},
+	{
+		"georgian": "ღორი",
+		"english": "pig"
+	},
+	{
+		"georgian": "ბატკანი",
+		"english": "lamb"
+	},
+	{
+		"georgian": "თხა",
+		"english": "goat"
+	},
+	{
+		"georgian": "ხბო",
+		"english": "calf"
+	},
+	{
+		"georgian": "ცხვარი",
+		"english": "sheep"
+	},
+	{
+		"georgian": "ხილი",
+		"english": "fruit"
+	},
+	{
+		"georgian": "ვაშლი",
+		"english": "apple"
+	},
+	{
+		"georgian": "მსხალი",
+		"english": "pear"
+	},
+	{
+		"georgian": "ატამი",
+		"english": "peach"
+	},
+	{
+		"georgian": "ქლიავი",
+		"english": "plum"
+	},
+	{
+		"georgian": "მარწყვა",
+		"english": "strawberry"
+	},
+	{
+		"georgian": "ყურძენი",
+		"english": "grapes"
+	},
+	{
+		"georgian": "გრეიფრუტი",
+		"english": "grapefruit"
+	},
+	{
+		"georgian": "ბროწეული",
+		"english": "pomegranate"
+	},
+	{
+		"georgian": "ბალი",
+		"english": "cherry"
+	},
+	{
+		"georgian": "ალუბალი",
+		"english": "sour cherry"
+	},
+	{
+		"georgian": "ბანანი",
+		"english": "banana"
+	},
+	{
+		"georgian": "ანანასი",
+		"english": "pineapple"
+	},
+	{
+		"georgian": "მანდარინი",
+		"english": "mandarin"
+	},
+	{
+		"georgian": "ნესვი",
+		"english": "melon"
+	},
+	{
+		"georgian": "საზამთრო",
+		"english": "watermelon"
+	},
+	{
+		"georgian": "ფორთოხალი",
+		"english": "orange"
+	},
+	{
+		"georgian": "ბოსტნეული",
+		"english": "vegetables"
+	},
+	{
+		"georgian": "ბადრიჯანი",
+		"english": "eggplant"
+	},
+	{
+		"georgian": "წიწაკა",
+		"english": "pepper"
+	},
+	{
+		"georgian": "სტაფილო",
+		"english": "carrot"
+	},
+	{
+		"georgian": "კომბოსტო",
+		"english": "cabbage"
+	},
+	{
+		"georgian": "ჭარხალი",
+		"english": "beet"
+	},
+	{
+		"georgian": "კარტოფილი",
+		"english": "potato"
+	},
+	{
+		"georgian": "კიტრი",
+		"english": "cucumber"
+	},
+	{
+		"georgian": "პამიდორი",
+		"english": "tomato"
+	},
+	{
+		"georgian": "ნიორი",
+		"english": "garlic"
+	},
+	{
+		"georgian": "ხახვი",
+		"english": "onion"
+	},
+	{
+		"georgian": "ბოლოკი",
+		"english": "radish"
+	},
+	{
+		"georgian": "ოჯახი",
+		"english": "family"
+	},
+	{
+		"georgian": "მამა",
+		"english": "father"
+	},
+	{
+		"georgian": "დედა",
+		"english": "mother"
+	},
+	{
+		"georgian": "ბებია",
+		"english": "grandmother"
+	},
+	{
+		"georgian": "ბაბუა",
+		"english": "grandfather"
+	},
+	{
+		"georgian": "შვილი",
+		"english": "child (son/daughter)"
+	},
+	{
+		"georgian": "ქალიშვილი",
+		"english": "daughter"
+	},
+	{
+		"georgian": "ვაჟიშვილი",
+		"english": "son"
+	},
+	{
+		"georgian": "და",
+		"english": "sister"
+	},
+	{
+		"georgian": "ძმა",
+		"english": "brother"
+	},
+	{
+		"georgian": "და-ძმა",
+		"english": "sibling"
+	},
+	{
+		"georgian": "ბიძა",
+		"english": "uncle"
+	},
+	{
+		"georgian": "მამიდა",
+		"english": "aunt (father's sister)"
+	},
+	{
+		"georgian": "დეიდა",
+		"english": "aunt (mother's sister)"
+	},
+	{
+		"georgian": "ცოლი",
+		"english": "wife"
+	},
+	{
+		"georgian": "ქმარი",
+		"english": "husband"
+	},
+	{
+		"georgian": "ცოლ-შვილი",
+		"english": "immediate family (wife and child)"
+	},
+	{
+		"georgian": "ქმარ-შვილი",
+		"english": "immediate family (husband and child)"
+	},
+	{
+		"georgian": "დეიდაშვილი",
+		"english": "cousin (child of mother's sister)"
+	},
+	{
+		"georgian": "მამიდაშვილი",
+		"english": "cousin (child of father's sister)"
+	},
+	{
+		"georgian": "ბიძაშვილი",
+		"english": "cousin (child of uncle)"
+	},
+	{
+		"georgian": "მშობელი",
+		"english": "parent"
+	},
+	{
+		"georgian": "შვილიშვილი",
+		"english": "grandchild"
+	},
+	{
+		"georgian": "ნათესავი",
+		"english": "relative"
+	},
+	{
+		"georgian": "რადგან",
+		"english": "because"
+	},
+	{
+		"georgian": "დედისერთა",
+		"english": "only child"
+	},
+	{
+		"georgian": "ბედნიერი",
+		"english": "happy"
+	},
+	{
+		"georgian": "უბედური",
+		"english": "unhappy"
+	},
+	{
+		"georgian": "ყოლა",
+		"english": "to have (person)"
+	},
+	{
+		"georgian": "ჰ-ყავ-ს",
+		"english": "s/he has (person)"
+	},
+	{
+		"georgian": "ცხოვრება",
+		"english": "to live"
+	},
+	{
+		"georgian": "ცხოვრ-ობ-ს",
+		"english": "s/he lives"
+	},
+	{
+		"georgian": "მაგრამ",
+		"english": "but"
+	},
+	{
+		"georgian": "ქუჩა",
+		"english": "street"
+	},
+	{
+		"georgian": "ეზო",
+		"english": "yard"
+	},
+	{
+		"georgian": "მეზობელი",
+		"english": "neighbour"
+	},
+	{
+		"georgian": "გამზირი",
+		"english": "avenue"
+	},
+	{
+		"georgian": "სართული",
+		"english": "floor (storey)"
+	},
+	{
+		"georgian": "ნომერი",
+		"english": "number"
+	},
+	{
+		"georgian": "ბინა",
+		"english": "apartment"
+	},
+	{
+		"georgian": "ოთახი",
+		"english": "room"
+	},
+	{
+		"georgian": "მისამართი",
+		"english": "address"
+	},
+	{
+		"georgian": "სამზარეულო",
+		"english": "kitchen"
+	},
+	{
+		"georgian": "საძინელი ოთახი",
+		"english": "bedroom"
+	},
+	{
+		"georgian": "სასადილო ოთახი",
+		"english": "dining room"
+	},
+	{
+		"georgian": "სასტუმრო ოთახი",
+		"english": "living room"
+	},
+	{
+		"georgian": "მისაღები",
+		"english": "reception"
+	},
+	{
+		"georgian": "აივანი",
+		"english": "balcony"
+	},
+	{
+		"georgian": "სააბაზანო",
+		"english": "bathroom"
+	},
+	{
+		"georgian": "ტუალეტი",
+		"english": "restroom"
+	},
+	{
+		"georgian": "დარბაზი",
+		"english": "hall"
+	},
+	{
+		"georgian": "სადარბაზო",
+		"english": "entrance (of a house)"
+	},
+	{
+		"georgian": "კაბინეტი",
+		"english": "study (room)"
+	},
+	{
+		"georgian": "ჰოლი",
+		"english": "hall"
+	},
+	{
+		"georgian": "უბანი",
+		"english": "neighbourhood"
+	},
+	{
+		"georgian": "საკუთარი",
+		"english": "private, own"
+	},
+	{
+		"georgian": "სადგომი",
+		"english": "garage"
+	},
+	{
+		"georgian": "რიგი",
+		"english": "row, line"
+	},
+	{
+		"georgian": "კერძო",
+		"english": "private"
+	},
+	{
+		"georgian": "ზოგი",
+		"english": "some"
+	},
+	{
+		"georgian": "უკეთესად",
+		"english": "better (adv.)"
+	},
+	{
+		"georgian": "ქონა",
+		"english": "to have (things)"
+	},
+	{
+		"georgian": "ა-ქვ-ს",
+		"english": "s/he has (things)"
+	},
+	{
+		"georgian": "სამსახური",
+		"english": "job, work place"
+	},
+	{
+		"georgian": "სამუშაო",
+		"english": "work, labour"
+	},
+	{
+		"georgian": "ლამაზი",
+		"english": "beautiful, pretty"
+	},
+	{
+		"georgian": "უშნო",
+		"english": "ugly"
+	},
+	{
+		"georgian": "ხანდახან",
+		"english": "sometimes"
+	},
+	{
+		"georgian": "ყოველდღე",
+		"english": "everyday"
+	},
+	{
+		"georgian": "ყველა",
+		"english": "everyone"
+	},
+	{
+		"georgian": "მთელი",
+		"english": "all, whole"
+	},
+	{
+		"georgian": "თითქმის",
+		"english": "almost"
+	},
+	{
+		"georgian": "ერთხელ",
+		"english": "once"
+	},
+	{
+		"georgian": "ორჯერ",
+		"english": "twice"
+	},
+	{
+		"georgian": "ჯგუფი",
+		"english": "group"
+	},
+	{
+		"georgian": "პროგრამა",
+		"english": "programme"
+	},
+	{
+		"georgian": "ახლოს",
+		"english": "near"
+	},
+	{
+		"georgian": "შორს",
+		"english": "far"
+	},
+	{
+		"georgian": "მიღება",
+		"english": "reception"
+	},
+	{
+		"georgian": "გაკვეთილი",
+		"english": "lesson"
+	},
+	{
+		"georgian": "მასწავლებელი",
+		"english": "teacher"
+	},
+	{
+		"georgian": "სწავლა",
+		"english": "to study"
+	},
+	{
+		"georgian": "სწავლ-ობ-ს",
+		"english": "s/he studies"
+	},
+	{
+		"georgian": "ლაპარაკი",
+		"english": "to speak"
+	},
+	{
+		"georgian": "ლაპარაკ-ობ-ს",
+		"english": "s/he speaks"
+	},
+	{
+		"georgian": "ფიქრი",
+		"english": "to think"
+	},
+	{
+		"georgian": "ფიქრ-ობ-ს",
+		"english": "s/he thinks"
+	},
+	{
+		"georgian": "კმაყოფილი",
+		"english": "satisfied"
+	},
+	{
+		"georgian": "ასე შემდეგ",
+		"english": "etcetera"
+	},
+	{
+		"georgian": "ბევრს ვერა",
+		"english": "not a lot"
+	},
+	{
+		"georgian": "გზა",
+		"english": "road"
+	},
+	{
+		"georgian": "მგზავრი",
+		"english": "passenger"
+	},
+	{
+		"georgian": "მგზავრობა",
+		"english": "to travel"
+	},
+	{
+		"georgian": "მგზავრ-ობ-ს",
+		"english": "s/he travels"
+	},
+	{
+		"georgian": "გამგზავრება",
+		"english": "departure"
+	},
+	{
+		"georgian": "ადგილი",
+		"english": "place"
+	},
+	{
+		"georgian": "ბილეთი",
+		"english": "ticket"
+	},
+	{
+		"georgian": "მატარებელი",
+		"english": "train"
+	},
+	{
+		"georgian": "მხოლოდ",
+		"english": "only"
+	},
+	{
+		"georgian": "ადრე",
+		"english": "early"
+	},
+	{
+		"georgian": "გვიან",
+		"english": "late"
+	},
+	{
+		"georgian": "მფრინავი",
+		"english": "pilot"
+	},
+	{
+		"georgian": "თვითმფრინავი",
+		"english": "plane"
+	},
+	{
+		"georgian": "მი-ფრინ-ავ-ს",
+		"english": "departs (takes off)"
+	},
+	{
+		"georgian": "მო-ფრინ-ავ-ს",
+		"english": "arrives (lands)"
+	},
+	{
+		"georgian": "ეკვივალენტი",
+		"english": "equivalent"
+	},
+	{
+		"georgian": "კომპანია",
+		"english": "company"
+	},
+	{
+		"georgian": "საზღვარი",
+		"english": "border"
+	},
+	{
+		"georgian": "ბარგი",
+		"english": "luggage"
+	},
+	{
+		"georgian": "შეღავათი",
+		"english": "advantage"
+	},
+	{
+		"georgian": "რიცხვი",
+		"english": "date"
+	},
+	{
+		"georgian": "ოფიციალური",
+		"english": "official"
+	},
+	{
+		"georgian": "მიღება",
+		"english": "reception"
+	},
+	{
+		"georgian": "მთავრობა",
+		"english": "government"
+	},
+	{
+		"georgian": "მოსაწვევა",
+		"english": "invitation (e.g. card)"
+	},
+	{
+		"georgian": "მისია",
+		"english": "mission"
+	},
+	{
+		"georgian": "თანამდებობა",
+		"english": "position"
+	},
+	{
+		"georgian": "თანამშრომელი",
+		"english": "colleague"
+	},
+	{
+		"georgian": "მოადგილე",
+		"english": "deputy"
+	},
+	{
+		"georgian": "მმართველი",
+		"english": "manager"
+	},
+	{
+		"georgian": "დირექტორი",
+		"english": "director"
+	},
+	{
+		"georgian": "პარლამენტი",
+		"english": "parliament"
+	},
+	{
+		"georgian": "პარლამენტარი",
+		"english": "member of parliament"
+	},
+	{
+		"georgian": "სიტყვა",
+		"english": "word"
+	},
+	{
+		"georgian": "იუბილე",
+		"english": "anniversary"
+	},
+	{
+		"georgian": "პირი",
+		"english": "person"
+	},
+	{
+		"georgian": "თავისი",
+		"english": "own"
+	},
+	{
+		"georgian": "სხვადასხვა",
+		"english": "different"
+	},
+	{
+		"georgian": "ზეიმობა",
+		"english": "to celebrate"
+	},
+	{
+		"georgian": "ზეიმ-ობ-ს",
+		"english": "s/he celebrates"
+	},
+	{
+		"georgian": "საუბარი",
+		"english": "to speak, to converse"
+	},
+	{
+		"georgian": "საუბრ-ობ-ს",
+		"english": "s/he speaks, s/he converses"
+	},
+	{
+		"georgian": "დაპატიჟება",
+		"english": "to invite"
+	},
+	{
+		"georgian": "პატიჟ-ებ-ს",
+		"english": "s/he invites"
+	},
+	{
+		"georgian": "ერთად",
+		"english": "together"
+	},
+	{
+		"georgian": "რამდენიმე",
+		"english": "several"
+	},
+	{
+		"georgian": "შეკეთებული",
+		"english": "repaired"
+	},
+	{
+		"georgian": "დამოუკიდებლობა",
+		"english": "independence"
+	},
+	{
+		"georgian": "საბავშვო",
+		"english": "children's"
+	},
+	{
+		"georgian": "გასართობა",
+		"english": "entertainment"
+	},
+	{
+		"georgian": "ბურთი",
+		"english": "ball"
+	},
+	{
+		"georgian": "ფეხბურთი",
+		"english": "football"
+	},
+	{
+		"georgian": "კალათბურთი",
+		"english": "basketball"
+	},
+	{
+		"georgian": "ხელბურთი",
+		"english": "handball"
+	},
+	{
+		"georgian": "ფრენბურთი",
+		"english": "volleyball"
+	},
+	{
+		"georgian": "ჭადრაკი",
+		"english": "chess"
+	},
+	{
+		"georgian": "ნარდი",
+		"english": "backgammon"
+	},
+	{
+		"georgian": "დომინო",
+		"english": "dominoes"
+	},
+	{
+		"georgian": "ბანქო",
+		"english": "cards"
+	},
+	{
+		"georgian": "მთა",
+		"english": "mountain"
+	},
+	{
+		"georgian": "ტბა",
+		"english": "lake"
+	},
+	{
+		"georgian": "მდინარე",
+		"english": "river"
+	},
+	{
+		"georgian": "ჩანჩქერი",
+		"english": "waterfall"
+	},
+	{
+		"georgian": "შადრევანი",
+		"english": "fountain"
+	},
+	{
+		"georgian": "ხე",
+		"english": "tree"
+	},
+	{
+		"georgian": "ყვავილი",
+		"english": "flower"
+	},
+	{
+		"georgian": "ბუჩქი",
+		"english": "bush"
+	},
+	{
+		"georgian": "პარკი",
+		"english": "park"
+	},
+	{
+		"georgian": "ბაღი",
+		"english": "garden"
+	},
+	{
+		"georgian": "ხიდი",
+		"english": "bridge"
+	},
+	{
+		"georgian": "ბოტანიკური",
+		"english": "botanical"
+	},
+	{
+		"georgian": "გადასასვლელი",
+		"english": "underground"
+	},
+	{
+		"georgian": "ნელა",
+		"english": "slowly"
+	},
+	{
+		"georgian": "აქეთ-იქით",
+		"english": "this way and that"
+	},
+	{
+		"georgian": "სწრაფად",
+		"english": "quickly"
+	},
+	{
+		"georgian": "უკვე",
+		"english": "already"
+	},
+	{
+		"georgian": "გასული",
+		"english": "last"
+	},
+	{
+		"georgian": "შემდეგი",
+		"english": "next"
+	},
+	{
+		"georgian": "სეირნობა",
+		"english": "to stroll"
+	},
+	{
+		"georgian": "სეირნ-ობ-ს",
+		"english": "s/he strolls"
+	},
+	{
+		"georgian": "თამაში",
+		"english": "to play"
+	},
+	{
+		"georgian": "თამაშ-ობ-ს",
+		"english": "s/he plays"
+	},
+	{
+		"georgian": "მი-დი-ს",
+		"english": "s/he goes"
+	},
+	{
+		"georgian": "მო-დი-ს",
+		"english": "s/he comes"
+	},
+	{
+		"georgian": "ამინდი",
+		"english": "weather"
+	},
+	{
+		"georgian": "სეზონი",
+		"english": "season"
+	},
+	{
+		"georgian": "ბუნება",
+		"english": "nature"
+	},
+	{
+		"georgian": "ზღვა",
+		"english": "sea"
+	},
+	{
+		"georgian": "ქვეყანა",
+		"english": "country"
+	},
+	{
+		"georgian": "ქალაქი",
+		"english": "city"
+	},
+	{
+		"georgian": "თვე",
+		"english": "month"
+	},
+	{
+		"georgian": "საუკუნე",
+		"english": "century"
+	},
+	{
+		"georgian": "მშვენიერი",
+		"english": "excellent, beautiful"
+	},
+	{
+		"georgian": "წვიმა",
+		"english": "rain"
+	},
+	{
+		"georgian": "წვიმ-ს",
+		"english": "it rains"
+	},
+	{
+		"georgian": "ქარი",
+		"english": "wind"
+	},
+	{
+		"georgian": "ქრ-ი-ს",
+		"english": "the wind blows"
+	},
+	{
+		"georgian": "თოვლი",
+		"english": "snow"
+	},
+	{
+		"georgian": "თოვ-ს",
+		"english": "it snows"
+	},
+	{
+		"georgian": "ზამთარი",
+		"english": "winter"
+	},
+	{
+		"georgian": "გაზაფხული",
+		"english": "spring"
+	},
+	{
+		"georgian": "ზაფხული",
+		"english": "summer"
+	},
+	{
+		"georgian": "შემოდგომა",
+		"english": "autumn"
+	},
+	{
+		"georgian": "დელეგაცია",
+		"english": "delegation"
+	},
+	{
+		"georgian": "ფერი",
+		"english": "colour"
+	},
+	{
+		"georgian": "ზოგი",
+		"english": "some"
+	},
+	{
+		"georgian": "როცა",
+		"english": "when (rel.)"
+	},
+	{
+		"georgian": "ცივი",
+		"english": "cold"
+	},
+	{
+		"georgian": "ცივ-ა",
+		"english": "it's cold"
+	},
+	{
+		"georgian": "თბილი",
+		"english": "warm"
+	},
+	{
+		"georgian": "თბილ-ა",
+		"english": "it's warm"
+	},
+	{
+		"georgian": "ცხელი",
+		"english": "hot"
+	},
+	{
+		"georgian": "ცხელ-ა",
+		"english": "it's hot"
+	},
+	{
+		"georgian": "გრილი",
+		"english": "cool"
+	},
+	{
+		"georgian": "გრილ-ა",
+		"english": "it's cool"
+	},
+	{
+		"georgian": "მწვანე",
+		"english": "green"
+	},
+	{
+		"georgian": "ქალაქგარეთ",
+		"english": "outside the city"
+	},
+	{
+		"georgian": "მოწონება",
+		"english": "to like"
+	},
+	{
+		"georgian": "მო-ს-წონ-ს",
+		"english": "s/he likes"
+	},
+	{
+		"georgian": "სახელმწიფო",
+		"english": "state"
+	},
+	{
+		"georgian": "მეცნიერი",
+		"english": "scientist"
+	},
+	{
+		"georgian": "აკადემიკოსი",
+		"english": "academician"
+	},
+	{
+		"georgian": "ექიმი",
+		"english": "doctor"
+	},
+	{
+		"georgian": "ექთანი",
+		"english": "doctor's assistant"
+	},
+	{
+		"georgian": "ეკონომისტი",
+		"english": "economist"
+	},
+	{
+		"georgian": "დიასახლისი",
+		"english": "housewife"
+	},
+	{
+		"georgian": "მსახიობი",
+		"english": "actress"
+	},
+	{
+		"georgian": "ადვოკატი",
+		"english": "lawyer"
+	},
+	{
+		"georgian": "მოსამართლე",
+		"english": "judge"
+	},
+	{
+		"georgian": "ინჟინერი",
+		"english": "engineer"
+	},
+	{
+		"georgian": "მზარეული",
+		"english": "cook"
+	},
+	{
+		"georgian": "გეოლოგი",
+		"english": "geologist"
+	},
+	{
+		"georgian": "მასწავლებელი",
+		"english": "teacher"
+	},
+	{
+		"georgian": "ბანკირი",
+		"english": "banker"
+	},
+	{
+		"georgian": "მხატვარი",
+		"english": "painter"
+	},
+	{
+		"georgian": "მომღერალი",
+		"english": "singer"
+	},
+	{
+		"georgian": "მუსიკოსი",
+		"english": "musician"
+	},
+	{
+		"georgian": "თმის ხელოსანი",
+		"english": "hairdresser"
+	},
+	{
+		"georgian": "მძღოლი",
+		"english": "driver"
+	},
+	{
+		"georgian": "საავადმყოფო",
+		"english": "hospital"
+	},
+	{
+		"georgian": "ტელევიზია",
+		"english": "television"
+	},
+	{
+		"georgian": "სამინისტრო",
+		"english": "ministry"
+	},
+	{
+		"georgian": "სასამართლო",
+		"english": "courthouse"
+	},
+	{
+		"georgian": "კონსერვატორია",
+		"english": "conservatory"
+	},
+	{
+		"georgian": "ცოლიანი",
+		"english": "married (for men)"
+	},
+	{
+		"georgian": "უცოლო",
+		"english": "unmarried (for men)"
+	},
+	{
+		"georgian": "გათხოვილი",
+		"english": "married (for women)"
+	},
+	{
+		"georgian": "გაუთხოვარი",
+		"english": "unmarried (for women)"
+	},
+	{
+		"georgian": "უფრო",
+		"english": "more"
+	},
+	{
+		"georgian": "ვიდრე",
+		"english": "than"
+	},
+	{
+		"georgian": "ყველაზე",
+		"english": "the most"
+	},
+	{
+		"georgian": "ოჯახური მდგომარეობა",
+		"english": "marital status"
+	},
+	{
+		"georgian": "პიკნიკი",
+		"english": "picknick"
+	},
+	{
+		"georgian": "შესვენება",
+		"english": "break"
+	},
+	{
+		"georgian": "დასვენება",
+		"english": "rest"
+	},
+	{
+		"georgian": "მწვადი",
+		"english": "barbeque"
+	},
+	{
+		"georgian": "ინფორმაცია",
+		"english": "information"
+	},
+	{
+		"georgian": "ამ",
+		"english": "this"
+	},
+	{
+		"georgian": "იმ",
+		"english": "that"
+	},
+	{
+		"georgian": "კონსული",
+		"english": "consul"
+	},
+	{
+		"georgian": "ამბავი",
+		"english": "story"
+	},
+	{
+		"georgian": "ახალი ამბები",
+		"english": "news"
+	},
+	{
+		"georgian": "მძიმე",
+		"english": "heavy"
+	},
+	{
+		"georgian": "მსუბუქი",
+		"english": "light (weight)"
+	},
+	{
+		"georgian": "მართლა",
+		"english": "really"
+	},
+	{
+		"georgian": "მშვენიერი",
+		"english": "fine"
+	},
+	{
+		"georgian": "ნაბახუსევა",
+		"english": "hungover"
+	},
+	{
+		"georgian": "რადგან",
+		"english": "because"
+	},
+	{
+		"georgian": "რომელიც",
+		"english": "which (rel.)"
+	},
+	{
+		"georgian": "შემწვარი",
+		"english": "roasted"
+	},
+	{
+		"georgian": "შეწვა",
+		"english": "to fry"
+	},
+	{
+		"georgian": "წვავ-ს",
+		"english": "s/he fries"
+	},
+	{
+		"georgian": "ა-ტარ-ებ-ს",
+		"english": "s/he spends"
+	},
+	{
+		"georgian": "ა-კეთ-ებ-ს",
+		"english": "s/he does"
+	},
+	{
+		"georgian": "ა-მზად-ებ-ს",
+		"english": "s/he prepares"
+	},
+	{
+		"georgian": "დაბალი",
+		"english": "low"
+	},
+	{
+		"georgian": "მაღალი",
+		"english": "high"
+	},
+	{
+		"georgian": "მოკლე",
+		"english": "short"
+	},
+	{
+		"georgian": "გრძელი",
+		"english": "long"
+	},
+	{
+		"georgian": "მსუქანი",
+		"english": "fat"
+	},
+	{
+		"georgian": "გამხდარი",
+		"english": "thin"
+	},
+	{
+		"georgian": "სწორი",
+		"english": "straight"
+	},
+	{
+		"georgian": "კეხიანი",
+		"english": "hooked"
+	},
+	{
+		"georgian": "ქერა",
+		"english": "blond"
+	},
+	{
+		"georgian": "შავგვრემანი",
+		"english": "brunette"
+	},
+	{
+		"georgian": "გახიებული",
+		"english": "caught cold"
+	},
+	{
+		"georgian": "თაფლისფერი",
+		"english": "yellowish brown"
+	},
+	{
+		"georgian": "წამალი",
+		"english": "medicine"
+	},
+	{
+		"georgian": "სიცხე",
+		"english": "fever, heat"
+	},
+	{
+		"georgian": "ტანი",
+		"english": "body"
+	},
+	{
+		"georgian": "ხელი",
+		"english": "hand, arm"
+	},
+	{
+		"georgian": "ფეხი",
+		"english": "foot, leg"
+	},
+	{
+		"georgian": "თითი",
+		"english": "finger"
+	},
+	{
+		"georgian": "მუცელი",
+		"english": "stomach"
+	},
+	{
+		"georgian": "ყელი",
+		"english": "throat"
+	},
+	{
+		"georgian": "თავი",
+		"english": "head"
+	},
+	{
+		"georgian": "სახე",
+		"english": "face"
+	},
+	{
+		"georgian": "თმა",
+		"english": "hair"
+	},
+	{
+		"georgian": "შუბლი",
+		"english": "forehead"
+	},
+	{
+		"georgian": "ცხვირი",
+		"english": "nose"
+	},
+	{
+		"georgian": "პირი",
+		"english": "mouth"
+	},
+	{
+		"georgian": "კბილი",
+		"english": "tooth"
+	},
+	{
+		"georgian": "ყური",
+		"english": "ear"
+	},
+	{
+		"georgian": "ჭაღარა",
+		"english": "grey (hair)"
+	},
+	{
+		"georgian": "ასაკი",
+		"english": "age"
+	},
+	{
+		"georgian": "სიმაღლე",
+		"english": "height"
+	},
+	{
+		"georgian": "წონა",
+		"english": "weight"
+	},
+	{
+		"georgian": "ტკივილი",
+		"english": "to hurt"
+	},
+	{
+		"georgian": "ს-ტკივ-ა",
+		"english": "it hurts"
+	},
+	{
+		"georgian": "მგვანება",
+		"english": "to resemble"
+	},
+	{
+		"georgian": "ჰ-გავ-ს",
+		"english": "s/he resembles"
+	},
+	{
+		"georgian": "შეწუხება",
+		"english": "to bother"
+	},
+	{
+		"georgian": "ა-წუხ-ებ-ს",
+		"english": "s/he bothers"
+	},
+	{
+		"georgian": "სენტიმეტრი",
+		"english": "centimetre"
+	},
+	{
+		"georgian": "საყიდლები",
+		"english": "shopping"
+	},
+	{
+		"georgian": "ხელნაკეთი",
+		"english": "handmade"
+	},
+	{
+		"georgian": "ნივთი",
+		"english": "thing"
+	},
+	{
+		"georgian": "სათამაშო",
+		"english": "toy"
+	},
+	{
+		"georgian": "ლარნაკი",
+		"english": "vaze"
+	},
+	{
+		"georgian": "ყანწი",
+		"english": "horn"
+	},
+	{
+		"georgian": "ბეჭედი",
+		"english": "ring"
+	},
+	{
+		"georgian": "საყურე",
+		"english": "earring"
+	},
+	{
+		"georgian": "სამაჯური",
+		"english": "bracelet"
+	},
+	{
+		"georgian": "თავსაფარი",
+		"english": "headscarf"
+	},
+	{
+		"georgian": "თვალი",
+		"english": "gemstone"
+	},
+	{
+		"georgian": "ხიდი",
+		"english": "bridge"
+	},
+	{
+		"georgian": "მშრალი",
+		"english": "dry"
+	},
+	{
+		"georgian": "სველი",
+		"english": "wet"
+	},
+	{
+		"georgian": "გამოფენა-გაყიდვა",
+		"english": "trade exhibition"
+	},
+	{
+		"georgian": "ვერცხლი",
+		"english": "silver"
+	},
+	{
+		"georgian": "ოქრო",
+		"english": "gold"
+	},
+	{
+		"georgian": "სახსოვრად",
+		"english": "as a memento"
+	},
+	{
+		"georgian": "წითელი",
+		"english": "red"
+	},
+	{
+		"georgian": "ყვითელი",
+		"english": "yellow"
+	},
+	{
+		"georgian": "ლურჯი",
+		"english": "dark blue"
+	},
+	{
+		"georgian": "მწვანე",
+		"english": "green"
+	},
+	{
+		"georgian": "ცისფერი",
+		"english": "light blue"
+	},
+	{
+		"georgian": "ვარდისფერი",
+		"english": "pink"
+	},
+	{
+		"georgian": "ნარინჯისფერი",
+		"english": "orange (colour)"
+	},
+	{
+		"georgian": "ნაცრისფერი",
+		"english": "gray"
+	},
+	{
+		"georgian": "სალათისფერი",
+		"english": "light green"
+	},
+	{
+		"georgian": "ყავისფერი",
+		"english": "brown"
+	},
+	{
+		"georgian": "იისფერი",
+		"english": "purple"
+	},
+	{
+		"georgian": "დათვალიერება",
+		"english": "to inspect"
+	},
+	{
+		"georgian": "ა-თვალიერ-ებ-ს",
+		"english": "s/he inspects"
+	},
+	{
+		"georgian": "დაკლება",
+		"english": "to reduce"
+	},
+	{
+		"georgian": "ა-კლ-ებ-ს",
+		"english": "s/he reduces"
+	},
+	{
+		"georgian": "ყიდვა",
+		"english": "to buy"
+	},
+	{
+		"georgian": "ყიდულ-ობ-ს",
+		"english": "s/he buys"
+	},
+	{
+		"georgian": "გაყიდვა",
+		"english": "to sell"
+	},
+	{
+		"georgian": "ყიდ-ი-ს",
+		"english": "s/he sells"
+	},
+	{
+		"georgian": "სიყვარული",
+		"english": "love"
+	},
+	{
+		"georgian": "უ-ყვარ-ს",
+		"english": "s/he loves"
+	},
+	{
+		"georgian": "სიმღერა",
+		"english": "to sing"
+	},
+	{
+		"georgian": "მღერ-ი-ს",
+		"english": "s/he sings"
+	},
+	{
+		"georgian": "წერა",
+		"english": "to write"
+	},
+	{
+		"georgian": "წერ-ს",
+		"english": "s/he writes"
+	},
+	{
+		"georgian": "კითხვა",
+		"english": "to read"
+	},
+	{
+		"georgian": "კითხულ-ობ-ს",
+		"english": "s/he reads"
+	},
+	{
+		"georgian": "თევზაობა",
+		"english": "to fish"
+	},
+	{
+		"georgian": "თევზა-ობ-ს",
+		"english": "s/he fishes"
+	},
+	{
+		"georgian": "ნადირობა",
+		"english": "to hunt"
+	},
+	{
+		"georgian": "ნადირ-ობ-ს",
+		"english": "s/he hunts"
+	},
+	{
+		"georgian": "ცურვა",
+		"english": "to swim"
+	},
+	{
+		"georgian": "ცურ-ავ-ს",
+		"english": "s/he swims"
+	},
+	{
+		"georgian": "ხატვა",
+		"english": "to paint"
+	},
+	{
+		"georgian": "ხატ-ავ-ს",
+		"english": "s/he paints"
+	},
+	{
+		"georgian": "ცეკვა",
+		"english": "to dance"
+	},
+	{
+		"georgian": "ცეკვ-ავ-ს",
+		"english": "s/he dances"
+	},
+	{
+		"georgian": "დაკვრა",
+		"english": "to play (music)"
+	},
+	{
+		"georgian": "უ-კრ-ავ-ს",
+		"english": "s/he plays (music)"
+	},
+	{
+		"georgian": "ტყე",
+		"english": "forest"
+	},
+	{
+		"georgian": "აგარაკი",
+		"english": "summer house"
+	},
+	{
+		"georgian": "ბუნება",
+		"english": "nature"
+	},
+	{
+		"georgian": "გარეშე",
+		"english": "without"
+	},
+	{
+		"georgian": "უფროსი",
+		"english": "older"
+	},
+	{
+		"georgian": "შუათანა",
+		"english": "middle"
+	},
+	{
+		"georgian": "უმცროსი",
+		"english": "younger"
+	},
+	{
+		"georgian": "გიტარა",
+		"english": "guitar"
+	},
+	{
+		"georgian": "პიანინო",
+		"english": "piano"
+	},
+	{
+		"georgian": "ვიოლინო",
+		"english": "violin"
+	},
+	{
+		"georgian": "ჩელო",
+		"english": "cello"
+	},
+	{
+		"georgian": "საქსოფონი",
+		"english": "saxophone"
+	},
+	{
+		"georgian": "ხალხური",
+		"english": "folk (adj.)"
+	},
+	{
+		"georgian": "ჩონგური",
+		"english": "chonguri"
+	},
+	{
+		"georgian": "ხელბურთი",
+		"english": "handball"
+	},
+	{
+		"georgian": "ფრენბურთი",
+		"english": "volleyball"
+	},
+	{
+		"georgian": "კალათბურთი",
+		"english": "basketball"
+	},
+	{
+		"georgian": "ჩოგბურთი",
+		"english": "tennis"
+	},
+	{
+		"georgian": "გოლფი",
+		"english": "golf"
+	},
+	{
+		"georgian": "გარეთ",
+		"english": "outside"
+	},
+	{
+		"georgian": "შიგნით",
+		"english": "inside"
+	},
+	{
+		"georgian": "თავისუფლება",
+		"english": "freedom"
+	},
+	{
+		"georgian": "თავისუფალი",
+		"english": "free"
+	},
+	{
+		"georgian": "საგზაო",
+		"english": "road-"
+	},
+	{
+		"georgian": "გზაჯვარედინი",
+		"english": "crossroad"
+	},
+	{
+		"georgian": "ნიშანი",
+		"english": "sign"
+	},
+	{
+		"georgian": "პირდაპირ",
+		"english": "straight ahead"
+	},
+	{
+		"georgian": "მარჯვნივ",
+		"english": "to/on the right"
+	},
+	{
+		"georgian": "მარცხნივ",
+		"english": "to/on the left"
+	},
+	{
+		"georgian": "შემდეგ",
+		"english": "after"
+	},
+	{
+		"georgian": "გვერდით",
+		"english": "next to"
+	},
+	{
+		"georgian": "წინ",
+		"english": "in front of"
+	},
+	{
+		"georgian": "უკან",
+		"english": "back"
+	},
+	{
+		"georgian": "ზევით",
+		"english": "up"
+	},
+	{
+		"georgian": "ქვევით",
+		"english": "down"
+	},
+	{
+		"georgian": "ქვეშ",
+		"english": "under"
+	},
+	{
+		"georgian": "ვიწრო",
+		"english": "narrow"
+	},
+	{
+		"georgian": "ფართო",
+		"english": "wide"
+	},
+	{
+		"georgian": "თავისი",
+		"english": "her/his own"
+	},
+	{
+		"georgian": "თავიანთი",
+		"english": "their own"
+	},
+	{
+		"georgian": "დანფრეული",
+		"english": "destroyed"
+	},
+	{
+		"georgian": "პერპენდიკულარული",
+		"english": "perpendicular"
+	},
+	{
+		"georgian": "პარალელური",
+		"english": "parallel"
+	},
+	{
+		"georgian": "შეხვევა",
+		"english": "to turn"
+	},
+	{
+		"georgian": "უ-ხვ-ევ-ს",
+		"english": "it turns"
+	},
+	{
+		"georgian": "გაჩერება",
+		"english": "to stop"
+	},
+	{
+		"georgian": "ა-ჩერ-ებ-ს",
+		"english": "it stops"
+	},
+	{
+		"georgian": "გაგრძელება",
+		"english": "to continue"
+	},
+	{
+		"georgian": "ა-გრძელ-ებ-ს",
+		"english": "it continues"
+	},
+	{
+		"georgian": "სილამაზის სალონი",
+		"english": "beauty salon"
+	},
+	{
+		"georgian": "აუცილებელი",
+		"english": "necessary"
+	},
+	{
+		"georgian": "თმის ხელოსანი",
+		"english": "hairdresser"
+	},
+	{
+		"georgian": "ფრჩხილი",
+		"english": "nail"
+	},
+	{
+		"georgian": "კლიენტი",
+		"english": "client"
+	},
+	{
+		"georgian": "მანიკიური",
+		"english": "manicure"
+	},
+	{
+		"georgian": "პედიკიური",
+		"english": "pedicure"
+	},
+	{
+		"georgian": "თავისუფალი",
+		"english": "free"
+	},
+	{
+		"georgian": "გვერდი",
+		"english": "side"
+	},
+	{
+		"georgian": "სიგრძე",
+		"english": "length"
+	},
+	{
+		"georgian": "სენტიმეტრი",
+		"english": "centimeter"
+	},
+	{
+		"georgian": "ჩაწერილი",
+		"english": "scheduled"
+	},
+	{
+		"georgian": "შეჭრა",
+		"english": "to cut"
+	},
+	{
+		"georgian": "იჭრის თმას",
+		"english": "s/he gets his/her hair cut"
+	},
+	{
+		"georgian": "შემოკლება",
+		"english": "to shorten"
+	},
+	{
+		"georgian": "ი-მოკლ-ებ-ს თმას",
+		"english": "s/he gets his/her hair shortened"
+	},
+	{
+		"georgian": "შესწორება",
+		"english": "to trim"
+	},
+	{
+		"georgian": "ი-სწორ-ებ-ს თმას",
+		"english": "s/he gets his/her hair trimmed"
+	},
+	{
+		"georgian": "შეღებვა",
+		"english": "to dye"
+	},
+	{
+		"georgian": "ი-ღებ-ავ-ს თმას",
+		"english": "s/he gets his/her hair dyed"
+	},
+	{
+		"georgian": "დავარცხნა",
+		"english": "to style"
+	},
+	{
+		"georgian": "ი-ვარცხნ-ი-ს თმას",
+		"english": "s/he gets his/her hair styled"
+	},
+	{
+		"georgian": "შეიძლება",
+		"english": "to be able to"
+	},
+	{
+		"georgian": "შე-უ-ძლ-ი-ა",
+		"english": "s/he can"
+	},
+	{
+		"georgian": "ღმერთი",
+		"english": "God"
+	},
+	{
+		"georgian": "თამადა",
+		"english": "tamada"
+	},
+	{
+		"georgian": "წევრი",
+		"english": "member"
+	},
+	{
+		"georgian": "სუფრა",
+		"english": "supra"
+	},
+	{
+		"georgian": "დედმამიშვილი",
+		"english": "sibling"
+	},
+	{
+		"georgian": "გარდაცვლილი",
+		"english": "deceased"
+	},
+	{
+		"georgian": "წინაპარი",
+		"english": "ancestor"
+	},
+	{
+		"georgian": "თეფში",
+		"english": "plate"
+	},
+	{
+		"georgian": "ჭიქა",
+		"english": "glass"
+	},
+	{
+		"georgian": "დანა",
+		"english": "knife"
+	},
+	{
+		"georgian": "ჩანგალი",
+		"english": "fork"
+	},
+	{
+		"georgian": "კოვზი",
+		"english": "spoon"
+	},
+	{
+		"georgian": "ხელსახოცი",
+		"english": "napkin"
+	},
+	{
+		"georgian": "სურსათი",
+		"english": "groceries"
+	},
+	{
+		"georgian": "სულგუნი",
+		"english": "sulguni"
+	},
+	{
+		"georgian": "მხალი",
+		"english": "mkhali"
+	},
+	{
+		"georgian": "ნიგვზიანი",
+		"english": "with walnut"
+	},
+	{
+		"georgian": "ბაჟე",
+		"english": "walnut sauce"
+	},
+	{
+		"georgian": "მჭადი",
+		"english": "mchadi"
+	},
+	{
+		"georgian": "ხაჭაპური",
+		"english": "khachapuri"
+	},
+	{
+		"georgian": "ხინკალი",
+		"english": "khinkali"
+	},
+	{
+		"georgian": "ისპანახი",
+		"english": "spinach"
+	},
+	{
+		"georgian": "ნაირ-ნაირი",
+		"english": "varied"
+	},
+	{
+		"georgian": "ბრწყინვალე",
+		"english": "brilliant"
+	},
+	{
+		"georgian": "მიხედვით",
+		"english": "according to"
+	},
+	{
+		"georgian": "სადღეგრძელო",
+		"english": "toast"
+	},
+	{
+		"georgian": "დღეგრძელობა",
+		"english": "to toast"
+	},
+	{
+		"georgian": "ა-დღეგრძელ-ებ-ს",
+		"english": "s/he toasts"
+	},
+	{
+		"georgian": "სმა",
+		"english": "to drink"
+	},
+	{
+		"georgian": "სვ-ამ-ს",
+		"english": "s/he drinks"
+	},
+	{
+		"georgian": "ლოცვა",
+		"english": "pray, to pray"
+	},
+	{
+		"georgian": "მილოცვა",
+		"english": "to congratulate"
+	},
+	{
+		"georgian": "უ-ლოც-ავ-ს",
+		"english": "s/he congratulates"
+	},
+	{
+		"georgian": "გაწყობილი",
+		"english": "a set (table)"
+	},
+	{
+		"georgian": "გაწყობა",
+		"english": "to set the table"
+	},
+	{
+		"georgian": "ა-წყ-ობ-ს",
+		"english": "s/he sets the table"
+	},
+	{
+		"georgian": "დასვენება",
+		"english": "to rest"
+	},
+	{
+		"georgian": "ი-სვენ-ებ-ს",
+		"english": "s/he rests"
+	},
+	{
+		"georgian": "ჭამა",
+		"english": "to eat"
+	},
+	{
+		"georgian": "ჭამ-ს",
+		"english": "s/he eats"
+	},
+	{
+		"georgian": "პოლიტიკა",
+		"english": "politics"
+	},
+	{
+		"georgian": "პოლიტიკური",
+		"english": "political"
+	},
+	{
+		"georgian": "მდგომარეობა",
+		"english": "condition"
+	},
+	{
+		"georgian": "მდებარეობა",
+		"english": "location"
+	},
+	{
+		"georgian": "აზია",
+		"english": "Asia"
+	},
+	{
+		"georgian": "ევროპა",
+		"english": "Europe"
+	},
+	{
+		"georgian": "მსოფლიო",
+		"english": "world"
+	},
+	{
+		"georgian": "კანონი",
+		"english": "law"
+	},
+	{
+		"georgian": "კორუფცია",
+		"english": "corruption"
+	},
+	{
+		"georgian": "კორუმპირებული",
+		"english": "corrupt"
+	},
+	{
+		"georgian": "რევოლუცია",
+		"english": "revolution"
+	},
+	{
+		"georgian": "მთავრობა",
+		"english": "government"
+	},
+	{
+		"georgian": "პენსია",
+		"english": "pension"
+	},
+	{
+		"georgian": "ხელფასი",
+		"english": "salary"
+	},
+	{
+		"georgian": "იმედი",
+		"english": "hope"
+	},
+	{
+		"georgian": "მძიმე",
+		"english": "heavy"
+	},
+	{
+		"georgian": "მსუბუქი",
+		"english": "light (weight)"
+	},
+	{
+		"georgian": "ტყუილი",
+		"english": "lie"
+	},
+	{
+		"georgian": "მართალი",
+		"english": "true"
+	},
+	{
+		"georgian": "სამართალი",
+		"english": "justice"
+	},
+	{
+		"georgian": "სამართლიანი",
+		"english": "just"
+	},
+	{
+		"georgian": "დამკვირვებელი",
+		"english": "observer"
+	},
+	{
+		"georgian": "ინვესტიცია",
+		"english": "investment"
+	},
+	{
+		"georgian": "დახმარება",
+		"english": "help"
+	},
+	{
+		"georgian": "დონე",
+		"english": "level"
+	},
+	{
+		"georgian": "ძნელი",
+		"english": "difficult"
+	},
+	{
+		"georgian": "ადვილი",
+		"english": "easy"
+	},
+	{
+		"georgian": "ცვლილება",
+		"english": "change"
+	},
+	{
+		"georgian": "არჩევანი",
+		"english": "choice"
+	},
+	{
+		"georgian": "არჩევნები",
+		"english": "elections"
+	},
+	{
+		"georgian": "იმიტომ",
+		"english": "for that reason"
+	},
+	{
+		"georgian": "შუაში",
+		"english": "in the middle"
+	},
+	{
+		"georgian": "საჭირო",
+		"english": "necessary, needed"
+	},
+	{
+		"georgian": "ს-ჭირდ-ებ-ა",
+		"english": "s/he/it needs"
+	},
+	{
+		"georgian": "აღება",
+		"english": "to take"
+	},
+	{
+		"georgian": "ი-ღ-ებ-ს",
+		"english": "s/he takes"
+	},
+	{
+		"georgian": "დასჯა",
+		"english": "to punish"
+	},
+	{
+		"georgian": "სჯ-ი-ს",
+		"english": "s/he punishes"
+	},
+	{
+		"georgian": "შეცვლა",
+		"english": "to change"
+	},
+	{
+		"georgian": "ცვლ-ი-ს",
+		"english": "s/he changes"
+	},
+	{
+		"georgian": "მშვენიერი",
+		"english": "beautiful, fine"
+	},
+	{
+		"georgian": "უზარმაზარი",
+		"english": "huge"
+	},
+	{
+		"georgian": "დიდებული",
+		"english": "majestic"
+	},
+	{
+		"georgian": "გაკვირვებული",
+		"english": "astonished"
+	},
+	{
+		"georgian": "მეფე",
+		"english": "king"
+	},
+	{
+		"georgian": "სიცილი",
+		"english": "laugh"
+	},
+	{
+		"georgian": "ტირილი",
+		"english": "crying"
+	},
+	{
+		"georgian": "ხმაური",
+		"english": "noise"
+	},
+	{
+		"georgian": "სიჩუმე",
+		"english": "silence"
+	},
+	{
+		"georgian": "ხეობა",
+		"english": "canyon"
+	},
+	{
+		"georgian": "ტყე",
+		"english": "forest"
+	},
+	{
+		"georgian": "მიწა",
+		"english": "ground"
+	},
+	{
+		"georgian": "დედამიწა",
+		"english": "planet"
+	},
+	{
+		"georgian": "უცებ",
+		"english": "suddenly"
+	},
+	{
+		"georgian": "ფრინველი",
+		"english": "bird"
+	},
+	{
+		"georgian": "ხოხობი",
+		"english": "pheasant"
+	},
+	{
+		"georgian": "შევარდენი",
+		"english": "falcon"
+	},
+	{
+		"georgian": "მინდორი",
+		"english": "field"
+	},
+	{
+		"georgian": "გოგირდი",
+		"english": "sulphur"
+	},
+	{
+		"georgian": "ჰავა",
+		"english": "climate"
+	},
+	{
+		"georgian": "ბუნებრივი",
+		"english": "natural"
+	},
+	{
+		"georgian": "ლეგენდა",
+		"english": "legend"
+	},
+	{
+		"georgian": "მონადირე",
+		"english": "hunter"
+	},
+	{
+		"georgian": "ნადირობა",
+		"english": "hunt"
+	},
+	{
+		"georgian": "შეიძლება",
+		"english": "maybe"
+	},
+	{
+		"georgian": "თქვა",
+		"english": "to say"
+	},
+	{
+		"georgian": "ა-მბ-ობ-ს",
+		"english": "s/he says"
+	},
+	{
+		"georgian": "აშენება",
+		"english": "to build"
+	},
+	{
+		"georgian": "ა-შენ-ებ-ს",
+		"english": "s/he builds"
+	},
+	{
+		"georgian": "უ-შვ-ებ-ს",
+		"english": "s/he lets go"
+	},
+	{
+		"georgian": "ნახვა",
+		"english": "to see"
+	},
+	{
+		"georgian": "ხედ-ავ-ს",
+		"english": "s/he sees"
+	}
+]

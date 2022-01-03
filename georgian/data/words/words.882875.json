@@ -1,0 +1,2562 @@
+[
+	{
+		"georgian": "გარეთ",
+		"english": "outside",
+		"audio": "გარეთ.mp3"
+	},
+	{
+		"georgian": "მიწა",
+		"english": "ground",
+		"audio": "მიწა.mp3"
+	},
+	{
+		"georgian": "ორმოცდაათი",
+		"english": "fifty",
+		"audio": "ორმოცდაათი.mp3"
+	},
+	{
+		"georgian": "უშნო",
+		"english": "ugly",
+		"audio": "უშნო.mp3"
+	},
+	{
+		"georgian": "თბილი",
+		"english": "warm",
+		"audio": "თბილი.mp3"
+	},
+	{
+		"georgian": "კლიტე",
+		"english": "lock",
+		"audio": "კლიტე.mp3"
+	},
+	{
+		"georgian": "ადამიანი",
+		"english": "human",
+		"audio": "ადამიანი.mp3"
+	},
+	{
+		"georgian": "ქმარი",
+		"english": "husband",
+		"audio": "ქმარი.mp3"
+	},
+	{
+		"georgian": "მაღალი",
+		"english": "tall",
+		"audio": "მაღალი.mp3"
+	},
+	{
+		"georgian": "მეფე",
+		"english": "king",
+		"audio": "მეფე.mp3"
+	},
+	{
+		"georgian": "მზე",
+		"english": "sun",
+		"audio": "მზე.mp3"
+	},
+	{
+		"georgian": "წონა",
+		"english": "weight",
+		"audio": "წონა.mp3"
+	},
+	{
+		"georgian": "მილიარდი",
+		"english": "billion",
+		"audio": "მილიარდი.mp3"
+	},
+	{
+		"georgian": "ხელი",
+		"english": "hand",
+		"audio": "ხელი.mp3"
+	},
+	{
+		"georgian": "ვერცხლი",
+		"english": "silver",
+		"audio": "ვერცხლი.mp3"
+	},
+	{
+		"georgian": "ტბა",
+		"english": "lake",
+		"audio": "ტბა.mp3"
+	},
+	{
+		"georgian": "ხუთი",
+		"english": "five",
+		"audio": "ხუთი.mp3"
+	},
+	{
+		"georgian": "საათი",
+		"english": "hour",
+		"audio": "საათი.mp3"
+	},
+	{
+		"georgian": "სამშაბათი",
+		"english": "Tuesday",
+		"audio": "სამშაბათი.mp3"
+	},
+	{
+		"georgian": "სამხრეთი",
+		"english": "south",
+		"audio": "სამხრეთი.mp3"
+	},
+	{
+		"georgian": "მედიცინა",
+		"english": "medicine",
+		"audio": "მედიცინა.mp3"
+	},
+	{
+		"georgian": "მაღალი",
+		"english": "high",
+		"audio": "მაღალი.mp3"
+	},
+	{
+		"georgian": "ტორტი",
+		"english": "cake",
+		"audio": "ტორტი.mp3"
+	},
+	{
+		"georgian": "პატარა",
+		"english": "small",
+		"audio": "პატარა.mp3"
+	},
+	{
+		"georgian": "ტელეფონი",
+		"english": "cell phone",
+		"audio": "ტელეფონი.mp3"
+	},
+	{
+		"georgian": "პროგრამა",
+		"english": "program",
+		"audio": "პროგრამა.mp3"
+	},
+	{
+		"georgian": "ქათამი",
+		"english": "chicken",
+		"audio": "ქათამი.mp3"
+	},
+	{
+		"georgian": "დაბალი",
+		"english": "low",
+		"audio": "დაბალი.mp3"
+	},
+	{
+		"georgian": "ბანკი",
+		"english": "bank",
+		"audio": "ბანკი.mp3"
+	},
+	{
+		"georgian": "ცა",
+		"english": "sky",
+		"audio": "ცა.mp3"
+	},
+	{
+		"georgian": "საღამო",
+		"english": "evening",
+		"audio": "საღამო.mp3"
+	},
+	{
+		"georgian": "ქალაქი",
+		"english": "city",
+		"audio": "ქალაქი.mp3"
+	},
+	{
+		"georgian": "ავტორი",
+		"english": "an author",
+		"audio": "ავტორი.mp3"
+	},
+	{
+		"georgian": "არჩევნები",
+		"english": "election",
+		"audio": "არჩევნები.mp3"
+	},
+	{
+		"georgian": "მსახიობი",
+		"english": "actor",
+		"audio": "მსახიობი.mp3"
+	},
+	{
+		"georgian": "ძლიერი",
+		"english": "strong",
+		"audio": "ძლიერი.mp3"
+	},
+	{
+		"georgian": "სწორი",
+		"english": "right, correct",
+		"audio": "სწორი.mp3"
+	},
+	{
+		"georgian": "ოფლი",
+		"english": "sweat",
+		"audio": "ოფლი.mp3"
+	},
+	{
+		"georgian": "ტანი",
+		"english": "body",
+		"audio": "ტანი.mp3"
+	},
+	{
+		"georgian": "ცხენი",
+		"english": "horse",
+		"audio": "ცხენი.mp3"
+	},
+	{
+		"georgian": "თორმეტი",
+		"english": "twelve",
+		"audio": "თორმეტი.mp3"
+	},
+	{
+		"georgian": "ის",
+		"english": "he/she/it",
+		"audio": "ის.mp3"
+	},
+	{
+		"georgian": "გვერდი",
+		"english": "page",
+		"audio": "გვერდი.mp3"
+	},
+	{
+		"georgian": "წამი",
+		"english": "second (time)",
+		"audio": "წამი.mp3"
+	},
+	{
+		"georgian": "ციხე",
+		"english": "prison",
+		"audio": "ციხე.mp3"
+	},
+	{
+		"georgian": "დრო",
+		"english": "time",
+		"audio": "დრო.mp3"
+	},
+	{
+		"georgian": "ბავშვი",
+		"english": "baby",
+		"audio": "ბავშვი.mp3"
+	},
+	{
+		"georgian": "საწოლი ოთახი",
+		"english": "bedroom",
+		"audio": "საწოლი ოთახი.mp3"
+	},
+	{
+		"georgian": "საჭმელი",
+		"english": "food",
+		"audio": "საჭმელი.mp3"
+	},
+	{
+		"georgian": "ჰაერი",
+		"english": "air",
+		"audio": "ჰაერი.mp3"
+	},
+	{
+		"georgian": "ჩრდილოეთი",
+		"english": "north",
+		"audio": "ჩრდილოეთი.mp3"
+	},
+	{
+		"georgian": "ხელოვნება",
+		"english": "art",
+		"audio": "ხელოვნება.mp3"
+	},
+	{
+		"georgian": "დაზიანება",
+		"english": "injury",
+		"audio": "დაზიანება.mp3"
+	},
+	{
+		"georgian": "მღვდელი",
+		"english": "priest",
+		"audio": "მღვდელი.mp3"
+	},
+	{
+		"georgian": "ტყე",
+		"english": "woods",
+		"audio": "ტყე.mp3"
+	},
+	{
+		"georgian": "ნაშუადღევი",
+		"english": "afternoon",
+		"audio": "ნაშუადღევი.mp3"
+	},
+	{
+		"georgian": "სადილი",
+		"english": "dinner",
+		"audio": "სადილი.mp3"
+	},
+	{
+		"georgian": "ქაღალდი",
+		"english": "paper",
+		"audio": "ქაღალდი.mp3"
+	},
+	{
+		"georgian": "ცხელი",
+		"english": "hot",
+		"audio": "ცხელი.mp3"
+	},
+	{
+		"georgian": "მდიდარი",
+		"english": "rich",
+		"audio": "მდიდარი.mp3"
+	},
+	{
+		"georgian": "ჩვიდმეტი",
+		"english": "seventeen",
+		"audio": "ჩვიდმეტი.mp3"
+	},
+	{
+		"georgian": "ლეპტოპი",
+		"english": "laptop",
+		"audio": "ლეპტოპი.mp3"
+	},
+	{
+		"georgian": "ცხოველი",
+		"english": "animal",
+		"audio": "ცხოველი.mp3"
+	},
+	{
+		"georgian": "საჩუქარი",
+		"english": "gift",
+		"audio": "საჩუქარი.mp3"
+	},
+	{
+		"georgian": "ცისფერი",
+		"english": "blue",
+		"audio": "ცისფერი.mp3"
+	},
+	{
+		"georgian": "კოსტიუმი",
+		"english": "suit",
+		"audio": "კოსტიუმი.mp3"
+	},
+	{
+		"georgian": "ზმნა",
+		"english": "verb",
+		"audio": "ზმნა.mp3"
+	},
+	{
+		"georgian": "ფეხი",
+		"english": "foot",
+		"audio": "ფეხი.mp3"
+	},
+	{
+		"georgian": "ცოლი",
+		"english": "wife",
+		"audio": "ცოლი.mp3"
+	},
+	{
+		"georgian": "გადაზიდვა",
+		"english": "transportation",
+		"audio": "გადაზიდვა.mp3"
+	},
+	{
+		"georgian": "ბებია",
+		"english": "grandmother",
+		"audio": "ბებია.mp3"
+	},
+	{
+		"georgian": "ვაჟიშვილი",
+		"english": "son",
+		"audio": "ვაჟიშვილი.mp3"
+	},
+	{
+		"georgian": "იატაკი",
+		"english": "floor",
+		"audio": "იატაკი.mp3"
+	},
+	{
+		"georgian": "არმია",
+		"english": "army",
+		"audio": "არმია.mp3"
+	},
+	{
+		"georgian": "კვირა",
+		"english": "Sunday, week",
+		"audio": "კვირა.mp3"
+	},
+	{
+		"georgian": "ჭრილობა",
+		"english": "wound",
+		"audio": "ჭრილობა.mp3"
+	},
+	{
+		"georgian": "ზურგი",
+		"english": "back",
+		"audio": "ზურგი.mp3"
+	},
+	{
+		"georgian": "ბრმა",
+		"english": "blind",
+		"audio": "ბრმა.mp3"
+	},
+	{
+		"georgian": "ეკრანი",
+		"english": "screen",
+		"audio": "ეკრანი.mp3"
+	},
+	{
+		"georgian": "სამი",
+		"english": "three",
+		"audio": "სამი.mp3"
+	},
+	{
+		"georgian": "აპრილი",
+		"english": "April",
+		"audio": "აპრილი.mp3"
+	},
+	{
+		"georgian": "ლამაზი",
+		"english": "beautiful",
+		"audio": "ლამაზი.mp3"
+	},
+	{
+		"georgian": "წვენი",
+		"english": "juice",
+		"audio": "წვენი.mp3"
+	},
+	{
+		"georgian": "ცუდი",
+		"english": "bad",
+		"audio": "ცუდი.mp3"
+	},
+	{
+		"georgian": "ბრინჯი",
+		"english": "rice",
+		"audio": "ბრინჯი.mp3"
+	},
+	{
+		"georgian": "თევზი",
+		"english": "fish",
+		"audio": "თევზი.mp3"
+	},
+	{
+		"georgian": "შენობა",
+		"english": "building",
+		"audio": "შენობა.mp3"
+	},
+	{
+		"georgian": "ეკლესია",
+		"english": "church",
+		"audio": "ეკლესია.mp3"
+	},
+	{
+		"georgian": "ჯარისკაცი",
+		"english": "soldier",
+		"audio": "ჯარისკაცი.mp3"
+	},
+	{
+		"georgian": "ზღვა",
+		"english": "sea",
+		"audio": "ზღვა.mp3"
+	},
+	{
+		"georgian": "ველოსიპედი",
+		"english": "bicycle",
+		"audio": "ველოსიპედი.mp3"
+	},
+	{
+		"georgian": "მსხვერპლი",
+		"english": "victim",
+		"audio": "მსხვერპლი.mp3"
+	},
+	{
+		"georgian": "პერსონა, პირი",
+		"english": "person",
+		"audio": "პერსონა, პირი.mp3"
+	},
+	{
+		"georgian": "ჩქარი",
+		"english": "fast",
+		"audio": "ჩქარი.mp3"
+	},
+	{
+		"georgian": "რძე",
+		"english": "milk",
+		"audio": "რძე.mp3"
+	},
+	{
+		"georgian": "ბავშვი",
+		"english": "child",
+		"audio": "ბავშვი.mp3"
+	},
+	{
+		"georgian": "ნაცრისფერი",
+		"english": "gray",
+		"audio": "ნაცრისფერი.mp3"
+	},
+	{
+		"georgian": "ცა",
+		"english": "heaven",
+		"audio": "ცა.mp3"
+	},
+	{
+		"georgian": "ლუდი",
+		"english": "beer",
+		"audio": "ლუდი.mp3"
+	},
+	{
+		"georgian": "კოვზი",
+		"english": "spoon",
+		"audio": "კოვზი.mp3"
+	},
+	{
+		"georgian": "ოთხმოცი",
+		"english": "eighty",
+		"audio": "ოთხმოცი.mp3"
+	},
+	{
+		"georgian": "სასიამოვნო",
+		"english": "nice",
+		"audio": "სასიამოვნო.mp3"
+	},
+	{
+		"georgian": "კიდე",
+		"english": "edge",
+		"audio": "კიდე.mp3"
+	},
+	{
+		"georgian": "სასმელი",
+		"english": "beverage",
+		"audio": "სასმელი.mp3"
+	},
+	{
+		"georgian": "ლითონი",
+		"english": "metal",
+		"audio": "ლითონი.mp3"
+	},
+	{
+		"georgian": "ივლისი",
+		"english": "July",
+		"audio": "ივლისი.mp3"
+	},
+	{
+		"georgian": "თერთმეტი",
+		"english": "eleven",
+		"audio": "თერთმეტი.mp3"
+	},
+	{
+		"georgian": "ბურთი",
+		"english": "a ball",
+		"audio": "ბურთი.mp3"
+	},
+	{
+		"georgian": "მილიონი",
+		"english": "million",
+		"audio": "მილიონი.mp3"
+	},
+	{
+		"georgian": "ბირთვული",
+		"english": "nuclear",
+		"audio": "ბირთვული.mp3"
+	},
+	{
+		"georgian": "ბეჭედი",
+		"english": "ring",
+		"audio": "ბეჭედი.mp3"
+	},
+	{
+		"georgian": "სქელი",
+		"english": "thick",
+		"audio": "სქელი.mp3"
+	},
+	{
+		"georgian": "წრე",
+		"english": "circle",
+		"audio": "წრე.mp3"
+	},
+	{
+		"georgian": "საათი",
+		"english": "clock",
+		"audio": "საათი.mp3"
+	},
+	{
+		"georgian": "ვარდისფერი",
+		"english": "pink",
+		"audio": "ვარდისფერი.mp3"
+	},
+	{
+		"georgian": "ყუთი",
+		"english": "box",
+		"audio": "ყუთი.mp3"
+	},
+	{
+		"georgian": "თვალი",
+		"english": "eye",
+		"audio": "თვალი.mp3"
+	},
+	{
+		"georgian": "თვითმფრინავი",
+		"english": "plane",
+		"audio": "თვითმფრინავი.mp3"
+	},
+	{
+		"georgian": "მდედრობითი",
+		"english": "female",
+		"audio": "მდედრობითი.mp3"
+	},
+	{
+		"georgian": "ოთხი",
+		"english": "four",
+		"audio": "ოთხი.mp3"
+	},
+	{
+		"georgian": "მარცხენა",
+		"english": "left",
+		"audio": "მარცხენა.mp3"
+	},
+	{
+		"georgian": "გემი",
+		"english": "ship",
+		"audio": "გემი.mp3"
+	},
+	{
+		"georgian": "ბარი",
+		"english": "bar",
+		"audio": "ბარი.mp3"
+	},
+	{
+		"georgian": "მარცვალი",
+		"english": "corn",
+		"audio": "მარცვალი.mp3"
+	},
+	{
+		"georgian": "საბურავი",
+		"english": "tire",
+		"audio": "საბურავი.mp3"
+	},
+	{
+		"georgian": "გრილი",
+		"english": "chilly",
+		"audio": "გრილი.mp3"
+	},
+	{
+		"georgian": "ფული",
+		"english": "money",
+		"audio": "ფული.mp3"
+	},
+	{
+		"georgian": "ნათელი/ბნელი",
+		"english": "light/dark",
+		"audio": "ნათელი.mp3"
+	},
+	{
+		"georgian": "ორმოცი",
+		"english": "forty",
+		"audio": "ორმოცი.mp3"
+	},
+	{
+		"georgian": "შენიშვნა",
+		"english": "note (on paper)",
+		"audio": "შენიშვნა.mp3"
+	},
+	{
+		"georgian": "ქარი",
+		"english": "wind",
+		"audio": "ქარი.mp3"
+	},
+	{
+		"georgian": "დაბალი",
+		"english": "short (/tall)",
+		"audio": "დაბალი.mp3"
+	},
+	{
+		"georgian": "ოთხშაბათი",
+		"english": "Wednesday",
+		"audio": "ოთხშაბათი.mp3"
+	},
+	{
+		"georgian": "თითი",
+		"english": "finger",
+		"audio": "თითი.mp3"
+	},
+	{
+		"georgian": "იანვარი",
+		"english": "January",
+		"audio": "იანვარი.mp3"
+	},
+	{
+		"georgian": "გაზეთი",
+		"english": "newspaper",
+		"audio": "გაზეთი.mp3"
+	},
+	{
+		"georgian": "სასტუმრო",
+		"english": "hotel",
+		"audio": "სასტუმრო.mp3"
+	},
+	{
+		"georgian": "ძმა",
+		"english": "brother",
+		"audio": "ძმა.mp3"
+	},
+	{
+		"georgian": "სეზონი",
+		"english": "season",
+		"audio": "სეზონი.mp3"
+	},
+	{
+		"georgian": "თებერვალი",
+		"english": "February",
+		"audio": "თებერვალი.mp3"
+	},
+	{
+		"georgian": "დასავლეთი",
+		"english": "west",
+		"audio": "დასავლეთი.mp3"
+	},
+	{
+		"georgian": "ინსტრუმენტი",
+		"english": "instrument",
+		"audio": "ინსტრუმენტი.mp3"
+	},
+	{
+		"georgian": "კომპიუტერი",
+		"english": "computer",
+		"audio": "კომპიუტერი.mp3"
+	},
+	{
+		"georgian": "ხიდი",
+		"english": "bridge",
+		"audio": "ხიდი.mp3"
+	},
+	{
+		"georgian": "არა",
+		"english": "no",
+		"audio": "არა.mp3"
+	},
+	{
+		"georgian": "ორშაბათი",
+		"english": "Monday",
+		"audio": "ორშაბათი.mp3"
+	},
+	{
+		"georgian": "აუზი",
+		"english": "pool",
+		"audio": "აუზი.mp3"
+	},
+	{
+		"georgian": "ქვედატანი",
+		"english": "skirt",
+		"audio": "ქვედატანი.mp3"
+	},
+	{
+		"georgian": "შენ",
+		"english": "you",
+		"audio": "შენ.mp3"
+	},
+	{
+		"georgian": "ერთი",
+		"english": "one",
+		"audio": "ერთი.mp3"
+	},
+	{
+		"georgian": "მარტი",
+		"english": "March",
+		"audio": "მარტი.mp3"
+	},
+	{
+		"georgian": "წინა მხარე",
+		"english": "front",
+		"audio": "წინა მხარე.mp3"
+	},
+	{
+		"georgian": "წვნიანი",
+		"english": "soup",
+		"audio": "წვნიანი.mp3"
+	},
+	{
+		"georgian": "პირველი",
+		"english": "first",
+		"audio": "პირველი.mp3"
+	},
+	{
+		"georgian": "საავადმყოფო",
+		"english": "hospital",
+		"audio": "საავადმყოფო.mp3"
+	},
+	{
+		"georgian": "ქალაქი",
+		"english": "town",
+		"audio": "ქალაქი.mp3"
+	},
+	{
+		"georgian": "სველი",
+		"english": "wet",
+		"audio": "სველი.mp3"
+	},
+	{
+		"georgian": "მეხუთე",
+		"english": "fifth",
+		"audio": "მეხუთე.mp3"
+	},
+	{
+		"georgian": "ადვოკატი",
+		"english": "lawyer",
+		"audio": "ადვოკატი.mp3"
+	},
+	{
+		"georgian": "თოვლი",
+		"english": "snow",
+		"audio": "თოვლი.mp3"
+	},
+	{
+		"georgian": "სანტიმეტრი",
+		"english": "centimeter",
+		"audio": "სანტიმეტრი.mp3"
+	},
+	{
+		"georgian": "ადგილმდებარეობა",
+		"english": "location",
+		"audio": "ადგილმდებარეობა.mp3"
+	},
+	{
+		"georgian": "თესლი",
+		"english": "seed",
+		"audio": "თესლი.mp3"
+	},
+	{
+		"georgian": "ლაქა",
+		"english": "stain",
+		"audio": "ლაქა.mp3"
+	},
+	{
+		"georgian": "სიცივე",
+		"english": "cold",
+		"audio": "სიცივე.mp3"
+	},
+	{
+		"georgian": "ნოემბერი",
+		"english": "November",
+		"audio": "ნოემბერი.mp3"
+	},
+	{
+		"georgian": "დედამიწა",
+		"english": "Earth",
+		"audio": "დედამიწა.mp3"
+	},
+	{
+		"georgian": "ტუჩი",
+		"english": "lip",
+		"audio": "ტუჩი.mp3"
+	},
+	{
+		"georgian": "მეოთხე",
+		"english": "fourth",
+		"audio": "მეოთხე.mp3"
+	},
+	{
+		"georgian": "პლასტმასი",
+		"english": "plastic",
+		"audio": "პლასტმასი.mp3"
+	},
+	{
+		"georgian": "ძვალი",
+		"english": "bone",
+		"audio": "ძვალი.mp3"
+	},
+	{
+		"georgian": "ხმა",
+		"english": "sound",
+		"audio": "ხმა.mp3"
+	},
+	{
+		"georgian": "ქალი",
+		"english": "woman",
+		"audio": "ქალი.mp3"
+	},
+	{
+		"georgian": "მაღაზია",
+		"english": "shop",
+		"audio": "მაღაზია.mp3"
+	},
+	{
+		"georgian": "გვერდი",
+		"english": "side",
+		"audio": "გვერდი.mp3"
+	},
+	{
+		"georgian": "სიზმარი, ოცნება",
+		"english": "dream",
+		"audio": "სიზმარი, ოცნება.mp3"
+	},
+	{
+		"georgian": "ხმა",
+		"english": "voice",
+		"audio": "ხმა.mp3"
+	},
+	{
+		"georgian": "წყალმცირე",
+		"english": "shallow",
+		"audio": "წყალმცირე.mp3"
+	},
+	{
+		"georgian": "მოკლე",
+		"english": "short",
+		"audio": "მოკლე.mp3"
+	},
+	{
+		"georgian": "ომი",
+		"english": "war",
+		"audio": "ომი.mp3"
+	},
+	{
+		"georgian": "სახე",
+		"english": "face",
+		"audio": "სახე.mp3"
+	},
+	{
+		"georgian": "ჩანთა",
+		"english": "a bag",
+		"audio": "ჩანთა.mp3"
+	},
+	{
+		"georgian": "წამალი",
+		"english": "drug",
+		"audio": "წამალი.mp3"
+	},
+	{
+		"georgian": "ფეხი",
+		"english": "leg",
+		"audio": "ფეხი.mp3"
+	},
+	{
+		"georgian": "ავად",
+		"english": "sick",
+		"audio": "ავად.mp3"
+	},
+	{
+		"georgian": "ქვა",
+		"english": "stone",
+		"audio": "ქვა.mp3"
+	},
+	{
+		"georgian": "ჯიბე",
+		"english": "pocket",
+		"audio": "ჯიბე.mp3"
+	},
+	{
+		"georgian": "ხმოვანი ბგერა",
+		"english": "vowel",
+		"audio": "ხმოვანი ბგერა.mp3"
+	},
+	{
+		"georgian": "პაციენტი",
+		"english": "a patient",
+		"audio": "პაციენტი.mp3"
+	},
+	{
+		"georgian": "სამწუხარო, მოწყენილი",
+		"english": "sad",
+		"audio": "სამწუხარო, მოწყენილი.mp3"
+	},
+	{
+		"georgian": "თავი",
+		"english": "head",
+		"audio": "თავი.mp3"
+	},
+	{
+		"georgian": "თეფში",
+		"english": "plate",
+		"audio": "თეფში.mp3"
+	},
+	{
+		"georgian": "თხუთმეტი",
+		"english": "fifteen",
+		"audio": "თხუთმეტი.mp3"
+	},
+	{
+		"georgian": "ტკივილი",
+		"english": "pain",
+		"audio": "ტკივილი.mp3"
+	},
+	{
+		"georgian": "სიმღერა",
+		"english": "song",
+		"audio": "სიმღერა.mp3"
+	},
+	{
+		"georgian": "რუკა",
+		"english": "map",
+		"audio": "რუკა.mp3"
+	},
+	{
+		"georgian": "კარგი",
+		"english": "good",
+		"audio": "კარგი.mp3"
+	},
+	{
+		"georgian": "მენეჯერი",
+		"english": "manager",
+		"audio": "მენეჯერი.mp3"
+	},
+	{
+		"georgian": "ხუთშაბათი",
+		"english": "Thursday",
+		"audio": "ხუთშაბათი.mp3"
+	},
+	{
+		"georgian": "მუსიკა",
+		"english": "music",
+		"audio": "მუსიკა.mp3"
+	},
+	{
+		"georgian": "თხილამურებით სრიალი",
+		"english": "skiing",
+		"audio": "თხილამურებით სრიალი.mp3"
+	},
+	{
+		"georgian": "ნემსი",
+		"english": "needle",
+		"audio": "ნემსი.mp3"
+	},
+	{
+		"georgian": "ბიბლიოთეკა",
+		"english": "library",
+		"audio": "ბიბლიოთეკა.mp3"
+	},
+	{
+		"georgian": "ისინი",
+		"english": "they",
+		"audio": "ისინი.mp3"
+	},
+	{
+		"georgian": "ათასი",
+		"english": "thousand",
+		"audio": "ათასი.mp3"
+	},
+	{
+		"georgian": "ოცი",
+		"english": "twenty",
+		"audio": "ოცი.mp3"
+	},
+	{
+		"georgian": "ოქტომბერი",
+		"english": "October",
+		"audio": "ოქტომბერი.mp3"
+	},
+	{
+		"georgian": "ახალი",
+		"english": "new",
+		"audio": "ახალი.mp3"
+	},
+	{
+		"georgian": "ღმერთი",
+		"english": "God",
+		"audio": "ღმერთი.mp3"
+	},
+	{
+		"georgian": "მთვარე",
+		"english": "moon",
+		"audio": "მთვარე.mp3"
+	},
+	{
+		"georgian": "კატა",
+		"english": "cat",
+		"audio": "კატა.mp3"
+	},
+	{
+		"georgian": "ხე",
+		"english": "tree",
+		"audio": "ხე.mp3"
+	},
+	{
+		"georgian": "ბუნება",
+		"english": "nature",
+		"audio": "ბუნება.mp3"
+	},
+	{
+		"georgian": "შაქარი",
+		"english": "sugar",
+		"audio": "შაქარი.mp3"
+	},
+	{
+		"georgian": "ჩაი",
+		"english": "tea",
+		"audio": "ჩაი.mp3"
+	},
+	{
+		"georgian": "დიდი",
+		"english": "big/large",
+		"audio": "დიდი.mp3"
+	},
+	{
+		"georgian": "მოხუცი (ახალგაზრდა)",
+		"english": "old (/young)",
+		"audio": "მოხუცი (ახალგაზრდა).mp3"
+	},
+	{
+		"georgian": "ტემპერატურა",
+		"english": "temperature",
+		"audio": "ტემპერატურა.mp3"
+	},
+	{
+		"georgian": "პირი",
+		"english": "mouth",
+		"audio": "პირი.mp3"
+	},
+	{
+		"georgian": "საპონი",
+		"english": "soap",
+		"audio": "საპონი.mp3"
+	},
+	{
+		"georgian": "გოგონა",
+		"english": "girl",
+		"audio": "გოგონა.mp3"
+	},
+	{
+		"georgian": "წერტილი",
+		"english": "dot",
+		"audio": "წერტილი.mp3"
+	},
+	{
+		"georgian": "ათი",
+		"english": "ten",
+		"audio": "ათი.mp3"
+	},
+	{
+		"georgian": "ვარსკვლავი",
+		"english": "star",
+		"audio": "ვარსკვლავი.mp3"
+	},
+	{
+		"georgian": "თოთხმეტი",
+		"english": "fourteen",
+		"audio": "თოთხმეტი.mp3"
+	},
+	{
+		"georgian": "მშრალი",
+		"english": "dry",
+		"audio": "მშრალი.mp3"
+	},
+	{
+		"georgian": "ვიწრო",
+		"english": "narrow",
+		"audio": "ვიწრო.mp3"
+	},
+	{
+		"georgian": "ხელშეკრულება",
+		"english": "contract",
+		"audio": "ხელშეკრულება.mp3"
+	},
+	{
+		"georgian": "ექიმი",
+		"english": "doctor",
+		"audio": "ექიმი.mp3"
+	},
+	{
+		"georgian": "მხატვარი",
+		"english": "artist",
+		"audio": "მხატვარი.mp3"
+	},
+	{
+		"georgian": "ღვინო",
+		"english": "wine",
+		"audio": "ღვინო.mp3"
+	},
+	{
+		"georgian": "ტალღა",
+		"english": "wave",
+		"audio": "ტალღა.mp3"
+	},
+	{
+		"georgian": "ზრდასრული",
+		"english": "adult",
+		"audio": "ზრდასრული.mp3"
+	},
+	{
+		"georgian": "ბაზარი",
+		"english": "market",
+		"audio": "ბაზარი.mp3"
+	},
+	{
+		"georgian": "რელიგია",
+		"english": "religion",
+		"audio": "რელიგია.mp3"
+	},
+	{
+		"georgian": "მარჯვენა",
+		"english": "right",
+		"audio": "მარჯვენა.mp3"
+	},
+	{
+		"georgian": "მყარი",
+		"english": "hard",
+		"audio": "მყარი.mp3"
+	},
+	{
+		"georgian": "ბაბუა",
+		"english": "grandfather",
+		"audio": "ბაბუა.mp3"
+	},
+	{
+		"georgian": "თექვსმეტი",
+		"english": "sixteen",
+		"audio": "თექვსმეტი.mp3"
+	},
+	{
+		"georgian": "ყური",
+		"english": "ear",
+		"audio": "ყური.mp3"
+	},
+	{
+		"georgian": "სექსი",
+		"english": "sex (the act)",
+		"audio": "სექსი.mp3"
+	},
+	{
+		"georgian": "ღორი",
+		"english": "pig",
+		"audio": "ღორი.mp3"
+	},
+	{
+		"georgian": "მდინარე",
+		"english": "river",
+		"audio": "მდინარე.mp3"
+	},
+	{
+		"georgian": "თეატრი",
+		"english": "theater",
+		"audio": "თეატრი.mp3"
+	},
+	{
+		"georgian": "ძაღლი",
+		"english": "dog",
+		"audio": "ძაღლი.mp3"
+	},
+	{
+		"georgian": "ქუჩა",
+		"english": "street",
+		"audio": "ქუჩა.mp3"
+	},
+	{
+		"georgian": "ბორცვი",
+		"english": "hill",
+		"audio": "ბორცვი.mp3"
+	},
+	{
+		"georgian": "ზამთარი",
+		"english": "winter",
+		"audio": "ზამთარი.mp3"
+	},
+	{
+		"georgian": "წვრილი",
+		"english": "thin",
+		"audio": "წვრილი.mp3"
+	},
+	{
+		"georgian": "თანხმოვანი",
+		"english": "consonant",
+		"audio": "თანხმოვანი.mp3"
+	},
+	{
+		"georgian": "ოცდაათი",
+		"english": "thirty",
+		"audio": "ოცდაათი.mp3"
+	},
+	{
+		"georgian": "ოცდაერთი",
+		"english": "twenty-one",
+		"audio": "ოცდაერთი.mp3"
+	},
+	{
+		"georgian": "წითელი",
+		"english": "red",
+		"audio": "წითელი.mp3"
+	},
+	{
+		"georgian": "ბინძური",
+		"english": "dirty",
+		"audio": "ბინძური.mp3"
+	},
+	{
+		"georgian": "ოკეანე",
+		"english": "ocean",
+		"audio": "ოკეანე.mp3"
+	},
+	{
+		"georgian": "და",
+		"english": "sister",
+		"audio": "და.mp3"
+	},
+	{
+		"georgian": "ბრბო",
+		"english": "crowd",
+		"audio": "ბრბო.mp3"
+	},
+	{
+		"georgian": "მოთამაშე",
+		"english": "player",
+		"audio": "მოთამაშე.mp3"
+	},
+	{
+		"georgian": "სასამართლო",
+		"english": "court",
+		"audio": "სასამართლო.mp3"
+	},
+	{
+		"georgian": "თვე",
+		"english": "month",
+		"audio": "თვე.mp3"
+	},
+	{
+		"georgian": "სითბო",
+		"english": "heat",
+		"audio": "სითბო.mp3"
+	},
+	{
+		"georgian": "სიკვდილი",
+		"english": "death",
+		"audio": "სიკვდილი.mp3"
+	},
+	{
+		"georgian": "ორი",
+		"english": "two",
+		"audio": "ორი.mp3"
+	},
+	{
+		"georgian": "სამყარო",
+		"english": "world",
+		"audio": "სამყარო.mp3"
+	},
+	{
+		"georgian": "სადილი",
+		"english": "lunch",
+		"audio": "სადილი.mp3"
+	},
+	{
+		"georgian": "ნაჭერი",
+		"english": "piece",
+		"audio": "ნაჭერი.mp3"
+	},
+	{
+		"georgian": "ოქრო",
+		"english": "gold",
+		"audio": "ოქრო.mp3"
+	},
+	{
+		"georgian": "ლიმონი",
+		"english": "lemon",
+		"audio": "ლიმონი.mp3"
+	},
+	{
+		"georgian": "ფანჯარა",
+		"english": "window",
+		"audio": "ფანჯარა.mp3"
+	},
+	{
+		"georgian": "სამუშაო ინსტრუმენტი",
+		"english": "tool",
+		"audio": "სამუშაო ინსტრუმენტი.mp3"
+	},
+	{
+		"georgian": "წვერი",
+		"english": "beard",
+		"audio": "წვერი.mp3"
+	},
+	{
+		"georgian": "ფოტოსურათი",
+		"english": "photograph",
+		"audio": "ფოტოსურათი.mp3"
+	},
+	{
+		"georgian": "შხამი",
+		"english": "poison",
+		"audio": "შხამი.mp3"
+	},
+	{
+		"georgian": "ქუდი",
+		"english": "hat",
+		"audio": "ქუდი.mp3"
+	},
+	{
+		"georgian": "ღრმა",
+		"english": "deep",
+		"audio": "ღრმა.mp3"
+	},
+	{
+		"georgian": "მეზობელი",
+		"english": "neighbour",
+		"audio": "მეზობელი.mp3"
+	},
+	{
+		"georgian": "მიმართულება",
+		"english": "direction",
+		"audio": "მიმართულება.mp3"
+	},
+	{
+		"georgian": "პოლიცია",
+		"english": "police",
+		"audio": "პოლიცია.mp3"
+	},
+	{
+		"georgian": "ბანანი",
+		"english": "banana",
+		"audio": "ბანანი.mp3"
+	},
+	{
+		"georgian": "მამა",
+		"english": "father",
+		"audio": "მამა.mp3"
+	},
+	{
+		"georgian": "ცამეტი",
+		"english": "thirteen",
+		"audio": "ცამეტი.mp3"
+	},
+	{
+		"georgian": "მწვერვალი",
+		"english": "top",
+		"audio": "მწვერვალი.mp3"
+	},
+	{
+		"georgian": "ტყე",
+		"english": "forest",
+		"audio": "ტყე.mp3"
+	},
+	{
+		"georgian": "ქსელი",
+		"english": "network",
+		"audio": "ქსელი.mp3"
+	},
+	{
+		"georgian": "წელიწადი",
+		"english": "year",
+		"audio": "წელიწადი.mp3"
+	},
+	{
+		"georgian": "ღამე",
+		"english": "night",
+		"audio": "ღამე.mp3"
+	},
+	{
+		"georgian": "დილა",
+		"english": "morning",
+		"audio": "დილა.mp3"
+	},
+	{
+		"georgian": "მასწავლებელი",
+		"english": "teacher",
+		"audio": "მასწავლებელი.mp3"
+	},
+	{
+		"georgian": "პიჯაკი",
+		"english": "coat",
+		"audio": "პიჯაკი.mp3"
+	},
+	{
+		"georgian": "პლაჟი",
+		"english": "beach",
+		"audio": "პლაჟი.mp3"
+	},
+	{
+		"georgian": "ბენზინი",
+		"english": "gasoline",
+		"audio": "ბენზინი.mp3"
+	},
+	{
+		"georgian": "ოჯახი",
+		"english": "family",
+		"audio": "ოჯახი.mp3"
+	},
+	{
+		"georgian": "სკამი",
+		"english": "chair",
+		"audio": "სკამი.mp3"
+	},
+	{
+		"georgian": "ტანსაცმელი",
+		"english": "clothing",
+		"audio": "ტანსაცმელი.mp3"
+	},
+	{
+		"georgian": "კვირა",
+		"english": "week",
+		"audio": "კვირა.mp3"
+	},
+	{
+		"georgian": "მთა",
+		"english": "mountain",
+		"audio": "მთა.mp3"
+	},
+	{
+		"georgian": "მცენარე",
+		"english": "plant",
+		"audio": "მცენარე.mp3"
+	},
+	{
+		"georgian": "მატარებელი",
+		"english": "train",
+		"audio": "მატარებელი.mp3"
+	},
+	{
+		"georgian": "პარასკევი",
+		"english": "Friday",
+		"audio": "პარასკევი.mp3"
+	},
+	{
+		"georgian": "წყნარი",
+		"english": "quiet",
+		"audio": "წყნარი.mp3"
+	},
+	{
+		"georgian": "ძროხა",
+		"english": "cow",
+		"audio": "ძროხა.mp3"
+	},
+	{
+		"georgian": "ქორწილი",
+		"english": "wedding",
+		"audio": "ქორწილი.mp3"
+	},
+	{
+		"georgian": "ნიმუში",
+		"english": "pattern",
+		"audio": "ნიმუში.mp3"
+	},
+	{
+		"georgian": "მტვერი",
+		"english": "dust",
+		"audio": "მტვერი.mp3"
+	},
+	{
+		"georgian": "ყველი",
+		"english": "cheese",
+		"audio": "ყველი.mp3"
+	},
+	{
+		"georgian": "ოფიციანტი",
+		"english": "waiter",
+		"audio": "ოფიციანტი.mp3"
+	},
+	{
+		"georgian": "მდივანი",
+		"english": "secretary",
+		"audio": "მდივანი.mp3"
+	},
+	{
+		"georgian": "ფართო",
+		"english": "wide",
+		"audio": "ფართო.mp3"
+	},
+	{
+		"georgian": "ყინული",
+		"english": "ice",
+		"audio": "ყინული.mp3"
+	},
+	{
+		"georgian": "ყვითელი",
+		"english": "yellow",
+		"audio": "ყვითელი.mp3"
+	},
+	{
+		"georgian": "ელექტრონიკა",
+		"english": "electronics",
+		"audio": "ელექტრონიკა.mp3"
+	},
+	{
+		"georgian": "მჭიდრო",
+		"english": "tight",
+		"audio": "მჭიდრო.mp3"
+	},
+	{
+		"georgian": "ჩანგალი",
+		"english": "fork",
+		"audio": "ჩანგალი.mp3"
+	},
+	{
+		"georgian": "უნივერსიტეტი",
+		"english": "university",
+		"audio": "უნივერსიტეტი.mp3"
+	},
+	{
+		"georgian": "სამზარეულო",
+		"english": "kitchen",
+		"audio": "სამზარეულო.mp3"
+	},
+	{
+		"georgian": "ტვინი",
+		"english": "brain",
+		"audio": "ტვინი.mp3"
+	},
+	{
+		"georgian": "რეპორტიორი",
+		"english": "reporter",
+		"audio": "რეპორტიორი.mp3"
+	},
+	{
+		"georgian": "ჟურნალი",
+		"english": "magazine",
+		"audio": "ჟურნალი.mp3"
+	},
+	{
+		"georgian": "წყალი",
+		"english": "water",
+		"audio": "წყალი.mp3"
+	},
+	{
+		"georgian": "ჭერი",
+		"english": "ceiling",
+		"audio": "ჭერი.mp3"
+	},
+	{
+		"georgian": "სუსტი",
+		"english": "weak",
+		"audio": "სუსტი.mp3"
+	},
+	{
+		"georgian": "მრუდხაზიანი",
+		"english": "curved",
+		"audio": "მრუდხაზიანი.mp3"
+	},
+	{
+		"georgian": "საუზმე",
+		"english": "breakfast",
+		"audio": "საუზმე.mp3"
+	},
+	{
+		"georgian": "სისხლი",
+		"english": "blood",
+		"audio": "სისხლი.mp3"
+	},
+	{
+		"georgian": "თამაში",
+		"english": "game",
+		"audio": "თამაში.mp3"
+	},
+	{
+		"georgian": "მანქანა",
+		"english": "car",
+		"audio": "მანქანა.mp3"
+	},
+	{
+		"georgian": "გრძელი",
+		"english": "long",
+		"audio": "გრძელი.mp3"
+	},
+	{
+		"georgian": "სამოცი",
+		"english": "sixty",
+		"audio": "სამოცი.mp3"
+	},
+	{
+		"georgian": "შარვალი",
+		"english": "trousers",
+		"audio": "შარვალი.mp3"
+	},
+	{
+		"georgian": "ის",
+		"english": "she/he/it",
+		"audio": "ის.mp3"
+	},
+	{
+		"georgian": "მეტრი",
+		"english": "meter",
+		"audio": "მეტრი.mp3"
+	},
+	{
+		"georgian": "ახალგაზრდა",
+		"english": "young",
+		"audio": "ახალგაზრდა.mp3"
+	},
+	{
+		"georgian": "ტანისამოსი",
+		"english": "dress",
+		"audio": "ტანისამოსი.mp3"
+	},
+	{
+		"georgian": "კარი",
+		"english": "door",
+		"audio": "კარი.mp3"
+	},
+	{
+		"georgian": "ფერი",
+		"english": "colour",
+		"audio": "ფერი.mp3"
+	},
+	{
+		"georgian": "ტელევიზია",
+		"english": "television",
+		"audio": "ტელევიზია.mp3"
+	},
+	{
+		"georgian": "გუნდი",
+		"english": "team",
+		"audio": "გუნდი.mp3"
+	},
+	{
+		"georgian": "გასაღები",
+		"english": "key",
+		"audio": "გასაღები.mp3"
+	},
+	{
+		"georgian": "ყვავილი",
+		"english": "flower",
+		"audio": "ყვავილი.mp3"
+	},
+	{
+		"georgian": "light (/heavy)",
+		"english": "მსუბუქი (მძიმე)",
+		"audio": "light (.mp3"
+	},
+	{
+		"georgian": "განთავისუფლება",
+		"english": "loose",
+		"audio": "განთავისუფლება.mp3"
+	},
+	{
+		"georgian": "დაავადება",
+		"english": "disease",
+		"audio": "დაავადება.mp3"
+	},
+	{
+		"georgian": "სამოცდაათი",
+		"english": "seventy",
+		"audio": "სამოცდაათი.mp3"
+	},
+	{
+		"georgian": "ოთახი",
+		"english": "room",
+		"audio": "ოთახი.mp3"
+	},
+	{
+		"georgian": "ჩიტი",
+		"english": "bird",
+		"audio": "ჩიტი.mp3"
+	},
+	{
+		"georgian": "ძვირი",
+		"english": "expensive",
+		"audio": "ძვირი.mp3"
+	},
+	{
+		"georgian": "ყავა",
+		"english": "coffee",
+		"audio": "ყავა.mp3"
+	},
+	{
+		"georgian": "ნავი",
+		"english": "boat",
+		"audio": "ნავი.mp3"
+	},
+	{
+		"georgian": "კალამი",
+		"english": "pen",
+		"audio": "კალამი.mp3"
+	},
+	{
+		"georgian": "სუფთა",
+		"english": "clean",
+		"audio": "სუფთა.mp3"
+	},
+	{
+		"georgian": "თაგვი",
+		"english": "mouse",
+		"audio": "თაგვი.mp3"
+	},
+	{
+		"georgian": "კუნძული",
+		"english": "island",
+		"audio": "კუნძული.mp3"
+	},
+	{
+		"georgian": "პირდაპირი",
+		"english": "straight",
+		"audio": "პირდაპირი.mp3"
+	},
+	{
+		"georgian": "ცეცხლი",
+		"english": "fire",
+		"audio": "ცეცხლი.mp3"
+	},
+	{
+		"georgian": "წვიმა",
+		"english": "rain",
+		"audio": "წვიმა.mp3"
+	},
+	{
+		"georgian": "ზაფხული",
+		"english": "summer",
+		"audio": "ზაფხული.mp3"
+	},
+	{
+		"georgian": "ხეობა",
+		"english": "valley",
+		"audio": "ხეობა.mp3"
+	},
+	{
+		"georgian": "ყავისფერი",
+		"english": "brown",
+		"audio": "ყავისფერი.mp3"
+	},
+	{
+		"georgian": "საწოლი",
+		"english": "bed",
+		"audio": "საწოლი.mp3"
+	},
+	{
+		"georgian": "დანა",
+		"english": "knife",
+		"audio": "დანა.mp3"
+	},
+	{
+		"georgian": "გაზაფხული",
+		"english": "spring",
+		"audio": "გაზაფხული.mp3"
+	},
+	{
+		"georgian": "მკლავი",
+		"english": "arm",
+		"audio": "მკლავი.mp3"
+	},
+	{
+		"georgian": "ქორწინება",
+		"english": "marriage",
+		"audio": "ქორწინება.mp3"
+	},
+	{
+		"georgian": "ცრემლი",
+		"english": "tear",
+		"audio": "ცრემლი.mp3"
+	},
+	{
+		"georgian": "სამსახური",
+		"english": "job",
+		"audio": "სამსახური.mp3"
+	},
+	{
+		"georgian": "ექვსი",
+		"english": "six",
+		"audio": "ექვსი.mp3"
+	},
+	{
+		"georgian": "ტექნოლოგია",
+		"english": "technology",
+		"audio": "ტექნოლოგია.mp3"
+	},
+	{
+		"georgian": "ბაღი",
+		"english": "garden",
+		"audio": "ბაღი.mp3"
+	},
+	{
+		"georgian": "მეურნეობა",
+		"english": "farm",
+		"audio": "მეურნეობა.mp3"
+	},
+	{
+		"georgian": "კილოგრამი",
+		"english": "kilogram",
+		"audio": "კილოგრამი.mp3"
+	},
+	{
+		"georgian": "თეთრი",
+		"english": "white",
+		"audio": "თეთრი.mp3"
+	},
+	{
+		"georgian": "რადიო",
+		"english": "radio",
+		"audio": "რადიო.mp3"
+	},
+	{
+		"georgian": "დედა",
+		"english": "mother",
+		"audio": "დედა.mp3"
+	},
+	{
+		"georgian": "ნიშანი",
+		"english": "sign",
+		"audio": "ნიშანი.mp3"
+	},
+	{
+		"georgian": "ფანქარი",
+		"english": "pencil",
+		"audio": "ფანქარი.mp3"
+	},
+	{
+		"georgian": "ცხრამეტი",
+		"english": "nineteen",
+		"audio": "ცხრამეტი.mp3"
+	},
+	{
+		"georgian": "ივნისი",
+		"english": "June",
+		"audio": "ივნისი.mp3"
+	},
+	{
+		"georgian": "მუხლი",
+		"english": "knee",
+		"audio": "მუხლი.mp3"
+	},
+	{
+		"georgian": "სააბაზანო",
+		"english": "bathroom",
+		"audio": "სააბაზანო.mp3"
+	},
+	{
+		"georgian": "დედოფალი",
+		"english": "queen",
+		"audio": "დედოფალი.mp3"
+	},
+	{
+		"georgian": "ფორთოხლის ფერი",
+		"english": "orange (colour)",
+		"audio": "ფორთოხლის ფერი.mp3"
+	},
+	{
+		"georgian": "ქალიშვილი",
+		"english": "daughter",
+		"audio": "ქალიშვილი.mp3"
+	},
+	{
+		"georgian": "პარკი",
+		"english": "park",
+		"audio": "პარკი.mp3"
+	},
+	{
+		"georgian": "კვერცხი",
+		"english": "egg",
+		"audio": "კვერცხი.mp3"
+	},
+	{
+		"georgian": "სივრცე, ფართი",
+		"english": "space",
+		"audio": "სივრცე, ფართი.mp3"
+	},
+	{
+		"georgian": "დიახ, კი, ჰო",
+		"english": "yes",
+		"audio": "დიახ, კი, ჰო.mp3"
+	},
+	{
+		"georgian": "ბნელი",
+		"english": "dark",
+		"audio": "ბნელი.mp3"
+	},
+	{
+		"georgian": "დეკემბერი",
+		"english": "December",
+		"audio": "დეკემბერი.mp3"
+	},
+	{
+		"georgian": "სპორტი",
+		"english": "sport",
+		"audio": "სპორტი.mp3"
+	},
+	{
+		"georgian": "რიცხვი",
+		"english": "number",
+		"audio": "რიცხვი.mp3"
+	},
+	{
+		"georgian": "ქვეყანა",
+		"english": "country",
+		"audio": "ქვეყანა.mp3"
+	},
+	{
+		"georgian": "ხმამაღალი",
+		"english": "loud",
+		"audio": "ხმამაღალი.mp3"
+	},
+	{
+		"georgian": "ფეხის თითი",
+		"english": "toe",
+		"audio": "ფეხის თითი.mp3"
+	},
+	{
+		"georgian": "fan",
+		"english": "გულშემატკივარი",
+		"audio": "fan.mp3"
+	},
+	{
+		"georgian": "ბილეთი",
+		"english": "ticket",
+		"audio": "ბილეთი.mp3"
+	},
+	{
+		"georgian": "სკოლა",
+		"english": "school",
+		"audio": "სკოლა.mp3"
+	},
+	{
+		"georgian": "ბრტყელი",
+		"english": "flat (adjective)",
+		"audio": "ბრტყელი.mp3"
+	},
+	{
+		"georgian": "რბილი",
+		"english": "soft",
+		"audio": "რბილი.mp3"
+	},
+	{
+		"georgian": "ფოტოაპარატი",
+		"english": "camera",
+		"audio": "ფოტოაპარატი.mp3"
+	},
+	{
+		"georgian": "ვაშლი",
+		"english": "apple",
+		"audio": "ვაშლი.mp3"
+	},
+	{
+		"georgian": "ბოთლი",
+		"english": "bottle",
+		"audio": "ბოთლი.mp3"
+	},
+	{
+		"georgian": "აგვისტო",
+		"english": "August",
+		"audio": "აგვისტო.mp3"
+	},
+	{
+		"georgian": "კაცი",
+		"english": "man",
+		"audio": "კაცი.mp3"
+	},
+	{
+		"georgian": "რასა",
+		"english": "race",
+		"audio": "რასა.mp3"
+	},
+	{
+		"georgian": "სპილენძი",
+		"english": "copper",
+		"audio": "სპილენძი.mp3"
+	},
+	{
+		"georgian": "ბედნიერი",
+		"english": "happy",
+		"audio": "ბედნიერი.mp3"
+	},
+	{
+		"georgian": "ჯოჯოხეთი",
+		"english": "hell",
+		"audio": "ჯოჯოხეთი.mp3"
+	},
+	{
+		"georgian": "მასალა",
+		"english": "material",
+		"audio": "მასალა.mp3"
+	},
+	{
+		"georgian": "ყრუ",
+		"english": "deaf",
+		"audio": "ყრუ.mp3"
+	},
+	{
+		"georgian": "ოფისი",
+		"english": "office",
+		"audio": "ოფისი.mp3"
+	},
+	{
+		"georgian": "ფრთა",
+		"english": "wing",
+		"audio": "ფრთა.mp3"
+	},
+	{
+		"georgian": "ჯგუფი, ბენდი",
+		"english": "band (music)",
+		"audio": "ჯგუფი, ბენდი.mp3"
+	},
+	{
+		"georgian": "ღარიბი",
+		"english": "poor",
+		"audio": "ღარიბი.mp3"
+	},
+	{
+		"georgian": "რვა",
+		"english": "eight",
+		"audio": "რვა.mp3"
+	},
+	{
+		"georgian": "ცოცხალი",
+		"english": "alive",
+		"audio": "ცოცხალი.mp3"
+	},
+	{
+		"georgian": "ზევით",
+		"english": "up",
+		"audio": "ზევით.mp3"
+	},
+	{
+		"georgian": "დღე",
+		"english": "day",
+		"audio": "დღე.mp3"
+	},
+	{
+		"georgian": "წუთი",
+		"english": "minute",
+		"audio": "წუთი.mp3"
+	},
+	{
+		"georgian": "ავტობუსი",
+		"english": "bus",
+		"audio": "ავტობუსი.mp3"
+	},
+	{
+		"georgian": "მშობლები",
+		"english": "parents",
+		"audio": "მშობლები.mp3"
+	},
+	{
+		"georgian": "კედელი",
+		"english": "wall",
+		"audio": "კედელი.mp3"
+	},
+	{
+		"georgian": "შავი",
+		"english": "black",
+		"audio": "შავი.mp3"
+	},
+	{
+		"georgian": "ნახევარი",
+		"english": "half",
+		"audio": "ნახევარი.mp3"
+	},
+	{
+		"georgian": "თარიღი",
+		"english": "date",
+		"audio": "თარიღი.mp3"
+	},
+	{
+		"georgian": "ჩვენ",
+		"english": "we",
+		"audio": "ჩვენ.mp3"
+	},
+	{
+		"georgian": "მაგიდა",
+		"english": "table",
+		"audio": "მაგიდა.mp3"
+	},
+	{
+		"georgian": "იარაღი",
+		"english": "gun",
+		"audio": "იარაღი.mp3"
+	},
+	{
+		"georgian": "ფინჯანი",
+		"english": "cup",
+		"audio": "ფინჯანი.mp3"
+	},
+	{
+		"georgian": "ქვიშა",
+		"english": "sand",
+		"audio": "ქვიშა.mp3"
+	},
+	{
+		"georgian": "თვრამეტი",
+		"english": "eighteen",
+		"audio": "თვრამეტი.mp3"
+	},
+	{
+		"georgian": "ძირი",
+		"english": "bottom",
+		"audio": "ძირი.mp3"
+	},
+	{
+		"georgian": "წიგნი",
+		"english": "book",
+		"audio": "წიგნი.mp3"
+	},
+	{
+		"georgian": "მძიმე",
+		"english": "heavy",
+		"audio": "მძიმე.mp3"
+	},
+	{
+		"georgian": "პერანგი",
+		"english": "shirt",
+		"audio": "პერანგი.mp3"
+	},
+	{
+		"georgian": "შემოდგომა",
+		"english": "autumn",
+		"audio": "შემოდგომა.mp3"
+	},
+	{
+		"georgian": "ფოთოლი",
+		"english": "leaf",
+		"audio": "ფოთოლი.mp3"
+	},
+	{
+		"georgian": "ფასი",
+		"english": "price",
+		"audio": "ფასი.mp3"
+	},
+	{
+		"georgian": "ბანაკი",
+		"english": "camp",
+		"audio": "ბანაკი.mp3"
+	},
+	{
+		"georgian": "კლუბი",
+		"english": "club",
+		"audio": "კლუბი.mp3"
+	},
+	{
+		"georgian": "კვადრატი",
+		"english": "square",
+		"audio": "კვადრატი.mp3"
+	},
+	{
+		"georgian": "ნიშნავს",
+		"english": "mean",
+		"audio": "ნიშნავს.mp3"
+	},
+	{
+		"georgian": "მეგობარი",
+		"english": "friend",
+		"audio": "მეგობარი.mp3"
+	},
+	{
+		"georgian": "ფესვი",
+		"english": "root",
+		"audio": "ფესვი.mp3"
+	},
+	{
+		"georgian": "აეროპორტი",
+		"english": "airport",
+		"audio": "აეროპორტი.mp3"
+	},
+	{
+		"georgian": "მეორე",
+		"english": "second",
+		"audio": "მეორე.mp3"
+	},
+	{
+		"georgian": "მინა",
+		"english": "glass",
+		"audio": "მინა.mp3"
+	},
+	{
+		"georgian": "რესტორანი",
+		"english": "restaurant",
+		"audio": "რესტორანი.mp3"
+	},
+	{
+		"georgian": "მკვდარი",
+		"english": "dead",
+		"audio": "მკვდარი.mp3"
+	},
+	{
+		"georgian": "თმა",
+		"english": "hair",
+		"audio": "თმა.mp3"
+	},
+	{
+		"georgian": "ბიჭი",
+		"english": "boy",
+		"audio": "ბიჭი.mp3"
+	},
+	{
+		"georgian": "მე",
+		"english": "I",
+		"audio": "მე.mp3"
+	},
+	{
+		"georgian": "მესამე",
+		"english": "third",
+		"audio": "მესამე.mp3"
+	},
+	{
+		"georgian": "sex (gender)",
+		"english": "სქესი",
+		"audio": "sex (gender).mp3"
+	},
+	{
+		"georgian": "ლამპა",
+		"english": "lamp",
+		"audio": "ლამპა.mp3"
+	},
+	{
+		"georgian": "ჯანმრთელი",
+		"english": "healthy",
+		"audio": "ჯანმრთელი.mp3"
+	},
+	{
+		"georgian": "შვიდი",
+		"english": "seven",
+		"audio": "შვიდი.mp3"
+	},
+	{
+		"georgian": "ბალახი",
+		"english": "grass",
+		"audio": "ბალახი.mp3"
+	},
+	{
+		"georgian": "კბილი",
+		"english": "tooth",
+		"audio": "კბილი.mp3"
+	},
+	{
+		"georgian": "ნელი",
+		"english": "slow",
+		"audio": "ნელი.mp3"
+	},
+	{
+		"georgian": "ენა",
+		"english": "tongue, language",
+		"audio": "ენა.mp3"
+	},
+	{
+		"georgian": "old (/new)",
+		"english": "ძველი [ახალი]",
+		"audio": "old (.mp3"
+	},
+	{
+		"georgian": "პური",
+		"english": "bread",
+		"audio": "პური.mp3"
+	},
+	{
+		"georgian": "ოთხმოცდაათი",
+		"english": "ninety",
+		"audio": "ოთხმოცდაათი.mp3"
+	},
+	{
+		"georgian": "მწვანე",
+		"english": "green",
+		"audio": "მწვანე.mp3"
+	},
+	{
+		"georgian": "ის",
+		"english": "it/she/he",
+		"audio": "ის.mp3"
+	},
+	{
+		"georgian": "სატვირთო მანქანა",
+		"english": "truck",
+		"audio": "სატვირთო მანქანა.mp3"
+	},
+	{
+		"georgian": "სახურავი",
+		"english": "roof",
+		"audio": "სახურავი.mp3"
+	},
+	{
+		"georgian": "სურათი, გამოსახულება",
+		"english": "image",
+		"audio": "სურათი, გამოსახულება.mp3"
+	},
+	{
+		"georgian": "ცნობილი",
+		"english": "famous",
+		"audio": "ცნობილი.mp3"
+	},
+	{
+		"georgian": "იაფი",
+		"english": "cheap",
+		"audio": "იაფი.mp3"
+	},
+	{
+		"georgian": "მაისი",
+		"english": "May",
+		"audio": "მაისი.mp3"
+	},
+	{
+		"georgian": "ცხვირი",
+		"english": "nose",
+		"audio": "ცხვირი.mp3"
+	},
+	{
+		"georgian": "მხარი",
+		"english": "shoulder",
+		"audio": "მხარი.mp3"
+	},
+	{
+		"georgian": "მატარებლის სადგური",
+		"english": "train station",
+		"audio": "მატარებლის სადგური.mp3"
+	},
+	{
+		"georgian": "კუთხე",
+		"english": "corner",
+		"audio": "კუთხე.mp3"
+	},
+	{
+		"georgian": "იერიში",
+		"english": "an attack",
+		"audio": "იერიში.mp3"
+	},
+	{
+		"georgian": "მამრობითი სქესი",
+		"english": "male",
+		"audio": "მამრობითი სქესი.mp3"
+	},
+	{
+		"georgian": "ზეთი",
+		"english": "oil",
+		"audio": "ზეთი.mp3"
+	},
+	{
+		"georgian": "თიხა",
+		"english": "clay",
+		"audio": "თიხა.mp3"
+	},
+	{
+		"georgian": "კისერი",
+		"english": "neck",
+		"audio": "კისერი.mp3"
+	},
+	{
+		"georgian": "მეცნიერება",
+		"english": "science",
+		"audio": "მეცნიერება.mp3"
+	},
+	{
+		"georgian": "გული",
+		"english": "heart",
+		"audio": "გული.mp3"
+	},
+	{
+		"georgian": "ძირს",
+		"english": "down",
+		"audio": "ძირს.mp3"
+	},
+	{
+		"georgian": "ნიადაგი",
+		"english": "soil",
+		"audio": "ნიადაგი.mp3"
+	},
+	{
+		"georgian": "ბრილიანტი",
+		"english": "diamond",
+		"audio": "ბრილიანტი.mp3"
+	},
+	{
+		"georgian": "სექტემბერი",
+		"english": "September",
+		"audio": "სექტემბერი.mp3"
+	},
+	{
+		"georgian": "სახლი",
+		"english": "house",
+		"audio": "სახლი.mp3"
+	},
+	{
+		"georgian": "აღმოსავლეთი",
+		"english": "east",
+		"audio": "აღმოსავლეთი.mp3"
+	},
+	{
+		"georgian": "ძრავა",
+		"english": "engine",
+		"audio": "ძრავა.mp3"
+	},
+	{
+		"georgian": "შაბათი",
+		"english": "Saturday",
+		"audio": "შაბათი.mp3"
+	},
+	{
+		"georgian": "ვარჯიში, სავარჯიშო",
+		"english": "exercise",
+		"audio": "ვარჯიში, სავარჯიშო.mp3"
+	},
+	{
+		"georgian": "პრეზიდენტი",
+		"english": "president",
+		"audio": "პრეზიდენტი.mp3"
+	},
+	{
+		"georgian": "მარილი",
+		"english": "salt",
+		"audio": "მარილი.mp3"
+	},
+	{
+		"georgian": "ფილმი",
+		"english": "movie",
+		"audio": "ფილმი.mp3"
+	},
+	{
+		"georgian": "სტუდენტი",
+		"english": "student",
+		"audio": "სტუდენტი.mp3"
+	},
+	{
+		"georgian": "საღებავი (ხატვა)",
+		"english": "paint (to paint)",
+		"audio": "საღებავი (ხატვა).mp3"
+	},
+	{
+		"georgian": "ასო",
+		"english": "letter",
+		"audio": "ასო.mp3"
+	},
+	{
+		"georgian": "ფორთოხალი",
+		"english": "orange (fruit)",
+		"audio": "ფორთოხალი.mp3"
+	},
+	{
+		"georgian": "ტელეფონი",
+		"english": "telephone",
+		"audio": "ტელეფონი.mp3"
+	},
+	{
+		"georgian": "ბარათი",
+		"english": "card",
+		"audio": "ბარათი.mp3"
+	},
+	{
+		"georgian": "ნული",
+		"english": "zero",
+		"audio": "ნული.mp3"
+	},
+	{
+		"georgian": "ბინა",
+		"english": "apartment",
+		"audio": "ბინა.mp3"
+	},
+	{
+		"georgian": "მშვიდობა",
+		"english": "peace",
+		"audio": "მშვიდობა.mp3"
+	},
+	{
+		"georgian": "ზედსართავი სახელი",
+		"english": "adjective",
+		"audio": "ზედსართავი სახელი.mp3"
+	},
+	{
+		"georgian": "ასი",
+		"english": "hundred",
+		"audio": "ასი.mp3"
+	},
+	{
+		"georgian": "ფეხსაცმელი",
+		"english": "shoes",
+		"audio": "ფეხსაცმელი.mp3"
+	},
+	{
+		"georgian": "ენერგია",
+		"english": "energy",
+		"audio": "ენერგია.mp3"
+	},
+	{
+		"georgian": "შიგნით",
+		"english": "inside",
+		"audio": "შიგნით.mp3"
+	},
+	{
+		"georgian": "ცხრა",
+		"english": "nine",
+		"audio": "ცხრა.mp3"
+	},
+	{
+		"georgian": "ჭუჭრუტანა",
+		"english": "hole",
+		"audio": "ჭუჭრუტანა.mp3"
+	},
+	{
+		"georgian": "მაისური",
+		"english": "t-shirt",
+		"audio": "მაისური.mp3"
+	},
+	{
+		"georgian": "გზა",
+		"english": "road",
+		"audio": "გზა.mp3"
+	}
+]

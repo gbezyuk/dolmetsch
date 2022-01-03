@@ -1,0 +1,2672 @@
+[
+	{
+		"georgian": "ერთი",
+		"english": "one",
+		"audio": "ერთი.mp3"
+	},
+	{
+		"georgian": "ორი",
+		"english": "two",
+		"audio": "ორი.mp3"
+	},
+	{
+		"georgian": "სამი",
+		"english": "three",
+		"audio": "სამი.mp3"
+	},
+	{
+		"georgian": "ოთხი",
+		"english": "four",
+		"audio": "ოთხი.mp3"
+	},
+	{
+		"georgian": "ხუთი",
+		"english": "five",
+		"audio": "ხუთი.mp3"
+	},
+	{
+		"georgian": "ექვსი",
+		"english": "six",
+		"audio": "ექვსი.mp3"
+	},
+	{
+		"georgian": "შვიდი",
+		"english": "seven",
+		"audio": "შვიდი.mp3"
+	},
+	{
+		"georgian": "რვა",
+		"english": "eight",
+		"audio": "რვა.mp3"
+	},
+	{
+		"georgian": "ცხრა",
+		"english": "nine",
+		"audio": "ცხრა.mp3"
+	},
+	{
+		"georgian": "ათი",
+		"english": "ten",
+		"audio": "ათი.mp3"
+	},
+	{
+		"georgian": "თერთმეტი",
+		"english": "eleven",
+		"audio": "თერთმეტი.mp3"
+	},
+	{
+		"georgian": "თორმეტი",
+		"english": "twelve",
+		"audio": "თორმეტი.mp3"
+	},
+	{
+		"georgian": "ცამეტი",
+		"english": "thirteen",
+		"audio": "ცამეტი.mp3"
+	},
+	{
+		"georgian": "თოთხმეტი",
+		"english": "fourteen",
+		"audio": "თოთხმეტი.mp3"
+	},
+	{
+		"georgian": "თხუთმეტი",
+		"english": "fifteen",
+		"audio": "თხუთმეტი.mp3"
+	},
+	{
+		"georgian": "თექვსმეტი",
+		"english": "sixteen",
+		"audio": "თექვსმეტი.mp3"
+	},
+	{
+		"georgian": "ჩვიდმეტი",
+		"english": "seventeen",
+		"audio": "ჩვიდმეტი.mp3"
+	},
+	{
+		"georgian": "თვრამეტი",
+		"english": "eighteen",
+		"audio": "თვრამეტი.mp3"
+	},
+	{
+		"georgian": "ცხრამეტი",
+		"english": "nineteen",
+		"audio": "ცხრამეტი.mp3"
+	},
+	{
+		"georgian": "ოცი",
+		"english": "twenty",
+		"audio": "ოცი.mp3"
+	},
+	{
+		"georgian": "ოცდაერთი",
+		"english": "twenty-one",
+		"audio": "ოცდაერთი.mp3"
+	},
+	{
+		"georgian": "ორმოცი",
+		"english": "forty",
+		"audio": "ორმოცი.mp3"
+	},
+	{
+		"georgian": "ორმოცდაერთი",
+		"english": "forty-one",
+		"audio": "ორმოცდაერთი.mp3"
+	},
+	{
+		"georgian": "სამოცი",
+		"english": "sixty",
+		"audio": "სამოცი.mp3"
+	},
+	{
+		"georgian": "ოთხმოცი",
+		"english": "eighty",
+		"audio": "ოთხმოცი.mp3"
+	},
+	{
+		"georgian": "ასი",
+		"english": "hundred",
+		"audio": "ასი.mp3"
+	},
+	{
+		"georgian": "ათასი",
+		"english": "thousand",
+		"audio": "ათასი.mp3"
+	},
+	{
+		"georgian": "რომელი საათია",
+		"english": "What time is it?",
+		"audio": "რომელი საათია.mp3"
+	},
+	{
+		"georgian": "ოთხი საათია",
+		"english": "It's four o'clock",
+		"audio": "ოთხი საათია.mp3"
+	},
+	{
+		"georgian": "შვიდი საათია",
+		"english": "It's seven o'clock",
+		"audio": "შვიდი საათია.mp3"
+	},
+	{
+		"georgian": "ცხრა საათია",
+		"english": "It's nine o'clock",
+		"audio": "ცხრა საათია.mp3"
+	},
+	{
+		"georgian": "ორშაბათი",
+		"english": "Monday",
+		"audio": "ორშაბათი.mp3"
+	},
+	{
+		"georgian": "სამშაბათი",
+		"english": "Tuesday",
+		"audio": "სამშაბათი.mp3"
+	},
+	{
+		"georgian": "ოთხშაბათი",
+		"english": "Wednesday",
+		"audio": "ოთხშაბათი.mp3"
+	},
+	{
+		"georgian": "ხუთშაბათი",
+		"english": "Thursday",
+		"audio": "ხუთშაბათი.mp3"
+	},
+	{
+		"georgian": "პარასკევი",
+		"english": "Friday",
+		"audio": "პარასკევი.mp3"
+	},
+	{
+		"georgian": "შაბათი",
+		"english": "Saturday",
+		"audio": "შაბათი.mp3"
+	},
+	{
+		"georgian": "კვირა",
+		"english": "Sunday",
+		"audio": "კვირა.mp3"
+	},
+	{
+		"georgian": "დილა",
+		"english": "morning",
+		"audio": "დილა.mp3"
+	},
+	{
+		"georgian": "დილას",
+		"english": "in the morning",
+		"audio": "დილას.mp3"
+	},
+	{
+		"georgian": "დღე",
+		"english": "day",
+		"audio": "დღე.mp3"
+	},
+	{
+		"georgian": "დღეს",
+		"english": "today",
+		"audio": "დღეს.mp3"
+	},
+	{
+		"georgian": "საღამო",
+		"english": "evening",
+		"audio": "საღამო.mp3"
+	},
+	{
+		"georgian": "საღამოს",
+		"english": "in the evening, tonight",
+		"audio": "საღამოს.mp3"
+	},
+	{
+		"georgian": "ღამე",
+		"english": "night",
+		"audio": "ღამე.mp3"
+	},
+	{
+		"georgian": "ამაღამ",
+		"english": "(late) tonight",
+		"audio": "ამაღამ.mp3"
+	},
+	{
+		"georgian": "ხვალ",
+		"english": "tomorrow",
+		"audio": "ხვალ.mp3"
+	},
+	{
+		"georgian": "ზეგ",
+		"english": "the day after tomorrow",
+		"audio": "ზეგ.mp3"
+	},
+	{
+		"georgian": "იანვარი",
+		"english": "January",
+		"audio": "იანვარი.mp3"
+	},
+	{
+		"georgian": "თებერვალი",
+		"english": "February",
+		"audio": "თებერვალი.mp3"
+	},
+	{
+		"georgian": "მარტი",
+		"english": "March",
+		"audio": "მარტი.mp3"
+	},
+	{
+		"georgian": "აპრილი",
+		"english": "April",
+		"audio": "აპრილი.mp3"
+	},
+	{
+		"georgian": "მაისი",
+		"english": "May",
+		"audio": "მაისი.mp3"
+	},
+	{
+		"georgian": "ივნისი",
+		"english": "June",
+		"audio": "ივნისი.mp3"
+	},
+	{
+		"georgian": "ივლისი",
+		"english": "July",
+		"audio": "ივლისი.mp3"
+	},
+	{
+		"georgian": "აგვისტო",
+		"english": "August",
+		"audio": "აგვისტო.mp3"
+	},
+	{
+		"georgian": "სექტემბერი",
+		"english": "September",
+		"audio": "სექტემბერი.mp3"
+	},
+	{
+		"georgian": "ოქტომბერი",
+		"english": "October",
+		"audio": "ოქტომბერი.mp3"
+	},
+	{
+		"georgian": "ნოემბერი",
+		"english": "November",
+		"audio": "ნოემბერი.mp3"
+	},
+	{
+		"georgian": "დეკემბერი",
+		"english": "December",
+		"audio": "დეკემბერი.mp3"
+	},
+	{
+		"georgian": "სამი მარტი",
+		"english": "the third of March",
+		"audio": "სამი მარტი.mp3"
+	},
+	{
+		"georgian": "ოთხი აპრილი",
+		"english": "the fourth of April",
+		"audio": "ოთხი აპრილი.mp3"
+	},
+	{
+		"georgian": "ხუთი მაისი",
+		"english": "the fifth of May",
+		"audio": "ხუთი მაისი.mp3"
+	},
+	{
+		"georgian": "პირველი იანვარი",
+		"english": "the first of January",
+		"audio": "პირველი იანვარი.mp3"
+	},
+	{
+		"georgian": "პირველი ივნისი",
+		"english": "the first of June",
+		"audio": "პირველი ივნისი.mp3"
+	},
+	{
+		"georgian": "დღეს ორი ივლისია",
+		"english": "Today is the second of July",
+		"audio": "დღეს ორი ივლისია.mp3"
+	},
+	{
+		"georgian": "ხვალ ათი აგვისტოა",
+		"english": "Tomorrow is the tenth of August",
+		"audio": "ხვალ ათი აგვისტოა.mp3"
+	},
+	{
+		"georgian": "დედა",
+		"english": "mother",
+		"audio": "დედა.mp3"
+	},
+	{
+		"georgian": "მამა",
+		"english": "father",
+		"audio": "მამა.mp3"
+	},
+	{
+		"georgian": "ცოლი",
+		"english": "wife",
+		"audio": "ცოლი.mp3"
+	},
+	{
+		"georgian": "ქმარი",
+		"english": "husband",
+		"audio": "ქმარი.mp3"
+	},
+	{
+		"georgian": "მეუღლე",
+		"english": "spouse",
+		"audio": "მეუღლე.mp3"
+	},
+	{
+		"georgian": "შვილი",
+		"english": "child",
+		"audio": "შვილი.mp3"
+	},
+	{
+		"georgian": "ვაჟი",
+		"english": "son",
+		"audio": "ვაჟი.mp3"
+	},
+	{
+		"georgian": "ქალიშვილი",
+		"english": "daughter",
+		"audio": "ქალიშვილი.mp3"
+	},
+	{
+		"georgian": "და",
+		"english": "sister",
+		"audio": "და.mp3"
+	},
+	{
+		"georgian": "ძმა",
+		"english": "brother",
+		"audio": "ძმა.mp3"
+	},
+	{
+		"georgian": "ბატონო",
+		"english": "Mr.",
+		"audio": "ბატონო.mp3"
+	},
+	{
+		"georgian": "ქალბატონო",
+		"english": "Ms.",
+		"audio": "ქალბატონო.mp3"
+	},
+	{
+		"georgian": "კაპიკი გაკაპიკებულა",
+		"english": "Kopeck became a kopeck",
+		"audio": "კაპიკი გაკაპიკებულა.mp3"
+	},
+	{
+		"georgian": "ჭრიჭინა ჭრიჭინებს",
+		"english": "The cricket is chirping",
+		"audio": "ჭრიჭინა ჭრიჭინებს.mp3"
+	},
+	{
+		"georgian": "ბაყაყი წყალში ყიყინებს",
+		"english": "A frog is croaking in the water",
+		"audio": "ბაყაყი წყალში ყიყინებს.mp3"
+	},
+	{
+		"georgian": "შეხვედრა",
+		"english": "meeting",
+		"audio": "შეხვედრა.mp3"
+	},
+	{
+		"georgian": "ქუჩაში",
+		"english": "in the street",
+		"audio": "ქუჩაში.mp3"
+	},
+	{
+		"georgian": "ცხოვრობს",
+		"english": "(he) lives",
+		"audio": "ცხოვრობს.mp3"
+	},
+	{
+		"georgian": "სწავლობს",
+		"english": "(he) studies",
+		"audio": "სწავლობს.mp3"
+	},
+	{
+		"georgian": "ენა",
+		"english": "language",
+		"audio": "ენა.mp3"
+	},
+	{
+		"georgian": "ხვდებიან",
+		"english": "(they) meet",
+		"audio": "ხვდებიან.mp3"
+	},
+	{
+		"georgian": "ერთმანეთი",
+		"english": "each other",
+		"audio": "ერთმანეთი.mp3"
+	},
+	{
+		"georgian": "გამარჯობათ",
+		"english": "hello (pol.)",
+		"audio": "გამარჯობათ.mp3"
+	},
+	{
+		"georgian": "თქვენ",
+		"english": "you (pl./pol.)",
+		"audio": "თქვენ.mp3"
+	},
+	{
+		"georgian": "აქ",
+		"english": "here",
+		"audio": "აქ.mp3"
+	},
+	{
+		"georgian": "ცხოვრობთ",
+		"english": "(you pl./pol.) live, are living",
+		"audio": "ცხოვრობთ.mp3"
+	},
+	{
+		"georgian": "დიახ",
+		"english": "yes",
+		"audio": "დიახ.mp3"
+	},
+	{
+		"georgian": "ბინა",
+		"english": "apartment, residence",
+		"audio": "ბინა.mp3"
+	},
+	{
+		"georgian": "ვქირაობ",
+		"english": "(I) rent, am renting",
+		"audio": "ვქირაობ.mp3"
+	},
+	{
+		"georgian": "ძალიან",
+		"english": "very",
+		"audio": "ძალიან.mp3"
+	},
+	{
+		"georgian": "სასიამოვნო",
+		"english": "pleasant, nice",
+		"audio": "სასიამოვნო.mp3"
+	},
+	{
+		"georgian": "მეც",
+		"english": "I too",
+		"audio": "მეც.mp3"
+	},
+	{
+		"georgian": "ახლო",
+		"english": "near, nearby",
+		"audio": "ახლო.mp3"
+	},
+	{
+		"georgian": "ჩემი",
+		"english": "my",
+		"audio": "ჩემი.mp3"
+	},
+	{
+		"georgian": "სახელი",
+		"english": "name",
+		"audio": "სახელი.mp3"
+	},
+	{
+		"georgian": "თქვენი",
+		"english": "your (pl./pol.)",
+		"audio": "თქვენი.mp3"
+	},
+	{
+		"georgian": "ამერიკელი",
+		"english": "american (person)",
+		"audio": "ამერიკელი.mp3"
+	},
+	{
+		"georgian": "თუ",
+		"english": "or",
+		"audio": "თუ.mp3"
+	},
+	{
+		"georgian": "ინგლისელი",
+		"english": "british (person)",
+		"audio": "ინგლისელი.mp3"
+	},
+	{
+		"georgian": "რა",
+		"english": "what, how",
+		"audio": "რა.mp3"
+	},
+	{
+		"georgian": "ლაპარაკობთ",
+		"english": "(you pl./pol.) speak",
+		"audio": "ლაპარაკობთ.mp3"
+	},
+	{
+		"georgian": "ქართულად",
+		"english": "in Georgian (language)",
+		"audio": "ქართულად.mp3"
+	},
+	{
+		"georgian": "გმადლობთ",
+		"english": "thank you (pol.)",
+		"audio": "გმადლობთ.mp3"
+	},
+	{
+		"georgian": "დიდი",
+		"english": "big, large, great",
+		"audio": "დიდი.mp3"
+	},
+	{
+		"georgian": "ხანი",
+		"english": "period, spell of time",
+		"audio": "ხანი.mp3"
+	},
+	{
+		"georgian": "უკვე",
+		"english": "already",
+		"audio": "უკვე.mp3"
+	},
+	{
+		"georgian": "თვე",
+		"english": "month",
+		"audio": "თვე.mp3"
+	},
+	{
+		"georgian": "სწავლობთ",
+		"english": "(you pl./pol.) study, are studying",
+		"audio": "სწავლობთ.mp3"
+	},
+	{
+		"georgian": "მუშაობთ",
+		"english": "(you pl./pol.) work, are working",
+		"audio": "მუშაობთ.mp3"
+	},
+	{
+		"georgian": "ინგლისური",
+		"english": "English",
+		"audio": "ინგლისური.mp3"
+	},
+	{
+		"georgian": "ვასწავლი",
+		"english": "(I) teach, am teaching",
+		"audio": "ვასწავლი.mp3"
+	},
+	{
+		"georgian": "სკოლაში",
+		"english": "in a school",
+		"audio": "სკოლაში.mp3"
+	},
+	{
+		"georgian": "მართლა",
+		"english": "really, indeed",
+		"audio": "მართლა.mp3"
+	},
+	{
+		"georgian": "საინტერესო",
+		"english": "interesting",
+		"audio": "საინტერესო.mp3"
+	},
+	{
+		"georgian": "სტუდენტი",
+		"english": "student",
+		"audio": "სტუდენტი.mp3"
+	},
+	{
+		"georgian": "ვარ",
+		"english": "I am",
+		"audio": "ვარ.mp3"
+	},
+	{
+		"georgian": "ინგლისურად",
+		"english": "in English",
+		"audio": "ინგლისურად.mp3"
+	},
+	{
+		"georgian": "მაგრამ",
+		"english": "but",
+		"audio": "მაგრამ.mp3"
+	},
+	{
+		"georgian": "ცუდად",
+		"english": "badly, poorly",
+		"audio": "ცუდად.mp3"
+	},
+	{
+		"georgian": "გაცნობა",
+		"english": "meeting, getting acquainted",
+		"audio": "გაცნობა.mp3"
+	},
+	{
+		"georgian": "მოხარული",
+		"english": "glad",
+		"audio": "მოხარული.mp3"
+	},
+	{
+		"georgian": "რომ",
+		"english": "that (conj.)",
+		"audio": "რომ.mp3"
+	},
+	{
+		"georgian": "გაგიცანით",
+		"english": "I have met you, I got acquainted with you",
+		"audio": "გაგიცანით.mp3"
+	},
+	{
+		"georgian": "ნახვამდის",
+		"english": "goodbye",
+		"audio": "ნახვამდის.mp3"
+	},
+	{
+		"georgian": "კარგად",
+		"english": "well",
+		"audio": "კარგად.mp3"
+	},
+	{
+		"georgian": "იყავით",
+		"english": "(you pl./pol.) be (lit. were)",
+		"audio": "იყავით.mp3"
+	},
+	{
+		"georgian": "მეგობრები",
+		"english": "friends",
+		"audio": "მეგობრები.mp3"
+	},
+	{
+		"georgian": "მეგობარი",
+		"english": "friend",
+		"audio": "მეგობარი.mp3"
+	},
+	{
+		"georgian": "რეკავს",
+		"english": "(he) calls, is calling, telephoning",
+		"audio": "რეკავს.mp3"
+	},
+	{
+		"georgian": "ბოდიში",
+		"english": "excuse me, sorry",
+		"audio": "ბოდიში.mp3"
+	},
+	{
+		"georgian": "სახლი",
+		"english": "house, home",
+		"audio": "სახლი.mp3"
+	},
+	{
+		"georgian": "სახლში",
+		"english": "at home",
+		"audio": "სახლში.mp3"
+	},
+	{
+		"georgian": "ეს",
+		"english": "this",
+		"audio": "ეს.mp3"
+	},
+	{
+		"georgian": "შონია",
+		"english": "personal last name",
+		"audio": "შონია.mp3"
+	},
+	{
+		"georgian": "ვინ",
+		"english": "who",
+		"audio": "ვინ.mp3"
+	},
+	{
+		"georgian": "კითხულობს",
+		"english": "here: asks. is asking",
+		"audio": "კითხულობს.mp3"
+	},
+	{
+		"georgian": "მე",
+		"english": "I",
+		"audio": "მე.mp3"
+	},
+	{
+		"georgian": "მისი",
+		"english": "his/her",
+		"audio": "მისი.mp3"
+	},
+	{
+		"georgian": "და",
+		"english": "and",
+		"audio": "და.mp3"
+	},
+	{
+		"georgian": "ახლავე",
+		"english": "right away",
+		"audio": "ახლავე.mp3"
+	},
+	{
+		"georgian": "დავუძახებ",
+		"english": "I will call (him)",
+		"audio": "დავუძახებ.mp3"
+	},
+	{
+		"georgian": "როგორ",
+		"english": "how",
+		"audio": "როგორ.mp3"
+	},
+	{
+		"georgian": "ხარ",
+		"english": "(you) are",
+		"audio": "ხარ.mp3"
+	},
+	{
+		"georgian": "საქმე",
+		"english": "matter, business (to be done)",
+		"audio": "საქმე.mp3"
+	},
+	{
+		"georgian": "ეხლა",
+		"english": "now",
+		"audio": "ეხლა.mp3"
+	},
+	{
+		"georgian": "რა",
+		"english": "what",
+		"audio": "რა.mp3"
+	},
+	{
+		"georgian": "აკეთებ",
+		"english": "(you) do, are doing",
+		"audio": "აკეთებ.mp3"
+	},
+	{
+		"georgian": "დაკავებული",
+		"english": "busy",
+		"audio": "დაკავებული.mp3"
+	},
+	{
+		"georgian": "არა",
+		"english": "no",
+		"audio": "არა.mp3"
+	},
+	{
+		"georgian": "ახალი",
+		"english": "new",
+		"audio": "ახალი.mp3"
+	},
+	{
+		"georgian": "ამბები",
+		"english": "events, news",
+		"audio": "ამბები.mp3"
+	},
+	{
+		"georgian": "მოდი",
+		"english": "come, let's",
+		"audio": "მოდი.mp3"
+	},
+	{
+		"georgian": "კინო",
+		"english": "movie, movie theater",
+		"audio": "კინო.mp3"
+	},
+	{
+		"georgian": "ძველი",
+		"english": "old",
+		"audio": "ძველი.mp3"
+	},
+	{
+		"georgian": "ფილმი",
+		"english": "film, movie",
+		"audio": "ფილმი.mp3"
+	},
+	{
+		"georgian": "დათა თუთაშხია",
+		"english": "first and last name (male)",
+		"audio": "დათა თუთაშხია.mp3"
+	},
+	{
+		"georgian": "რაზეა",
+		"english": "what is (it) about",
+		"audio": "რაზეა.mp3"
+	},
+	{
+		"georgian": "საათი",
+		"english": "an hour",
+		"audio": "საათი.mp3"
+	},
+	{
+		"georgian": "ერთ საათში",
+		"english": "in an hour",
+		"audio": "ერთ საათში.mp3"
+	},
+	{
+		"georgian": "მზად",
+		"english": "ready",
+		"audio": "მზად.mp3"
+	},
+	{
+		"georgian": "იყავი",
+		"english": "be; order, request",
+		"audio": "იყავი.mp3"
+	},
+	{
+		"georgian": "ვიქნები",
+		"english": "(I) will be",
+		"audio": "ვიქნები.mp3"
+	},
+	{
+		"georgian": "სტუმრად",
+		"english": "visiting",
+		"audio": "სტუმრად.mp3"
+	},
+	{
+		"georgian": "სტუმარი",
+		"english": "visitor, guest",
+		"audio": "სტუმარი.mp3"
+	},
+	{
+		"georgian": "თამაზისთან",
+		"english": "Tamazi's place, Tamazi's apartment",
+		"audio": "თამაზისთან.mp3"
+	},
+	{
+		"georgian": "შემოდი",
+		"english": "come in",
+		"audio": "შემოდი.mp3"
+	},
+	{
+		"georgian": "აი",
+		"english": "here, here is",
+		"audio": "აი.mp3"
+	},
+	{
+		"georgian": "ვიცნობთ",
+		"english": "(we) are acquainted, know each other",
+		"audio": "ვიცნობთ.mp3"
+	},
+	{
+		"georgian": "მხოლოდ",
+		"english": "only",
+		"audio": "მხოლოდ.mp3"
+	},
+	{
+		"georgian": "საკმაოდ",
+		"english": "rather",
+		"audio": "საკმაოდ.mp3"
+	},
+	{
+		"georgian": "ოთახი",
+		"english": "room",
+		"audio": "ოთახი.mp3"
+	},
+	{
+		"georgian": "სასტუმრო ოთახი",
+		"english": "guest room",
+		"audio": "სასტუმრო ოთახი.mp3"
+	},
+	{
+		"georgian": "მშობლები",
+		"english": "parents",
+		"audio": "მშობლები.mp3"
+	},
+	{
+		"georgian": "საწოლი",
+		"english": "bed",
+		"audio": "საწოლი.mp3"
+	},
+	{
+		"georgian": "კი",
+		"english": "and, while, on the other hand",
+		"audio": "კი.mp3"
+	},
+	{
+		"georgian": "სასადილო",
+		"english": "dining room",
+		"audio": "სასადილო.mp3"
+	},
+	{
+		"georgian": "სამზარეულო",
+		"english": "kitchen",
+		"audio": "სამზარეულო.mp3"
+	},
+	{
+		"georgian": "საპირფარეშო",
+		"english": "toilet",
+		"audio": "საპირფარეშო.mp3"
+	},
+	{
+		"georgian": "აბაზანა",
+		"english": "bathroom",
+		"audio": "აბაზანა.mp3"
+	},
+	{
+		"georgian": "დალევ",
+		"english": "(you) will/would drink",
+		"audio": "დალევ.mp3"
+	},
+	{
+		"georgian": "ჩაი",
+		"english": "tea",
+		"audio": "ჩაი.mp3"
+	},
+	{
+		"georgian": "ყავა",
+		"english": "coffee",
+		"audio": "ყავა.mp3"
+	},
+	{
+		"georgian": "სიამოვნებით",
+		"english": "with pleasure, pleasure",
+		"audio": "სიამოვნებით.mp3"
+	},
+	{
+		"georgian": "დავლევ",
+		"english": "(I) will drink",
+		"audio": "დავლევ.mp3"
+	},
+	{
+		"georgian": "როგორი",
+		"english": "what kind",
+		"audio": "როგორი.mp3"
+	},
+	{
+		"georgian": "გიყვართ",
+		"english": "(you pl./pol.) like, love",
+		"audio": "გიყვართ.mp3"
+	},
+	{
+		"georgian": "მაგარი",
+		"english": "strong",
+		"audio": "მაგარი.mp3"
+	},
+	{
+		"georgian": "სუსტი",
+		"english": "weak, feeble",
+		"audio": "სუსტი.mp3"
+	},
+	{
+		"georgian": "საშუალო",
+		"english": "medium, middle",
+		"audio": "საშუალო.mp3"
+	},
+	{
+		"georgian": "რძე",
+		"english": "milk",
+		"audio": "რძე.mp3"
+	},
+	{
+		"georgian": "რძით",
+		"english": "with milk",
+		"audio": "რძით.mp3"
+	},
+	{
+		"georgian": "შაქარი",
+		"english": "sugar",
+		"audio": "შაქარი.mp3"
+	},
+	{
+		"georgian": "შაქრით",
+		"english": "with sugar",
+		"audio": "შაქრით.mp3"
+	},
+	{
+		"georgian": "უშაქროდ",
+		"english": "without sugar",
+		"audio": "უშაქროდ.mp3"
+	},
+	{
+		"georgian": "გასინჯე",
+		"english": "taste (it), have a bite!",
+		"audio": "გასინჯე.mp3"
+	},
+	{
+		"georgian": "გემრიელი",
+		"english": "delicious",
+		"audio": "გემრიელი.mp3"
+	},
+	{
+		"georgian": "გააკეთეთ",
+		"english": "(you pl./pol.) made",
+		"audio": "გააკეთეთ.mp3"
+	},
+	{
+		"georgian": "რასაკვირველია",
+		"english": "of course",
+		"audio": "რასაკვირველია.mp3"
+	},
+	{
+		"georgian": "ვართ",
+		"english": "(we) are",
+		"audio": "ვართ.mp3"
+	},
+	{
+		"georgian": "ნამდვილად",
+		"english": "indeed",
+		"audio": "ნამდვილად.mp3"
+	},
+	{
+		"georgian": "კიდევ",
+		"english": "more, again, one more time",
+		"audio": "კიდევ.mp3"
+	},
+	{
+		"georgian": "გადაიღე",
+		"english": "(you) take, have some (more)",
+		"audio": "გადაიღე.mp3"
+	},
+	{
+		"georgian": "გადავიღებ",
+		"english": "(I) will have some",
+		"audio": "გადავიღებ.mp3"
+	},
+	{
+		"georgian": "თონე",
+		"english": "kiln or oven",
+		"audio": "თონე.mp3"
+	},
+	{
+		"georgian": "თონის პური",
+		"english": "kiln bread",
+		"audio": "თონის პური.mp3"
+	},
+	{
+		"georgian": "პური",
+		"english": "bread",
+		"audio": "პური.mp3"
+	},
+	{
+		"georgian": "სად",
+		"english": "where",
+		"audio": "სად.mp3"
+	},
+	{
+		"georgian": "მიდიხარ",
+		"english": "you are going",
+		"audio": "მიდიხარ.mp3"
+	},
+	{
+		"georgian": "მაღაზია",
+		"english": "store",
+		"audio": "მაღაზია.mp3"
+	},
+	{
+		"georgian": "მინდა",
+		"english": "I want",
+		"audio": "მინდა.mp3"
+	},
+	{
+		"georgian": "ვიყიდო",
+		"english": "I (should, want to) buy",
+		"audio": "ვიყიდო.mp3"
+	},
+	{
+		"georgian": "როგორი",
+		"english": "what kind",
+		"audio": "როგორი.mp3"
+	},
+	{
+		"georgian": "გინდა",
+		"english": "you want",
+		"audio": "გინდა.mp3"
+	},
+	{
+		"georgian": "ჩვეულებრივი",
+		"english": "regular, ordinary",
+		"audio": "ჩვეულებრივი.mp3"
+	},
+	{
+		"georgian": "ახლოს",
+		"english": "close by, near",
+		"audio": "ახლოს.mp3"
+	},
+	{
+		"georgian": "ქუჩა",
+		"english": "street",
+		"audio": "ქუჩა.mp3"
+	},
+	{
+		"georgian": "იმ ქუჩაზე",
+		"english": "on that street",
+		"audio": "იმ ქუჩაზე.mp3"
+	},
+	{
+		"georgian": "ღირს",
+		"english": "(it) costs",
+		"audio": "ღირს.mp3"
+	},
+	{
+		"georgian": "ორმოცდაათი",
+		"english": "fifty",
+		"audio": "ორმოცდაათი.mp3"
+	},
+	{
+		"georgian": "კილოგრამი",
+		"english": "kilogram",
+		"audio": "კილოგრამი.mp3"
+	},
+	{
+		"georgian": "ლავაში",
+		"english": "flat kiln bread",
+		"audio": "ლავაში.mp3"
+	},
+	{
+		"georgian": "სარდაფი",
+		"english": "cellar",
+		"audio": "სარდაფი.mp3"
+	},
+	{
+		"georgian": "ამ სარდაფში",
+		"english": "in this cellar",
+		"audio": "ამ სარდაფში.mp3"
+	},
+	{
+		"georgian": "ეკითხება",
+		"english": "is asking (s.o.)",
+		"audio": "ეკითხება.mp3"
+	},
+	{
+		"georgian": "გამყიდველი",
+		"english": "salesperson",
+		"audio": "გამყიდველი.mp3"
+	},
+	{
+		"georgian": "ქალი",
+		"english": "woman",
+		"audio": "ქალი.mp3"
+	},
+	{
+		"georgian": "დეიდა",
+		"english": "aunt",
+		"audio": "დეიდა.mp3"
+	},
+	{
+		"georgian": "გაქვთ",
+		"english": "you have (pl.)",
+		"audio": "გაქვთ.mp3"
+	},
+	{
+		"georgian": "გვაქვს",
+		"english": "we have",
+		"audio": "გვაქვს.mp3"
+	},
+	{
+		"georgian": "ცხელი",
+		"english": "hot",
+		"audio": "ცხელი.mp3"
+	},
+	{
+		"georgian": "კი",
+		"english": "yes (informal)",
+		"audio": "კი.mp3"
+	},
+	{
+		"georgian": "რამდენი",
+		"english": "how many",
+		"audio": "რამდენი.mp3"
+	},
+	{
+		"georgian": "გადავიხდი",
+		"english": "I will pay",
+		"audio": "გადავიხდი.mp3"
+	},
+	{
+		"georgian": "გადაიხადე",
+		"english": "you pay (imp./aor.)",
+		"audio": "გადაიხადე.mp3"
+	},
+	{
+		"georgian": "უსათუოდ",
+		"english": "by all means, for sure, without fail",
+		"audio": "უსათუოდ.mp3"
+	},
+	{
+		"georgian": "დრო",
+		"english": "time",
+		"audio": "დრო.mp3"
+	},
+	{
+		"georgian": "გაქვს",
+		"english": "you have (sing.)",
+		"audio": "გაქვს.mp3"
+	},
+	{
+		"georgian": "ბაზარი",
+		"english": "farmer's market",
+		"audio": "ბაზარი.mp3"
+	},
+	{
+		"georgian": "თავისუფალი",
+		"english": "free",
+		"audio": "თავისუფალი.mp3"
+	},
+	{
+		"georgian": "სურსათი",
+		"english": "produce",
+		"audio": "სურსათი.mp3"
+	},
+	{
+		"georgian": "გინდა იყიდო",
+		"english": "you want to buy",
+		"audio": "გინდა იყიდო.mp3"
+	},
+	{
+		"georgian": "ყველაფერი",
+		"english": "everything",
+		"audio": "ყველაფერი.mp3"
+	},
+	{
+		"georgian": "ქათამი",
+		"english": "chicken",
+		"audio": "ქათამი.mp3"
+	},
+	{
+		"georgian": "ყველი",
+		"english": "cheese",
+		"audio": "ყველი.mp3"
+	},
+	{
+		"georgian": "ბოსტნეული",
+		"english": "vegetable",
+		"audio": "ბოსტნეული.mp3"
+	},
+	{
+		"georgian": "ხილი",
+		"english": "fruit",
+		"audio": "ხილი.mp3"
+	},
+	{
+		"georgian": "ხორცი",
+		"english": "meat",
+		"audio": "ხორცი.mp3"
+	},
+	{
+		"georgian": "ვეგეტარიანელი",
+		"english": "vegetarian",
+		"audio": "ვეგეტარიანელი.mp3"
+	},
+	{
+		"georgian": "თევზი",
+		"english": "fish",
+		"audio": "თევზი.mp3"
+	},
+	{
+		"georgian": "ჯერ",
+		"english": "first of all, before anything else",
+		"audio": "ჯერ.mp3"
+	},
+	{
+		"georgian": "ვიყიდოთ",
+		"english": "let's buy, shall we buy",
+		"audio": "ვიყიდოთ.mp3"
+	},
+	{
+		"georgian": "ძვირი",
+		"english": "expensive",
+		"audio": "ძვირი.mp3"
+	},
+	{
+		"georgian": "ასე ძვირი",
+		"english": "so expensive",
+		"audio": "ასე ძვირი.mp3"
+	},
+	{
+		"georgian": "ნახევარი",
+		"english": "half",
+		"audio": "ნახევარი.mp3"
+	},
+	{
+		"georgian": "რამდენი",
+		"english": "how much",
+		"audio": "რამდენი.mp3"
+	},
+	{
+		"georgian": "მომეცი",
+		"english": "give me",
+		"audio": "მომეცი.mp3"
+	},
+	{
+		"georgian": "ვაშლი",
+		"english": "apple",
+		"audio": "ვაშლი.mp3"
+	},
+	{
+		"georgian": "ლარნახევარი",
+		"english": "lari and a half",
+		"audio": "ლარნახევარი.mp3"
+	},
+	{
+		"georgian": "ეხლა",
+		"english": "now",
+		"audio": "ეხლა.mp3"
+	},
+	{
+		"georgian": "კიტრი",
+		"english": "cucumber",
+		"audio": "კიტრი.mp3"
+	},
+	{
+		"georgian": "პამიდორი",
+		"english": "tomato",
+		"audio": "პამიდორი.mp3"
+	},
+	{
+		"georgian": "მწვანე",
+		"english": "green",
+		"audio": "მწვანე.mp3"
+	},
+	{
+		"georgian": "ლობიო",
+		"english": "beans",
+		"audio": "ლობიო.mp3"
+	},
+	{
+		"georgian": "ბადრიჯანი",
+		"english": "eggplant",
+		"audio": "ბადრიჯანი.mp3"
+	},
+	{
+		"georgian": "იაფი",
+		"english": "cheap",
+		"audio": "იაფი.mp3"
+	},
+	{
+		"georgian": "იაფიც",
+		"english": "cheap too, cheap as well",
+		"audio": "იაფიც.mp3"
+	},
+	{
+		"georgian": "ბევრი",
+		"english": "many, much",
+		"audio": "ბევრი.mp3"
+	},
+	{
+		"georgian": "ცალი",
+		"english": "piece (always used after numerals)",
+		"audio": "ცალი.mp3"
+	},
+	{
+		"georgian": "საკმარისი",
+		"english": "enough",
+		"audio": "საკმარისი.mp3"
+	},
+	{
+		"georgian": "ძია",
+		"english": "Sir (lit.: uncle)",
+		"audio": "ძია.mp3"
+	},
+	{
+		"georgian": "აირჩიე",
+		"english": "(you) choose",
+		"audio": "აირჩიე.mp3"
+	},
+	{
+		"georgian": "მგონი",
+		"english": "seems like, looks like, I think",
+		"audio": "მგონი.mp3"
+	},
+	{
+		"georgian": "ცოტა",
+		"english": "a little, few",
+		"audio": "ცოტა.mp3"
+	},
+	{
+		"georgian": "მეტი",
+		"english": "more",
+		"audio": "მეტი.mp3"
+	},
+	{
+		"georgian": "წაიღე",
+		"english": "(you) take",
+		"audio": "წაიღე.mp3"
+	},
+	{
+		"georgian": "დაქირავება",
+		"english": "renting, to rent",
+		"audio": "დაქირავება.mp3"
+	},
+	{
+		"georgian": "უნდა",
+		"english": "(s/he) wants",
+		"audio": "უნდა.mp3"
+	},
+	{
+		"georgian": "უნდა იქირაოს",
+		"english": "wants to rent",
+		"audio": "უნდა იქირაოს.mp3"
+	},
+	{
+		"georgian": "მეგობრისთვის",
+		"english": "for a friend",
+		"audio": "მეგობრისთვის.mp3"
+	},
+	{
+		"georgian": "კარი",
+		"english": "door",
+		"audio": "კარი.mp3"
+	},
+	{
+		"georgian": "აკაკუნებენ",
+		"english": "(they) knock, are knocking (at)",
+		"audio": "აკაკუნებენ.mp3"
+	},
+	{
+		"georgian": "შენა",
+		"english": "is that you?",
+		"audio": "შენა.mp3"
+	},
+	{
+		"georgian": "გინდათ იქირაოთ",
+		"english": "(you pl./pol.) want, wish to rent",
+		"audio": "გინდათ იქირაოთ.mp3"
+	},
+	{
+		"georgian": "მომავალი",
+		"english": "next, coming",
+		"audio": "მომავალი.mp3"
+	},
+	{
+		"georgian": "მომავალ კვირას",
+		"english": "next Sunday",
+		"audio": "მომავალ კვირას.mp3"
+	},
+	{
+		"georgian": "ჩამოდის",
+		"english": "arrives, is arriving",
+		"audio": "ჩამოდის.mp3"
+	},
+	{
+		"georgian": "მისთვის",
+		"english": "for him/her",
+		"audio": "მისთვის.mp3"
+	},
+	{
+		"georgian": "გასაგებია",
+		"english": "I see (lit.: it is clear)",
+		"audio": "გასაგებია.mp3"
+	},
+	{
+		"georgian": "რამდენი ხნით",
+		"english": "for how long",
+		"audio": "რამდენი ხნით.mp3"
+	},
+	{
+		"georgian": "ერთი წლით",
+		"english": "for one year",
+		"audio": "ერთი წლით.mp3"
+	},
+	{
+		"georgian": "მხოლოდ",
+		"english": "only",
+		"audio": "მხოლოდ.mp3"
+	},
+	{
+		"georgian": "ერთოთახიანი",
+		"english": "one-room (apartment)",
+		"audio": "ერთოთახიანი.mp3"
+	},
+	{
+		"georgian": "სწორედ",
+		"english": "precisely, exactly",
+		"audio": "სწორედ.mp3"
+	},
+	{
+		"georgian": "იქნება",
+		"english": "(s/he, it) will be",
+		"audio": "იქნება.mp3"
+	},
+	{
+		"georgian": "თვიური",
+		"english": "monthly",
+		"audio": "თვიური.mp3"
+	},
+	{
+		"georgian": "გადასახადი",
+		"english": "payment, fee",
+		"audio": "გადასახადი.mp3"
+	},
+	{
+		"georgian": "ასორმოცდაათი",
+		"english": "hundred and fifty",
+		"audio": "ასორმოცდაათი.mp3"
+	},
+	{
+		"georgian": "დოლარი",
+		"english": "dollar",
+		"audio": "დოლარი.mp3"
+	},
+	{
+		"georgian": "აქედან",
+		"english": "from here",
+		"audio": "აქედან.mp3"
+	},
+	{
+		"georgian": "ტრანსპორტი",
+		"english": "transportation",
+		"audio": "ტრანსპორტი.mp3"
+	},
+	{
+		"georgian": "დადის",
+		"english": "(s/he) walks, walks around",
+		"audio": "დადის.mp3"
+	},
+	{
+		"georgian": "მეტრო",
+		"english": "subway",
+		"audio": "მეტრო.mp3"
+	},
+	{
+		"georgian": "პირდაპირ",
+		"english": "straight",
+		"audio": "პირდაპირ.mp3"
+	},
+	{
+		"georgian": "წინ",
+		"english": "in front of",
+		"audio": "წინ.mp3"
+	},
+	{
+		"georgian": "აქვე",
+		"english": "right here",
+		"audio": "აქვე.mp3"
+	},
+	{
+		"georgian": "ჩერდება",
+		"english": "stops, is stopping",
+		"audio": "ჩერდება.mp3"
+	},
+	{
+		"georgian": "ავტობუსი",
+		"english": "bus",
+		"audio": "ავტობუსი.mp3"
+	},
+	{
+		"georgian": "ტაქსი",
+		"english": "taxi",
+		"audio": "ტაქსი.mp3"
+	},
+	{
+		"georgian": "ავტობუსები",
+		"english": "buses",
+		"audio": "ავტობუსები.mp3"
+	},
+	{
+		"georgian": "გაჩერება",
+		"english": "(bus) stop",
+		"audio": "გაჩერება.mp3"
+	},
+	{
+		"georgian": "გაჩერებაც",
+		"english": "(bus) stop too",
+		"audio": "გაჩერებაც.mp3"
+	},
+	{
+		"georgian": "პირველი",
+		"english": "first",
+		"audio": "პირველი.mp3"
+	},
+	{
+		"georgian": "თვე",
+		"english": "month",
+		"audio": "თვე.mp3"
+	},
+	{
+		"georgian": "ქირა",
+		"english": "rent (payment)",
+		"audio": "ქირა.mp3"
+	},
+	{
+		"georgian": "თქვენთვის",
+		"english": "for you (pl./pol.)",
+		"audio": "თქვენთვის.mp3"
+	},
+	{
+		"georgian": "გასაღები",
+		"english": "key",
+		"audio": "გასაღები.mp3"
+	},
+	{
+		"georgian": "სამშაბათისათვის",
+		"english": "by Tuesday",
+		"audio": "სამშაბათისათვის.mp3"
+	},
+	{
+		"georgian": "იქნება",
+		"english": "(s/he) will be",
+		"audio": "იქნება.mp3"
+	},
+	{
+		"georgian": "რასაკვირველია",
+		"english": "of course",
+		"audio": "რასაკვირველია.mp3"
+	},
+	{
+		"georgian": "მადლობა",
+		"english": "thank",
+		"audio": "მადლობა.mp3"
+	},
+	{
+		"georgian": "დიდი მადლობა",
+		"english": "thank you very much",
+		"audio": "დიდი მადლობა.mp3"
+	},
+	{
+		"georgian": "წიგნი",
+		"english": "book",
+		"audio": "წიგნი.mp3"
+	},
+	{
+		"georgian": "ლექსიკონი",
+		"english": "dictionary",
+		"audio": "ლექსიკონი.mp3"
+	},
+	{
+		"georgian": "ამაში",
+		"english": "for this, in this one",
+		"audio": "ამაში.mp3"
+	},
+	{
+		"georgian": "თითო",
+		"english": "each",
+		"audio": "თითო.mp3"
+	},
+	{
+		"georgian": "მაჩვენეთ",
+		"english": "show me",
+		"audio": "მაჩვენეთ.mp3"
+	},
+	{
+		"georgian": "ასეთი",
+		"english": "this kind, like this",
+		"audio": "ასეთი.mp3"
+	},
+	{
+		"georgian": "კიდევ",
+		"english": "more, one more, another",
+		"audio": "კიდევ.mp3"
+	},
+	{
+		"georgian": "რამე",
+		"english": "something",
+		"audio": "რამე.mp3"
+	},
+	{
+		"georgian": "ხალხური",
+		"english": "folk",
+		"audio": "ხალხური.mp3"
+	},
+	{
+		"georgian": "სიმღერა",
+		"english": "song",
+		"audio": "სიმღერა.mp3"
+	},
+	{
+		"georgian": "სხვადასხვა",
+		"english": "variety",
+		"audio": "სხვადასხვა.mp3"
+	},
+	{
+		"georgian": "რომელი",
+		"english": "which one",
+		"audio": "რომელი.mp3"
+	},
+	{
+		"georgian": "სამივე",
+		"english": "all three",
+		"audio": "სამივე.mp3"
+	},
+	{
+		"georgian": "ავიღებ",
+		"english": "I will take",
+		"audio": "ავიღებ.mp3"
+	},
+	{
+		"georgian": "სამწუხარო",
+		"english": "unfortunate",
+		"audio": "სამწუხარო.mp3"
+	},
+	{
+		"georgian": "სამწუხაროდ",
+		"english": "unfortunately",
+		"audio": "სამწუხაროდ.mp3"
+	},
+	{
+		"georgian": "გაყიდული",
+		"english": "sold out",
+		"audio": "გაყიდული.mp3"
+	},
+	{
+		"georgian": "იკითხეთ",
+		"english": "(you) ask (pl./imp./aor.)",
+		"audio": "იკითხეთ.mp3"
+	},
+	{
+		"georgian": "ეგებ",
+		"english": "may be",
+		"audio": "ეგებ.mp3"
+	},
+	{
+		"georgian": "აქედან",
+		"english": "from here",
+		"audio": "აქედან.mp3"
+	},
+	{
+		"georgian": "მარჯვნივ",
+		"english": "to the right",
+		"audio": "მარჯვნივ.mp3"
+	},
+	{
+		"georgian": "მარცხნივ",
+		"english": "to the left",
+		"audio": "მარცხნივ.mp3"
+	},
+	{
+		"georgian": "უნდა გადავიხადო",
+		"english": "(I) should pay",
+		"audio": "უნდა გადავიხადო.mp3"
+	},
+	{
+		"georgian": "ოცდაცამეტი",
+		"english": "thirty-three",
+		"audio": "ოცდაცამეტი.mp3"
+	},
+	{
+		"georgian": "ხურდა",
+		"english": "small change",
+		"audio": "ხურდა.mp3"
+	},
+	{
+		"georgian": "ბანკი",
+		"english": "bank",
+		"audio": "ბანკი.mp3"
+	},
+	{
+		"georgian": "ანგარიში",
+		"english": "account",
+		"audio": "ანგარიში.mp3"
+	},
+	{
+		"georgian": "ოპერატორი",
+		"english": "bank teller",
+		"audio": "ოპერატორი.mp3"
+	},
+	{
+		"georgian": "მინდა გავიტანო",
+		"english": "I want to withdraw",
+		"audio": "მინდა გავიტანო.mp3"
+	},
+	{
+		"georgian": "ანგარიშიდან",
+		"english": "from (my) account",
+		"audio": "ანგარიშიდან.mp3"
+	},
+	{
+		"georgian": "ბარათი",
+		"english": "card",
+		"audio": "ბარათი.mp3"
+	},
+	{
+		"georgian": "მოწმობა",
+		"english": "document",
+		"audio": "მოწმობა.mp3"
+	},
+	{
+		"georgian": "ქვითარი",
+		"english": "receipt",
+		"audio": "ქვითარი.mp3"
+	},
+	{
+		"georgian": "გნებავთ",
+		"english": "do you wish",
+		"audio": "გნებავთ.mp3"
+	},
+	{
+		"georgian": "სალარო",
+		"english": "cashier's office",
+		"audio": "სალარო.mp3"
+	},
+	{
+		"georgian": "მიიღებთ",
+		"english": "You will receive",
+		"audio": "მიიღებთ.mp3"
+	},
+	{
+		"georgian": "გინდათ გაიტანოთ",
+		"english": "you wish to withdraw",
+		"audio": "გინდათ გაიტანოთ.mp3"
+	},
+	{
+		"georgian": "ინებეთ",
+		"english": "here you are",
+		"audio": "ინებეთ.mp3"
+	},
+	{
+		"georgian": "ევრო",
+		"english": "Euro",
+		"audio": "ევრო.mp3"
+	},
+	{
+		"georgian": "მინდა გადავცვალო",
+		"english": "I want to exchange",
+		"audio": "მინდა გადავცვალო.mp3"
+	},
+	{
+		"georgian": "დავრეკე",
+		"english": "I called",
+		"audio": "დავრეკე.mp3"
+	},
+	{
+		"georgian": "თქვენთან",
+		"english": "at your place",
+		"audio": "თქვენთან.mp3"
+	},
+	{
+		"georgian": "არავინ",
+		"english": "nobody",
+		"audio": "არავინ.mp3"
+	},
+	{
+		"georgian": "პასუხობდა",
+		"english": "was answering",
+		"audio": "პასუხობდა.mp3"
+	},
+	{
+		"georgian": "დროებით",
+		"english": "temporarily",
+		"audio": "დროებით.mp3"
+	},
+	{
+		"georgian": "გამორთული",
+		"english": "disconnected",
+		"audio": "გამორთული.mp3"
+	},
+	{
+		"georgian": "მობილური",
+		"english": "cell phone",
+		"audio": "მობილური.mp3"
+	},
+	{
+		"georgian": "ნომერი",
+		"english": "number",
+		"audio": "ნომერი.mp3"
+	},
+	{
+		"georgian": "ჩაიწერე",
+		"english": "write it down",
+		"audio": "ჩაიწერე.mp3"
+	},
+	{
+		"georgian": "ყავა",
+		"english": "coffee",
+		"audio": "ყავა.mp3"
+	},
+	{
+		"georgian": "დავლიოთ",
+		"english": "(let's) drink",
+		"audio": "დავლიოთ.mp3"
+	},
+	{
+		"georgian": "კაპეტერია",
+		"english": "cafeteria",
+		"audio": "კაპეტერია.mp3"
+	},
+	{
+		"georgian": "მშია",
+		"english": "I am hungry",
+		"audio": "მშია.mp3"
+	},
+	{
+		"georgian": "მოდი ვჭამოთ",
+		"english": "let's eat",
+		"audio": "მოდი ვჭამოთ.mp3"
+	},
+	{
+		"georgian": "სალათი",
+		"english": "salad",
+		"audio": "სალათი.mp3"
+	},
+	{
+		"georgian": "ავიღებ",
+		"english": "I will take (in the sense of have, order)",
+		"audio": "ავიღებ.mp3"
+	},
+	{
+		"georgian": "სუპი",
+		"english": "soup",
+		"audio": "სუპი.mp3"
+	},
+	{
+		"georgian": "ნამცხვარი",
+		"english": "pastry",
+		"audio": "ნამცხვარი.mp3"
+	},
+	{
+		"georgian": "დიეტა",
+		"english": "diet",
+		"audio": "დიეტა.mp3"
+	},
+	{
+		"georgian": "გჭირდება",
+		"english": "(you) need",
+		"audio": "გჭირდება.mp3"
+	},
+	{
+		"georgian": "ასე",
+		"english": "so, this way, this manner",
+		"audio": "ასე.mp3"
+	},
+	{
+		"georgian": "ფიქრობ",
+		"english": "(you) think",
+		"audio": "ფიქრობ.mp3"
+	},
+	{
+		"georgian": "დარწმუნებული",
+		"english": "sure, convinced",
+		"audio": "დარწმუნებული.mp3"
+	},
+	{
+		"georgian": "ნაჭერი",
+		"english": "piece",
+		"audio": "ნაჭერი.mp3"
+	},
+	{
+		"georgian": "ბოთლი",
+		"english": "bottle",
+		"audio": "ბოთლი.mp3"
+	},
+	{
+		"georgian": "ცივი",
+		"english": "cold",
+		"audio": "ცივი.mp3"
+	},
+	{
+		"georgian": "ლიმონათი",
+		"english": "lemonade",
+		"audio": "ლიმონათი.mp3"
+	},
+	{
+		"georgian": "ფანჯარასთან",
+		"english": "near window, at the window",
+		"audio": "ფანჯარასთან.mp3"
+	},
+	{
+		"georgian": "თავისუფალი",
+		"english": "free, vacant, unoccupied",
+		"audio": "თავისუფალი.mp3"
+	},
+	{
+		"georgian": "მაგიდა",
+		"english": "table",
+		"audio": "მაგიდა.mp3"
+	},
+	{
+		"georgian": "ყველაფერი",
+		"english": "everything",
+		"audio": "ყველაფერი.mp3"
+	},
+	{
+		"georgian": "მომავალ კვირას",
+		"english": "next week",
+		"audio": "მომავალ კვირას.mp3"
+	},
+	{
+		"georgian": "დაბადების დღე",
+		"english": "birthday",
+		"audio": "დაბადების დღე.mp3"
+	},
+	{
+		"georgian": "გახსოვს",
+		"english": "(you) remember",
+		"audio": "გახსოვს.mp3"
+	},
+	{
+		"georgian": "გამოდიან",
+		"english": "(they) come out, are coming out",
+		"audio": "გამოდიან.mp3"
+	},
+	{
+		"georgian": "აფთიაქი",
+		"english": "drugstore",
+		"audio": "აფთიაქი.mp3"
+	},
+	{
+		"georgian": "ფეხით",
+		"english": "on foot",
+		"audio": "ფეხით.mp3"
+	},
+	{
+		"georgian": "ფეხი",
+		"english": "foot",
+		"audio": "ფეხი.mp3"
+	},
+	{
+		"georgian": "მიხვალ",
+		"english": "(you) will get to",
+		"audio": "მიხვალ.mp3"
+	},
+	{
+		"georgian": "მეჩქარება",
+		"english": "I am in a hurry",
+		"audio": "მეჩქარება.mp3"
+	},
+	{
+		"georgian": "გავაჩერო",
+		"english": "(I) should stop, flag down, hail (a taxi)",
+		"audio": "გავაჩერო.mp3"
+	},
+	{
+		"georgian": "რად",
+		"english": "what for",
+		"audio": "რად.mp3"
+	},
+	{
+		"georgian": "წასვლა",
+		"english": "going",
+		"audio": "წასვლა.mp3"
+	},
+	{
+		"georgian": "ჯობია",
+		"english": "it's better",
+		"audio": "ჯობია.mp3"
+	},
+	{
+		"georgian": "მგზავრობა",
+		"english": "travel, traveling",
+		"audio": "მგზავრობა.mp3"
+	},
+	{
+		"georgian": "ყოველთვის",
+		"english": "always",
+		"audio": "ყოველთვის.mp3"
+	},
+	{
+		"georgian": "ვმგზავრობ",
+		"english": "I travel",
+		"audio": "ვმგზავრობ.mp3"
+	},
+	{
+		"georgian": "საჭირო",
+		"english": "necessary, required",
+		"audio": "საჭირო.mp3"
+	},
+	{
+		"georgian": "ბილეთი",
+		"english": "ticket",
+		"audio": "ბილეთი.mp3"
+	},
+	{
+		"georgian": "ჟეტონი",
+		"english": "token",
+		"audio": "ჟეტონი.mp3"
+	},
+	{
+		"georgian": "მძღოლი",
+		"english": "driver",
+		"audio": "მძღოლი.mp3"
+	},
+	{
+		"georgian": "მიეცი",
+		"english": "(you) give",
+		"audio": "მიეცი.mp3"
+	},
+	{
+		"georgian": "როგორც",
+		"english": "just like, similar to",
+		"audio": "როგორც.mp3"
+	},
+	{
+		"georgian": "დაგიბრუნებს",
+		"english": "(s/he) will return (something)",
+		"audio": "დაგიბრუნებს.mp3"
+	},
+	{
+		"georgian": "გაჩერება",
+		"english": "(bus) stop",
+		"audio": "გაჩერება.mp3"
+	},
+	{
+		"georgian": "გაზეთი",
+		"english": "newspaper",
+		"audio": "გაზეთი.mp3"
+	},
+	{
+		"georgian": "ჯიხური",
+		"english": "booth, stand",
+		"audio": "ჯიხური.mp3"
+	},
+	{
+		"georgian": "ჩაჯექი",
+		"english": "(you) get on",
+		"audio": "ჩაჯექი.mp3"
+	},
+	{
+		"georgian": "მესამე",
+		"english": "third",
+		"audio": "მესამე.mp3"
+	},
+	{
+		"georgian": "ჩამოდი",
+		"english": "(you) get off",
+		"audio": "ჩამოდი.mp3"
+	},
+	{
+		"georgian": "ინტერნეტკლუბი",
+		"english": "Internet club",
+		"audio": "ინტერნეტკლუბი.mp3"
+	},
+	{
+		"georgian": "იმეილი",
+		"english": "e-mail",
+		"audio": "იმეილი.mp3"
+	},
+	{
+		"georgian": "გავუგზავნო",
+		"english": "(should) send (him/her/them)",
+		"audio": "გავუგზავნო.mp3"
+	},
+	{
+		"georgian": "გაკეთება",
+		"english": "making",
+		"audio": "გაკეთება.mp3"
+	},
+	{
+		"georgian": "დავიწყოთ",
+		"english": "(shall we, let's) start",
+		"audio": "დავიწყოთ.mp3"
+	},
+	{
+		"georgian": "აიღებ",
+		"english": "(you) will take",
+		"audio": "აიღებ.mp3"
+	},
+	{
+		"georgian": "ჭიქა",
+		"english": "cup, glass",
+		"audio": "ჭიქა.mp3"
+	},
+	{
+		"georgian": "მინერალური",
+		"english": "mineral",
+		"audio": "მინერალური.mp3"
+	},
+	{
+		"georgian": "დაუმატებ",
+		"english": "(you) will add",
+		"audio": "დაუმატებ.mp3"
+	},
+	{
+		"georgian": "ცოტ-ცოტა",
+		"english": "little-by-little",
+		"audio": "ცოტ-ცოტა.mp3"
+	},
+	{
+		"georgian": "ფქვილი",
+		"english": "flour",
+		"audio": "ფქვილი.mp3"
+	},
+	{
+		"georgian": "მოზელავ",
+		"english": "(you) will knead",
+		"audio": "მოზელავ.mp3"
+	},
+	{
+		"georgian": "ცოტა",
+		"english": "a little, few",
+		"audio": "ცოტა.mp3"
+	},
+	{
+		"georgian": "ცომი",
+		"english": "dough",
+		"audio": "ცომი.mp3"
+	},
+	{
+		"georgian": "რბილი",
+		"english": "soft",
+		"audio": "რბილი.mp3"
+	},
+	{
+		"georgian": "გააკეთებ",
+		"english": "(you) will make",
+		"audio": "გააკეთებ.mp3"
+	},
+	{
+		"georgian": "გუნდა",
+		"english": "ball (of dough or snow)",
+		"audio": "გუნდა.mp3"
+	},
+	{
+		"georgian": "შუაში",
+		"english": "in the middle",
+		"audio": "შუაში.mp3"
+	},
+	{
+		"georgian": "გააბრტყელებ",
+		"english": "(you) will flatten",
+		"audio": "გააბრტყელებ.mp3"
+	},
+	{
+		"georgian": "ზედ",
+		"english": "on it, on top of it",
+		"audio": "ზედ.mp3"
+	},
+	{
+		"georgian": "დააყრი",
+		"english": "(you) will spread, sprinkle",
+		"audio": "დააყრი.mp3"
+	},
+	{
+		"georgian": "გახეხილი",
+		"english": "grated",
+		"audio": "გახეხილი.mp3"
+	},
+	{
+		"georgian": "დაფხვნილი",
+		"english": "crumbled",
+		"audio": "დაფხვნილი.mp3"
+	},
+	{
+		"georgian": "ნაპირი",
+		"english": "edge, shore (of a river or sea)",
+		"audio": "ნაპირი.mp3"
+	},
+	{
+		"georgian": "შეკრავ",
+		"english": "(you) will tie",
+		"audio": "შეკრავ.mp3"
+	},
+	{
+		"georgian": "მერე",
+		"english": "afterwards, after",
+		"audio": "მერე.mp3"
+	},
+	{
+		"georgian": "ისევ",
+		"english": "again",
+		"audio": "ისევ.mp3"
+	},
+	{
+		"georgian": "იხმარო",
+		"english": "(you) use",
+		"audio": "იხმარო.mp3"
+	},
+	{
+		"georgian": "მარილიანი",
+		"english": "salty",
+		"audio": "მარილიანი.mp3"
+	},
+	{
+		"georgian": "დაალბობ",
+		"english": "(you) will soften, soak",
+		"audio": "დაალბობ.mp3"
+	},
+	{
+		"georgian": "ამასობაში",
+		"english": "meanwhile",
+		"audio": "ამასობაში.mp3"
+	},
+	{
+		"georgian": "გააცხელებ",
+		"english": "(you) will heat up",
+		"audio": "გააცხელებ.mp3"
+	},
+	{
+		"georgian": "ტაფა",
+		"english": "skillet",
+		"audio": "ტაფა.mp3"
+	},
+	{
+		"georgian": "დადებ",
+		"english": "(you) will put (on)",
+		"audio": "დადებ.mp3"
+	},
+	{
+		"georgian": "ყველიანი",
+		"english": "with cheese, cheesy",
+		"audio": "ყველიანი.mp3"
+	},
+	{
+		"georgian": "შედებ",
+		"english": "(you) will put in",
+		"audio": "შედებ.mp3"
+	},
+	{
+		"georgian": "ცხელი",
+		"english": "hot",
+		"audio": "ცხელი.mp3"
+	},
+	{
+		"georgian": "საკმაოდ ცხელი",
+		"english": "rather hot",
+		"audio": "საკმაოდ ცხელი.mp3"
+	},
+	{
+		"georgian": "მაშინ",
+		"english": "then, what then, in that case",
+		"audio": "მაშინ.mp3"
+	},
+	{
+		"georgian": "კვერცხი",
+		"english": "egg",
+		"audio": "კვერცხი.mp3"
+	},
+	{
+		"georgian": "გამდნარი",
+		"english": "melted",
+		"audio": "გამდნარი.mp3"
+	},
+	{
+		"georgian": "კარაქი",
+		"english": "butter",
+		"audio": "კარაქი.mp3"
+	},
+	{
+		"georgian": "სოდა",
+		"english": "soda (baking soda)",
+		"audio": "სოდა.mp3"
+	},
+	{
+		"georgian": "კოვზი",
+		"english": "spoon",
+		"audio": "კოვზი.mp3"
+	},
+	{
+		"georgian": "ავირჩიეთ",
+		"english": "(we) chose",
+		"audio": "ავირჩიეთ.mp3"
+	},
+	{
+		"georgian": "ჩემს გვერდით",
+		"english": "by my side, next to me",
+		"audio": "ჩემს გვერდით.mp3"
+	},
+	{
+		"georgian": "დასხედით",
+		"english": "(you) sit down",
+		"audio": "დასხედით.mp3"
+	},
+	{
+		"georgian": "გილოცავ",
+		"english": "I congratulate you",
+		"audio": "გილოცავ.mp3"
+	},
+	{
+		"georgian": "საჩუქარი",
+		"english": "gift",
+		"audio": "საჩუქარი.mp3"
+	},
+	{
+		"georgian": "სადღეგრძელო",
+		"english": "a toast (lit.: for long days)",
+		"audio": "სადღეგრძელო.mp3"
+	},
+	{
+		"georgian": "ცარიელი",
+		"english": "empty",
+		"audio": "ცარიელი.mp3"
+	},
+	{
+		"georgian": "ნუ",
+		"english": "don't (used in requests not to do sth.)",
+		"audio": "ნუ.mp3"
+	},
+	{
+		"georgian": "წვენი",
+		"english": "juice",
+		"audio": "წვენი.mp3"
+	},
+	{
+		"georgian": "გისურვებ",
+		"english": "I wish you",
+		"audio": "გისურვებ.mp3"
+	},
+	{
+		"georgian": "ბედნიერება",
+		"english": "happiness",
+		"audio": "ბედნიერება.mp3"
+	},
+	{
+		"georgian": "ყოფნა",
+		"english": "being",
+		"audio": "ყოფნა.mp3"
+	},
+	{
+		"georgian": "ყველა",
+		"english": "all, everybody, everyone",
+		"audio": "ყველა.mp3"
+	},
+	{
+		"georgian": "ახლობელი",
+		"english": "a loved one, a relative",
+		"audio": "ახლობელი.mp3"
+	},
+	{
+		"georgian": "ახლობლები",
+		"english": "loved ones, relatives",
+		"audio": "ახლობლები.mp3"
+	},
+	{
+		"georgian": "წარმატება",
+		"english": "success",
+		"audio": "წარმატება.mp3"
+	},
+	{
+		"georgian": "ჯერი",
+		"english": "turn",
+		"audio": "ჯერი.mp3"
+	},
+	{
+		"georgian": "ჩემი ჯერია",
+		"english": "my turn",
+		"audio": "ჩემი ჯერია.mp3"
+	},
+	{
+		"georgian": "შენი ჯერია",
+		"english": "your turn",
+		"audio": "შენი ჯერია.mp3"
+	},
+	{
+		"georgian": "კეთილი",
+		"english": "kind",
+		"audio": "კეთილი.mp3"
+	},
+	{
+		"georgian": "სურვილი",
+		"english": "wish",
+		"audio": "სურვილი.mp3"
+	},
+	{
+		"georgian": "სურვილები",
+		"english": "wishes",
+		"audio": "სურვილები.mp3"
+	},
+	{
+		"georgian": "ვიცეკვოთ",
+		"english": "(let's) dance",
+		"audio": "ვიცეკვოთ.mp3"
+	},
+	{
+		"georgian": "ახალი",
+		"english": "new",
+		"audio": "ახალი.mp3"
+	},
+	{
+		"georgian": "ჯერ",
+		"english": "first of all, before anything else",
+		"audio": "ჯერ.mp3"
+	},
+	{
+		"georgian": "ვიმღეროთ",
+		"english": "(let's) sing",
+		"audio": "ვიმღეროთ.mp3"
+	},
+	{
+		"georgian": "მოედანი",
+		"english": "(city) square",
+		"audio": "მოედანი.mp3"
+	},
+	{
+		"georgian": "პლატო",
+		"english": "plateau, flat top of mountain",
+		"audio": "პლატო.mp3"
+	},
+	{
+		"georgian": "ხედი",
+		"english": "view",
+		"audio": "ხედი.mp3"
+	},
+	{
+		"georgian": "მხარე",
+		"english": "side",
+		"audio": "მხარე.mp3"
+	},
+	{
+		"georgian": "ქრისტიანი",
+		"english": "Christian",
+		"audio": "ქრისტიანი.mp3"
+	},
+	{
+		"georgian": "მთავარი",
+		"english": "main",
+		"audio": "მთავარი.mp3"
+	},
+	{
+		"georgian": "მეჩეთი",
+		"english": "mosque",
+		"audio": "მეჩეთი.mp3"
+	},
+	{
+		"georgian": "ხიდი",
+		"english": "bridge",
+		"audio": "ხიდი.mp3"
+	},
+	{
+		"georgian": "შიიტური",
+		"english": "Shiite",
+		"audio": "შიიტური.mp3"
+	},
+	{
+		"georgian": "დაიწყეს",
+		"english": "(they) started",
+		"audio": "დაიწყეს.mp3"
+	},
+	{
+		"georgian": "მშენებლობა",
+		"english": "construction",
+		"audio": "მშენებლობა.mp3"
+	},
+	{
+		"georgian": "დაანგრიეს",
+		"english": "(they) demolished",
+		"audio": "დაანგრიეს.mp3"
+	},
+	{
+		"georgian": "ბოტანიკური",
+		"english": "botanical",
+		"audio": "ბოტანიკური.mp3"
+	},
+	{
+		"georgian": "ბაღი",
+		"english": "garden",
+		"audio": "ბაღი.mp3"
+	},
+	{
+		"georgian": "ხედავთ",
+		"english": "(you pl./pol.) see",
+		"audio": "ხედავთ.mp3"
+	},
+	{
+		"georgian": "სუნიტური",
+		"english": "Sunni",
+		"audio": "სუნიტური.mp3"
+	},
+	{
+		"georgian": "ლოცულობდნენ",
+		"english": "(they) prayed",
+		"audio": "ლოცულობდნენ.mp3"
+	},
+	{
+		"georgian": "მართლაც",
+		"english": "indeed",
+		"audio": "მართლაც.mp3"
+	},
+	{
+		"georgian": "შესანიშნავი",
+		"english": "remarkable",
+		"audio": "შესანიშნავი.mp3"
+	},
+	{
+		"georgian": "ებრაული",
+		"english": "Jewish (referring to inanimate things)",
+		"audio": "ებრაული.mp3"
+	},
+	{
+		"georgian": "სინაგოგა",
+		"english": "synagogue",
+		"audio": "სინაგოგა.mp3"
+	},
+	{
+		"georgian": "სომხური",
+		"english": "Armenian (referring to inanimate things)",
+		"audio": "სომხური.mp3"
+	},
+	{
+		"georgian": "ეკლესია",
+		"english": "church",
+		"audio": "ეკლესია.mp3"
+	},
+	{
+		"georgian": "ადგილი",
+		"english": "place",
+		"audio": "ადგილი.mp3"
+	},
+	{
+		"georgian": "რელიგიური",
+		"english": "religious",
+		"audio": "რელიგიური.mp3"
+	},
+	{
+		"georgian": "ტოლერანტობა",
+		"english": "tolerance",
+		"audio": "ტოლერანტობა.mp3"
+	},
+	{
+		"georgian": "სიმბოლო",
+		"english": "symbol",
+		"audio": "სიმბოლო.mp3"
+	},
+	{
+		"georgian": "ააშენეს",
+		"english": "(they) built",
+		"audio": "ააშენეს.mp3"
+	},
+	{
+		"georgian": "ტაძარი",
+		"english": "cathedral",
+		"audio": "ტაძარი.mp3"
+	},
+	{
+		"georgian": "დაამთავრეს",
+		"english": "(they) completed, finished",
+		"audio": "დაამთავრეს.mp3"
+	},
+	{
+		"georgian": "დააფინანსა",
+		"english": "(s/he) financed",
+		"audio": "დააფინანსა.mp3"
+	},
+	{
+		"georgian": "მთელი",
+		"english": "all, all of",
+		"audio": "მთელი.mp3"
+	},
+	{
+		"georgian": "კერძო",
+		"english": "private",
+		"audio": "კერძო.mp3"
+	},
+	{
+		"georgian": "პირი",
+		"english": "person",
+		"audio": "პირი.mp3"
+	},
+	{
+		"georgian": "ორგანიზაცია",
+		"english": "organization",
+		"audio": "ორგანიზაცია.mp3"
+	},
+	{
+		"georgian": "ექსკურსია",
+		"english": "excursion",
+		"audio": "ექსკურსია.mp3"
+	}
+]

@@ -1,0 +1,834 @@
+[
+	{
+		"georgian": "მე",
+		"english": "I"
+	},
+	{
+		"georgian": "შენ",
+		"english": "you (singular)"
+	},
+	{
+		"georgian": "ის",
+		"english": "he, she"
+	},
+	{
+		"georgian": "ჩვენ",
+		"english": "we"
+	},
+	{
+		"georgian": "თქვენ",
+		"english": "you (plural)"
+	},
+	{
+		"georgian": "ისინი",
+		"english": "they"
+	},
+	{
+		"georgian": "ეს",
+		"english": "this"
+	},
+	{
+		"georgian": "ის",
+		"english": "that"
+	},
+	{
+		"georgian": "აქ",
+		"english": "here"
+	},
+	{
+		"georgian": "იქ",
+		"english": "there"
+	},
+	{
+		"georgian": "ვინ",
+		"english": "who"
+	},
+	{
+		"georgian": "რა",
+		"english": "what"
+	},
+	{
+		"georgian": "სად",
+		"english": "where"
+	},
+	{
+		"georgian": "როდის",
+		"english": "when"
+	},
+	{
+		"georgian": "როგორ",
+		"english": "how"
+	},
+	{
+		"georgian": "არ",
+		"english": "not"
+	},
+	{
+		"georgian": "ყველაფერი",
+		"english": "all"
+	},
+	{
+		"georgian": "ბევრი",
+		"english": "many"
+	},
+	{
+		"georgian": "რამდენიმე",
+		"english": "some"
+	},
+	{
+		"georgian": "ცოტა",
+		"english": "few"
+	},
+	{
+		"georgian": "სხვა",
+		"english": "other"
+	},
+	{
+		"georgian": "ერთი",
+		"english": "one"
+	},
+	{
+		"georgian": "ორი",
+		"english": "two"
+	},
+	{
+		"georgian": "სამი",
+		"english": "three"
+	},
+	{
+		"georgian": "ოთხი",
+		"english": "four"
+	},
+	{
+		"georgian": "ხუთი",
+		"english": "five"
+	},
+	{
+		"georgian": "დიდი",
+		"english": "big"
+	},
+	{
+		"georgian": "გრძელი",
+		"english": "long"
+	},
+	{
+		"georgian": "ფართო, განიერი",
+		"english": "wide"
+	},
+	{
+		"georgian": "სქელი",
+		"english": "thick"
+	},
+	{
+		"georgian": "მძიმე",
+		"english": "heavy"
+	},
+	{
+		"georgian": "პატარა",
+		"english": "small"
+	},
+	{
+		"georgian": "მოკლე",
+		"english": "short"
+	},
+	{
+		"georgian": "ვიწრო",
+		"english": "narrow"
+	},
+	{
+		"georgian": "თხელი",
+		"english": "thin"
+	},
+	{
+		"georgian": "ქალი",
+		"english": "woman"
+	},
+	{
+		"georgian": "კაცი",
+		"english": "man (adult male)"
+	},
+	{
+		"georgian": "ადამიანი",
+		"english": "man (human being)"
+	},
+	{
+		"georgian": "ბავშვი",
+		"english": "child"
+	},
+	{
+		"georgian": "ცოლი",
+		"english": "wife"
+	},
+	{
+		"georgian": "ქმარი",
+		"english": "husband"
+	},
+	{
+		"georgian": "დედა",
+		"english": "mother"
+	},
+	{
+		"georgian": "მამა",
+		"english": "father"
+	},
+	{
+		"georgian": "ცხოველი",
+		"english": "animal"
+	},
+	{
+		"georgian": "თევზი",
+		"english": "fish"
+	},
+	{
+		"georgian": "ჩიტი",
+		"english": "bird"
+	},
+	{
+		"georgian": "ძაღლი",
+		"english": "dog"
+	},
+	{
+		"georgian": "ტილი",
+		"english": "louse"
+	},
+	{
+		"georgian": "გველი",
+		"english": "snake"
+	},
+	{
+		"georgian": "ჭია",
+		"english": "worm"
+	},
+	{
+		"georgian": "ხე",
+		"english": "tree"
+	},
+	{
+		"georgian": "ტყე",
+		"english": "forest"
+	},
+	{
+		"georgian": "ჯოხი",
+		"english": "stick"
+	},
+	{
+		"georgian": "ხილი",
+		"english": "fruit"
+	},
+	{
+		"georgian": "თესლი",
+		"english": "seed"
+	},
+	{
+		"georgian": "ფოთოლი",
+		"english": "leaf"
+	},
+	{
+		"georgian": "ფესვი",
+		"english": "root"
+	},
+	{
+		"georgian": "ქერქი",
+		"english": "bark (of a tree)"
+	},
+	{
+		"georgian": "ყვავილი",
+		"english": "flower"
+	},
+	{
+		"georgian": "ბალახი",
+		"english": "grass"
+	},
+	{
+		"georgian": "თოკი",
+		"english": "rope"
+	},
+	{
+		"georgian": "კანი",
+		"english": "skin"
+	},
+	{
+		"georgian": "ხორცი",
+		"english": "meat"
+	},
+	{
+		"georgian": "სისხლი",
+		"english": "blood"
+	},
+	{
+		"georgian": "ძვალი",
+		"english": "bone"
+	},
+	{
+		"georgian": "ქონი, ცხიმი",
+		"english": "fat"
+	},
+	{
+		"georgian": "კვერცხი",
+		"english": "egg"
+	},
+	{
+		"georgian": "რქა",
+		"english": "horn"
+	},
+	{
+		"georgian": "კუდი",
+		"english": "tail"
+	},
+	{
+		"georgian": "ფრთა",
+		"english": "feather"
+	},
+	{
+		"georgian": "თმა",
+		"english": "hair"
+	},
+	{
+		"georgian": "თავი",
+		"english": "head"
+	},
+	{
+		"georgian": "ყური",
+		"english": "ear"
+	},
+	{
+		"georgian": "თვალი",
+		"english": "eye"
+	},
+	{
+		"georgian": "ცხვირი",
+		"english": "nose"
+	},
+	{
+		"georgian": "პირი",
+		"english": "mouth"
+	},
+	{
+		"georgian": "კბილი",
+		"english": "tooth"
+	},
+	{
+		"georgian": "ენა",
+		"english": "tongue (organ)"
+	},
+	{
+		"georgian": "ფრჩხილი",
+		"english": "fingernail"
+	},
+	{
+		"georgian": "ტერფი",
+		"english": "foot"
+	},
+	{
+		"georgian": "ფეხი",
+		"english": "leg"
+	},
+	{
+		"georgian": "მუხლი",
+		"english": "knee"
+	},
+	{
+		"georgian": "ხელი",
+		"english": "hand"
+	},
+	{
+		"georgian": "ფრთა",
+		"english": "wing"
+	},
+	{
+		"georgian": "მუცელი",
+		"english": "belly"
+	},
+	{
+		"georgian": "ნაწლავი",
+		"english": "guts"
+	},
+	{
+		"georgian": "კისერი",
+		"english": "neck"
+	},
+	{
+		"georgian": "ზურგი",
+		"english": "back"
+	},
+	{
+		"georgian": "მკერდი",
+		"english": "breast"
+	},
+	{
+		"georgian": "გული",
+		"english": "heart"
+	},
+	{
+		"georgian": "ღვიძლი",
+		"english": "liver"
+	},
+	{
+		"georgian": "სმა",
+		"english": "to drink"
+	},
+	{
+		"georgian": "ჭამა",
+		"english": "to eat"
+	},
+	{
+		"georgian": "კბენა",
+		"english": "to bite"
+	},
+	{
+		"georgian": "წოვა",
+		"english": "to suck"
+	},
+	{
+		"georgian": "გადაფურთხება",
+		"english": "to spit"
+	},
+	{
+		"georgian": "პირის ღებინება",
+		"english": "to vomit"
+	},
+	{
+		"georgian": "მობერვა",
+		"english": "to blow"
+	},
+	{
+		"georgian": "სუნთქვა",
+		"english": "to breathe"
+	},
+	{
+		"georgian": "სიცილი",
+		"english": "to laugh"
+	},
+	{
+		"georgian": "ნახვა",
+		"english": "to see"
+	},
+	{
+		"georgian": "მოსმენა",
+		"english": "to hear"
+	},
+	{
+		"georgian": "ცოდნა",
+		"english": "to know"
+	},
+	{
+		"georgian": "ფიქრი",
+		"english": "to think"
+	},
+	{
+		"georgian": "ყნოსვა",
+		"english": "to smell"
+	},
+	{
+		"georgian": "შიში",
+		"english": "to fear"
+	},
+	{
+		"georgian": "ძილი",
+		"english": "to sleep"
+	},
+	{
+		"georgian": "ცხოვრება",
+		"english": "to live"
+	},
+	{
+		"georgian": "მიცვალება",
+		"english": "to die"
+	},
+	{
+		"georgian": "კვლა",
+		"english": "to kill"
+	},
+	{
+		"georgian": "ბრძოლა",
+		"english": "to fight"
+	},
+	{
+		"georgian": "ნადირობა",
+		"english": "to hunt"
+	},
+	{
+		"georgian": "რტყმა",
+		"english": "to hit"
+	},
+	{
+		"georgian": "გაჭრა",
+		"english": "to cut"
+	},
+	{
+		"georgian": "მტვრევა",
+		"english": "to split"
+	},
+	{
+		"georgian": "ხანჯლის ჩარტყმა",
+		"english": "to stab"
+	},
+	{
+		"georgian": "ფხაჭნა",
+		"english": "to scratch"
+	},
+	{
+		"georgian": "ბარვა",
+		"english": "to dig"
+	},
+	{
+		"georgian": "ცურვა",
+		"english": "to swim"
+	},
+	{
+		"georgian": "ფრენა",
+		"english": "to fly"
+	},
+	{
+		"georgian": "სიარული",
+		"english": "to walk"
+	},
+	{
+		"georgian": "მოსვლა",
+		"english": "to come"
+	},
+	{
+		"georgian": "წოლა",
+		"english": "to lie (as in a bed)"
+	},
+	{
+		"georgian": "ჯდომა",
+		"english": "to sit"
+	},
+	{
+		"georgian": "ადგომა",
+		"english": "to stand"
+	},
+	{
+		"georgian": "დგომა",
+		"english": "to stand"
+	},
+	{
+		"georgian": "ტრიალი",
+		"english": "to turn"
+	},
+	{
+		"georgian": "დაცემა",
+		"english": "to fall"
+	},
+	{
+		"georgian": "მიცემა",
+		"english": "to give"
+	},
+	{
+		"georgian": "ჭერა",
+		"english": "to hold"
+	},
+	{
+		"georgian": "დაწოლა",
+		"english": "to squeeze"
+	},
+	{
+		"georgian": "წმენდა",
+		"english": "to rub"
+	},
+	{
+		"georgian": "გარეცხვა",
+		"english": "to wash"
+	},
+	{
+		"georgian": "გაწმენდა",
+		"english": "to wipe"
+	},
+	{
+		"georgian": "გათრევა",
+		"english": "to pull"
+	},
+	{
+		"georgian": "ბიძგება",
+		"english": "to push"
+	},
+	{
+		"georgian": "გადაგდება",
+		"english": "to throw"
+	},
+	{
+		"georgian": "შეხვევა",
+		"english": "to tie"
+	},
+	{
+		"georgian": "კერვა",
+		"english": "to sew"
+	},
+	{
+		"georgian": "თვლა",
+		"english": "to count"
+	},
+	{
+		"georgian": "თქმა",
+		"english": "to say"
+	},
+	{
+		"georgian": "მღერა",
+		"english": "to sing"
+	},
+	{
+		"georgian": "თამაშობა",
+		"english": "to play"
+	},
+	{
+		"georgian": "ცურვა",
+		"english": "to float"
+	},
+	{
+		"georgian": "დენა",
+		"english": "to flow"
+	},
+	{
+		"georgian": "გაყინვა",
+		"english": "to freeze"
+	},
+	{
+		"georgian": "გადიდება",
+		"english": "to swell"
+	},
+	{
+		"georgian": "მზე",
+		"english": "sun"
+	},
+	{
+		"georgian": "მთვარე",
+		"english": "moon"
+	},
+	{
+		"georgian": "ვარსკვლავი",
+		"english": "star"
+	},
+	{
+		"georgian": "წყალი",
+		"english": "water"
+	},
+	{
+		"georgian": "წვიმა",
+		"english": "rain"
+	},
+	{
+		"georgian": "მდინარე",
+		"english": "river"
+	},
+	{
+		"georgian": "ტბა",
+		"english": "lake"
+	},
+	{
+		"georgian": "ზღვა",
+		"english": "sea"
+	},
+	{
+		"georgian": "მარილი",
+		"english": "salt"
+	},
+	{
+		"georgian": "ქვა",
+		"english": "stone"
+	},
+	{
+		"georgian": "სილა",
+		"english": "sand"
+	},
+	{
+		"georgian": "მტვერი",
+		"english": "dust"
+	},
+	{
+		"georgian": "მიწა",
+		"english": "earth"
+	},
+	{
+		"georgian": "ღრუბელი",
+		"english": "cloud"
+	},
+	{
+		"georgian": "ნისლი",
+		"english": "fog"
+	},
+	{
+		"georgian": "ცა",
+		"english": "sky"
+	},
+	{
+		"georgian": "ქარი",
+		"english": "wind"
+	},
+	{
+		"georgian": "თოვლი",
+		"english": "snow"
+	},
+	{
+		"georgian": "ყინული",
+		"english": "ice"
+	},
+	{
+		"georgian": "კვამლი",
+		"english": "smoke"
+	},
+	{
+		"georgian": "ცეცხლი, ხანძარი",
+		"english": "fire"
+	},
+	{
+		"georgian": "ფერფლი",
+		"english": "ash"
+	},
+	{
+		"georgian": "წვა",
+		"english": "to burn"
+	},
+	{
+		"georgian": "გზა",
+		"english": "road"
+	},
+	{
+		"georgian": "მთა",
+		"english": "mountain"
+	},
+	{
+		"georgian": "წითელი",
+		"english": "red"
+	},
+	{
+		"georgian": "მწვანე",
+		"english": "green"
+	},
+	{
+		"georgian": "ყვითელი",
+		"english": "yellow"
+	},
+	{
+		"georgian": "თეთრი",
+		"english": "white"
+	},
+	{
+		"georgian": "შავი",
+		"english": "black"
+	},
+	{
+		"georgian": "ღამე",
+		"english": "night"
+	},
+	{
+		"georgian": "დღე",
+		"english": "day"
+	},
+	{
+		"georgian": "წელი",
+		"english": "year"
+	},
+	{
+		"georgian": "თბილი",
+		"english": "warm"
+	},
+	{
+		"georgian": "ცივი",
+		"english": "cold"
+	},
+	{
+		"georgian": "სავსე",
+		"english": "full"
+	},
+	{
+		"georgian": "ახალი",
+		"english": "new"
+	},
+	{
+		"georgian": "ძველი",
+		"english": "old"
+	},
+	{
+		"georgian": "კარგი",
+		"english": "good"
+	},
+	{
+		"georgian": "ცუდი",
+		"english": "bad"
+	},
+	{
+		"georgian": "დამპალი, გაფუჭებული",
+		"english": "rotten"
+	},
+	{
+		"georgian": "ჭუჭყიანი",
+		"english": "dirty"
+	},
+	{
+		"georgian": "პირდაპირი",
+		"english": "straight"
+	},
+	{
+		"georgian": "მრგვალი",
+		"english": "round"
+	},
+	{
+		"georgian": "ბასრი",
+		"english": "sharp (as a knife)"
+	},
+	{
+		"georgian": "ჩლუნგი",
+		"english": "dull (as a knife)"
+	},
+	{
+		"georgian": "გლუვი",
+		"english": "smooth"
+	},
+	{
+		"georgian": "სველი",
+		"english": "wet"
+	},
+	{
+		"georgian": "მშრალი",
+		"english": "dry"
+	},
+	{
+		"georgian": "ზუსტი",
+		"english": "correct"
+	},
+	{
+		"georgian": "ახლოს",
+		"english": "near"
+	},
+	{
+		"georgian": "შორს",
+		"english": "far"
+	},
+	{
+		"georgian": "მარჯვენა",
+		"english": "right"
+	},
+	{
+		"georgian": "მარცხენა",
+		"english": "left"
+	},
+	{
+		"georgian": "-ში",
+		"english": "at, in"
+	},
+	{
+		"georgian": "-თან",
+		"english": "with"
+	},
+	{
+		"georgian": "და",
+		"english": "and"
+	},
+	{
+		"georgian": "თუ, რომ",
+		"english": "if"
+	},
+	{
+		"georgian": "რადგან",
+		"english": "because"
+	},
+	{
+		"georgian": "სახელი",
+		"english": "(given) name"
+	},
+	{
+		"georgian": "გვარი",
+		"english": "(family) name"
+	}
+]

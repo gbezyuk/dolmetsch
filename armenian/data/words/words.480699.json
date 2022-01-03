@@ -1,0 +1,1822 @@
+[
+	{
+		"armenian": "ներեցե'ք, պարոն ...",
+		"english": "Excuse me, Sir ..."
+	},
+	{
+		"armenian": "ներեցե'ք, տիկին ...",
+		"english": "Excuse me, Madam ..."
+	},
+	{
+		"armenian": "կարելի՞ է ձեզ մի բան հարցնել:",
+		"english": "May I ask you something?"
+	},
+	{
+		"armenian": "անշու'շտ:",
+		"english": "Of course."
+	},
+	{
+		"armenian": "խնդրե'մ:",
+		"english": "Please, go ahead."
+	},
+	{
+		"armenian": "բարև, մարի:",
+		"english": "Hello, Mary."
+	},
+	{
+		"armenian": "բարի լույս, տիկին ազարյան:",
+		"english": "Good morning, Mrs. Azarian."
+	},
+	{
+		"armenian": "բարի երեկո, օրիորդ:",
+		"english": "Good evening, Miss."
+	},
+	{
+		"armenian": "անունդ ի՞նչ է:",
+		"english": "What’s your name? (informal)"
+	},
+	{
+		"armenian": "ձեր անունը ի՞նչ է:",
+		"english": "What’s your name? (formal)"
+	},
+	{
+		"armenian": "անունս անի է:",
+		"english": "My name is Ani."
+	},
+	{
+		"armenian": "ազգանունս սարյան է:",
+		"english": "My last name is Saryan."
+	},
+	{
+		"armenian": "(շատ) ուրախ եմ:",
+		"english": "I am (very) pleased (to meet you)."
+	},
+	{
+		"armenian": "դու հա՞յ ես:/ դուք հա՞յ եք:",
+		"english": "Are you Armenian? (informal/formal)"
+	},
+	{
+		"armenian": "այո', հայ եմ:",
+		"english": "Yes, I am (Armenian)."
+	},
+	{
+		"armenian": "ո'չ, ես հայ չեմ:",
+		"english": "No, I am not (Armenian)."
+	},
+	{
+		"armenian": "դուք ամերիկացի՞ եք:",
+		"english": "Are you (formal) American? (male)"
+	},
+	{
+		"armenian": "դուք ամերիկուհի՞ եք:",
+		"english": "Are you (formal) American? (female)"
+	},
+	{
+		"armenian": "այո', ամերիկացի/ամերիկուհի եմ:",
+		"english": "Yes, I am American (male/female)."
+	},
+	{
+		"armenian": "իսկ աննան ազգությամբ ի՞նչ է:",
+		"english": "And what (nationality) is Anna?"
+	},
+	{
+		"armenian": "անգլուհի/ֆրանսուհի է:",
+		"english": "She is English / French (female)."
+	},
+	{
+		"armenian": "սամվելն է՞լ ֆրանսիացի է:",
+		"english": "Is Samuel also French (male)?"
+	},
+	{
+		"armenian": "ո'չ, ամերիկացի է:",
+		"english": "No, he is American (male)."
+	},
+	{
+		"armenian": "իսկ դո՞ւ:",
+		"english": "And you?"
+	},
+	{
+		"armenian": "ես կանադացի/կանադուհի եմ:",
+		"english": "I am Canadian (male/female)."
+	},
+	{
+		"armenian": "ինչպե՞ս ես, լիլիթ:",
+		"english": "How are you, Lilith?"
+	},
+	{
+		"armenian": "ինչպե՞ս եք, պարոն սարյան:",
+		"english": "How are you, Mr. Saryan?"
+	},
+	{
+		"armenian": "լավ եմ, շնորհակալություն:",
+		"english": "I am fine, thanks."
+	},
+	{
+		"armenian": "իսկ դո՞ւք ինչպես եք:",
+		"english": "And how are you? (formal)"
+	},
+	{
+		"armenian": "ես էլ լավ եմ, շնորհակալ եմ:",
+		"english": "I am also well, thank you."
+	},
+	{
+		"armenian": "նե'րս արի, խնդրեմ:",
+		"english": "Come in, please. (informal)"
+	},
+	{
+		"armenian": "նե'րս եկեք, խնդրեմ:",
+		"english": "Come in, please. (formal)"
+	},
+	{
+		"armenian": "բարո՜վ եկար/եկաք:",
+		"english": "You are welcome! (informal/formal)"
+	},
+	{
+		"armenian": "սա ի՞նչ է:",
+		"english": "What is this?"
+	},
+	{
+		"armenian": "սա գիրք է:",
+		"english": "This is a book."
+	},
+	{
+		"armenian": "իսկ սա՞:",
+		"english": "And this?"
+	},
+	{
+		"armenian": "սա տետր է:",
+		"english": "This is a notebook."
+	},
+	{
+		"armenian": "մատիտ ունե՞ս/ունե՞ք:",
+		"english": "Do you have a pencil? (informal/formal)"
+	},
+	{
+		"armenian": "այո', ունեմ, ահա':",
+		"english": "Yes, I do (I have). Here it is."
+	},
+	{
+		"armenian": "կտա՞ս / կտա՞ք:",
+		"english": "Would you (informal/formal) give X to me?"
+	},
+	{
+		"armenian": "խնդրեմ:",
+		"english": "Here you are!"
+	},
+	{
+		"armenian": "շնորհակալ եմ:",
+		"english": "Thank you!"
+	},
+	{
+		"armenian": "չարժե:",
+		"english": "Don’t mention it!"
+	},
+	{
+		"armenian": "ո ՞վ է այս պարոնը/տիկինը:",
+		"english": "Who is this gentleman/lady?"
+	},
+	{
+		"armenian": "պարոն/տիկին սարյանն է:",
+		"english": "This is Mr./Mrs. Sarian."
+	},
+	{
+		"armenian": "իսկ այս տղա՞ն / աղջի՞կը:",
+		"english": "And this boy/girl?"
+	},
+	{
+		"armenian": "սա արմենն է/արմենուհին է:",
+		"english": "This is Armen / Armenuhi."
+	},
+	{
+		"armenian": "արմենն ուսանո՞ղ է: այո':",
+		"english": "Is Armen a student? Yes, he is."
+	},
+	{
+		"armenian": "իսկ տիկին սարյա՞նը:",
+		"english": "And Mrs. Saryan?"
+	},
+	{
+		"armenian": "նա ուսուցչուհի է:",
+		"english": "She is a (female) teacher."
+	},
+	{
+		"armenian": "ներեցե'ք: / ների'ր:",
+		"english": "Excuse me. (formal / informal)"
+	},
+	{
+		"armenian": "ներողություն:",
+		"english": "Excuse me. / Sorry."
+	},
+	{
+		"armenian": "ոչի'նչ:",
+		"english": "No problem."
+	},
+	{
+		"armenian": "խնդրեմ, կարևոր չէ:",
+		"english": "It’s O.K., don’t mention it."
+	},
+	{
+		"armenian": "ցտեսություն:",
+		"english": "See you later!"
+	},
+	{
+		"armenian": "մնաք/մնաս բարով:",
+		"english": "Goodbye! (formal/informal) (Stay well)"
+	},
+	{
+		"armenian": "գնաք/գնաս բարով:",
+		"english": "Take care! (formal/informal) (leave well)"
+	},
+	{
+		"armenian": "բարի գիշեր:",
+		"english": "Good night! (literally)."
+	},
+	{
+		"armenian": "լույս բարի:",
+		"english": "Good night! (lit. light good)."
+	},
+	{
+		"armenian": "բարև ձեզ:",
+		"english": "Hello!"
+	},
+	{
+		"armenian": "բարև, ի՞նչ է ձեր անունը:",
+		"english": "Hello! What’s your name?"
+	},
+	{
+		"armenian": "անունս արմեն է:",
+		"english": "My name is Armen."
+	},
+	{
+		"armenian": "իսկ ձեր ազգանո՞ւնը:",
+		"english": "And your family name?"
+	},
+	{
+		"armenian": "ազգանունս սարյան է:",
+		"english": "My family name is Saryan."
+	},
+	{
+		"armenian": "քանի՞ տարեկան եք:",
+		"english": "How old are you?"
+	},
+	{
+		"armenian": "քսան տարեկան:",
+		"english": "Twenty years old."
+	},
+	{
+		"armenian": "ձեր քաղաքացիությո՞ւնը:",
+		"english": "Your citizenship?"
+	},
+	{
+		"armenian": "հայաստանի քաղաքացի եմ:",
+		"english": "I am a citizen of Armenia."
+	},
+	{
+		"armenian": "ի՞նչ լեզուներ գիտեք:",
+		"english": "What languages do you know?"
+	},
+	{
+		"armenian": "հայերեն և ռուսերեն:",
+		"english": "Armenian and Russian."
+	},
+	{
+		"armenian": "այդ լեզուներով նաև գրում ու կարդո՞ւմ եք:",
+		"english": "Do you also read and write in those languages?"
+	},
+	{
+		"armenian": "այո':",
+		"english": "Yes!"
+	},
+	{
+		"armenian": "ո՞րն է ձեր հասցեն:",
+		"english": "What is your address?"
+	},
+	{
+		"armenian": "երևան, պարոնյան փողոց տասը,:",
+		"english": "Ten Paronyan Street, Yerevan."
+	},
+	{
+		"armenian": "ո՞րն է ձեր հեռախոսի համարը:",
+		"english": "What is your telephone number?"
+	},
+	{
+		"armenian": "չորս հարյուր, հիսունութ, տասներկու:",
+		"english": "Four-zero-zero, five-eight, one-two."
+	},
+	{
+		"armenian": "ինչո՞վ եք զբաղվում:",
+		"english": "What is your occupation?"
+	},
+	{
+		"armenian": "ուսանող եմ:",
+		"english": "I am a student."
+	},
+	{
+		"armenian": "ի՞նչ եք ուսումնասիրում:",
+		"english": "What are you studying?"
+	},
+	{
+		"armenian": "գրականություն:",
+		"english": "Literature."
+	},
+	{
+		"armenian": "շնորհակալ եմ: ազատ եք:",
+		"english": "Thank you. You are free to go."
+	},
+	{
+		"armenian": "շնորհակալություն: ցտեսություն:",
+		"english": "Thanks. Good bye."
+	},
+	{
+		"armenian": "անունդ ի՞նչ է:",
+		"english": "What is your name?"
+	},
+	{
+		"armenian": "անունս անի է:",
+		"english": "My name is Ani."
+	},
+	{
+		"armenian": "իսկ ազգանո՞ւնդ:",
+		"english": "And your family name?"
+	},
+	{
+		"armenian": "մալյան:",
+		"english": "Malyan."
+	},
+	{
+		"armenian": "քանի՞ տարեկան ես:",
+		"english": "How old are you?"
+	},
+	{
+		"armenian": "հինգ տարեկան:",
+		"english": "Five years old."
+	},
+	{
+		"armenian": "ձեր հասցեն գիտե՞ս:",
+		"english": "Do you know your (plur.) address?"
+	},
+	{
+		"armenian": "կոմիտաս փողոց, երեսուն:",
+		"english": "Thirty Komitas Street."
+	},
+	{
+		"armenian": "իսկ ձեր հեռախոսի համա՞րը:",
+		"english": "And your (plur.) telephone number?"
+	},
+	{
+		"armenian": "քսանութ, հիսունմեկ, տասներկու:",
+		"english": "Two-eight, five-one, one-two."
+	},
+	{
+		"armenian": "ապրե'ս: հիմա կգնանք և կզանգահարենք ձեր տուն:",
+		"english": "Good for you! Now we’ll go and phone your home."
+	},
+	{
+		"armenian": "բարև', մերի:",
+		"english": "Hello, Mary!"
+	},
+	{
+		"armenian": "բարև', լիլիթ: այստեղ ի՞նչ ես անում.",
+		"english": "Hello, Lilith! What are you doing here?"
+	},
+	{
+		"armenian": "աշխատո՞ւմ ես:",
+		"english": "Do you work (here)?"
+	},
+	{
+		"armenian": "ո'չ, հայերեն եմ սովորում:",
+		"english": "No, I’m studying Armenian."
+	},
+	{
+		"armenian": "ա՜հ, գիտեմ, դու շատ հայ ընկերներ ունես:",
+		"english": "Oh, I know, you have many Armenian friends."
+	},
+	{
+		"armenian": "այո', և հայերենը շատ եմ սիրում:",
+		"english": "Yes, and I like Armenian very much. . ."
+	},
+	{
+		"armenian": "բայց դու հայերեն գիտես, չէ՞:",
+		"english": "But you know Armenian, don’t you? ."
+	},
+	{
+		"armenian": "հասկանում եմ, մի քիչ էլ խոսում եմ,",
+		"english": "I understand [Armenian], I also speak a little,"
+	},
+	{
+		"armenian": "բայց գրել և կարդալ չգիտեմ:",
+		"english": "but I don’t write or read it."
+	},
+	{
+		"armenian": "հայկական այբուբենը դժվա՞ր է:",
+		"english": "Is the Armenian alphabet difficult?"
+	},
+	{
+		"armenian": "երկար է, բայց բնավ դժվար չէ:",
+		"english": "It’s long, but not difficult at all."
+	},
+	{
+		"armenian": "իսկ հայերեն քերականությո՞ւնը:",
+		"english": "And Armenian grammar?"
+	},
+	{
+		"armenian": "շատ լավ դասագիրք ունենք:",
+		"english": "We have a very good textbook."
+	},
+	{
+		"armenian": "դրանով ամեն ինչ խաղ ու պար է:",
+		"english": "With it, everything is child’s play."
+	},
+	{
+		"armenian": "բոլոր տառերը կարո՞ղ ես գրել:",
+		"english": "Can you write all the letters?"
+	},
+	{
+		"armenian": "ո'չ, բոլորը դեռ չգիտեմ:",
+		"english": "No, I don’t know them all yet."
+	},
+	{
+		"armenian": "ամեն օր հայերենի դաս ունե՞ք:",
+		"english": "Do you have Armenian classes every day?"
+	},
+	{
+		"armenian": "ո'չ, շաբաթը երկու անգամ:",
+		"english": "No, twice a week."
+	},
+	{
+		"armenian": "ուզո՞ւմ ես քեզ քննեմ:",
+		"english": "Do you want me to examine you?"
+	},
+	{
+		"armenian": "ինչո՞ւ չէ, սկսե'նք:",
+		"english": "Why not? Let’s start!"
+	},
+	{
+		"armenian": "սա ի՞նչ է:",
+		"english": "What’s this?"
+	},
+	{
+		"armenian": "սա դասարան է:",
+		"english": "This is a classroom."
+	},
+	{
+		"armenian": "դասարանը փո՞քր է:",
+		"english": "Is the classroom small?"
+	},
+	{
+		"armenian": "ո 'չ, փոքր չէ: մեծ է:",
+		"english": "No, it’s not small. It’s big."
+	},
+	{
+		"armenian": "այստեղ ի՞նչ ես տեսնում:",
+		"english": "What do you see here?"
+	},
+	{
+		"armenian": "մի սեղան, գրասեղաններ և աթոռներ:",
+		"english": "A table, desks, and chairs."
+	},
+	{
+		"armenian": "ի՞նչ կա սեղանի վրա:",
+		"english": "What’s on the table?"
+	},
+	{
+		"armenian": "գրքեր ու տետրեր:",
+		"english": "Books and notebooks."
+	},
+	{
+		"armenian": "ուրիշ ի՞նչ կա:",
+		"english": "What else is there?"
+	},
+	{
+		"armenian": "մատիտներ, գրիչներ և մի ռետին:",
+		"english": "Pencils, two pens, and an eraser."
+	},
+	{
+		"armenian": "այստեղ ո՞վ է նստում:",
+		"english": "Who sits here?"
+	},
+	{
+		"armenian": "ուսուցիչը:",
+		"english": "The teacher does."
+	},
+	{
+		"armenian": "իսկ այնտե՞ղ:",
+		"english": "And over there?"
+	},
+	{
+		"armenian": "այնտեղ ուսանողներն են նստում:",
+		"english": "The students sit there."
+	},
+	{
+		"armenian": "պատին ի՞նչ կա:",
+		"english": "What’s on the wall?"
+	},
+	{
+		"armenian": "գրատախտակ ու նկարներ:",
+		"english": "A blackboard and pictures."
+	},
+	{
+		"armenian": "ուրի՞շ:",
+		"english": "What else?"
+	},
+	{
+		"armenian": "մի ժամացույց:",
+		"english": "A clock."
+	},
+	{
+		"armenian": "ապրե՜ս, լավ աշակերտուհի ես:",
+		"english": "Good for you! You are a good pupil (female)."
+	},
+	{
+		"armenian": "մի բան եմ խնդրելու.",
+		"english": "I have something to ask you:"
+	},
+	{
+		"armenian": "կարմիր մատիտ ունե՞ս:",
+		"english": "Do you have a red pencil?"
+	},
+	{
+		"armenian": "ունեմ, ահա':",
+		"english": "I do, here you are!"
+	},
+	{
+		"armenian": "բայց վերադարձրու, խնդրեմ:",
+		"english": "But please return it to me!"
+	},
+	{
+		"armenian": "իհարկե, մի րոպեով է ինձ պետք:",
+		"english": "Of course, I just need it for a minute."
+	},
+	{
+		"armenian": "պարոն պալյան, սա ձե՞ր հաշվիչն է:",
+		"english": "Mr. Palyan, is this your calculator?"
+	},
+	{
+		"armenian": "այո', ինչո՞ւ եք հարցնում:",
+		"english": "Yes, why do you ask?"
+	},
+	{
+		"armenian": "մի րոպեով ինձ կտա՞ք:",
+		"english": "May I have it for a moment?"
+	},
+	{
+		"armenian": "անշուշտ, համեցե'ք:",
+		"english": "Of course, here you are!"
+	},
+	{
+		"armenian": "օ՜հ, շատ ծարավ եմ:",
+		"english": "Oh, I’m very thirsty!"
+	},
+	{
+		"armenian": "մինաս, ինձ մի բաժակ ջուր կբերե՞ս:",
+		"english": "Minas, would you bring me \t a glass of water?"
+	},
+	{
+		"armenian": "սիրով: սա՞ռը ջուր ես ուզում:",
+		"english": "Gladly. Do you want cold water?"
+	},
+	{
+		"armenian": "այո', եթե կարելի է:",
+		"english": "Yes, if it’s possible."
+	},
+	{
+		"armenian": "սառույցո՞վ:",
+		"english": "With ice?"
+	},
+	{
+		"armenian": "այո', երկու կտոր, խնդրեմ:",
+		"english": "Yes, two pieces, please."
+	},
+	{
+		"armenian": "շնորհակա'լ եմ:",
+		"english": "Thank you!"
+	},
+	{
+		"armenian": "չարժե:",
+		"english": "Don’t mention it."
+	},
+	{
+		"armenian": "իսկ ես մի բան եմ բերել:",
+		"english": "I brought something."
+	},
+	{
+		"armenian": "կարո՞ղ ես կռահել, թե ինչ է.",
+		"english": "Can you guess what it is?"
+	},
+	{
+		"armenian": "սառն է բայց սառույց չէ, քաղցր է",
+		"english": "It’s cold but it isn’t ice, it’s sweet"
+	},
+	{
+		"armenian": "բայց կարկանդակ չէ: ի՞նչ է:",
+		"english": "but it isn’t cake. What is it?"
+	},
+	{
+		"armenian": "պաղպաղակ է:",
+		"english": "It’s ice-cream!"
+	},
+	{
+		"armenian": "բարի ախորժա'կ:",
+		"english": "Bon appetit!"
+	},
+	{
+		"armenian": "քե'զ էլ:",
+		"english": "The same to you!"
+	},
+	{
+		"armenian": "արմեն, աղը կփոխանցե՞ս:",
+		"english": "Armen, would you pass me the salt?"
+	},
+	{
+		"armenian": "խնդրեմ, հաց է՞լ ես ուզում:",
+		"english": "Here you are! Would you like some bread, too?"
+	},
+	{
+		"armenian": "այո', եթե կարելի է, լավաշ:",
+		"english": "Yes, lavash if possible."
+	},
+	{
+		"armenian": "շնորհակալ եմ: ի՜նչ համով ճաշ է:",
+		"english": "Thank you. What a delicious meal!"
+	},
+	{
+		"armenian": "ճաշերը միշտ համով են,",
+		"english": "Meals are always tasty"
+	},
+	{
+		"armenian": "երբ մայրիկն է պատրաստում:",
+		"english": "when Mother prepares them."
+	},
+	{
+		"armenian": "մի քիչ էլ թան կլցնե՞ս:",
+		"english": "Would you also pour me some tan?"
+	},
+	{
+		"armenian": "սիրով, խնդրեմ:",
+		"english": "Certainly, here you are!"
+	},
+	{
+		"armenian": "իսկ ի՞նչ ենք խմում:",
+		"english": "And what shall we drink?"
+	},
+	{
+		"armenian": "գինի կամ ուրիշ խմիչք ունե՞նք:",
+		"english": "Do we have some wine or any other drink?"
+	},
+	{
+		"armenian": "գինի չունենք, բայց ահա' սառը",
+		"english": "We don’t have wine, but here is some cold"
+	},
+	{
+		"armenian": "\"կոտայք\"' մեր հայկական գարեջուրը:",
+		"english": "“Kotayk,” our Armenian beer."
+	},
+	{
+		"armenian": "կենա՜ցդ:",
+		"english": "Cheers!"
+	},
+	{
+		"armenian": "ի՜նչ սիրունիկ երեխա է:",
+		"english": "What a lovely baby!"
+	},
+	{
+		"armenian": "քրոջս տղան է, վեց ամսական:",
+		"english": "He is my nephew, six months old."
+	},
+	{
+		"armenian": "իսկ ո՞վ է այս համակրելի կինը:",
+		"english": "And who is this lovely woman?"
+	},
+	{
+		"armenian": "եղբորս նշանածն է:",
+		"english": "She is my brother’s fiancée."
+	},
+	{
+		"armenian": "իսկ կողքինները ովքե՞ր են:",
+		"english": "And who are those next to her?"
+	},
+	{
+		"armenian": "սա քույրս է, իսկ սա եղբորս տղան է:",
+		"english": "This is my sister and this is my nephew."
+	},
+	{
+		"armenian": "ծնողներիդ նկարը ունե՞ս:",
+		"english": "Do you have a picture of your parents?"
+	},
+	{
+		"armenian": "ահա նրանք' նոր նշանված:",
+		"english": "Here they are, newly engaged."
+	},
+	{
+		"armenian": "դու մորդ նման ես:",
+		"english": "You look like your mother."
+	},
+	{
+		"armenian": "գիտեմ: իսկ սա տատիկս է,",
+		"english": "I know. And this is my grandmother,"
+	},
+	{
+		"armenian": "սա էլ պապիկս' մորս ծնողները:",
+		"english": "and this is my grandfather, my mother’s parents."
+	},
+	{
+		"armenian": "ինչքա՜ն երիտասարդ են:",
+		"english": "How young they are!"
+	},
+	{
+		"armenian": "ո 'չ, սա հին նկար է:",
+		"english": "No, this is an old picture."
+	},
+	{
+		"armenian": "տատս հիմա իննսուն տարեկան է:",
+		"english": "My grandmother is 90 years old now."
+	},
+	{
+		"armenian": "կարծեմ նոր տեսա նրան այգում:",
+		"english": "I think I just saw her in the garden."
+	},
+	{
+		"armenian": "այո', ինքն է, արի' ծանոթացնեմ:",
+		"english": "Yes, it’s her; let me introduce you."
+	},
+	{
+		"armenian": "ծանոթանանք:",
+		"english": "Let’s get to know each other."
+	},
+	{
+		"armenian": "անունս արամ է:",
+		"english": "My name is Aram."
+	},
+	{
+		"armenian": "ուրախ եմ ծանոթանալու համար:",
+		"english": "I am pleased to meet you."
+	},
+	{
+		"armenian": "մինաս ազարյան:",
+		"english": "Minas Azarian."
+	},
+	{
+		"armenian": "իսկ սա կինս է' կարինեն:",
+		"english": "And this is my wife, Karine."
+	},
+	{
+		"armenian": "շատ ուրախ եմ:",
+		"english": "A pleasure to meet you."
+	},
+	{
+		"armenian": "տանտերը ձեր ի՞նչն է,",
+		"english": "How is the host related to you?"
+	},
+	{
+		"armenian": "ձեր եղբա՞յրն է:",
+		"english": "Is he your brother?"
+	},
+	{
+		"armenian": "այո': իսկ դուք եղբորս ընկե՞րն եք:",
+		"english": "Yes. And are you my brother’s friend?"
+	},
+	{
+		"armenian": "ո'չ, աշխատակիցը:",
+		"english": "No, his colleague."
+	},
+	{
+		"armenian": "չեմ կարծում, որ իրար ծանոթ ենք:",
+		"english": "I don’t think we have met."
+	},
+	{
+		"armenian": "մայրի'կ, սա արամն է' դասընկերս:",
+		"english": "Mother, this is Aram, my classmate."
+	},
+	{
+		"armenian": "արա'մ, ծանոթացի'ր, մայրս է:",
+		"english": "Aram, meet my mother."
+	},
+	{
+		"armenian": "արամ: շատ ուրախ եմ, տիկին:",
+		"english": "Aram. Very pleased to meet you, Madam."
+	},
+	{
+		"armenian": "ձեր մասին շատ եմ լսել:",
+		"english": "I have heard a lot about you."
+	},
+	{
+		"armenian": "ուրախ եմ, որ վերջապես անձամբ եմ ծանոթանում:",
+		"english": "I am happy to meet you in person at last."
+	},
+	{
+		"armenian": "նմանապես:",
+		"english": "Likewise."
+	},
+	{
+		"armenian": "արա'մ, արի' մյուսներին էլ քեզ ծանոթացնեմ:",
+		"english": "Aram, let me introduce you to the others as well."
+	},
+	{
+		"armenian": "սիրո՜վ, գնանք:",
+		"english": "Gladly, let’s go!"
+	},
+	{
+		"armenian": "հավանո՞ւմ ես նոր բնակարանս:",
+		"english": "Do you like my new apartment?"
+	},
+	{
+		"armenian": "այո', շատ եմ հավանում:",
+		"english": "Yes, I like it very much."
+	},
+	{
+		"armenian": "նո՞ր ես տեղափոխվել:",
+		"english": "Did you just move in?"
+	},
+	{
+		"armenian": "այո': դուրդ գալի՞ս է տեսարանը:",
+		"english": "Yes! Do you like the view?"
+	},
+	{
+		"armenian": "շա՜տ: կահույքդ էլ է գեղեցիկ:",
+		"english": "Very much! Your furniture is also nice."
+	},
+	{
+		"armenian": "ամեն ինչ վերջերս գնեցի:",
+		"english": "I bought everything recently."
+	},
+	{
+		"armenian": "գո'րգս տես: գեղեցիկ է, չէ՞:",
+		"english": "Look at my carpet! It’s beautiful, isn’t it?"
+	},
+	{
+		"armenian": "հիանալի՜ է: հայկակա՞ն է:",
+		"english": "It’s wonderful! Is it Armenian?"
+	},
+	{
+		"armenian": "այո': իսկ ի՞նչ կարծիքի ես",
+		"english": "Yes. And what do you think"
+	},
+	{
+		"armenian": "այս յուղանկարի մասին:",
+		"english": "about this oil painting?"
+	},
+	{
+		"armenian": "վատ չէ:",
+		"english": "It’s not bad."
+	},
+	{
+		"armenian": "ի՞նչ է, դուրդ չեկա՞վ:",
+		"english": "What’s wrong, you don’t like it?"
+	},
+	{
+		"armenian": "դժվարանում եմ ասել:",
+		"english": "I can’t tell you."
+	},
+	{
+		"armenian": "ժամանակակից արվեստը չեմ հասկանում:",
+		"english": "I don’t understand modern art."
+	},
+	{
+		"armenian": "ո՞ւր այսպես, զուգված-զարդարված:",
+		"english": "Where are you going, all dressed up?"
+	},
+	{
+		"armenian": "թատրոն: հավանո՞ւմ ես հագուստս:",
+		"english": "To the theatre. Do you like my dress?"
+	},
+	{
+		"armenian": "այո', շատ սիրուն է: նո՞ր է:",
+		"english": "Yes, it’s very nice. Is it new?"
+	},
+	{
+		"armenian": "այո': իսկ գլխարկս դուրդ գալի՞ս է:",
+		"english": "Yes. And how do you like my hat?"
+	},
+	{
+		"armenian": "դա է՞լ է նոր: բարո՜վ մաշես:",
+		"english": "Is that also new? Wear it in good health!"
+	},
+	{
+		"armenian": "կոշիկներս չնկատեցիր:",
+		"english": "You didn’t notice my shoes."
+	},
+	{
+		"armenian": "անշուշտ նկատեցի. միայն թե կրունկները շատ բարձր չե՞ն:",
+		"english": "Of course I noticed them; only aren’t the heels too high?"
+	},
+	{
+		"armenian": "այո', բարձր են, և հոգնում եմ:",
+		"english": "Yes, they are high and I get tired."
+	},
+	{
+		"armenian": "բայց կին ենք, չէ՞:",
+		"english": "But we’re women, aren’t we?"
+	},
+	{
+		"armenian": "կարո՞ղ եք ինձ ցույց տալ",
+		"english": "Could you show me"
+	},
+	{
+		"armenian": "ցուցափեղկի կապույտ հագուստը:",
+		"english": "the blue dress in the window?"
+	},
+	{
+		"armenian": "խնդրեմ: ուզո՞ւմ եք փորձել:",
+		"english": "Sure! Would you like to try it on?"
+	},
+	{
+		"armenian": "ո 'չ, ուրիշի համար է:",
+		"english": "No, it’s for someone else."
+	},
+	{
+		"armenian": "ավելի փոքր չափսը չունե՞ք:",
+		"english": "Don’t you have a smaller size?"
+	},
+	{
+		"armenian": "սա միակն է, դրա համար է զեղչը:",
+		"english": "This is the only one, that’s why it’s on sale."
+	},
+	{
+		"armenian": "ի՞նչ է վերջնական գինը:",
+		"english": "What is the final price?"
+	},
+	{
+		"armenian": "շատ էժան է. տասը հազար դրամ:",
+		"english": "Very cheap. Ten thousand drams."
+	},
+	{
+		"armenian": "հիանալի է: գնելու եմ:",
+		"english": "That’s great! I’ll buy it."
+	},
+	{
+		"armenian": "ժամը քանի՞սն է:",
+		"english": "What time is it?"
+	},
+	{
+		"armenian": "ութն անց կես է:",
+		"english": "It’s half past eight."
+	},
+	{
+		"armenian": "ուրեմն դեռ կես ժամ ունենք",
+		"english": "That means we still have half an hour"
+	},
+	{
+		"armenian": "մինչև հայերենի դասը:",
+		"english": "before Armenian class."
+	},
+	{
+		"armenian": "ուղիղ երեսուն րոպե:",
+		"english": "Exactly thirty minutes."
+	},
+	{
+		"armenian": "ի՜նչ լավ է. արի' միասին հայերենի դասին պատրաստվենք:",
+		"english": "That’s great! Come, let’s prepare for the Armenian class together."
+	},
+	{
+		"armenian": "ես պատրաստ եմ:",
+		"english": "I’m ready."
+	},
+	{
+		"armenian": "կողքիս նստի'ր ու ինձ օգնի'ր:",
+		"english": "Sit next to me and help me!"
+	},
+	{
+		"armenian": "գիրքը բա'ց արա ու կարդա':",
+		"english": "Open the book and read!"
+	},
+	{
+		"armenian": "ե ՞րբ է ժամանելու գնացքը:",
+		"english": "When is the train arriving?"
+	},
+	{
+		"armenian": "որտեղի՞ց:",
+		"english": "From where?"
+	},
+	{
+		"armenian": "սպիտակից:",
+		"english": "From Spitak."
+	},
+	{
+		"armenian": "սպիտակի գնացքն ուշանում է:",
+		"english": "The train from Spitak is delayed."
+	},
+	{
+		"armenian": "քանի՞ րոպեից է այստեղ լինելու:",
+		"english": "In how many minutes will it be here?"
+	},
+	{
+		"armenian": "այն ժամանելու է ժամը տասին:",
+		"english": "It will arrive at ten o’clock."
+	},
+	{
+		"armenian": "որտե՞ղ կարող եմ գնել օրվա",
+		"english": "Where can I buy today’s"
+	},
+	{
+		"armenian": "թերթերն ու ամսագրերը:",
+		"english": "newspapers and magazines?"
+	},
+	{
+		"armenian": "այստեղից ուղիղ գնացե'ք,",
+		"english": "Go straight from here and"
+	},
+	{
+		"armenian": "ձախ կողմում թերթի կրպակ կա:",
+		"english": "there’s a newspaper kiosk on the left."
+	},
+	{
+		"armenian": "շնորհակալությո՜ւն:",
+		"english": "Thank you!"
+	},
+	{
+		"armenian": "մի բան կարո՞ղ եմ հարցնել:",
+		"english": "May I ask (you) something?"
+	},
+	{
+		"armenian": "խնդրեմ:",
+		"english": "Sure."
+	},
+	{
+		"armenian": "ի՞նչ է նշանակում \"օրացույց\":",
+		"english": "What does oratsuyts mean?"
+	},
+	{
+		"armenian": "օրացույց նշանակում է calendar:",
+		"english": "Oratsuyts means calendar."
+	},
+	{
+		"armenian": "իսկ ի՞նչ են ասում computer-ին:",
+		"english": "And how do you say computer?"
+	},
+	{
+		"armenian": "համակարգիչ",
+		"english": "Computer"
+	},
+	{
+		"armenian": "կարո՞ղ եք բառը կրկնել",
+		"english": "Can you repeat the word"
+	},
+	{
+		"armenian": "և ասել, թե ինչպես է գրվում:",
+		"english": "and tell me how it’s spelled?"
+	},
+	{
+		"armenian": "այո', սիրով: այսպես է գրվում'",
+		"english": "Yes, sure. It’s spelled like this:"
+	},
+	{
+		"armenian": "ասացե'ք, խնդրեմ, որտե՞ղ է գրադարանը:",
+		"english": "Tell me please, where is the library?"
+	},
+	{
+		"armenian": "այստեղից թեքվե'ք ձախ. դիմացի դուռն է:",
+		"english": "Turn left from here, and it’s the door facing you."
+	},
+	{
+		"armenian": "շնորհակալ եմ:",
+		"english": "Thank you."
+	},
+	{
+		"armenian": "բայց այսօր գրադարանը փակ է:",
+		"english": "But the library is closed today."
+	},
+	{
+		"armenian": "ի՞նչ է պատահել:",
+		"english": "What happened?"
+	},
+	{
+		"armenian": "գունատ ես: հիվանդ տեսք ունես:",
+		"english": "You’re pale. You look ill."
+	},
+	{
+		"armenian": "այո', լավ չեմ:",
+		"english": "Yes, I’m not well. I don’t know what it is."
+	},
+	{
+		"armenian": "վա՞տ ես զգում:",
+		"english": "What’s wrong?"
+	},
+	{
+		"armenian": "գլուխս է ցավում:",
+		"english": "I have a headache."
+	},
+	{
+		"armenian": "ջերմություն ունե՞ս:",
+		"english": "Have you got a fever?"
+	},
+	{
+		"armenian": "չգիտեմ, գուցե մի քիչ:",
+		"english": "I don’t know; maybe a little."
+	},
+	{
+		"armenian": "հազո՞ւմ ես:",
+		"english": "Do you have a cough?"
+	},
+	{
+		"armenian": "շատ ուժեղ:",
+		"english": "A bad one."
+	},
+	{
+		"armenian": "բժշկի դիմե՞լ ես:",
+		"english": "Did you see a doctor?"
+	},
+	{
+		"armenian": "դեռ ոչ:",
+		"english": "Not yet."
+	},
+	{
+		"armenian": "ինչո՞ւ ես ուշացնում, գնա':",
+		"english": "Why are you delaying it? Go!"
+	},
+	{
+		"armenian": "վաղը գնալու եմ:",
+		"english": "I’ll go tomorrow."
+	},
+	{
+		"armenian": "ինչի՞ց եք գանգատվում:",
+		"english": "What’s your problem?"
+	},
+	{
+		"armenian": "կոկորդս ցավում է, դողացնում եմ:",
+		"english": "I have a sore throat, and I’m shivering."
+	},
+	{
+		"armenian": "փորի ցավ ունե՞ք:",
+		"english": "Do you have abdominal pain?"
+	},
+	{
+		"armenian": "ո'չ, բայց սիրտս է խառնում:",
+		"english": "No, but I’m nauseous."
+	},
+	{
+		"armenian": "հիմա քննեմ ու տեսնենք:",
+		"english": "Let me examine you now, and we’ll see (what’s wrong)."
+	},
+	{
+		"armenian": "բժի'շկ, ծա՞նր է վիճակս:",
+		"english": "Doctor, am I in a critical state?"
+	},
+	{
+		"armenian": "մի' մտածեք, երևի մրսել եք:",
+		"english": "Don’t worry, you probably have a cold."
+	},
+	{
+		"armenian": "օգնեցե'ք, երեխայիս քթից առատ արյուն է գալիս:",
+		"english": "Help me, my child’s nose is bleeding profusely."
+	},
+	{
+		"armenian": "ե ՞րբ է սկսվել:",
+		"english": "When did it start?"
+	},
+	{
+		"armenian": "երկու ժամ առաջ և չի կտրվում:",
+		"english": "Two hours ago and it won’t stop."
+	},
+	{
+		"armenian": "չգիտեմ' ինչն է պատճառը:",
+		"english": "I don’t know what’s causing it."
+	},
+	{
+		"armenian": "բժիշկը որ գա, կիմանանք:",
+		"english": "When the doctor comes, we’ll find out."
+	},
+	{
+		"armenian": "երանի՜ թե բժիշկը շուտ գար:",
+		"english": "I wish the doctor would arrive soon!"
+	},
+	{
+		"armenian": "տեսե'ք, ահա գալիս է:",
+		"english": "Look, he’s coming!"
+	},
+	{
+		"armenian": "մեր նոր տնօրենին տեսա՞ր:",
+		"english": "Have you seen our new director?"
+	},
+	{
+		"armenian": "դուրդ գալի՞ս է:",
+		"english": "Do you like him?"
+	},
+	{
+		"armenian": "ես նախորդին էի շատ սիրում:",
+		"english": "I liked his predecessor very much."
+	},
+	{
+		"armenian": "ես սրան եմ հավանում: նրա ելույթը",
+		"english": "I like this one better. His speech"
+	},
+	{
+		"armenian": "վերջին ժողովին տպավորիչ էր:",
+		"english": "at the last meeting was impressive."
+	},
+	{
+		"armenian": "բայց մի քիչ երկար չխոսե՞ց:",
+		"english": "But didn’t he speak a bit too long?"
+	},
+	{
+		"armenian": "մեծամիտ է թվում:",
+		"english": "He seems to be haughty."
+	},
+	{
+		"armenian": "իսկ արտաքինի մասին ի՞նչ կասես:",
+		"english": "And what do you say about his looks?"
+	},
+	{
+		"armenian": "գեղեցիկ մարդ է, չէ՞:",
+		"english": "He’s a handsome man, isn’t he?"
+	},
+	{
+		"armenian": "իսկապես, ներկայանալի մարդ է,",
+		"english": "He is indeed a good-looking man,"
+	},
+	{
+		"armenian": "բայց դա ի՞նչ կարևոր է:",
+		"english": "but why is that important?"
+	},
+	{
+		"armenian": "կտեսնես, թե ինչ հիանալի",
+		"english": "You’ll see what a wonderful"
+	},
+	{
+		"armenian": "ղեկավար է լինելու:",
+		"english": "leader he’ll be."
+	},
+	{
+		"armenian": "հուսանք, որ չես սխալվում:",
+		"english": "Let’s hope that you’re not mistaken."
+	},
+	{
+		"armenian": "հավանո՞ւմ ես կարոյի նշանածին:",
+		"english": "Do you like Karo’s fiancé?"
+	},
+	{
+		"armenian": "ես նրան դեռ չեմ տեսել:",
+		"english": "I haven’t seen her yet."
+	},
+	{
+		"armenian": "երեկ եկել էր մեր հավաքույթին:",
+		"english": "She came to our party yesterday."
+	},
+	{
+		"armenian": "ինչպիսի՞ն է: դուրդ եկա՞վ:",
+		"english": "What is she like? Did you like her?"
+	},
+	{
+		"armenian": "կարոյից ավելի բարձրահասակ է և նրանից' տարիքով մեծ:",
+		"english": "She’s taller than Karo, and older than him."
+	},
+	{
+		"armenian": "գոնե գեղեցի՞կ է:",
+		"english": "Is she pretty at least?"
+	},
+	{
+		"armenian": "եթե ինձ հարցնես, տգեղ է:",
+		"english": "If you ask me, she’s ugly."
+	},
+	{
+		"armenian": "ի՞նչ էր հագել:",
+		"english": "What was she wearing?"
+	},
+	{
+		"armenian": "անճաշակ կին է:",
+		"english": "She is a woman with no taste."
+	},
+	{
+		"armenian": "հետը խոսեցի՞ր:",
+		"english": "Did you talk to her?"
+	},
+	{
+		"armenian": "ո'չ, չկարողացա: ինքն էր բոլորից շատ խոսում:",
+		"english": "No, I couldn’t. She did all of the talking."
+	},
+	{
+		"armenian": "ինձ զարմացնում է կարոյի ճաշակը:",
+		"english": "I am surprised at Karo’s taste."
+	},
+	{
+		"armenian": "նա ե՞րբ է ճաշակ ունեցել:",
+		"english": "Did he ever have taste?"
+	},
+	{
+		"armenian": "ի՜նչ հիանալի եղանակ է այսօր:",
+		"english": "What wonderful weather we are having today!"
+	},
+	{
+		"armenian": "վերջապես գարուն է: ծառերը կանաչել են,",
+		"english": "Finally, it’s spring. The trees have become green,"
+	},
+	{
+		"armenian": "ծաղիկները' բացվել:",
+		"english": "flowers have opened."
+	},
+	{
+		"armenian": "այս տարվա ձմեռը մի քիչ երկար էր:",
+		"english": "This past winter lasted a bit too long."
+	},
+	{
+		"armenian": "արևին կարոտ մնացինք:",
+		"english": "We’ve missed the sun."
+	},
+	{
+		"armenian": "բայց շուտով շոգն սկսվելու է:",
+		"english": "But soon the hot weather will  start."
+	},
+	{
+		"armenian": "ի՜նչ կարճ է հայաստանի գարունը:",
+		"english": "Spring in Armenia is so short!"
+	},
+	{
+		"armenian": "ի՜նչ տաք է այստեղ:",
+		"english": "It’s so hot in here!"
+	},
+	{
+		"armenian": "պատուհանը չբացե՞նք:",
+		"english": "Shouldn’t we open the window?"
+	},
+	{
+		"armenian": "ո'չ, դրսում ավելի տաք է:",
+		"english": "No, it’s warmer outside."
+	},
+	{
+		"armenian": "բայց այնտեղ օդն ավելի մաքուր է:",
+		"english": "But the air is fresher out there."
+	},
+	{
+		"armenian": "այո', բայց այսօր խոնավ է:",
+		"english": "Yes, but it’s humid today."
+	},
+	{
+		"armenian": "դո՞ւրս ես գալիս:",
+		"english": "Are you going out?"
+	},
+	{
+		"armenian": "այո', պետք է գրասենյակ գնամ:",
+		"english": "Yes, I have to go to my office."
+	},
+	{
+		"armenian": "անձրև է գալու: նայի'ր ամպերին:",
+		"english": "It’s going to rain. Look at the clouds!"
+	},
+	{
+		"armenian": "ոչի'նչ, անձրևանոց ունեմ:",
+		"english": "No problem, I have an umbrella."
+	},
+	{
+		"armenian": "որոտում է, լսո՞ւմ ես:",
+		"english": "There is thunder, can you hear it?"
+	},
+	{
+		"armenian": "տաք հագիր, ցուրտ է:",
+		"english": "Put something warm on, it’s cold."
+	},
+	{
+		"armenian": "չեմ մրսում:",
+		"english": "I don’t feel cold."
+	},
+	{
+		"armenian": "սիրում եմ զով եղանակը:",
+		"english": "I like cool weather."
+	},
+	{
+		"armenian": "այսօր շատ ցուրտ է, մրսում եմ:",
+		"english": "It’s very chilly today, I’m cold."
+	},
+	{
+		"armenian": "տասն աստիճան զրոյից ցածր է:",
+		"english": "It’s ten degrees below zero."
+	},
+	{
+		"armenian": "եվ ի՜նչ ուժեղ քամի է:",
+		"english": "And what a strong wind!"
+	},
+	{
+		"armenian": "կարծես ձյուն է գալու:",
+		"english": "It looks like it will snow."
+	},
+	{
+		"armenian": "մի' ասա, նորի՞ց ձյուն:",
+		"english": "Don’t tell me it’s going to snow again."
+	},
+	{
+		"armenian": "մի' գանգատվիր:",
+		"english": "Don’t complain!"
+	},
+	{
+		"armenian": "այս տարի ձմեռը մեղմ է:",
+		"english": "Winter is mild this year."
+	},
+	{
+		"armenian": "իրավացի ես: միշտ նույնն է.",
+		"english": "You’re right. It’s always the same:"
+	},
+	{
+		"armenian": "ամռանը ձմեռ ենք փնտրում, ձմռանը' ամառ:",
+		"english": "In summer we long for winter, and in winter we long for summer."
+	},
+	{
+		"armenian": "բարև' ձեզ, տիկի'ն պալյան, դո՞ւք եք:",
+		"english": "Hello, Mrs. Palian, is that you?"
+	},
+	{
+		"armenian": "բարև', տիկի'ն սարյան:",
+		"english": "Hello, Mrs. Sarian."
+	},
+	{
+		"armenian": "ինչպե՞ս եք: ի՞նչ կա-չկա:",
+		"english": "How are you? What’s new?"
+	},
+	{
+		"armenian": "ուրբաթ երեկո ազա՞տ եք:",
+		"english": "Are you free on Friday night?"
+	},
+	{
+		"armenian": "կուզեի ձեզ և ձեր",
+		"english": "I would like to invite you and your"
+	},
+	{
+		"armenian": "ամուսնուն ընթրիքի հրավիրել:",
+		"english": "husband over for supper."
+	},
+	{
+		"armenian": "մեծ հաճույքով կգայինք ... ,",
+		"english": "We would come with great pleasure ..."
+	},
+	{
+		"armenian": "երեկոյան ժամը յոթը հարմա՞ր է:",
+		"english": "Does seven o’clock in the evening suit you?"
+	},
+	{
+		"armenian": "այո', բայց մենք մենակ չենք,",
+		"english": "Yes, but we are not alone."
+	},
+	{
+		"armenian": "հյուր ունենք ֆրանսիայից. քույրս է:",
+		"english": "We have a visitor from France; it’s my sister."
+	},
+	{
+		"armenian": "ոչի'նչ, ձեր քրոջն էլ բերեք:",
+		"english": "No problem, bring your sister along."
+	},
+	{
+		"armenian": "ուրեմն սպասում ենք ձեզ:",
+		"english": "So, we’re looking forward to seeing you."
+	},
+	{
+		"armenian": "շնորհակալ ենք: մինչ ուրբաթ:",
+		"english": "Many thanks! Till Friday!"
+	},
+	{
+		"armenian": "գոհա'ր, կուզեի՞ր կիրակի օրը ինձ այցելել: հավաքույթ ունեմ:",
+		"english": "Gohar, would you like to come over next Sunday? I’m having a party."
+	},
+	{
+		"armenian": "սիրով: ի՞նչ առիթով:",
+		"english": "Gladly! What’s the occasion?"
+	},
+	{
+		"armenian": "հորս և մորս ամուսնության",
+		"english": "It’s my parents’"
+	},
+	{
+		"armenian": "50-րդ տարեդարձն է:",
+		"english": "50th wedding anniversary."
+	},
+	{
+		"armenian": "նրանց համար անակնկալ կլինի:",
+		"english": "It’ll be a surprise for them."
+	},
+	{
+		"armenian": "իսկապե՞ս: քանի՞ հոգու ես հրավիրել:",
+		"english": "Really? How many people have you invited?"
+	},
+	{
+		"armenian": "հիսուն (հոգու):",
+		"english": "Fifty (people)."
+	},
+	{
+		"armenian": "այդքան տեղ ունե՞ս:",
+		"english": "Do you have that much room?"
+	},
+	{
+		"armenian": "մեր պարտեզում է լինելու:",
+		"english": "It’ll be in our garden."
+	},
+	{
+		"armenian": "կարո՞ղ եմ քեզ որևէ բանով օգնել:",
+		"english": "May I help you with anything?"
+	},
+	{
+		"armenian": "շատ շնորհակալ եմ,",
+		"english": "Thank you very much,"
+	},
+	{
+		"armenian": "օգնական շատ ունեմ:",
+		"english": "I have a lot of help."
+	},
+	{
+		"armenian": "հետդ հայկական երաժշտություն բեր:",
+		"english": "Bring some Armenian music with you."
+	},
+	{
+		"armenian": "ամենայն սիրով:",
+		"english": "With great pleasure."
+	},
+	{
+		"armenian": "ուրիշ ի՞նչ կուզեիր, որ բերեմ:",
+		"english": "What else would you like me to bring?"
+	},
+	{
+		"armenian": "մեծ ախորժակ:",
+		"english": "A big appetite!"
+	},
+	{
+		"armenian": "անպայման կբերեմ:",
+		"english": "I’ll bring that for sure."
+	},
+	{
+		"armenian": "լսի'ր, այս երեկո ի՞նչ ես անելու:",
+		"english": "Listen, what are you doing tonight?"
+	},
+	{
+		"armenian": "հատուկ ծրագիր չունեմ:",
+		"english": "I have no special plans."
+	},
+	{
+		"armenian": "ինչո՞ւ ես հարցնում:",
+		"english": "Why do you ask?"
+	},
+	{
+		"armenian": "ուզում էի մի հաճելի տեղ գնալ:",
+		"english": "I wanted to go somewhere nice."
+	},
+	{
+		"armenian": "կգա՞ս ինձ հետ:",
+		"english": "Would you come with me?"
+	},
+	{
+		"armenian": "ո՞ւր ես ուզում, որ գնանք:",
+		"english": "Where do you want us to go?"
+	},
+	{
+		"armenian": "չգիտեմ' ի՞նչ ես նախընտրում'",
+		"english": "I don’t know, what do you prefer:"
+	},
+	{
+		"armenian": "սրճարա՞ն, կինո՞, թե՞ թատրոն:",
+		"english": "a café, the movies, or the theatre?"
+	},
+	{
+		"armenian": "գնանք նախ' կինո, հետո' սրճարան:",
+		"english": "Let’s go to the movies first, then to a café."
+	},
+	{
+		"armenian": "լավ գաղափար է: գնացի'նք:",
+		"english": "Good idea! Let’s go!"
+	},
+	{
+		"armenian": "հաջորդ շաբաթ դասեր չկա:",
+		"english": "Next week we have no classes."
+	},
+	{
+		"armenian": "ի՞նչ ես անելու, մնալու ես քաղաքո՞ւմ:",
+		"english": "What are you doing? Are you staying in town?"
+	},
+	{
+		"armenian": "ո'չ, ուզում եմ քաղաքից",
+		"english": "No, I want to get out of the city."
+	},
+	{
+		"armenian": "դուրս գալ. կգա՞ս ինձ հետ:",
+		"english": "Would you come with me?"
+	},
+	{
+		"armenian": "ո՞ւր կարող ենք գնալ:",
+		"english": "Where can we go?"
+	},
+	{
+		"armenian": "մի լավ գյուղ կա լճափին:",
+		"english": "There is a nice village by the lake."
+	},
+	{
+		"armenian": "չորս կողմը' անտառներ ու լեռներ:",
+		"english": "It’s surrounded by forests and mountains."
+	},
+	{
+		"armenian": "հեռո՞ւ է այստեղից:",
+		"english": "Is it far from here?"
+	},
+	{
+		"armenian": "մեքենայով' մեկ ժամ:",
+		"english": "It takes one hour by car."
+	},
+	{
+		"armenian": "լողալ կարո՞ղ ենք այնտեղ:",
+		"english": "Can we go swimming there?"
+	},
+	{
+		"armenian": "լողալ, թիավարել, ինչ որ կամենաս:",
+		"english": "Swim, row, whatever you wish."
+	},
+	{
+		"armenian": "սիրով քեզ կընկերանամ:",
+		"english": "I’d love to join you."
+	},
+	{
+		"armenian": "այս ամառ ի՞նչ ծրագիր ունեք:",
+		"english": "What are your plans this summer?"
+	},
+	{
+		"armenian": "եվրոպա ենք ուզում գնալ:",
+		"english": "We want to go to Europe."
+	},
+	{
+		"armenian": "երեխաներին է՞լ եք տանելու:",
+		"english": "Are you taking the children along?"
+	},
+	{
+		"armenian": "ո'չ, նրանք գյուղ են գնում:",
+		"english": "No, they are going to the country."
+	},
+	{
+		"armenian": "ո՞ր երկիրն եք այցելելու:",
+		"english": "Which country are you going to visit?"
+	},
+	{
+		"armenian": "ես գերմանիա եմ ուզում գնալ, իսկ ամուսինս' հունաստան:",
+		"english": "I want to go to Germany, but my husband wants to go to Greece."
+	},
+	{
+		"armenian": "առաջի՞ն անգամ եք եվրոպա մեկնում:",
+		"english": "Is this the first time you will be going to Europe?"
+	},
+	{
+		"armenian": "ո'չ, երրորդ անգամն է արդեն:",
+		"english": "No, it’s already our third time."
+	},
+	{
+		"armenian": "իսկ դուք ի՞նչ եք անելու այս ամառ:",
+		"english": "And what are you doing this summer?"
+	},
+	{
+		"armenian": "որոշել ենք քաղաքում մնալ:",
+		"english": "We’ve decided to stay in town."
+	},
+	{
+		"armenian": "հյուրերի ենք սպասում ռուսաստանից:",
+		"english": "We’re expecting guests from Russia."
+	},
+	{
+		"armenian": "ցանկանում եմ ձեզ հաճելի ամառ:",
+		"english": "I wish you a pleasant summer."
+	},
+	{
+		"armenian": "ձեզ էլ' բարի ճանապարհ:",
+		"english": "And bon voyage to you!"
+	},
+	{
+		"armenian": "բարի վերադա'րձ:",
+		"english": "Welcome back!"
+	},
+	{
+		"armenian": "ինչպե՞ս էր հայաստանում:",
+		"english": "How was Armenia?"
+	},
+	{
+		"armenian": "հիանալի՜ էր: ամեն ինչ կպատմեմ:",
+		"english": "It was wonderful. There’s a lot to tell."
+	},
+	{
+		"armenian": "բայց նախ ասա' այստեղ ի՞նչ կա-չկա:",
+		"english": "But first tell me, what’s new here?"
+	},
+	{
+		"armenian": "լսե՞լ ես վերջին նորությունը:",
+		"english": "Have you heard the latest news?"
+	},
+	{
+		"armenian": "ի՞նչ նորություն:",
+		"english": "What’s new?"
+	},
+	{
+		"armenian": "համալսարանն օրենքները փոխել է:",
+		"english": "The university has changed its rules."
+	},
+	{
+		"armenian": "այլևս ուսման վարձ չկա:",
+		"english": "There are no more tuition fees."
+	},
+	{
+		"armenian": "իսկապե՞ս:",
+		"english": "Really?"
+	},
+	{
+		"armenian": "այո': բոլոր ուսանողները համալսարանից թոշակ են ստանալու:",
+		"english": "All students will receive a scholarship from the university."
+	},
+	{
+		"armenian": "ի՜նչ լավ լուր է:",
+		"english": "That’s great news!"
+	},
+	{
+		"armenian": "եվ գիտես'",
+		"english": "And, you know,"
+	},
+	{
+		"armenian": "այլևս քննություններ չեն լինելու, ոչ էլ թվանշաններ:",
+		"english": "there will be no exams or grades anymore."
+	},
+	{
+		"armenian": "ի՞նչ ես ասում. անհավատալի է:",
+		"english": "Don’t tell me! That’s unbelievable!"
+	},
+	{
+		"armenian": "փոխանակ նրանք մեզ քննելու,",
+		"english": "Instead of them examining us,"
+	},
+	{
+		"armenian": "մենք ենք գնահատելու դասախոսներին:",
+		"english": "we will evaluate the professors."
+	},
+	{
+		"armenian": "չեմ կարող ասածիդ հավատալ:",
+		"english": "I can’t believe what you’re saying."
+	},
+	{
+		"armenian": "ո՞վ ասաց, որ հավատաս:",
+		"english": "Who said you should believe it?"
+	},
+	{
+		"armenian": "այսօր ապրիլի մեկն է:",
+		"english": "Today is April Fool’s Day."
+	},
+	{
+		"armenian": "ոչ մեկին բան չասես, բայց",
+		"english": "Don’t tell anybody, but"
+	},
+	{
+		"armenian": "քեզ գաղտնիք ունեմ ասելու:",
+		"english": "I have a secret to share with you."
+	},
+	{
+		"armenian": "վստահի'ր ինձ, խոստանում եմ լռել:",
+		"english": "Trust me, I promise to keep quiet."
+	},
+	{
+		"armenian": "գիտե՞ս, որ մեր հարևանը գող է:",
+		"english": "Do you know that our neighbor is a thief?"
+	},
+	{
+		"armenian": "ո՞վ, հովի՞կը: քեզ ո՞վ ասաց:",
+		"english": "Who, Hovik? Who told you?"
+	},
+	{
+		"armenian": "աչքովս տեսա:",
+		"english": "I saw it with my own eyes."
+	},
+	{
+		"armenian": "ի՞նչ տեսար:",
+		"english": "What did you see?"
+	},
+	{
+		"armenian": "տեսա նրան գողություն անելիս:",
+		"english": "I saw him stealing."
+	},
+	{
+		"armenian": "չեմ հավատում: նա մեր մոտ ընկերն է:",
+		"english": "I don’t believe it. He’s a close friend of ours."
+	},
+	{
+		"armenian": "երեկ գիշեր, երբ տանը չէիք,",
+		"english": "Last night, when you weren’t home,"
+	},
+	{
+		"armenian": "ձեր բ նակարանից թաքուն դուրս եկավ",
+		"english": "he sneaked out of your apartment"
+	},
+	{
+		"armenian": "խոշոր մի պարկով:",
+		"english": "with a big bag."
+	},
+	{
+		"armenian": "սխալվում ես:",
+		"english": "You are mistaken."
+	},
+	{
+		"armenian": "երեկ գիշեր մենք տանն էինք",
+		"english": "Last night we were at home"
+	},
+	{
+		"armenian": "և մաքրություն էինք անում:",
+		"english": "and we were cleaning up."
+	},
+	{
+		"armenian": "իսկ հովիկը մեզ օգնում էր:",
+		"english": "And Hovik was helping us."
+	},
+	{
+		"armenian": "իսկ պա՞րկը:",
+		"english": "And what about the bag?"
+	},
+	{
+		"armenian": "պարկը մեր աղբն էր,",
+		"english": "The bag was our trash,"
+	},
+	{
+		"armenian": "որ հովիկը տանում էր թափելու:",
+		"english": "which Hovik was taking out."
+	}
+]

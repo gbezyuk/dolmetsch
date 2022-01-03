@@ -1,0 +1,686 @@
+[
+	{
+		"thracian": "eγ",
+		"english": "from"
+	},
+	{
+		"thracian": "at",
+		"english": "at, towards"
+	},
+	{
+		"thracian": "achel-",
+		"english": "water"
+	},
+	{
+		"thracian": "ant(i)",
+		"english": "against"
+	},
+	{
+		"thracian": "ars",
+		"english": "to flow"
+	},
+	{
+		"thracian": "arta(s)",
+		"english": "river"
+	},
+	{
+		"thracian": "e(i)b",
+		"english": "to flow"
+	},
+	{
+		"thracian": "esvas",
+		"english": "horse"
+	},
+	{
+		"thracian": "dumas",
+		"english": "dark"
+	},
+	{
+		"thracian": "dun",
+		"english": "mountain, hill"
+	},
+	{
+		"thracian": "drenis",
+		"english": "deer"
+	},
+	{
+		"thracian": "carpatis",
+		"english": "mountain"
+	},
+	{
+		"thracian": "chalas",
+		"english": "mud"
+	},
+	{
+		"thracian": "bergas",
+		"english": "hill, bank"
+	},
+	{
+		"thracian": "bria",
+		"english": "town"
+	},
+	{
+		"thracian": "berza(s)",
+		"english": "birch"
+	},
+	{
+		"thracian": "beras",
+		"english": "brown"
+	},
+	{
+		"thracian": "bebrus",
+		"english": "beaver"
+	},
+	{
+		"thracian": "brentas",
+		"english": "deer (alternative)"
+	},
+	{
+		"thracian": "bolinthos",
+		"english": "wild bull"
+	},
+	{
+		"thracian": "brynchos",
+		"english": "guitar"
+	},
+	{
+		"thracian": "brilon",
+		"english": "barber"
+	},
+	{
+		"thracian": "bur(is)",
+		"english": "man"
+	},
+	{
+		"thracian": "bruzas",
+		"english": "quick"
+	},
+	{
+		"thracian": "brink",
+		"english": "to swell"
+	},
+	{
+		"thracian": "brytos",
+		"english": "a kind of ale"
+	},
+	{
+		"thracian": "burt",
+		"english": "ford"
+	},
+	{
+		"thracian": "briza",
+		"english": "spelt, rye"
+	},
+	{
+		"thracian": "buzas",
+		"english": "young goat"
+	},
+	{
+		"thracian": "gaidrus",
+		"english": "bright, clear"
+	},
+	{
+		"thracian": "gava(s)",
+		"english": "country"
+	},
+	{
+		"thracian": "genton",
+		"english": "meat"
+	},
+	{
+		"thracian": "germas",
+		"english": "warm, hot"
+	},
+	{
+		"thracian": "gin",
+		"english": "to spoil, to dry out"
+	},
+	{
+		"thracian": "goni",
+		"english": "woman, wife"
+	},
+	{
+		"thracian": "geiston",
+		"english": "thieves"
+	},
+	{
+		"thracian": "gesa",
+		"english": "stork kingfisher"
+	},
+	{
+		"thracian": "haimos",
+		"english": "ridge, mountain chain"
+	},
+	{
+		"thracian": "kaba(s)",
+		"english": "bog, swamp"
+	},
+	{
+		"thracian": "kapas",
+		"english": "hill, slope"
+	},
+	{
+		"thracian": "kik-",
+		"english": "live, agile"
+	},
+	{
+		"thracian": "ketri",
+		"english": "four"
+	},
+	{
+		"thracian": "kersas",
+		"english": "black"
+	},
+	{
+		"thracian": "kenthas",
+		"english": "child, descendant"
+	},
+	{
+		"thracian": "kalas",
+		"english": "district"
+	},
+	{
+		"thracian": "kaga",
+		"english": "sacred, holy"
+	},
+	{
+		"thracian": "pes",
+		"english": "boy, child"
+	},
+	{
+		"thracian": "kiri",
+		"english": "mountain, 2"
+	},
+	{
+		"thracian": "kurta",
+		"english": "groove, wood"
+	},
+	{
+		"thracian": "pauta(s)",
+		"english": "foam"
+	},
+	{
+		"thracian": "para",
+		"english": "settlement, village"
+	},
+	{
+		"thracian": "pa(i)vis, puis",
+		"english": "child, son"
+	},
+	{
+		"thracian": "puris/poris",
+		"english": "son, boy"
+	},
+	{
+		"thracian": "paisa(s)",
+		"english": "soot"
+	},
+	{
+		"thracian": "per(u)-",
+		"english": "rock"
+	},
+	{
+		"thracian": "pala",
+		"english": "swamp"
+	},
+	{
+		"thracian": "purda",
+		"english": "swampy"
+	},
+	{
+		"thracian": "pupa",
+		"english": "beans"
+	},
+	{
+		"thracian": "piza(s)",
+		"english": "meadow"
+	},
+	{
+		"thracian": "pras",
+		"english": "wash"
+	},
+	{
+		"thracian": "pura",
+		"english": "maize"
+	},
+	{
+		"thracian": "putras",
+		"english": "bawler, squaller, babbler"
+	},
+	{
+		"thracian": "pusinas",
+		"english": "spruce forest, pine forest"
+	},
+	{
+		"thracian": "rusa",
+		"english": "pit"
+	},
+	{
+		"thracian": "rumba(s)",
+		"english": "edge, rapids"
+	},
+	{
+		"thracian": "rudas",
+		"english": "red, reddish"
+	},
+	{
+		"thracian": "ramus",
+		"english": "quiet, calm"
+	},
+	{
+		"thracian": "ring",
+		"english": "quick, skillful"
+	},
+	{
+		"thracian": "rera",
+		"english": "stones"
+	},
+	{
+		"thracian": "rhomphaia",
+		"english": "sword, spear"
+	},
+	{
+		"thracian": "rezas",
+		"english": "king"
+	},
+	{
+		"thracian": "sabazias",
+		"english": "free"
+	},
+	{
+		"thracian": "raskus",
+		"english": "quick, agile, live"
+	},
+	{
+		"thracian": "raimas",
+		"english": "motley"
+	},
+	{
+		"thracian": "saldas",
+		"english": "golden"
+	},
+	{
+		"thracian": "sara",
+		"english": "river"
+	},
+	{
+		"thracian": "seinas",
+		"english": "village, settlement 2"
+	},
+	{
+		"thracian": "sekas",
+		"english": "grass, greenery"
+	},
+	{
+		"thracian": "sem(e)la",
+		"english": "earth, land"
+	},
+	{
+		"thracian": "siltas",
+		"english": "warm, pleasant"
+	},
+	{
+		"thracian": "sautis",
+		"english": "lazy"
+	},
+	{
+		"thracian": "satras",
+		"english": "live, quick, agile"
+	},
+	{
+		"thracian": "sartas",
+		"english": "light red"
+	},
+	{
+		"thracian": "sind(u)-",
+		"english": "river"
+	},
+	{
+		"thracian": "skalme",
+		"english": "knife"
+	},
+	{
+		"thracian": "singas",
+		"english": "low land, depression"
+	},
+	{
+		"thracian": "skaivas",
+		"english": "left"
+	},
+	{
+		"thracian": "skaplis",
+		"english": "axe"
+	},
+	{
+		"thracian": "skalp",
+		"english": "to beetle, to hit"
+	},
+	{
+		"thracian": "skapt-",
+		"english": "to dig"
+	},
+	{
+		"thracian": "skarke",
+		"english": "silver coin"
+	},
+	{
+		"thracian": "skarksas",
+		"english": "transverse, slanting"
+	},
+	{
+		"thracian": "skreta",
+		"english": "circle"
+	},
+	{
+		"thracian": "skilas",
+		"english": "impetuous"
+	},
+	{
+		"thracian": "skumbras",
+		"english": "mountain, hill"
+	},
+	{
+		"thracian": "spinda(s)",
+		"english": "clearing"
+	},
+	{
+		"thracian": "spinos",
+		"english": "stone which burns when water is poured on it"
+	},
+	{
+		"thracian": "stene",
+		"english": "strong"
+	},
+	{
+		"thracian": "stra",
+		"english": "torrent"
+	},
+	{
+		"thracian": "strumon",
+		"english": "river"
+	},
+	{
+		"thracian": "suchis",
+		"english": "girl"
+	},
+	{
+		"thracian": "suka",
+		"english": "crack"
+	},
+	{
+		"thracian": "sula",
+		"english": "groove"
+	},
+	{
+		"thracian": "suras",
+		"english": "salty, bitter"
+	},
+	{
+		"thracian": "svit",
+		"english": "to shine, to twinkle"
+	},
+	{
+		"thracian": "sunka",
+		"english": "sap, fluid"
+	},
+	{
+		"thracian": "stambas",
+		"english": "stubble-field"
+	},
+	{
+		"thracian": "tarpas",
+		"english": "gap"
+	},
+	{
+		"thracian": "taru",
+		"english": "spear"
+	},
+	{
+		"thracian": "thin",
+		"english": "to hold, to carry"
+	},
+	{
+		"thracian": "thurd",
+		"english": "to crash, to collapse"
+	},
+	{
+		"thracian": "tirsas",
+		"english": "thicket"
+	},
+	{
+		"thracian": "torelle",
+		"english": "a refrain of lament"
+	},
+	{
+		"thracian": "titha",
+		"english": "light, radiance"
+	},
+	{
+		"thracian": "tranas",
+		"english": "rotting"
+	},
+	{
+		"thracian": "traus-",
+		"english": "to break"
+	},
+	{
+		"thracian": "tund-",
+		"english": "to push"
+	},
+	{
+		"thracian": "tuntas",
+		"english": "a flock, flight, heap"
+	},
+	{
+		"thracian": "turm-",
+		"english": "a run"
+	},
+	{
+		"thracian": "udra",
+		"english": "otter"
+	},
+	{
+		"thracian": "udrenas",
+		"english": "aquatic"
+	},
+	{
+		"thracian": "ukas",
+		"english": "mist"
+	},
+	{
+		"thracian": "vairas",
+		"english": "spinning"
+	},
+	{
+		"thracian": "varpasas",
+		"english": "whirlpool"
+	},
+	{
+		"thracian": "veger-",
+		"english": "damp"
+	},
+	{
+		"thracian": "veleka",
+		"english": "place for washing"
+	},
+	{
+		"thracian": "ver-",
+		"english": "to spring, to issue"
+	},
+	{
+		"thracian": "verza",
+		"english": "a barrier used for fishing"
+	},
+	{
+		"thracian": "zvaka",
+		"english": "bright"
+	},
+	{
+		"thracian": "zelta",
+		"english": "gold"
+	},
+	{
+		"thracian": "zburul",
+		"english": "light"
+	},
+	{
+		"thracian": "zalmos",
+		"english": "a hide"
+	},
+	{
+		"thracian": "zbel-",
+		"english": "shining"
+	},
+	{
+		"thracian": "zeri-",
+		"english": "an animal, beast"
+	},
+	{
+		"thracian": "zilai",
+		"english": "wine"
+	},
+	{
+		"thracian": "zilas",
+		"english": "grey"
+	},
+	{
+		"thracian": "ziu / zia",
+		"english": "God"
+	},
+	{
+		"thracian": "zilma",
+		"english": "greenery"
+	},
+	{
+		"thracian": "zetraia",
+		"english": "pot"
+	},
+	{
+		"thracian": "zenis",
+		"english": "born, born in"
+	},
+	{
+		"thracian": "zelmis",
+		"english": "offspring, descendant"
+	},
+	{
+		"thracian": "zeira",
+		"english": "type of upper garment"
+	},
+	{
+		"thracian": "zibythides",
+		"english": "noble Thracian men and women"
+	},
+	{
+		"thracian": "aiz",
+		"english": "goat"
+	},
+	{
+		"thracian": "an(a)",
+		"english": "on, at"
+	},
+	{
+		"thracian": "ang",
+		"english": "curved, twisted"
+	},
+	{
+		"thracian": "apsa",
+		"english": "aspen"
+	},
+	{
+		"thracian": "argilos",
+		"english": "(white) mouse"
+	},
+	{
+		"thracian": "arzas",
+		"english": "white"
+	},
+	{
+		"thracian": "at",
+		"english": "at, towards"
+	},
+	{
+		"thracian": "ath",
+		"english": "high, steep coast, a hill"
+	},
+	{
+		"thracian": "asas",
+		"english": "stone"
+	},
+	{
+		"thracian": "asamus",
+		"english": "tributary of the danube"
+	},
+	{
+		"thracian": "asa",
+		"english": "tussilago farfara"
+	},
+	{
+		"thracian": "daphas",
+		"english": "flood"
+	},
+	{
+		"thracian": "dama",
+		"english": "settlement"
+	},
+	{
+		"thracian": "darsas",
+		"english": "brave, courageous"
+	},
+	{
+		"thracian": "datan",
+		"english": "place"
+	},
+	{
+		"thracian": "dava",
+		"english": "settling, settlement, town, city"
+	},
+	{
+		"thracian": "dentu",
+		"english": "clan"
+	},
+	{
+		"thracian": "desa(s)",
+		"english": "god"
+	},
+	{
+		"thracian": "dinga",
+		"english": "fertile ground"
+	},
+	{
+		"thracian": "dinupula",
+		"english": "wild pumpkin"
+	},
+	{
+		"thracian": "diza",
+		"english": "fortress, castle"
+	},
+	{
+		"thracian": "don",
+		"english": "place, countryside"
+	},
+	{
+		"thracian": "dakina",
+		"english": "type of anemone called 'wolfs heart'"
+	},
+	{
+		"thracian": "ida",
+		"english": "tree, forest"
+	},
+	{
+		"thracian": "iet(e)r",
+		"english": "quick, agile"
+	},
+	{
+		"thracian": "il(u)",
+		"english": "silt, mud"
+	},
+	{
+		"thracian": "iuras",
+		"english": "water, river"
+	},
+	{
+		"thracian": "kupsela",
+		"english": "heap, hillock"
+	}
+]

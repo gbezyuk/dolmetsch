@@ -1,0 +1,2817 @@
+[
+	{
+		"georgian_translit": "me",
+		"english": "I",
+		"audio": "me.mp3"
+	},
+	{
+		"georgian_translit": "me da shen",
+		"english": "me and you",
+		"audio": "me da shen.mp3"
+	},
+	{
+		"georgian_translit": "is",
+		"english": "he",
+		"audio": "is.mp3"
+	},
+	{
+		"georgian_translit": "katsi",
+		"english": "man",
+		"audio": "katsi.mp3"
+	},
+	{
+		"georgian_translit": "kali",
+		"english": "woman",
+		"audio": "kali.mp3"
+	},
+	{
+		"georgian_translit": "bavshvi",
+		"english": "child",
+		"audio": "bavshvi.mp3"
+	},
+	{
+		"georgian_translit": "ojakhi",
+		"english": "family",
+		"audio": "ojakhi.mp3"
+	},
+	{
+		"georgian_translit": "chemi ojakhi",
+		"english": "my family",
+		"audio": "chemi ojakhi.mp3"
+	},
+	{
+		"georgian_translit": "babua",
+		"english": "grandpa",
+		"audio": "babua.mp3"
+	},
+	{
+		"georgian_translit": "bebia",
+		"english": "grandma",
+		"audio": "bebia.mp3"
+	},
+	{
+		"georgian_translit": "minda",
+		"english": "i want",
+		"audio": "minda.mp3"
+	},
+	{
+		"georgian_translit": "gqavt...?",
+		"english": "do you have...?",
+		"audio": "gqavt....mp3"
+	},
+	{
+		"georgian_translit": "nashromi",
+		"english": "thesis",
+		"audio": "nashromi.mp3"
+	},
+	{
+		"georgian_translit": "kopna",
+		"english": "to be",
+		"audio": "kopna.mp3"
+	},
+	{
+		"georgian_translit": "var",
+		"english": "i am",
+		"audio": "var.mp3"
+	},
+	{
+		"georgian_translit": "khar",
+		"english": "you are sg",
+		"audio": "khar.mp3"
+	},
+	{
+		"georgian_translit": "aris",
+		"english": "is",
+		"audio": "aris.mp3"
+	},
+	{
+		"georgian_translit": "vart",
+		"english": "we are",
+		"audio": "vart.mp3"
+	},
+	{
+		"georgian_translit": "khart",
+		"english": "you are pl",
+		"audio": "khart.mp3"
+	},
+	{
+		"georgian_translit": "arian",
+		"english": "they are",
+		"audio": "arian.mp3"
+	},
+	{
+		"georgian_translit": "rdze",
+		"english": "milk",
+		"audio": "rdze.mp3"
+	},
+	{
+		"georgian_translit": "zhurnali",
+		"english": "newspaper",
+		"audio": "zhurnali.mp3"
+	},
+	{
+		"georgian_translit": "bichi",
+		"english": "boy",
+		"audio": "bichi.mp3"
+	},
+	{
+		"georgian_translit": "gogo",
+		"english": "girl",
+		"audio": "gogo.mp3"
+	},
+	{
+		"georgian_translit": "shen",
+		"english": "you",
+		"audio": "shen.mp3"
+	},
+	{
+		"georgian_translit": "chwen",
+		"english": "we",
+		"audio": "chwen.mp3"
+	},
+	{
+		"georgian_translit": "sauzme",
+		"english": "breakfast",
+		"audio": "sauzme.mp3"
+	},
+	{
+		"georgian_translit": "tsveni",
+		"english": "juice",
+		"audio": "tsveni.mp3"
+	},
+	{
+		"georgian_translit": "sadili",
+		"english": "dinner/lunch",
+		"audio": "sadili.mp3"
+	},
+	{
+		"georgian_translit": "vin?",
+		"english": "who",
+		"audio": "vin.mp3"
+	},
+	{
+		"georgian_translit": "ra?",
+		"english": "what",
+		"audio": "ra.mp3"
+	},
+	{
+		"georgian_translit": "shemumetchama",
+		"english": "i accidentaly ate all the food",
+		"audio": "shemumetchama.mp3"
+	},
+	{
+		"georgian_translit": "ara problema",
+		"english": "no problem",
+		"audio": "ara problema.mp3"
+	},
+	{
+		"georgian_translit": "kucha",
+		"english": "street",
+		"audio": "kucha.mp3"
+	},
+	{
+		"georgian_translit": "tsudi",
+		"english": "bad",
+		"audio": "tsudi.mp3"
+	},
+	{
+		"georgian_translit": "ia mtazeda",
+		"english": "here's the mountain",
+		"audio": "ia mtazeda.mp3"
+	},
+	{
+		"georgian_translit": "tovli",
+		"english": "snow",
+		"audio": "tovli.mp3"
+	},
+	{
+		"georgian_translit": "mts’vrtneli",
+		"english": "coach, trainer",
+		"audio": "mts’vrtneli.mp3"
+	},
+	{
+		"georgian_translit": "ts’q’ali",
+		"english": "water",
+		"audio": "ts’q’ali.mp3"
+	},
+	{
+		"georgian_translit": "miq’varkhar",
+		"english": "i love you",
+		"audio": "miq’varkhar.mp3"
+	},
+	{
+		"georgian_translit": "uk’atsravad",
+		"english": "excuse me",
+		"audio": "uk’atsravad.mp3"
+	},
+	{
+		"georgian_translit": "t’k’bebodes",
+		"english": "to be happy",
+		"audio": "t’k’bebodes.mp3"
+	},
+	{
+		"georgian_translit": "vashli",
+		"english": "apples",
+		"audio": "vashli.mp3"
+	},
+	{
+		"georgian_translit": "janmrteloba",
+		"english": "health",
+		"audio": "janmrteloba.mp3"
+	},
+	{
+		"georgian_translit": "mts’vane",
+		"english": "green",
+		"audio": "mts’vane.mp3"
+	},
+	{
+		"georgian_translit": "lamazi",
+		"english": "beautiful",
+		"audio": "lamazi.mp3"
+	},
+	{
+		"georgian_translit": "daghlili",
+		"english": "tired",
+		"audio": "daghlili.mp3"
+	},
+	{
+		"georgian_translit": "ghamit",
+		"english": "at night",
+		"audio": "ghamit.mp3"
+	},
+	{
+		"georgian_translit": "vpikrob",
+		"english": "i think",
+		"audio": "vpikrob.mp3"
+	},
+	{
+		"georgian_translit": "tovli",
+		"english": "snow",
+		"audio": "tovli.mp3"
+	},
+	{
+		"georgian_translit": "tavi",
+		"english": "chapter",
+		"audio": "tavi.mp3"
+	},
+	{
+		"georgian_translit": "skami",
+		"english": "chair",
+		"audio": "skami.mp3"
+	},
+	{
+		"georgian_translit": "tkivili",
+		"english": "pain",
+		"audio": "tkivili.mp3"
+	},
+	{
+		"georgian_translit": "suratze",
+		"english": "in the picture",
+		"audio": "suratze.mp3"
+	},
+	{
+		"georgian_translit": "iapi",
+		"english": "cheap",
+		"audio": "iapi.mp3"
+	},
+	{
+		"georgian_translit": "visi",
+		"english": "whose",
+		"audio": "visi.mp3"
+	},
+	{
+		"georgian_translit": "gaacheret",
+		"english": "please stop (mashrutka)",
+		"audio": "gaacheret.mp3"
+	},
+	{
+		"georgian_translit": "gacherebaze gaacheret",
+		"english": "stop on the bus stop",
+		"audio": "gacherebaze gaacheret.mp3"
+	},
+	{
+		"georgian_translit": "sheukhviet",
+		"english": "turn (around)!",
+		"audio": "sheukhviet.mp3"
+	},
+	{
+		"georgian_translit": "marjvena",
+		"english": "right",
+		"audio": "marjvena.mp3"
+	},
+	{
+		"georgian_translit": "martskhena",
+		"english": "left",
+		"audio": "martskhena.mp3"
+	},
+	{
+		"georgian_translit": "tsadi...",
+		"english": "turn...",
+		"audio": "tsadi....mp3"
+	},
+	{
+		"georgian_translit": "pirdapir",
+		"english": "straight",
+		"audio": "pirdapir.mp3"
+	},
+	{
+		"georgian_translit": "dabrundit",
+		"english": "return, come back!",
+		"audio": "dabrundit.mp3"
+	},
+	{
+		"georgian_translit": "ak",
+		"english": "here",
+		"audio": "ak.mp3"
+	},
+	{
+		"georgian_translit": "ik",
+		"english": "there",
+		"audio": "ik.mp3"
+	},
+	{
+		"georgian_translit": "zemot",
+		"english": "above, over",
+		"audio": "zemot.mp3"
+	},
+	{
+		"georgian_translit": "ghame",
+		"english": "night",
+		"audio": "ghame.mp3"
+	},
+	{
+		"georgian_translit": "saghamo",
+		"english": "evening",
+		"audio": "saghamo.mp3"
+	},
+	{
+		"georgian_translit": "romeli?",
+		"english": "which?",
+		"audio": "romeli.mp3"
+	},
+	{
+		"georgian_translit": "tsigni",
+		"english": "book",
+		"audio": "tsigni.mp3"
+	},
+	{
+		"georgian_translit": "ra khdeba?",
+		"english": "whats up?",
+		"audio": "ra khdeba.mp3"
+	},
+	{
+		"georgian_translit": "sakheli",
+		"english": "first name",
+		"audio": "sakheli.mp3"
+	},
+	{
+		"georgian_translit": "sakartvelodan",
+		"english": "from Georgia",
+		"audio": "sakartvelodan.mp3"
+	},
+	{
+		"georgian_translit": "ramdeni tslis khar?",
+		"english": "how old are you?",
+		"audio": "ramdeni tslis khar.mp3"
+	},
+	{
+		"georgian_translit": "gvari",
+		"english": "surname",
+		"audio": "gvari.mp3"
+	},
+	{
+		"georgian_translit": "saidan khar?",
+		"english": "where are you from?",
+		"audio": "saidan khar.mp3"
+	},
+	{
+		"georgian_translit": "sad midikhar?",
+		"english": "where are you going?",
+		"audio": "sad midikhar.mp3"
+	},
+	{
+		"georgian_translit": "magari",
+		"english": "cool (lit. strong, hard)",
+		"audio": "magari.mp3"
+	},
+	{
+		"georgian_translit": "chemi",
+		"english": "mine, my",
+		"audio": "chemi.mp3"
+	},
+	{
+		"georgian_translit": "sheni",
+		"english": "your",
+		"audio": "sheni.mp3"
+	},
+	{
+		"georgian_translit": "misi",
+		"english": "his, her , its",
+		"audio": "misi.mp3"
+	},
+	{
+		"georgian_translit": "chweni",
+		"english": "ours",
+		"audio": "chweni.mp3"
+	},
+	{
+		"georgian_translit": "tkveni",
+		"english": "yours pl",
+		"audio": "tkveni.mp3"
+	},
+	{
+		"georgian_translit": "mati",
+		"english": "their",
+		"audio": "mati.mp3"
+	},
+	{
+		"georgian_translit": "ojakhi",
+		"english": "family",
+		"audio": "ojakhi.mp3"
+	},
+	{
+		"georgian_translit": "deda",
+		"english": "mom",
+		"audio": "deda.mp3"
+	},
+	{
+		"georgian_translit": "mama",
+		"english": "dad",
+		"audio": "mama.mp3"
+	},
+	{
+		"georgian_translit": "bebia",
+		"english": "grandma",
+		"audio": "bebia.mp3"
+	},
+	{
+		"georgian_translit": "babua",
+		"english": "grandpa",
+		"audio": "babua.mp3"
+	},
+	{
+		"georgian_translit": "dzma",
+		"english": "brother",
+		"audio": "dzma.mp3"
+	},
+	{
+		"georgian_translit": "shvili",
+		"english": "child, son, daughter",
+		"audio": "shvili.mp3"
+	},
+	{
+		"georgian_translit": "kmari",
+		"english": "husband",
+		"audio": "kmari.mp3"
+	},
+	{
+		"georgian_translit": "tsoli",
+		"english": "wife",
+		"audio": "tsoli.mp3"
+	},
+	{
+		"georgian_translit": "satsoli",
+		"english": "wife-to-be",
+		"audio": "satsoli.mp3"
+	},
+	{
+		"georgian_translit": "shekvarebuli",
+		"english": "BF/GF",
+		"audio": "shekvarebuli.mp3"
+	},
+	{
+		"georgian_translit": "mshoglebi",
+		"english": "parents",
+		"audio": "mshoglebi.mp3"
+	},
+	{
+		"georgian_translit": "shvilishvilebi",
+		"english": "grandchildren",
+		"audio": "shvilishvilebi.mp3"
+	},
+	{
+		"georgian_translit": "tslis",
+		"english": "year",
+		"audio": "tslis.mp3"
+	},
+	{
+		"georgian_translit": "me var.... tslis",
+		"english": "i am ... years old",
+		"audio": "me var.... tslis.mp3"
+	},
+	{
+		"georgian_translit": "kalbatoni",
+		"english": "miss",
+		"audio": "kalbatoni.mp3"
+	},
+	{
+		"georgian_translit": "erti",
+		"english": "1",
+		"audio": "erti.mp3"
+	},
+	{
+		"georgian_translit": "ori",
+		"english": "2",
+		"audio": "ori.mp3"
+	},
+	{
+		"georgian_translit": "sami",
+		"english": "3",
+		"audio": "sami.mp3"
+	},
+	{
+		"georgian_translit": "otkhi",
+		"english": "4",
+		"audio": "otkhi.mp3"
+	},
+	{
+		"georgian_translit": "khuti",
+		"english": "5",
+		"audio": "khuti.mp3"
+	},
+	{
+		"georgian_translit": "ekvsi",
+		"english": "6",
+		"audio": "ekvsi.mp3"
+	},
+	{
+		"georgian_translit": "shvidi",
+		"english": "7",
+		"audio": "shvidi.mp3"
+	},
+	{
+		"georgian_translit": "rva",
+		"english": "8",
+		"audio": "rva.mp3"
+	},
+	{
+		"georgian_translit": "tskhra",
+		"english": "9",
+		"audio": "tskhra.mp3"
+	},
+	{
+		"georgian_translit": "ati",
+		"english": "10",
+		"audio": "ati.mp3"
+	},
+	{
+		"georgian_translit": "salami",
+		"english": "hello",
+		"audio": "salami.mp3"
+	},
+	{
+		"georgian_translit": "kopna",
+		"english": "to be",
+		"audio": "kopna.mp3"
+	},
+	{
+		"georgian_translit": "vikavi",
+		"english": "i was",
+		"audio": "vikavi.mp3"
+	},
+	{
+		"georgian_translit": "ikavi",
+		"english": "you were sg",
+		"audio": "ikavi.mp3"
+	},
+	{
+		"georgian_translit": "iko",
+		"english": "s/he was",
+		"audio": "iko.mp3"
+	},
+	{
+		"georgian_translit": "vikavit",
+		"english": "we were",
+		"audio": "vikavit.mp3"
+	},
+	{
+		"georgian_translit": "ikavit",
+		"english": "you were pl",
+		"audio": "ikavit.mp3"
+	},
+	{
+		"georgian_translit": "ikvnen",
+		"english": "they were",
+		"audio": "ikvnen.mp3"
+	},
+	{
+		"georgian_translit": "viknebi",
+		"english": "i will be",
+		"audio": "viknebi.mp3"
+	},
+	{
+		"georgian_translit": "iknebi",
+		"english": "you will be sg",
+		"audio": "iknebi.mp3"
+	},
+	{
+		"georgian_translit": "ikneba",
+		"english": "s/he will be",
+		"audio": "ikneba.mp3"
+	},
+	{
+		"georgian_translit": "viknebit",
+		"english": "we will be",
+		"audio": "viknebit.mp3"
+	},
+	{
+		"georgian_translit": "iknebit",
+		"english": "you will be pl",
+		"audio": "iknebit.mp3"
+	},
+	{
+		"georgian_translit": "iknebian",
+		"english": "they will be",
+		"audio": "iknebian.mp3"
+	},
+	{
+		"georgian_translit": "gushin",
+		"english": "yesterday",
+		"audio": "gushin.mp3"
+	},
+	{
+		"georgian_translit": "dghes",
+		"english": "today",
+		"audio": "dghes.mp3"
+	},
+	{
+		"georgian_translit": "khval",
+		"english": "tomorrow",
+		"audio": "khval.mp3"
+	},
+	{
+		"georgian_translit": "tertmeti",
+		"english": "11",
+		"audio": "tertmeti.mp3"
+	},
+	{
+		"georgian_translit": "tormeti",
+		"english": "12",
+		"audio": "tormeti.mp3"
+	},
+	{
+		"georgian_translit": "tsameti",
+		"english": "13",
+		"audio": "tsameti.mp3"
+	},
+	{
+		"georgian_translit": "totkhmeti",
+		"english": "14",
+		"audio": "totkhmeti.mp3"
+	},
+	{
+		"georgian_translit": "tkhutmeti",
+		"english": "15",
+		"audio": "tkhutmeti.mp3"
+	},
+	{
+		"georgian_translit": "tekvsmeti",
+		"english": "16",
+		"audio": "tekvsmeti.mp3"
+	},
+	{
+		"georgian_translit": "chvidmeti",
+		"english": "17",
+		"audio": "chvidmeti.mp3"
+	},
+	{
+		"georgian_translit": "tvrameti",
+		"english": "18",
+		"audio": "tvrameti.mp3"
+	},
+	{
+		"georgian_translit": "tskhrameti",
+		"english": "19",
+		"audio": "tskhrameti.mp3"
+	},
+	{
+		"georgian_translit": "otsi",
+		"english": "20",
+		"audio": "otsi.mp3"
+	},
+	{
+		"georgian_translit": "ots-da-erti",
+		"english": "21",
+		"audio": "ots-da-erti.mp3"
+	},
+	{
+		"georgian_translit": "ots-da-ati",
+		"english": "30",
+		"audio": "ots-da-ati.mp3"
+	},
+	{
+		"georgian_translit": "ots-da-tertmeti",
+		"english": "31",
+		"audio": "ots-da-tertmeti.mp3"
+	},
+	{
+		"georgian_translit": "ormotsi",
+		"english": "40",
+		"audio": "ormotsi.mp3"
+	},
+	{
+		"georgian_translit": "ormotsdaati",
+		"english": "50",
+		"audio": "ormotsdaati.mp3"
+	},
+	{
+		"georgian_translit": "samotsi",
+		"english": "60",
+		"audio": "samotsi.mp3"
+	},
+	{
+		"georgian_translit": "samotsdaati",
+		"english": "70",
+		"audio": "samotsdaati.mp3"
+	},
+	{
+		"georgian_translit": "othkmoti",
+		"english": "80",
+		"audio": "othkmoti.mp3"
+	},
+	{
+		"georgian_translit": "otkhmotsdaati",
+		"english": "90",
+		"audio": "otkhmotsdaati.mp3"
+	},
+	{
+		"georgian_translit": "asi",
+		"english": "100",
+		"audio": "asi.mp3"
+	},
+	{
+		"georgian_translit": "atasi",
+		"english": "1000",
+		"audio": "atasi.mp3"
+	},
+	{
+		"georgian_translit": "ramdeni?",
+		"english": "how many?",
+		"audio": "ramdeni.mp3"
+	},
+	{
+		"georgian_translit": "rogori?",
+		"english": "what kind?",
+		"audio": "rogori.mp3"
+	},
+	{
+		"georgian_translit": "rogor?",
+		"english": "how?",
+		"audio": "rogor.mp3"
+	},
+	{
+		"georgian_translit": "romeli?",
+		"english": "which?",
+		"audio": "romeli.mp3"
+	},
+	{
+		"georgian_translit": "rodis?",
+		"english": "when?",
+		"audio": "rodis.mp3"
+	},
+	{
+		"georgian_translit": "ratom",
+		"english": "why",
+		"audio": "ratom.mp3"
+	},
+	{
+		"georgian_translit": "visi?",
+		"english": "whose",
+		"audio": "visi.mp3"
+	},
+	{
+		"georgian_translit": "saidan",
+		"english": "from where",
+		"audio": "saidan.mp3"
+	},
+	{
+		"georgian_translit": "khvekhana",
+		"english": "country",
+		"audio": "khvekhana.mp3"
+	},
+	{
+		"georgian_translit": "mankana",
+		"english": "car",
+		"audio": "mankana.mp3"
+	},
+	{
+		"georgian_translit": "adamiani",
+		"english": "human",
+		"audio": "adamiani.mp3"
+	},
+	{
+		"georgian_translit": "sagani",
+		"english": "thing",
+		"audio": "sagani.mp3"
+	},
+	{
+		"georgian_translit": "patara",
+		"english": "little",
+		"audio": "patara.mp3"
+	},
+	{
+		"georgian_translit": "+shi",
+		"english": "in, on",
+		"audio": "+shi.mp3"
+	},
+	{
+		"georgian_translit": "magida",
+		"english": "table",
+		"audio": "magida.mp3"
+	},
+	{
+		"georgian_translit": "ertad",
+		"english": "together",
+		"audio": "ertad.mp3"
+	},
+	{
+		"georgian_translit": "albat",
+		"english": "perhaps",
+		"audio": "albat.mp3"
+	},
+	{
+		"georgian_translit": "tsavidet",
+		"english": "lets go",
+		"audio": "tsavidet.mp3"
+	},
+	{
+		"georgian_translit": "arapris",
+		"english": "youre welcome",
+		"audio": "arapris.mp3"
+	},
+	{
+		"georgian_translit": "qari",
+		"english": "door, chapter",
+		"audio": "qari.mp3"
+	},
+	{
+		"georgian_translit": "tsudad",
+		"english": "badly, poorly",
+		"audio": "tsudad.mp3"
+	},
+	{
+		"georgian_translit": "mets",
+		"english": "me too",
+		"audio": "mets.mp3"
+	},
+	{
+		"georgian_translit": "qatzo! ",
+		"english": "dude!",
+		"audio": "qatzo! .mp3"
+	},
+	{
+		"georgian_translit": "dzaghli",
+		"english": "dog",
+		"audio": "dzaghli.mp3"
+	},
+	{
+		"georgian_translit": "qata",
+		"english": "cat",
+		"audio": "qata.mp3"
+	},
+	{
+		"georgian_translit": "qalami",
+		"english": "pen",
+		"audio": "qalami.mp3"
+	},
+	{
+		"georgian_translit": "skami",
+		"english": "chair",
+		"audio": "skami.mp3"
+	},
+	{
+		"georgian_translit": "qatsi",
+		"english": "man",
+		"audio": "qatsi.mp3"
+	},
+	{
+		"georgian_translit": "gogo",
+		"english": "girl",
+		"audio": "gogo.mp3"
+	},
+	{
+		"georgian_translit": "poloneti",
+		"english": "Poland",
+		"audio": "poloneti.mp3"
+	},
+	{
+		"georgian_translit": "niderlandebi",
+		"english": "Holland",
+		"audio": "niderlandebi.mp3"
+	},
+	{
+		"georgian_translit": "me mkvia..",
+		"english": "My name is",
+		"audio": "me mkvia...mp3"
+	},
+	{
+		"georgian_translit": "parki",
+		"english": "bag",
+		"audio": "parki.mp3"
+	},
+	{
+		"georgian_translit": "ar minda",
+		"english": "i dont want",
+		"audio": "ar minda.mp3"
+	},
+	{
+		"georgian_translit": "khelpasi",
+		"english": "salary",
+		"audio": "khelpasi.mp3"
+	},
+	{
+		"georgian_translit": "kheli",
+		"english": "hand",
+		"audio": "kheli.mp3"
+	},
+	{
+		"georgian_translit": "pasi",
+		"english": "price",
+		"audio": "pasi.mp3"
+	},
+	{
+		"georgian_translit": "dghes",
+		"english": "today",
+		"audio": "dghes.mp3"
+	},
+	{
+		"georgian_translit": "orsh'abati",
+		"english": "monday",
+		"audio": "orsh'abati.mp3"
+	},
+	{
+		"georgian_translit": "khval",
+		"english": "tomorrow",
+		"audio": "khval.mp3"
+	},
+	{
+		"georgian_translit": "gamotsda",
+		"english": "exam",
+		"audio": "gamotsda.mp3"
+	},
+	{
+		"georgian_translit": "ratom",
+		"english": "why",
+		"audio": "ratom.mp3"
+	},
+	{
+		"georgian_translit": "dabredili",
+		"english": "exhausted",
+		"audio": "dabredili.mp3"
+	},
+	{
+		"georgian_translit": "modi",
+		"english": "come here",
+		"audio": "modi.mp3"
+	},
+	{
+		"georgian_translit": "j'moti",
+		"english": "penny pincher",
+		"audio": "j'moti.mp3"
+	},
+	{
+		"georgian_translit": "daikide",
+		"english": "dont worry",
+		"audio": "daikide.mp3"
+	},
+	{
+		"georgian_translit": "puri",
+		"english": "bread",
+		"audio": "puri.mp3"
+	},
+	{
+		"georgian_translit": "karaki",
+		"english": "butter",
+		"audio": "karaki.mp3"
+	},
+	{
+		"georgian_translit": "kveli",
+		"english": "cheese",
+		"audio": "kveli.mp3"
+	},
+	{
+		"georgian_translit": "gvertskhi",
+		"english": "egg",
+		"audio": "gvertskhi.mp3"
+	},
+	{
+		"georgian_translit": "pomidori",
+		"english": "tomato",
+		"audio": "pomidori.mp3"
+	},
+	{
+		"georgian_translit": "pakhmelia",
+		"english": "hangover",
+		"audio": "pakhmelia.mp3"
+	},
+	{
+		"georgian_translit": "trusiki",
+		"english": "underpants",
+		"audio": "trusiki.mp3"
+	},
+	{
+		"georgian_translit": "hava",
+		"english": "climate",
+		"audio": "hava.mp3"
+	},
+	{
+		"georgian_translit": "kinji",
+		"english": "coriander",
+		"audio": "kinji.mp3"
+	},
+	{
+		"georgian_translit": "gamapkhvierebeli",
+		"english": "baking powder",
+		"audio": "gamapkhvierebeli.mp3"
+	},
+	{
+		"georgian_translit": "misaghebi",
+		"english": "acceptable",
+		"audio": "misaghebi.mp3"
+	},
+	{
+		"georgian_translit": "zogadi",
+		"english": "active",
+		"audio": "zogadi.mp3"
+	},
+	{
+		"georgian_translit": "sazghvargaret",
+		"english": "abroad",
+		"audio": "sazghvargaret.mp3"
+	},
+	{
+		"georgian_translit": "darich’ini",
+		"english": "cinnamon",
+		"audio": "darich’ini.mp3"
+	},
+	{
+		"georgian_translit": "ლიმონმჟავას",
+		"english": "citric acid",
+		"audio": "ლიმონმჟავას.mp3"
+	},
+	{
+		"georgian_translit": "სოლინჯი",
+		"english": "fenugreek",
+		"audio": "სოლინჯი.mp3"
+	},
+	{
+		"georgian_translit": "ჯანჯაფილი",
+		"english": "ginger",
+		"audio": "ჯანჯაფილი.mp3"
+	},
+	{
+		"georgian_translit": "შავი მარილი",
+		"english": "black salt",
+		"audio": "შავი მარილი.mp3"
+	},
+	{
+		"georgian_translit": "mivdivar",
+		"english": "I go",
+		"audio": "mivdivar.mp3"
+	},
+	{
+		"georgian_translit": "midikhar",
+		"english": "you go sg",
+		"audio": "midikhar.mp3"
+	},
+	{
+		"georgian_translit": "midis",
+		"english": "he goes",
+		"audio": "midis.mp3"
+	},
+	{
+		"georgian_translit": "mivdivart",
+		"english": "we go",
+		"audio": "mivdivart.mp3"
+	},
+	{
+		"georgian_translit": "midikhart",
+		"english": "you go pl",
+		"audio": "midikhart.mp3"
+	},
+	{
+		"georgian_translit": "midian",
+		"english": "they go",
+		"audio": "midian.mp3"
+	},
+	{
+		"georgian_translit": "me mkvia",
+		"english": "my name is...",
+		"audio": "me mkvia.mp3"
+	},
+	{
+		"georgian_translit": "dilaze / dilit",
+		"english": "in the morning",
+		"audio": "dilaze / dilit.mp3"
+	},
+	{
+		"georgian_translit": "saberdzneti",
+		"english": "Greece",
+		"audio": "saberdzneti.mp3"
+	},
+	{
+		"georgian_translit": "akhali",
+		"english": "new",
+		"audio": "akhali.mp3"
+	},
+	{
+		"georgian_translit": "kvira",
+		"english": "sunday , week",
+		"audio": "kvira.mp3"
+	},
+	{
+		"georgian_translit": "gvaqvs",
+		"english": "we have",
+		"audio": "gvaqvs.mp3"
+	},
+	{
+		"georgian_translit": "ruseti",
+		"english": "Russia",
+		"audio": "ruseti.mp3"
+	},
+	{
+		"georgian_translit": "rusi",
+		"english": "Russian",
+		"audio": "rusi.mp3"
+	},
+	{
+		"georgian_translit": "somkheti",
+		"english": "Armenia",
+		"audio": "somkheti.mp3"
+	},
+	{
+		"georgian_translit": "somekhi",
+		"english": "Armenian",
+		"audio": "somekhi.mp3"
+	},
+	{
+		"georgian_translit": "turketi",
+		"english": "Turkey",
+		"audio": "turketi.mp3"
+	},
+	{
+		"georgian_translit": "turki",
+		"english": "Turkish",
+		"audio": "turki.mp3"
+	},
+	{
+		"georgian_translit": "saprangeti",
+		"english": "France",
+		"audio": "saprangeti.mp3"
+	},
+	{
+		"georgian_translit": "prangi",
+		"english": "French",
+		"audio": "prangi.mp3"
+	},
+	{
+		"georgian_translit": "berdzeni",
+		"english": "Greek",
+		"audio": "berdzeni.mp3"
+	},
+	{
+		"georgian_translit": "dzalian",
+		"english": "very",
+		"audio": "dzalian.mp3"
+	},
+	{
+		"georgian_translit": "aba",
+		"english": "oh, well, wow...",
+		"audio": "aba.mp3"
+	},
+	{
+		"georgian_translit": "tsami",
+		"english": "second",
+		"audio": "tsami.mp3"
+	},
+	{
+		"georgian_translit": "pirovneba",
+		"english": "personality",
+		"audio": "pirovneba.mp3"
+	},
+	{
+		"georgian_translit": "piri",
+		"english": "person ",
+		"audio": "piri.mp3"
+	},
+	{
+		"georgian_translit": "niuti",
+		"english": "thing",
+		"audio": "niuti.mp3"
+	},
+	{
+		"georgian_translit": "gushin",
+		"english": "yesterday",
+		"audio": "gushin.mp3"
+	},
+	{
+		"georgian_translit": "vikavit",
+		"english": "we were",
+		"audio": "vikavit.mp3"
+	},
+	{
+		"georgian_translit": "ikven",
+		"english": "they were",
+		"audio": "ikven.mp3"
+	},
+	{
+		"georgian_translit": "dghe",
+		"english": "day",
+		"audio": "dghe.mp3"
+	},
+	{
+		"georgian_translit": "gatsnoba",
+		"english": "to introduce",
+		"audio": "gatsnoba.mp3"
+	},
+	{
+		"georgian_translit": "me vitsi",
+		"english": "i know (ex a language)",
+		"audio": "me vitsi.mp3"
+	},
+	{
+		"georgian_translit": "sasiamovnoa tkweni gatsnoba",
+		"english": "nice to meet you",
+		"audio": "sasiamovnoa tkweni gatsnoba.mp3"
+	},
+	{
+		"georgian_translit": "chinuri",
+		"english": "chinese",
+		"audio": "chinuri.mp3"
+	},
+	{
+		"georgian_translit": "dghevandeli ",
+		"english": "today's",
+		"audio": "dghevandeli .mp3"
+	},
+	{
+		"georgian_translit": "gazeti",
+		"english": "newspaper",
+		"audio": "gazeti.mp3"
+	},
+	{
+		"georgian_translit": "sheidzlebi",
+		"english": "you can",
+		"audio": "sheidzlebi.mp3"
+	},
+	{
+		"georgian_translit": "sheidzlebi mometsit",
+		"english": "can you give me?",
+		"audio": "sheidzlebi mometsit.mp3"
+	},
+	{
+		"georgian_translit": "inebet",
+		"english": "here you go",
+		"audio": "inebet.mp3"
+	},
+	{
+		"georgian_translit": "lipts",
+		"english": "elevator",
+		"audio": "lipts.mp3"
+	},
+	{
+		"georgian_translit": "namdvilad",
+		"english": "really",
+		"audio": "namdvilad.mp3"
+	},
+	{
+		"georgian_translit": "ras izamen?",
+		"english": "what will they do?",
+		"audio": "ras izamen.mp3"
+	},
+	{
+		"georgian_translit": "tquils",
+		"english": "lie",
+		"audio": "tquils.mp3"
+	},
+	{
+		"georgian_translit": "tava",
+		"english": "head, self",
+		"audio": "tava.mp3"
+	},
+	{
+		"georgian_translit": "qiseri",
+		"english": "neck",
+		"audio": "qiseri.mp3"
+	},
+	{
+		"georgian_translit": "tani",
+		"english": "body",
+		"audio": "tani.mp3"
+	},
+	{
+		"georgian_translit": "tseli",
+		"english": "waist, lower back",
+		"audio": "tseli.mp3"
+	},
+	{
+		"georgian_translit": "pekhi",
+		"english": "leg",
+		"audio": "pekhi.mp3"
+	},
+	{
+		"georgian_translit": "kheli",
+		"english": "hand",
+		"audio": "kheli.mp3"
+	},
+	{
+		"georgian_translit": "tma",
+		"english": "hair",
+		"audio": "tma.mp3"
+	},
+	{
+		"georgian_translit": "tsarbi",
+		"english": "eyebrow",
+		"audio": "tsarbi.mp3"
+	},
+	{
+		"georgian_translit": "tvali",
+		"english": "eye",
+		"audio": "tvali.mp3"
+	},
+	{
+		"georgian_translit": "tsamtsani",
+		"english": "eyelash",
+		"audio": "tsamtsani.mp3"
+	},
+	{
+		"georgian_translit": "quri",
+		"english": "ear",
+		"audio": "quri.mp3"
+	},
+	{
+		"georgian_translit": "piri",
+		"english": "mouth",
+		"audio": "piri.mp3"
+	},
+	{
+		"georgian_translit": "tuchebi",
+		"english": "lips",
+		"audio": "tuchebi.mp3"
+	},
+	{
+		"georgian_translit": "tskhviri",
+		"english": "nose",
+		"audio": "tskhviri.mp3"
+	},
+	{
+		"georgian_translit": "kbili",
+		"english": "tooth",
+		"audio": "kbili.mp3"
+	},
+	{
+		"georgian_translit": "maghali",
+		"english": "tall",
+		"audio": "maghali.mp3"
+	},
+	{
+		"georgian_translit": "dabali",
+		"english": "short",
+		"audio": "dabali.mp3"
+	},
+	{
+		"georgian_translit": "grdzeli",
+		"english": "long",
+		"audio": "grdzeli.mp3"
+	},
+	{
+		"georgian_translit": "mokle",
+		"english": "short",
+		"audio": "mokle.mp3"
+	},
+	{
+		"georgian_translit": "gamkhdari",
+		"english": "thin",
+		"audio": "gamkhdari.mp3"
+	},
+	{
+		"georgian_translit": "msukani",
+		"english": "fat",
+		"audio": "msukani.mp3"
+	},
+	{
+		"georgian_translit": "peri",
+		"english": "color",
+		"audio": "peri.mp3"
+	},
+	{
+		"georgian_translit": "tsiteli",
+		"english": "red",
+		"audio": "tsiteli.mp3"
+	},
+	{
+		"georgian_translit": "qviteli",
+		"english": "yellow",
+		"audio": "qviteli.mp3"
+	},
+	{
+		"georgian_translit": "shavi",
+		"english": "black",
+		"audio": "shavi.mp3"
+	},
+	{
+		"georgian_translit": "lurji",
+		"english": "blue",
+		"audio": "lurji.mp3"
+	},
+	{
+		"georgian_translit": "tetri",
+		"english": "white",
+		"audio": "tetri.mp3"
+	},
+	{
+		"georgian_translit": "mts’vane",
+		"english": "green",
+		"audio": "mts’vane.mp3"
+	},
+	{
+		"georgian_translit": "qavisperi",
+		"english": "brown",
+		"audio": "qavisperi.mp3"
+	},
+	{
+		"georgian_translit": "mas aqvs",
+		"english": "s/he has (things)",
+		"audio": "mas aqvs.mp3"
+	},
+	{
+		"georgian_translit": "gamqarebashi",
+		"english": "to jut out",
+		"audio": "gamqarebashi.mp3"
+	},
+	{
+		"georgian_translit": "rqinis",
+		"english": "iron",
+		"audio": "rqinis.mp3"
+	},
+	{
+		"georgian_translit": "ghia",
+		"english": "light",
+		"audio": "ghia.mp3"
+	},
+	{
+		"georgian_translit": "muki",
+		"english": "dark",
+		"audio": "muki.mp3"
+	},
+	{
+		"georgian_translit": "iisperi",
+		"english": "purple",
+		"audio": "iisperi.mp3"
+	},
+	{
+		"georgian_translit": "q'aba",
+		"english": "dress",
+		"audio": "q'aba.mp3"
+	},
+	{
+		"georgian_translit": "natsrisperi",
+		"english": "grey",
+		"audio": "natsrisperi.mp3"
+	},
+	{
+		"georgian_translit": "dzaghli",
+		"english": "dog",
+		"audio": "dzaghli.mp3"
+	},
+	{
+		"georgian_translit": "zhaketi",
+		"english": "jacket",
+		"audio": "zhaketi.mp3"
+	},
+	{
+		"georgian_translit": "sharvali",
+		"english": "trousers",
+		"audio": "sharvali.mp3"
+	},
+	{
+		"georgian_translit": "pijaki",
+		"english": "cardigan",
+		"audio": "pijaki.mp3"
+	},
+	{
+		"georgian_translit": "kona",
+		"english": "to have (things)",
+		"audio": "kona.mp3"
+	},
+	{
+		"georgian_translit": "me maqvs",
+		"english": "i have (things)",
+		"audio": "me maqvs.mp3"
+	},
+	{
+		"georgian_translit": "mas aqvs",
+		"english": "s/he has (things)",
+		"audio": "mas aqvs.mp3"
+	},
+	{
+		"georgian_translit": "q'ola",
+		"english": "to have (people)",
+		"audio": "q'ola.mp3"
+	},
+	{
+		"georgian_translit": "me mqavs",
+		"english": "i have (ppl)",
+		"audio": "me mqavs.mp3"
+	},
+	{
+		"georgian_translit": "mas hqavs",
+		"english": "he has (ppl)",
+		"audio": "mas hqavs.mp3"
+	},
+	{
+		"georgian_translit": "velosiped",
+		"english": "bicycle",
+		"audio": "velosiped.mp3"
+	},
+	{
+		"georgian_translit": "tsigni",
+		"english": "book",
+		"audio": "tsigni.mp3"
+	},
+	{
+		"georgian_translit": "tsigni",
+		"english": "book",
+		"audio": "tsigni.mp3"
+	},
+	{
+		"georgian_translit": "rveuli",
+		"english": "notebook",
+		"audio": "rveuli.mp3"
+	},
+	{
+		"georgian_translit": "megobari",
+		"english": "friend",
+		"audio": "megobari.mp3"
+	},
+	{
+		"georgian_translit": "puli",
+		"english": "money",
+		"audio": "puli.mp3"
+	},
+	{
+		"georgian_translit": "sapuli",
+		"english": "wallet",
+		"audio": "sapuli.mp3"
+	},
+	{
+		"georgian_translit": "pirsakhotsi",
+		"english": "towel",
+		"audio": "pirsakhotsi.mp3"
+	},
+	{
+		"georgian_translit": "karada",
+		"english": "wardrobe",
+		"audio": "karada.mp3"
+	},
+	{
+		"georgian_translit": "vbilis pasta",
+		"english": "toothpaste",
+		"audio": "vbilis pasta.mp3"
+	},
+	{
+		"georgian_translit": "vbilis zhagrisi",
+		"english": "toothbrush",
+		"audio": "vbilis zhagrisi.mp3"
+	},
+	{
+		"georgian_translit": "saponi",
+		"english": "soap",
+		"audio": "saponi.mp3"
+	},
+	{
+		"georgian_translit": "pankari",
+		"english": "pencil",
+		"audio": "pankari.mp3"
+	},
+	{
+		"georgian_translit": "chemodani",
+		"english": "suitcase",
+		"audio": "chemodani.mp3"
+	},
+	{
+		"georgian_translit": "romeli saatia?",
+		"english": "what time is it?",
+		"audio": "romeli saatia.mp3"
+	},
+	{
+		"georgian_translit": "modis",
+		"english": "s/he's coming",
+		"audio": "modis.mp3"
+	},
+	{
+		"georgian_translit": "midis",
+		"english": "is going",
+		"audio": "midis.mp3"
+	},
+	{
+		"georgian_translit": "pirveli",
+		"english": "first",
+		"audio": "pirveli.mp3"
+	},
+	{
+		"georgian_translit": "tsuti",
+		"english": "minute",
+		"audio": "tsuti.mp3"
+	},
+	{
+		"georgian_translit": "aqlia..",
+		"english": "left.. (like 15 minutes to 2 left)",
+		"audio": "aqlia...mp3"
+	},
+	{
+		"georgian_translit": "nakhevari",
+		"english": "half",
+		"audio": "nakhevari.mp3"
+	},
+	{
+		"georgian_translit": "manqanit",
+		"english": "by car",
+		"audio": "manqanit.mp3"
+	},
+	{
+		"georgian_translit": "akhla",
+		"english": "now",
+		"audio": "akhla.mp3"
+	},
+	{
+		"georgian_translit": "+ze",
+		"english": "...o'clock",
+		"audio": "+ze.mp3"
+	},
+	{
+		"georgian_translit": "khutze",
+		"english": "at 5",
+		"audio": "khutze.mp3"
+	},
+	{
+		"georgian_translit": "pirveli saatze",
+		"english": "at 1",
+		"audio": "pirveli saatze.mp3"
+	},
+	{
+		"georgian_translit": "rom",
+		"english": "at.. (time)",
+		"audio": "rom.mp3"
+	},
+	{
+		"georgian_translit": "vstsavlob",
+		"english": "i learn",
+		"audio": "vstsavlob.mp3"
+	},
+	{
+		"georgian_translit": "viban",
+		"english": "i wash",
+		"audio": "viban.mp3"
+	},
+	{
+		"georgian_translit": "ვჭამ",
+		"english": "i eat",
+		"audio": "ვჭამ.mp3"
+	},
+	{
+		"georgian_translit": "ვიღვიძებ",
+		"english": "i wake up",
+		"audio": "ვიღვიძებ.mp3"
+	},
+	{
+		"georgian_translit": "ვიძინებ",
+		"english": "i sleep",
+		"audio": "ვიძინებ.mp3"
+	},
+	{
+		"georgian_translit": "მივდივარ",
+		"english": "im going",
+		"audio": "მივდივარ.mp3"
+	},
+	{
+		"georgian_translit": "მიდიხარ",
+		"english": "you are going",
+		"audio": "მიდიხარ.mp3"
+	},
+	{
+		"georgian_translit": "გზა მშვიდობისა!",
+		"english": "Have a good trip!",
+		"audio": "გზა მშვიდობისა!.mp3"
+	},
+	{
+		"georgian_translit": "უნდა წავიდე",
+		"english": "I have to go",
+		"audio": "უნდა წავიდე.mp3"
+	},
+	{
+		"georgian_translit": "მალე დავბრუნდები!",
+		"english": "I will be right back!",
+		"audio": "მალე დავბრუნდები!.mp3"
+	},
+	{
+		"georgian_translit": "khval",
+		"english": "tomorrow",
+		"audio": "khval.mp3"
+	},
+	{
+		"georgian_translit": "zeg",
+		"english": "the day after tomorrow",
+		"audio": "zeg.mp3"
+	},
+	{
+		"georgian_translit": "mazeg",
+		"english": "after 2 days",
+		"audio": "mazeg.mp3"
+	},
+	{
+		"georgian_translit": "gushin",
+		"english": "yesterday",
+		"audio": "gushin.mp3"
+	},
+	{
+		"georgian_translit": "gaysad",
+		"english": "next year",
+		"audio": "gaysad.mp3"
+	},
+	{
+		"georgian_translit": "sharshan",
+		"english": "last year",
+		"audio": "sharshan.mp3"
+	},
+	{
+		"georgian_translit": "ხშირად",
+		"english": "frequently",
+		"audio": "ხშირად.mp3"
+	},
+	{
+		"georgian_translit": "იშვიათად",
+		"english": "rarely",
+		"audio": "იშვიათად.mp3"
+	},
+	{
+		"georgian_translit": "ხანდახან",
+		"english": "sometimes",
+		"audio": "ხანდახან.mp3"
+	},
+	{
+		"georgian_translit": "ზოგჯერ",
+		"english": "sometimes 2 ",
+		"audio": "ზოგჯერ.mp3"
+	},
+	{
+		"georgian_translit": "ცოტა",
+		"english": "few",
+		"audio": "ცოტა.mp3"
+	},
+	{
+		"georgian_translit": "პატარა",
+		"english": "little",
+		"audio": "პატარა.mp3"
+	},
+	{
+		"georgian_translit": "ბევრი",
+		"english": "many / much",
+		"audio": "ბევრი.mp3"
+	},
+	{
+		"georgian_translit": "ნაწილი",
+		"english": "part",
+		"audio": "ნაწილი.mp3"
+	},
+	{
+		"georgian_translit": "რამდენიმე",
+		"english": "some / a few",
+		"audio": "რამდენიმე.mp3"
+	},
+	{
+		"georgian_translit": "მთელი",
+		"english": "whole",
+		"audio": "მთელი.mp3"
+	},
+	{
+		"georgian_translit": "rigshi",
+		"english": "queue",
+		"audio": "rigshi.mp3"
+	},
+	{
+		"georgian_translit": "dro",
+		"english": "time",
+		"audio": "dro.mp3"
+	},
+	{
+		"georgian_translit": "tselitsadi",
+		"english": "year",
+		"audio": "tselitsadi.mp3"
+	},
+	{
+		"georgian_translit": "tve",
+		"english": "month",
+		"audio": "tve.mp3"
+	},
+	{
+		"georgian_translit": "dghe",
+		"english": "day",
+		"audio": "dghe.mp3"
+	},
+	{
+		"georgian_translit": "gazapkhuli",
+		"english": "spring",
+		"audio": "gazapkhuli.mp3"
+	},
+	{
+		"georgian_translit": "zapkhuli",
+		"english": "summer",
+		"audio": "zapkhuli.mp3"
+	},
+	{
+		"georgian_translit": "shemodgoma",
+		"english": "autumn",
+		"audio": "shemodgoma.mp3"
+	},
+	{
+		"georgian_translit": "zamtari",
+		"english": "winter",
+		"audio": "zamtari.mp3"
+	},
+	{
+		"georgian_translit": "tsiva",
+		"english": "it's cold",
+		"audio": "tsiva.mp3"
+	},
+	{
+		"georgian_translit": "tsivi",
+		"english": "cold",
+		"audio": "tsivi.mp3"
+	},
+	{
+		"georgian_translit": "tbili",
+		"english": "warm",
+		"audio": "tbili.mp3"
+	},
+	{
+		"georgian_translit": "გრილი",
+		"english": "cool, chilly",
+		"audio": "გრილი.mp3"
+	},
+	{
+		"georgian_translit": "ცხელი",
+		"english": "hot",
+		"audio": "ცხელი.mp3"
+	},
+	{
+		"georgian_translit": "წვიმა",
+		"english": "rain",
+		"audio": "წვიმა.mp3"
+	},
+	{
+		"georgian_translit": "წვიმს",
+		"english": "it rains",
+		"audio": "წვიმს.mp3"
+	},
+	{
+		"georgian_translit": "თოვს",
+		"english": "it snows",
+		"audio": "თოვს.mp3"
+	},
+	{
+		"georgian_translit": "ქარი",
+		"english": "wind",
+		"audio": "ქარი.mp3"
+	},
+	{
+		"georgian_translit": "ქრის",
+		"english": "blows",
+		"audio": "ქრის.mp3"
+	},
+	{
+		"georgian_translit": "მზე",
+		"english": "sun",
+		"audio": "მზე.mp3"
+	},
+	{
+		"georgian_translit": "ანათებს",
+		"english": "shines",
+		"audio": "ანათებს.mp3"
+	},
+	{
+		"georgian_translit": "ხშირად",
+		"english": "frequently",
+		"audio": "ხშირად.mp3"
+	},
+	{
+		"georgian_translit": "არასდროს",
+		"english": "never",
+		"audio": "არასდროს.mp3"
+	},
+	{
+		"georgian_translit": "ზღვა",
+		"english": "sea",
+		"audio": "ზღვა.mp3"
+	},
+	{
+		"georgian_translit": "უფრო",
+		"english": "more",
+		"audio": "უფრო.mp3"
+	},
+	{
+		"georgian_translit": "ყველაზე",
+		"english": "the most",
+		"audio": "ყველაზე.mp3"
+	},
+	{
+		"georgian_translit": "ყოველთვის",
+		"english": "always",
+		"audio": "ყოველთვის.mp3"
+	},
+	{
+		"georgian_translit": "magram",
+		"english": "but",
+		"audio": "magram.mp3"
+	},
+	{
+		"georgian_translit": "mi'er",
+		"english": "by",
+		"audio": "mi'er.mp3"
+	},
+	{
+		"georgian_translit": "miukhedavat",
+		"english": "despite",
+		"audio": "miukhedavat.mp3"
+	},
+	{
+		"georgian_translit": "ganmavlobeshi",
+		"english": "during",
+		"audio": "ganmavlobeshi.mp3"
+	},
+	{
+		"georgian_translit": "garda",
+		"english": "except, besides",
+		"audio": "garda.mp3"
+	},
+	{
+		"georgian_translit": "შიგნით",
+		"english": "in, inside",
+		"audio": "შიგნით.mp3"
+	},
+	{
+		"georgian_translit": "ახლოს",
+		"english": "near",
+		"audio": "ახლოს.mp3"
+	},
+	{
+		"georgian_translit": "გარეთ",
+		"english": "out, outside (of town)",
+		"audio": "გარეთ.mp3"
+	},
+	{
+		"georgian_translit": "მიმართ",
+		"english": "toward",
+		"audio": "მიმართ.mp3"
+	},
+	{
+		"georgian_translit": "ქვეშ",
+		"english": "under",
+		"audio": "ქვეშ.mp3"
+	},
+	{
+		"georgian_translit": "sanam",
+		"english": "until, while",
+		"audio": "sanam.mp3"
+	},
+	{
+		"georgian_translit": "zevit",
+		"english": "up, upwards, upstairs",
+		"audio": "zevit.mp3"
+	},
+	{
+		"georgian_translit": "და",
+		"english": "and",
+		"audio": "და.mp3"
+	},
+	{
+		"georgian_translit": "ვიდრე",
+		"english": "than",
+		"audio": "ვიდრე.mp3"
+	},
+	{
+		"georgian_translit": "თუ",
+		"english": "if",
+		"audio": "თუ.mp3"
+	},
+	{
+		"georgian_translit": "თუმცა",
+		"english": "though / although",
+		"audio": "თუმცა.mp3"
+	},
+	{
+		"georgian_translit": "იმიტომ",
+		"english": "because / therefore",
+		"audio": "იმიტომ.mp3"
+	},
+	{
+		"georgian_translit": "მითამ",
+		"english": "as if / as though",
+		"audio": "მითამ.mp3"
+	},
+	{
+		"georgian_translit": "რადგან",
+		"english": "because",
+		"audio": "რადგან.mp3"
+	},
+	{
+		"georgian_translit": "როგორც",
+		"english": "as",
+		"audio": "როგორც.mp3"
+	},
+	{
+		"georgian_translit": "mtsare",
+		"english": "bitter",
+		"audio": "mtsare.mp3"
+	},
+	{
+		"georgian_translit": "akhali",
+		"english": "fresh",
+		"audio": "akhali.mp3"
+	},
+	{
+		"georgian_translit": "mariliani",
+		"english": "salty",
+		"audio": "mariliani.mp3"
+	},
+	{
+		"georgian_translit": "tskhare",
+		"english": "spicy",
+		"audio": "tskhare.mp3"
+	},
+	{
+		"georgian_translit": "tvbili",
+		"english": "sweet",
+		"audio": "tvbili.mp3"
+	},
+	{
+		"georgian_translit": "მჟავე",
+		"english": "sour",
+		"audio": "მჟავე.mp3"
+	},
+	{
+		"georgian_translit": "ცხელი",
+		"english": "hot (heat, not spice)",
+		"audio": "ცხელი.mp3"
+	},
+	{
+		"georgian_translit": "ცივი",
+		"english": "cold",
+		"audio": "ცივი.mp3"
+	},
+	{
+		"georgian_translit": "ზომები",
+		"english": "sizes",
+		"audio": "ზომები.mp3"
+	},
+	{
+		"georgian_translit": "დიდი",
+		"english": "big",
+		"audio": "დიდი.mp3"
+	},
+	{
+		"georgian_translit": "ღრმა",
+		"english": "deep",
+		"audio": "ღრმა.mp3"
+	},
+	{
+		"georgian_translit": "ხანგრძლივი",
+		"english": "long",
+		"audio": "ხანგრძლივი.mp3"
+	},
+	{
+		"georgian_translit": "ვიწრო",
+		"english": "narrow",
+		"audio": "ვიწრო.mp3"
+	},
+	{
+		"georgian_translit": "მოკლე",
+		"english": "short",
+		"audio": "მოკლე.mp3"
+	},
+	{
+		"georgian_translit": "მცირე",
+		"english": "small",
+		"audio": "მცირე.mp3"
+	},
+	{
+		"georgian_translit": "maghali",
+		"english": "tall",
+		"audio": "maghali.mp3"
+	},
+	{
+		"georgian_translit": "სქელი",
+		"english": "thick",
+		"audio": "სქელი.mp3"
+	},
+	{
+		"georgian_translit": "თხელი",
+		"english": "thin",
+		"audio": "თხელი.mp3"
+	},
+	{
+		"georgian_translit": "ფართო",
+		"english": "wide",
+		"audio": "ფართო.mp3"
+	},
+	{
+		"georgian_translit": "წრიული",
+		"english": "circular",
+		"audio": "წრიული.mp3"
+	},
+	{
+		"georgian_translit": "miqvars",
+		"english": "I love",
+		"audio": "miqvars.mp3"
+	},
+	{
+		"georgian_translit": "giqvars",
+		"english": "you love (casual sing.)",
+		"audio": "giqvars.mp3"
+	},
+	{
+		"georgian_translit": "uqvars",
+		"english": "he, she, it loves",
+		"audio": "uqvars.mp3"
+	},
+	{
+		"georgian_translit": "გვიყვარს",
+		"english": "we love",
+		"audio": "გვიყვარს.mp3"
+	},
+	{
+		"georgian_translit": "გიყვართ",
+		"english": "you love (formal, plural)",
+		"audio": "გიყვართ.mp3"
+	},
+	{
+		"georgian_translit": "უყვართ",
+		"english": "they love",
+		"audio": "უყვართ.mp3"
+	},
+	{
+		"georgian_translit": "შემიყვარდა",
+		"english": "I loved",
+		"audio": "შემიყვარდა.mp3"
+	},
+	{
+		"georgian_translit": "შეგიყვარდა",
+		"english": "you loved (casual sing.)",
+		"audio": "შეგიყვარდა.mp3"
+	},
+	{
+		"georgian_translit": "შეუყვარდა",
+		"english": "he, she, it loved",
+		"audio": "შეუყვარდა.mp3"
+	},
+	{
+		"georgian_translit": "შეგვიყვარდა",
+		"english": "we loved",
+		"audio": "შეგვიყვარდა.mp3"
+	},
+	{
+		"georgian_translit": "შეგიყვარდათ",
+		"english": "you loved (formal, plural)",
+		"audio": "შეგიყვარდათ.mp3"
+	},
+	{
+		"georgian_translit": "შეუყვარდათ",
+		"english": "they loved",
+		"audio": "შეუყვარდათ.mp3"
+	},
+	{
+		"georgian_translit": "შემიყვარდება",
+		"english": "I will love",
+		"audio": "შემიყვარდება.mp3"
+	},
+	{
+		"georgian_translit": "შეგიყვარდება",
+		"english": "you wil love (casual sing.)",
+		"audio": "შეგიყვარდება.mp3"
+	},
+	{
+		"georgian_translit": "შეუყვარდება",
+		"english": "he, she, it will love",
+		"audio": "შეუყვარდება.mp3"
+	},
+	{
+		"georgian_translit": "შეგვიყვარდება",
+		"english": "we will love",
+		"audio": "შეგვიყვარდება.mp3"
+	},
+	{
+		"georgian_translit": "შეგიყვარდებათ",
+		"english": "you will love (formal, plural)",
+		"audio": "შეგიყვარდებათ.mp3"
+	},
+	{
+		"georgian_translit": "შეუყვარდებათ",
+		"english": "they will love",
+		"audio": "შეუყვარდებათ.mp3"
+	},
+	{
+		"georgian_translit": "მე ვიცი",
+		"english": "I know",
+		"audio": "მე ვიცი.mp3"
+	},
+	{
+		"georgian_translit": "შენ იცი",
+		"english": "You know",
+		"audio": "შენ იცი.mp3"
+	},
+	{
+		"georgian_translit": "მან იცის",
+		"english": "He/She/It knows",
+		"audio": "მან იცის.mp3"
+	},
+	{
+		"georgian_translit": "ჩვენ ვიცით",
+		"english": "We know",
+		"audio": "ჩვენ ვიცით.mp3"
+	},
+	{
+		"georgian_translit": "თქვენ იცით",
+		"english": "You all know",
+		"audio": "თქვენ იცით.mp3"
+	},
+	{
+		"georgian_translit": "მათ იციან",
+		"english": "They know",
+		"audio": "მათ იციან.mp3"
+	},
+	{
+		"georgian_translit": "მეტროთი",
+		"english": "by metro",
+		"audio": "მეტროთი.mp3"
+	},
+	{
+		"georgian_translit": "ფეხით",
+		"english": "by foot",
+		"audio": "ფეხით.mp3"
+	},
+	{
+		"georgian_translit": "მან მათხოვა",
+		"english": "he lent me",
+		"audio": "მან მათხოვა.mp3"
+	},
+	{
+		"georgian_translit": "მე გათხოვე",
+		"english": "I lent you",
+		"audio": "მე გათხოვე.mp3"
+	},
+	{
+		"georgian_translit": "შენ ათხოვე",
+		"english": "you lent him",
+		"audio": "შენ ათხოვე.mp3"
+	},
+	{
+		"georgian_translit": "შენ მათხოვე",
+		"english": "you lent me",
+		"audio": "შენ მათხოვე.mp3"
+	},
+	{
+		"georgian_translit": "მან სთხოვა მას",
+		"english": "he asked him for",
+		"audio": "მან სთხოვა მას.mp3"
+	},
+	{
+		"georgian_translit": "ის სთხოვს მას",
+		"english": "he asks him for",
+		"audio": "ის სთხოვს მას.mp3"
+	},
+	{
+		"georgian_translit": "თქვენ თხოვთ",
+		"english": "you ask for (pl.)",
+		"audio": "თქვენ თხოვთ.mp3"
+	},
+	{
+		"georgian_translit": "ჩვენ გთხოვთ",
+		"english": "we ask for",
+		"audio": "ჩვენ გთხოვთ.mp3"
+	},
+	{
+		"georgian_translit": "ძეხვი",
+		"english": "a sausage",
+		"audio": "ძეხვი.mp3"
+	},
+	{
+		"georgian_translit": "შენ სთხოვ",
+		"english": "you ask for",
+		"audio": "შენ სთხოვ.mp3"
+	},
+	{
+		"georgian_translit": "მე გთხოვ",
+		"english": "I ask for",
+		"audio": "მე გთხოვ.mp3"
+	},
+	{
+		"georgian_translit": "ოთახში",
+		"english": "in the room",
+		"audio": "ოთახში.mp3"
+	},
+	{
+		"georgian_translit": "ფერადი",
+		"english": "colorful",
+		"audio": "ფერადი.mp3"
+	},
+	{
+		"georgian_translit": "khidi",
+		"english": "bridge",
+		"audio": "khidi.mp3"
+	},
+	{
+		"georgian_translit": "shenoba",
+		"english": "building",
+		"audio": "shenoba.mp3"
+	},
+	{
+		"georgian_translit": "saavadmupo",
+		"english": "hospital",
+		"audio": "saavadmupo.mp3"
+	},
+	{
+		"georgian_translit": "sastumro",
+		"english": "hotel",
+		"audio": "sastumro.mp3"
+	},
+	{
+		"georgian_translit": "gza",
+		"english": "road",
+		"audio": "gza.mp3"
+	},
+	{
+		"georgian_translit": "qvelaperi",
+		"english": "everything",
+		"audio": "qvelaperi.mp3"
+	},
+	{
+		"georgian_translit": "sopeli",
+		"english": "village",
+		"audio": "sopeli.mp3"
+	},
+	{
+		"georgian_translit": "ელკესია",
+		"english": "church",
+		"audio": "ელკესია.mp3"
+	},
+	{
+		"georgian_translit": "ყველანი",
+		"english": "everybody",
+		"audio": "ყველანი.mp3"
+	},
+	{
+		"georgian_translit": "mze",
+		"english": "sun",
+		"audio": "mze.mp3"
+	},
+	{
+		"georgian_translit": "amindi",
+		"english": "weather",
+		"audio": "amindi.mp3"
+	},
+	{
+		"georgian_translit": "ჭექა-ქუხილი",
+		"english": "thunderstorm",
+		"audio": "ჭექა-ქუხილი.mp3"
+	},
+	{
+		"georgian_translit": "ქარი",
+		"english": "wind",
+		"audio": "ქარი.mp3"
+	},
+	{
+		"georgian_translit": "პურის საცხობი",
+		"english": "bakery",
+		"audio": "პურის საცხობი.mp3"
+	},
+	{
+		"georgian_translit": "წიგნების მაღაზია",
+		"english": "bookshop",
+		"audio": "წიგნების მაღაზია.mp3"
+	},
+	{
+		"georgian_translit": "კაფე",
+		"english": "café",
+		"audio": "კაფე.mp3"
+	},
+	{
+		"georgian_translit": "აფთიაქი",
+		"english": "drugstore",
+		"audio": "აფთიაქი.mp3"
+	},
+	{
+		"georgian_translit": "ქიმწმენდა",
+		"english": "dry cleaner",
+		"audio": "ქიმწმენდა.mp3"
+	},
+	{
+		"georgian_translit": "ყვავილების მაღაზია",
+		"english": "flower shop",
+		"audio": "ყვავილების მაღაზია.mp3"
+	},
+	{
+		"georgian_translit": "საჩუქარი",
+		"english": "gift",
+		"audio": "საჩუქარი.mp3"
+	},
+	{
+		"georgian_translit": "ბაზარი",
+		"english": "market",
+		"audio": "ბაზარი.mp3"
+	},
+	{
+		"georgian_translit": "ფოსტა",
+		"english": "post office",
+		"audio": "ფოსტა.mp3"
+	},
+	{
+		"georgian_translit": "გაყიდვა",
+		"english": "sale",
+		"audio": "გაყიდვა.mp3"
+	},
+	{
+		"georgian_translit": "მაღაზია",
+		"english": "shop",
+		"audio": "მაღაზია.mp3"
+	},
+	{
+		"georgian_translit": "კოღო",
+		"english": "mosquito",
+		"audio": "კოღო.mp3"
+	},
+	{
+		"georgian_translit": "ობობა",
+		"english": "spider",
+		"audio": "ობობა.mp3"
+	},
+	{
+		"georgian_translit": "ობობის ქსელი",
+		"english": "spider web",
+		"audio": "ობობის ქსელი.mp3"
+	},
+	{
+		"georgian_translit": "ბზიკი",
+		"english": "wasp",
+		"audio": "ბზიკი.mp3"
+	},
+	{
+		"georgian_translit": "ver gavige ",
+		"english": "I don't understand",
+		"audio": "ver gavige .mp3"
+	},
+	{
+		"georgian_translit": "ra ghirs?",
+		"english": "how much? (price)",
+		"audio": "ra ghirs.mp3"
+	},
+	{
+		"georgian_translit": "valutis gatsvla",
+		"english": "currency exchange",
+		"audio": "valutis gatsvla.mp3"
+	},
+	{
+		"georgian_translit": "angarishi",
+		"english": "bill",
+		"audio": "angarishi.mp3"
+	},
+	{
+		"georgian_translit": "tbilisamde",
+		"english": "to Tbilisi",
+		"audio": "tbilisamde.mp3"
+	},
+	{
+		"georgian_translit": "menatrebi",
+		"english": "i miss you",
+		"audio": "menatrebi.mp3"
+	},
+	{
+		"georgian_translit": "chkara",
+		"english": "quickly",
+		"audio": "chkara.mp3"
+	},
+	{
+		"georgian_translit": "ra tkma unda\t",
+		"english": "ofc",
+		"audio": "ra tkma unda\t.mp3"
+	},
+	{
+		"georgian_translit": "ar mainteresebs!",
+		"english": "Im not interested",
+		"audio": "ar mainteresebs!.mp3"
+	},
+	{
+		"georgian_translit": "gizhi har?",
+		"english": "are you crazy?",
+		"audio": "gizhi har.mp3"
+	},
+	{
+		"georgian_translit": "magis!",
+		"english": "Oh gosh! (when making a mistake)\t",
+		"audio": "magis!.mp3"
+	},
+	{
+		"georgian_translit": "chqara",
+		"english": "hurry up",
+		"audio": "chqara.mp3"
+	},
+	{
+		"georgian_translit": "mshia",
+		"english": "im hungry",
+		"audio": "mshia.mp3"
+	},
+	{
+		"georgian_translit": "darts`munebuli",
+		"english": "sure (like in are you sure?)",
+		"audio": "darts`munebuli.mp3"
+	},
+	{
+		"georgian_translit": "dzviria",
+		"english": "expensive",
+		"audio": "dzviria.mp3"
+	},
+	{
+		"georgian_translit": "vegeterianeli ",
+		"english": "vegetarian (p;erson)",
+		"audio": "vegeterianeli .mp3"
+	},
+	{
+		"georgian_translit": "shemidzlia dagehmaro?",
+		"english": "can i help you?",
+		"audio": "shemidzlia dagehmaro.mp3"
+	},
+	{
+		"georgian_translit": "uahloesi ",
+		"english": "the closest",
+		"audio": "uahloesi .mp3"
+	},
+	{
+		"georgian_translit": "aftiaqi",
+		"english": "pharmacy",
+		"audio": "aftiaqi.mp3"
+	},
+	{
+		"georgian_translit": "far",
+		"english": "shors",
+		"audio": "far.mp3"
+	},
+	{
+		"georgian_translit": "ahlos",
+		"english": "near",
+		"audio": "ahlos.mp3"
+	},
+	{
+		"georgian_translit": "erti tsami",
+		"english": "just a moment",
+		"audio": "erti tsami.mp3"
+	},
+	{
+		"georgian_translit": "davikarge",
+		"english": "im lost",
+		"audio": "davikarge.mp3"
+	},
+	{
+		"georgian_translit": "mch`irdeba varjishi",
+		"english": "i just need to practice",
+		"audio": "mch`irdeba varjishi.mp3"
+	},
+	{
+		"georgian_translit": "dzalian ketili har",
+		"english": "you're very kind",
+		"audio": "dzalian ketili har.mp3"
+	},
+	{
+		"georgian_translit": "dzneli",
+		"english": "difficult",
+		"audio": "dzneli.mp3"
+	},
+	{
+		"georgian_translit": "advila",
+		"english": "easy",
+		"audio": "advila.mp3"
+	},
+	{
+		"georgian_translit": "me momts`ons",
+		"english": "i like ",
+		"audio": "me momts`ons.mp3"
+	},
+	{
+		"georgian_translit": "gilotsav!",
+		"english": "congrats",
+		"audio": "gilotsav!.mp3"
+	},
+	{
+		"georgian_translit": "rustavelze ramdenad gakhval?",
+		"english": "” (how much it will be to take me on [Rustaveli]?).",
+		"audio": "rustavelze ramdenad gakhval.mp3"
+	},
+	{
+		"georgian_translit": "(please, stop somewhere).",
+		"english": "sadme gamicheret",
+		"audio": "(please, stop somewhere)..mp3"
+	},
+	{
+		"georgian_translit": "saqaipoa",
+		"english": "cool, perfect",
+		"audio": "saqaipoa.mp3"
+	},
+	{
+		"georgian_translit": "ras chalichob?",
+		"english": "whats up? slang",
+		"audio": "ras chalichob.mp3"
+	},
+	{
+		"georgian_translit": "dghes",
+		"english": "today",
+		"audio": "dghes.mp3"
+	},
+	{
+		"georgian_translit": "dakortsinebuli",
+		"english": "married",
+		"audio": "dakortsinebuli.mp3"
+	},
+	{
+		"georgian_translit": "tsekhvedramde",
+		"english": "see you",
+		"audio": "tsekhvedramde.mp3"
+	},
+	{
+		"georgian_translit": "dzviria",
+		"english": "expensive",
+		"audio": "dzviria.mp3"
+	},
+	{
+		"georgian_translit": "barati",
+		"english": "card",
+		"audio": "barati.mp3"
+	},
+	{
+		"georgian_translit": "baratit",
+		"english": "with card",
+		"audio": "baratit.mp3"
+	},
+	{
+		"georgian_translit": "baratit gadakhde shaidzleba",
+		"english": "can i pay by card",
+		"audio": "baratit gadakhde shaidzleba.mp3"
+	},
+	{
+		"georgian_translit": "shemdeg",
+		"english": "next",
+		"audio": "shemdeg.mp3"
+	},
+	{
+		"georgian_translit": "tsina",
+		"english": "previous",
+		"audio": "tsina.mp3"
+	},
+	{
+		"georgian_translit": "am kuchaze ara, shemdegze",
+		"english": "not this street, next one",
+		"audio": "am kuchaze ara, shemdegze.mp3"
+	},
+	{
+		"georgian_translit": "abara",
+		"english": "sure",
+		"audio": "abara.mp3"
+	},
+	{
+		"georgian_translit": "tavistavad kartulad vlaparakob",
+		"english": "ofc I speak Georgian_translit",
+		"audio": "tavistavad kartulad vlaparakob.mp3"
+	},
+	{
+		"georgian_translit": "shkolniki",
+		"english": "nerd",
+		"audio": "shkolniki.mp3"
+	},
+	{
+		"georgian_translit": "sartuli",
+		"english": "floor",
+		"audio": "sartuli.mp3"
+	},
+	{
+		"georgian_translit": "sanapiro",
+		"english": "beach",
+		"audio": "sanapiro.mp3"
+	},
+	{
+		"georgian_translit": "zghvis",
+		"english": "sea",
+		"audio": "zghvis.mp3"
+	},
+	{
+		"georgian_translit": "surtskhvili shen",
+		"english": "shame on you",
+		"audio": "surtskhvili shen.mp3"
+	},
+	{
+		"georgian_translit": "sitqva",
+		"english": "word",
+		"audio": "sitqva.mp3"
+	},
+	{
+		"georgian_translit": "araperi",
+		"english": "nothing",
+		"audio": "araperi.mp3"
+	},
+	{
+		"georgian_translit": "ra unda?",
+		"english": "what does he want?",
+		"audio": "ra unda.mp3"
+	},
+	{
+		"georgian_translit": "araushavs",
+		"english": "it's ok, no big deal",
+		"audio": "araushavs.mp3"
+	},
+	{
+		"georgian_translit": "magida",
+		"english": "table",
+		"audio": "magida.mp3"
+	},
+	{
+		"georgian_translit": "albat",
+		"english": "maybe",
+		"audio": "albat.mp3"
+	},
+	{
+		"georgian_translit": "saqidleba",
+		"english": "shopping",
+		"audio": "saqidleba.mp3"
+	},
+	{
+		"georgian_translit": "me shemidzlia",
+		"english": "i can",
+		"audio": "me shemidzlia.mp3"
+	},
+	{
+		"georgian_translit": "shen shegidzlia",
+		"english": "you can",
+		"audio": "shen shegidzlia.mp3"
+	},
+	{
+		"georgian_translit": "mas sheudzlia",
+		"english": "he can",
+		"audio": "mas sheudzlia.mp3"
+	},
+	{
+		"georgian_translit": "saqmarisi",
+		"english": "enough",
+		"audio": "saqmarisi.mp3"
+	},
+	{
+		"georgian_translit": "ra tkma umda",
+		"english": "of course",
+		"audio": "ra tkma umda.mp3"
+	},
+	{
+		"georgian_translit": "riti?",
+		"english": "by what? (by car etc)",
+		"audio": "riti.mp3"
+	},
+	{
+		"georgian_translit": "metroti",
+		"english": "by metro",
+		"audio": "metroti.mp3"
+	},
+	{
+		"georgian_translit": "me vighvidzeb",
+		"english": "i wake up",
+		"audio": "me vighvidzeb.mp3"
+	},
+	{
+		"georgian_translit": "zarmatsi",
+		"english": "lazy",
+		"audio": "zarmatsi.mp3"
+	},
+	{
+		"georgian_translit": "zogjer",
+		"english": "sometimes",
+		"audio": "zogjer.mp3"
+	},
+	{
+		"georgian_translit": "dedis erta",
+		"english": "only child",
+		"audio": "dedis erta.mp3"
+	},
+	{
+		"georgian_translit": "zustad",
+		"english": "exactly",
+		"audio": "zustad.mp3"
+	},
+	{
+		"georgian_translit": "keri",
+		"english": "flour",
+		"audio": "keri.mp3"
+	},
+	{
+		"georgian_translit": "magram",
+		"english": "but",
+		"audio": "magram.mp3"
+	},
+	{
+		"georgian_translit": "daakhloebit",
+		"english": "about, approx.",
+		"audio": "daakhloebit.mp3"
+	}
+]

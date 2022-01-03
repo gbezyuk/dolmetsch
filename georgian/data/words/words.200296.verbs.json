@@ -1,0 +1,1074 @@
+[
+	{
+		"georgian": "გა-ა-კეთ-ებ-ს",
+		"english": "to do/make (sth)"
+	},
+	{
+		"georgian": "და-ხატ-ავ-ს",
+		"english": "to draw/paint (sth)"
+	},
+	{
+		"georgian": "და-წერ-ს",
+		"english": "to write (sth; preverb changes with indirect object)"
+	},
+	{
+		"georgian": "ა-ა-შენ-ებ-ს",
+		"english": "to build (sth)"
+	},
+	{
+		"georgian": "გადა-თარგმნ-ი-ს",
+		"english": "to translate (sth; into lang: target lang in adverbial)"
+	},
+	{
+		"georgian": "გა-ი-მეორ-ებ-ს",
+		"english": "to repeat (sth; doniani in 2nd conj)"
+	},
+	{
+		"georgian": "მო-ი-სმენ-ს",
+		"english": "to listen (to sth; root vowel change in aorist and 2nd conj)"
+	},
+	{
+		"georgian": "და-ი-კერ-ს",
+		"english": "to hold on (to sth; root vowel change)"
+	},
+	{
+		"georgian": "შე-კრებ-ს",
+		"english": "to collect/gather (sth; root vowel change)"
+	},
+	{
+		"georgian": "და-ი-ჭერ-ს",
+		"english": "to catch (sth; root vowel change)"
+	},
+	{
+		"georgian": "და-გრეხ-ს",
+		"english": "to twist (sthroot vowel change)"
+	},
+	{
+		"georgian": "და-ი-წყ-ებ-ს",
+		"english": "to start (sth)"
+	},
+	{
+		"georgian": "და-ა-მთავრ-ებ-ს",
+		"english": "to finish (sth)"
+	},
+	{
+		"georgian": "გა-ა-რიგ-ებ-ს",
+		"english": "to arrange (sth)"
+	},
+	{
+		"georgian": "და-მალ-ავ-ს",
+		"english": "to hide (sth)"
+	},
+	{
+		"georgian": "გამო-ა-ქვეყნ-ებ-ს",
+		"english": "to publish (sth)"
+	},
+	{
+		"georgian": "და-ა-ბნელ-ებ-ს",
+		"english": "to darken (sth)"
+	},
+	{
+		"georgian": "და-ა-მზად-ებ-ს",
+		"english": "to prepare (sth)"
+	},
+	{
+		"georgian": "აღ+წერ-ს",
+		"english": "to describe (sth; preverb stays for present)"
+	},
+	{
+		"georgian": "გადა+წირ-ს",
+		"english": "to copy (sth; preverb stays for present)"
+	},
+	{
+		"georgian": "გა-ი-ღ-ებ-ს",
+		"english": "to open (sth)"
+	},
+	{
+		"georgian": "მო-კლ-ავ-ს",
+		"english": "to kill (sth; irregular in 2nd conj)"
+	},
+	{
+		"georgian": "წარმო-თქვ-ამ-ს",
+		"english": "to pronounce (sth; irregular in 2nd conj)"
+	},
+	{
+		"georgian": "და-ა-პირ-ებ-ს",
+		"english": "to intend (to do sth + verb in optative)"
+	},
+	{
+		"georgian": "და-ლევ-ს",
+		"english": "to drink (sth; future; irregular in 2nd conj)"
+	},
+	{
+		"georgian": "სვამ-ს",
+		"english": "to drink (sth; present)"
+	},
+	{
+		"georgian": "გა-ი-ცნ-ობ-ს",
+		"english": "to know somebody"
+	},
+	{
+		"georgian": "გა-ყიდ-ი-ს",
+		"english": "to sell (sth to somebody; preverb changes with indirect objects)"
+	},
+	{
+		"georgian": "გა-გზავნ-ი-ს",
+		"english": "to send (sth; preverb changes with IO)"
+	},
+	{
+		"georgian": "ხედ-ავ-ს",
+		"english": "to see (sth; present)"
+	},
+	{
+		"georgian": "ნახ-ავ-ს",
+		"english": "to see (sth; future)"
+	},
+	{
+		"georgian": "კითხულ-ობ-ს",
+		"english": "to read (sth; present)"
+	},
+	{
+		"georgian": "წა-ი-კითხ-ავ-ს",
+		"english": "to read (sth; future)"
+	},
+	{
+		"georgian": "სწავლ-ობ-ს",
+		"english": "to study (sth; present)"
+	},
+	{
+		"georgian": "ი-სწავლ-ი-ს",
+		"english": "to study (sth; future)"
+	},
+	{
+		"georgian": "უყურ-ებ-ს",
+		"english": "to look (at sth; no preverb in future)"
+	},
+	{
+		"georgian": "ა-ა-რჩევ-ს",
+		"english": "to choose (sth; irregular in aorist/optative)"
+	},
+	{
+		"georgian": "ყიდულ-ობ-ს",
+		"english": "to buy (sth; present)"
+	},
+	{
+		"georgian": "ი-ყიდ-ი-ს",
+		"english": "to buy (sth; future)"
+	},
+	{
+		"georgian": "შე-ჭამ-ს",
+		"english": "to eat (sth)"
+	},
+	{
+		"georgian": "და-უ-რეკ-ავ-ს",
+		"english": "to call (someone, usually with DO)"
+	},
+	{
+		"georgian": "მო-უხვ-ევ-ს",
+		"english": "to turn (irregular aorist)"
+	},
+	{
+		"georgian": "და-ი-ნახ-ავ-ს",
+		"english": "to catch sight (of)"
+	},
+	{
+		"georgian": "გა-ა-ლამაზ-ებ-ს",
+		"english": "to beautify (sth)"
+	},
+	{
+		"georgian": "გა-ა-სწორ-ებ-ს",
+		"english": "to correct (sth)"
+	},
+	{
+		"georgian": "გა-ა-გრძელ-ებ-ს",
+		"english": "to continue (sth; lengthen sth)"
+	},
+	{
+		"georgian": "გა-ა-წითლ-ებ-ს",
+		"english": "to make someone blush (redden sth)"
+	},
+	{
+		"georgian": "გა-ა-ახლ-ებ-ს",
+		"english": "to make something new"
+	},
+	{
+		"georgian": "გა-ა-მწვან-ებ-ს",
+		"english": "to greenify something"
+	},
+	{
+		"georgian": "გა-ა-მაგრ-ებ-ს",
+		"english": "to strengthen (sth)"
+	},
+	{
+		"georgian": "ჩა-ი-ცვ-ამ-ს",
+		"english": "to dress oneself"
+	},
+	{
+		"georgian": "გა-ი-შრალ-ებ-ს",
+		"english": "to dry oneself"
+	},
+	{
+		"georgian": "და-ი-ვარცხნ-ი-ს",
+		"english": "to comb hair"
+	},
+	{
+		"georgian": "გა-ი-ხეხ-ავ-ს (კბილებს) ",
+		"english": "to brush teeth"
+	},
+	{
+		"georgian": "და-ი-ბან-ს ",
+		"english": "to wash oneself"
+	},
+	{
+		"georgian": "და-ი-წერ-ებ-ა",
+		"english": "to be written"
+	},
+	{
+		"georgian": "გა-კეთ-დ-ებ-ა",
+		"english": "to be made/done"
+	},
+	{
+		"georgian": "და-ი-ხატ-ებ-ა",
+		"english": "to be painted/drawn"
+	},
+	{
+		"georgian": "გადა-ი-თარგმნ-ებ-ა",
+		"english": "to be translated"
+	},
+	{
+		"georgian": "და-ი-მალ-ებ-ა",
+		"english": "to be hidden"
+	},
+	{
+		"georgian": "გა-მეორ-დ-ებ-ა",
+		"english": "to be repeated (irregular: formed iniania, not doniani)"
+	},
+	{
+		"georgian": "მო-ი-სმინ-ებ-ა",
+		"english": "to be heard (listened to)"
+	},
+	{
+		"georgian": "და-ი-კირ-ებ-ა",
+		"english": "to be held on to"
+	},
+	{
+		"georgian": "შე-ი-კრიბ-ებ-ა",
+		"english": "to be collected (to be gathered)"
+	},
+	{
+		"georgian": "და-ი-წყ-ებ-ა",
+		"english": "to be started"
+	},
+	{
+		"georgian": "გა-ი-ღ-ებ-ა",
+		"english": "to be opened"
+	},
+	{
+		"georgian": "მო-ი-კვლ-ებ-ა",
+		"english": "to be killed"
+	},
+	{
+		"georgian": "წარმო-ი-თქ-დ-ებ-ა",
+		"english": "to be pronounced"
+	},
+	{
+		"georgian": "შე-ყვარ-ებ-ა",
+		"english": "to fall in love"
+	},
+	{
+		"georgian": "ბიჭ-ობ-ს",
+		"english": "to act like a boy"
+	},
+	{
+		"georgian": "მეგბრ-ობ-ს",
+		"english": "to be friends (with someone)"
+	},
+	{
+		"georgian": "მუ-შა-ობ-ს",
+		"english": "to work (present)"
+	},
+	{
+		"georgian": "ი-მუ-შავ-ებ-ს",
+		"english": "to work (future)"
+	},
+	{
+		"georgian": "თევზა-ობ-ს",
+		"english": "to fish (present)"
+	},
+	{
+		"georgian": "ი-თევზავ-ებ-ს",
+		"english": "to fish (future)"
+	},
+	{
+		"georgian": "არსებ-ობ-ს",
+		"english": "to exist"
+	},
+	{
+		"georgian": "საუზმ-ობ-ს",
+		"english": "to have breakfast"
+	},
+	{
+		"georgian": "სადილ-ობ-ს",
+		"english": "to have dinner (to have lunch)"
+	},
+	{
+		"georgian": "ვახშმ-ობ-ს",
+		"english": "to have supper (late night meal)"
+	},
+	{
+		"georgian": "ვარჯიშ-ობ-ს",
+		"english": "to exercise"
+	},
+	{
+		"georgian": "სეირნ-ობ-ს",
+		"english": "to walk (to go for a walk)"
+	},
+	{
+		"georgian": "0-(ჰ)-პა-სუხ-ობ-ს",
+		"english": "to answer (somebody, present)"
+	},
+	{
+		"georgian": "0-(უ)-პა-სუხ-ებ-ს",
+		"english": "to answer (somebody, future)"
+	},
+	{
+		"georgian": "მეფ-ობ-ს",
+		"english": "to reign (to be a king)"
+	},
+	{
+		"georgian": "თამაშ-ობ-ს",
+		"english": "to play"
+	},
+	{
+		"georgian": "ტყუ-ი-ს",
+		"english": "to lie (to tell a falsehood)"
+	},
+	{
+		"georgian": "ტირ-ი-ს",
+		"english": "to cry"
+	},
+	{
+		"georgian": "ი-ცინ-ი-ს",
+		"english": "to laugh (ი- = PRV)"
+	},
+	{
+		"georgian": "მღერ-ი-ს",
+		"english": "to sing"
+	},
+	{
+		"georgian": "კნავ-ი-ს",
+		"english": "to meow"
+	},
+	{
+		"georgian": "ლაპარაკ-ობ-ს",
+		"english": "to speak"
+	},
+	{
+		"georgian": "ცხოვრ-ობ-ს",
+		"english": "to live"
+	},
+	{
+		"georgian": "ხიხინ-ებ-ს",
+		"english": "to speak hoarsely"
+	},
+	{
+		"georgian": "ზუზუნ-ებ-ს",
+		"english": "to hum (to buzz)"
+	},
+	{
+		"georgian": "ხარხარ-ებ-ს",
+		"english": "to laugh loudly"
+	},
+	{
+		"georgian": "ციმციმ-ებ-ს",
+		"english": "to twinkle (to sparkle)"
+	},
+	{
+		"georgian": "წუხ-ს",
+		"english": "to worry (to be troubled)"
+	},
+	{
+		"georgian": "დუღ-ს",
+		"english": "to boil"
+	},
+	{
+		"georgian": "ყეფ-ს",
+		"english": "to bark"
+	},
+	{
+		"georgian": "თოვ-ს",
+		"english": "to snow"
+	},
+	{
+		"georgian": "წვიმ-ს",
+		"english": "to rain"
+	},
+	{
+		"georgian": "ელ-ავ-ს",
+		"english": "to lightning"
+	},
+	{
+		"georgian": "ცურ-ავ-ს",
+		"english": "to swim"
+	},
+	{
+		"georgian": "მ-ქვი-ა",
+		"english": "to be called/named (sth) present"
+	},
+	{
+		"georgian": "მი-ნდ-ა",
+		"english": "to want (sth) present"
+	},
+	{
+		"georgian": "მ-ნებ-ავ-ს",
+		"english": "to want (sth) present polite"
+	},
+	{
+		"georgian": "მ-წად-ი-ა",
+		"english": "to desire (sth) present"
+	},
+	{
+		"georgian": "მო-მ-წონ-ს",
+		"english": "to like (sth) (to enjoy something) present"
+	},
+	{
+		"georgian": "მა-ქვ-ს",
+		"english": "to have (sth) present (inanimate)"
+	},
+	{
+		"georgian": "მ-ყავ-ს",
+		"english": "to have (sth) present (animate)"
+	},
+	{
+		"georgian": "მი-ყვარ-ს",
+		"english": "to love (someone) present"
+	},
+	{
+		"georgian": "მ-ა-ხსოვ-ს",
+		"english": "to remember (sth/someone) present (no aorist)"
+	},
+	{
+		"georgian": "მ-ღვიძ-ავ-ს",
+		"english": "to be awake present"
+	},
+	{
+		"georgian": "მ-ძაგ-ს",
+		"english": "to be disgusted (by sth) present (no aorist)"
+	},
+	{
+		"georgian": "მ-ძინ-ავ-ს",
+		"english": "to sleep present"
+	},
+	{
+		"georgian": "მ-ძულ-ს",
+		"english": "to hate present (no aorist)"
+	},
+	{
+		"georgian": "მ-წყინ-ს",
+		"english": "to be irritated present (to find unpleasant/irritating)"
+	},
+	{
+		"georgian": "მ-გონ-ი-ა",
+		"english": "to think present"
+	},
+	{
+		"georgian": "მგონი",
+		"english": "It seems to me (I think)"
+	},
+	{
+		"georgian": "მ-ში-ა",
+		"english": "to be hungry present (no aorist)"
+	},
+	{
+		"georgian": "მ-წყურ-ი-ა",
+		"english": "to be thirsty present"
+	},
+	{
+		"georgian": "მ-ცივ-ა",
+		"english": "to be cold present"
+	},
+	{
+		"georgian": "მ-ე-შინ-ი-ა",
+		"english": "to fear (sth in genitive)"
+	},
+	{
+		"georgian": "შე-მი-ძლ-ი-ა",
+		"english": "to be able (to) present"
+	},
+	{
+		"georgian": "მ-სურ-ს",
+		"english": "to wish present"
+	},
+	{
+		"georgian": "მ-ე-სმ-ი-ს",
+		"english": "to understand present (to hear)"
+	},
+	{
+		"georgian": "მ-ტკივ-ა",
+		"english": "to be in pain (to hurt) present"
+	},
+	{
+		"georgian": "მ-ჭირდებ-ა",
+		"english": "to need"
+	},
+	{
+		"georgian": "მ-ა-ინტერეს-ებ-ს",
+		"english": "to be interested in"
+	},
+	{
+		"georgian": "მ-ენატრ-ებ-ა",
+		"english": "to miss (long for)"
+	},
+	{
+		"georgian": "მ-ცხელ-ა",
+		"english": "to feel hot"
+	},
+	{
+		"georgian": "მი-რჩევნ-ი-ა",
+		"english": "to prefer"
+	},
+	{
+		"georgian": "ვ-დგა-ვარ",
+		"english": "I stand present"
+	},
+	{
+		"georgian": "დგა-ს",
+		"english": "it (he/she) stands present"
+	},
+	{
+		"georgian": "დგა-ნან",
+		"english": "they stand present"
+	},
+	{
+		"georgian": "ვ-იდგებ-ი",
+		"english": "I will stand"
+	},
+	{
+		"georgian": "იდგებ-ა",
+		"english": "it (he/she) will stand"
+	},
+	{
+		"georgian": "იდგებ-იან",
+		"english": "they will stand"
+	},
+	{
+		"georgian": "ვ-იდექ-ი",
+		"english": "I stood aorist"
+	},
+	{
+		"georgian": "იდგ-ა",
+		"english": "it (he/she) stood aorist"
+	},
+	{
+		"georgian": "იდგ-ნენ",
+		"english": "they stand aorist/optative"
+	},
+	{
+		"georgian": "ვ-იდგ-ე",
+		"english": "I stand optative"
+	},
+	{
+		"georgian": "იდგ-ეს",
+		"english": "it (he/she) stands optative"
+	},
+	{
+		"georgian": "ვ-ზი-ვარ",
+		"english": "I sit present"
+	},
+	{
+		"georgian": "ვ-სხედ-ვართ",
+		"english": "We sit present"
+	},
+	{
+		"georgian": "ზის",
+		"english": "it (he/she) sits present"
+	},
+	{
+		"georgian": "სხედ-ან",
+		"english": "they sit present"
+	},
+	{
+		"georgian": "ვ-იჯდ-ებ-ი",
+		"english": "I will sit"
+	},
+	{
+		"georgian": "ვ-ისხდ-ებ-ი-თ",
+		"english": "we will sit"
+	},
+	{
+		"georgian": "იჯდ-ებ-ა",
+		"english": "it (he/she) will sit"
+	},
+	{
+		"georgian": "ისხდ-ებ-იან",
+		"english": "they will sit"
+	},
+	{
+		"georgian": "ვ-იჯექ-ი",
+		"english": "I sat aorist"
+	},
+	{
+		"georgian": "ვ-ისხედ-ი-თ",
+		"english": "we sat aorist"
+	},
+	{
+		"georgian": "იჯდ-ა",
+		"english": "it (he/she) sat aorist"
+	},
+	{
+		"georgian": "ისხდ-ნენ",
+		"english": "they sit aorist/optative"
+	},
+	{
+		"georgian": "ვ-იჯდ-ე",
+		"english": "I sit optative"
+	},
+	{
+		"georgian": "ვ-ისხდ-ე-თ",
+		"english": "we sit optative"
+	},
+	{
+		"georgian": "იჯდ-ეს",
+		"english": "it (he/she) sits optative"
+	},
+	{
+		"georgian": "ვ-წევ-ვარ",
+		"english": "I lie (on) present"
+	},
+	{
+		"georgian": "წევ-ს",
+		"english": "it (he/she) lies (on) present"
+	},
+	{
+		"georgian": "წვა-ნან",
+		"english": "they lie (on) present"
+	},
+	{
+		"georgian": "ვ-იწვ-ებ-ი",
+		"english": "I will lie (on)"
+	},
+	{
+		"georgian": "იწვ-ებ-ა",
+		"english": "it (he/she) will lie (on)"
+	},
+	{
+		"georgian": "იწვ-ებ-იან",
+		"english": "they will lie (on)"
+	},
+	{
+		"georgian": "ვ-იწექ-ი",
+		"english": "I lay (on) aorist"
+	},
+	{
+		"georgian": "იწვ-ა",
+		"english": "it (he/she) lay (on) aorist"
+	},
+	{
+		"georgian": "იწვ-ნენ",
+		"english": "they lay (on) aorist/optative"
+	},
+	{
+		"georgian": "ვ-იწვ-ე",
+		"english": "I lie (on) optative"
+	},
+	{
+		"georgian": "იწვ-ეს",
+		"english": "it (he/she) lies (on) optative"
+	},
+	{
+		"georgian": "დევს",
+		"english": "it lies (on) inanimate present"
+	},
+	{
+		"georgian": "იდება",
+		"english": "it will lie (on) inanimate"
+	},
+	{
+		"georgian": "იდო",
+		"english": "it lay (on) inanimate aorist"
+	},
+	{
+		"georgian": "იდოს",
+		"english": "it lies (on) inanimate optative"
+	},
+	{
+		"georgian": "ა-ვდგ-ებ-ი",
+		"english": "I stand up present/future"
+	},
+	{
+		"georgian": "ა-დგ-ებ-ა",
+		"english": "it (he/she) stands up present/future"
+	},
+	{
+		"georgian": "ა-დგებიან",
+		"english": "they stand up present/future"
+	},
+	{
+		"georgian": "ა-ვ-დექ-ი",
+		"english": "I stood up aorist"
+	},
+	{
+		"georgian": "ა-დგ-ა",
+		"english": "it (he/she) stood up aorist"
+	},
+	{
+		"georgian": "ა-დგ-ნენ",
+		"english": "they stood up aorist/optative"
+	},
+	{
+		"georgian": "ა-ვ-დგ-ე",
+		"english": "I stand up optative"
+	},
+	{
+		"georgian": "ა-დგ-ეს",
+		"english": "it (he/she) stands up optative"
+	},
+	{
+		"georgian": "და-ვ-ჯდ-ებ-ი",
+		"english": "I sit down present/future"
+	},
+	{
+		"georgian": "და-ვ-სხდ-ებ-ი-თ",
+		"english": "we sit down present/future"
+	},
+	{
+		"georgian": "და-ჯდ-ებ-ა",
+		"english": "it (he/she) sits down present/future"
+	},
+	{
+		"georgian": "და-სხდ-ებ-იან",
+		"english": "they sit down present/future"
+	},
+	{
+		"georgian": "და-ვ-ჯექ-ი",
+		"english": "I sat down aorist"
+	},
+	{
+		"georgian": "და-ვ-სხედ-ი-თ",
+		"english": "we sat down aorist"
+	},
+	{
+		"georgian": "და-ჯდ-ა",
+		"english": "it (he/she) sat down aorist"
+	},
+	{
+		"georgian": "და-სხდ-ნენ",
+		"english": "they sat down aorist/optative"
+	},
+	{
+		"georgian": "და-ვ-ჯდ-ე",
+		"english": "I sit down optative"
+	},
+	{
+		"georgian": "და-ვ-სხდ-ე-თ",
+		"english": "we sit down optative"
+	},
+	{
+		"georgian": "და-ჯდ-ეს",
+		"english": "it (he/she) sits down optative"
+	},
+	{
+		"georgian": "და-ვ-წვ-ებ-ი",
+		"english": "I lie down (go to bed) present future"
+	},
+	{
+		"georgian": "და-წვ-ებ-ა",
+		"english": "it (he/she) lies down (goes to bed) present/future"
+	},
+	{
+		"georgian": "და-წვ-ებ-იან",
+		"english": "they lie down (go to bed) present/future"
+	},
+	{
+		"georgian": "და-ვ-წექ-ი",
+		"english": "I lay down (went to bed) aorist"
+	},
+	{
+		"georgian": "და-წვ-ა",
+		"english": "it (he/she) lay down (went to bed) aorist"
+	},
+	{
+		"georgian": "და-წვ-ნენ",
+		"english": "they lay down (went to bed) aorist/optative"
+	},
+	{
+		"georgian": "და-ვ-წვ-ე",
+		"english": "I lie down (go to bed) optative"
+	},
+	{
+		"georgian": "და-წვ-ეს",
+		"english": "it (he/she) lies down (goes to bed) optative"
+	},
+	{
+		"georgian": "დგა",
+		"english": "\"stand\" present"
+	},
+	{
+		"georgian": "იდგებ",
+		"english": "\"stand\" future"
+	},
+	{
+		"georgian": "იდექ/იდგ",
+		"english": "\"stand\" aorist/optative"
+	},
+	{
+		"georgian": "ზი",
+		"english": "\"sit\" present singular"
+	},
+	{
+		"georgian": "სხედ",
+		"english": "\"sit\" present plural"
+	},
+	{
+		"georgian": "იჯდ",
+		"english": "\"sit\" future singular"
+	},
+	{
+		"georgian": "ისხდ",
+		"english": "\"sit\" future plural"
+	},
+	{
+		"georgian": "იჯექ/იჯდ",
+		"english": "\"sit\" aorist/optative singular"
+	},
+	{
+		"georgian": "ისხედ/ისხდ",
+		"english": "\"sit\" aorist/optative plural"
+	},
+	{
+		"georgian": "წევ",
+		"english": "\"lie on\" present"
+	},
+	{
+		"georgian": "იწვ",
+		"english": "\"lie on\" future"
+	},
+	{
+		"georgian": "იწექ/იწვ",
+		"english": "\"lie on\" aorist/optative"
+	},
+	{
+		"georgian": "დგ",
+		"english": "\"stand up\" present/future"
+	},
+	{
+		"georgian": "დექ/დგ",
+		"english": "\"stand up\" aorist/optative"
+	},
+	{
+		"georgian": "ჯდ",
+		"english": "\"sit down\" present/future singular"
+	},
+	{
+		"georgian": "სხდ",
+		"english": "\"sit down\" present/future plural"
+	},
+	{
+		"georgian": "ჯექ/ჯდ",
+		"english": "\"sit down\" aorist/optative singular"
+	},
+	{
+		"georgian": "სხედ/სხდ",
+		"english": "\"sit down\" aorist/optative plural"
+	},
+	{
+		"georgian": "წვ",
+		"english": "\"lie down\" present/future"
+	},
+	{
+		"georgian": "წექ/წვ",
+		"english": "\"lie down\" aorist/optative"
+	},
+	{
+		"georgian": "მიმყავხარ",
+		"english": "I bring you (with me)"
+	},
+	{
+		"georgian": "მიგყავვარ",
+		"english": "you bring me (with you)"
+	},
+	{
+		"georgian": "მიგვყავს",
+		"english": "we bring him/her/it (with us)"
+	},
+	{
+		"georgian": "მიჰყავთ",
+		"english": "he brings them (with him)"
+	},
+	{
+		"georgian": "წაგიყვან",
+		"english": "I will bring you (with me)"
+	},
+	{
+		"georgian": "წამიყვან",
+		"english": "you will bring me (with you)"
+	},
+	{
+		"georgian": "წავიყვანთ",
+		"english": "we will bring him/her/it (with us)"
+	},
+	{
+		"georgian": "წაიყვანს",
+		"english": "he will bring them (with him)"
+	},
+	{
+		"georgian": "მიმაქვს",
+		"english": "I bring it (with me, inanimate)"
+	},
+	{
+		"georgian": "მიაქვს",
+		"english": "he brings it (with him, inanimate)"
+	},
+	{
+		"georgian": "წავიტან",
+		"english": "I will bring it (with me, inanimate)"
+	},
+	{
+		"georgian": "წაიტანს",
+		"english": "he will bring it (with him, inanimate)"
+	},
+	{
+		"georgian": "ვიქნები",
+		"english": "I will be"
+	},
+	{
+		"georgian": "იქნება",
+		"english": "he/she/it will be"
+	},
+	{
+		"georgian": "ვიქნებოდი",
+		"english": "I am conditional"
+	},
+	{
+		"georgian": "ვიყავი",
+		"english": "I was (aorist)"
+	},
+	{
+		"georgian": "იყო",
+		"english": "he/she/it was (aorist) OR you should be (optative)"
+	},
+	{
+		"georgian": "ვიყო",
+		"english": "I should be (optative)"
+	},
+	{
+		"georgian": "ვიქნებოდე",
+		"english": "I am future conjunctive"
+	},
+	{
+		"georgian": "ყოფნა",
+		"english": "being (verbal noun, \"to be\")"
+	},
+	{
+		"georgian": "მი-ვ-დი-ვარ",
+		"english": "I am going"
+	},
+	{
+		"georgian": "მი-დი-ს",
+		"english": "he/she/it is going"
+	},
+	{
+		"georgian": "მი-დი-ან",
+		"english": "they are going"
+	},
+	{
+		"georgian": "წა-ვალ",
+		"english": "I will go"
+	},
+	{
+		"georgian": "წა-ხ-ვალ",
+		"english": "you will go"
+	},
+	{
+		"georgian": "წა-ვა",
+		"english": "he/she/it will go"
+	},
+	{
+		"georgian": "წა-ვლ-ენ",
+		"english": "they will go"
+	},
+	{
+		"georgian": "მი-ვ-დი-ოდ-ი",
+		"english": "I was going (imperfect)"
+	},
+	{
+		"georgian": "წა-ვიდ-ოდ-ი",
+		"english": "I go conditional"
+	},
+	{
+		"georgian": "წა-ხ-ვიდ-ოდ-ი",
+		"english": "you go conditional"
+	},
+	{
+		"georgian": "მი-ვ-დი-ოდ-ე",
+		"english": "I go present conjunctive"
+	},
+	{
+		"georgian": "წა-ვიდ-ოდ-ე",
+		"english": "I go future conjunctive"
+	},
+	{
+		"georgian": "წა-ხ-ვიდ-ოდ-ე",
+		"english": "you go future conjunctive"
+	},
+	{
+		"georgian": "წა-ვედ-ი",
+		"english": "I went (aorist, or \"let's go\")"
+	},
+	{
+		"georgian": "წა-ხ-ვედ-ი",
+		"english": "you went (aorist)"
+	},
+	{
+		"georgian": "წა-ვიდ-ა",
+		"english": "he/she/it went (aorist)"
+	},
+	{
+		"georgian": "წა-ვიდ-ე",
+		"english": "I should go (optative)"
+	},
+	{
+		"georgian": "წა-ხ-ვიდ-ე",
+		"english": "you should go (optative)"
+	},
+	{
+		"georgian": "წა-ვიდ-ეს",
+		"english": "he/she/it should go (optative)"
+	},
+	{
+		"georgian": "მი-",
+		"english": "go preverb present"
+	},
+	{
+		"georgian": "წა-",
+		"english": "go preverb future"
+	},
+	{
+		"georgian": "შე-",
+		"english": "go into preverb"
+	},
+	{
+		"georgian": "გა-",
+		"english": "go out of preverb"
+	},
+	{
+		"georgian": "ა-",
+		"english": "go up preverb"
+	},
+	{
+		"georgian": "ჩა-",
+		"english": "go down preverb (or arrive at)"
+	},
+	{
+		"georgian": "გადა-",
+		"english": "go across preverb"
+	},
+	{
+		"georgian": "და-",
+		"english": "go habitually preverb"
+	},
+	{
+		"georgian": "მო-:",
+		"english": "come preverb (can be attached to all other directional preverbs at end)"
+	}
+]

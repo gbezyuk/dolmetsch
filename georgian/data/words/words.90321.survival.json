@@ -1,0 +1,1858 @@
+[
+	{
+		"georgian": "სად?\t",
+		"english": "where"
+	},
+	{
+		"georgian": "ოფის-ში",
+		"english": "in the office"
+	},
+	{
+		"georgian": "ამერიკა-ში",
+		"english": "in america"
+	},
+	{
+		"georgian": "მი-ვ-დი-ვარ",
+		"english": "I go "
+	},
+	{
+		"georgian": "მი-დი-ხარ\t",
+		"english": "you go "
+	},
+	{
+		"georgian": "მი-დი-ს",
+		"english": "he she it goes"
+	},
+	{
+		"georgian": "მი-ვ-დი-ვარ-თ",
+		"english": "we go "
+	},
+	{
+		"georgian": "მი-დი-ხარ-თ",
+		"english": "you go plural/formal "
+	},
+	{
+		"georgian": "მი-დი-ან\t",
+		"english": "they go "
+	},
+	{
+		"georgian": "მო-ვ-დი-ვარ",
+		"english": "I come "
+	},
+	{
+		"georgian": "მო-დი-ხარ",
+		"english": "you come "
+	},
+	{
+		"georgian": "მო-დი-ს",
+		"english": "he she it comes"
+	},
+	{
+		"georgian": "მო-ვ-დი-ვარ-თ ",
+		"english": "we come "
+	},
+	{
+		"georgian": "მო-დი-ხარ-თ",
+		"english": "you come formal plural "
+	},
+	{
+		"georgian": "მო-დი-ან\t",
+		"english": "they come "
+	},
+	{
+		"georgian": "უნივერსიტეტი",
+		"english": "university"
+	},
+	{
+		"georgian": "კინო",
+		"english": "cinema"
+	},
+	{
+		"georgian": "თეატრი",
+		"english": "theatre"
+	},
+	{
+		"georgian": "ოფისი",
+		"english": "office "
+	},
+	{
+		"georgian": "რესტორანი",
+		"english": "restaurant "
+	},
+	{
+		"georgian": "ახლა",
+		"english": "now"
+	},
+	{
+		"georgian": "საღამოს",
+		"english": "in the evening "
+	},
+	{
+		"georgian": "დაჯექი",
+		"english": "sit down (imperative) "
+	},
+	{
+		"georgian": "ადექი",
+		"english": "stan up (imperative)"
+	},
+	{
+		"georgian": "მოდი",
+		"english": "come"
+	},
+	{
+		"georgian": "წადი",
+		"english": "go "
+	},
+	{
+		"georgian": "წავიდეთ",
+		"english": "let's go "
+	},
+	{
+		"georgian": "გააჩერე",
+		"english": "stop "
+	},
+	{
+		"georgian": "დაასხი",
+		"english": "pour"
+	},
+	{
+		"georgian": "ჩემი",
+		"english": "my"
+	},
+	{
+		"georgian": "შენი",
+		"english": "your "
+	},
+	{
+		"georgian": "მისი",
+		"english": "his hers its"
+	},
+	{
+		"georgian": "ჩვენი",
+		"english": "our"
+	},
+	{
+		"georgian": "თქვენი",
+		"english": "your "
+	},
+	{
+		"georgian": "მათი",
+		"english": "their "
+	},
+	{
+		"georgian": "რა?",
+		"english": "what?"
+	},
+	{
+		"georgian": "თიხ-ის  თასი     ",
+		"english": "genitive case indicates possession i.e. noun pairs - the first noun modifies the second (e.g., clay pot) shown as -ის, or ს."
+	},
+	{
+		"georgian": "ექიმი",
+		"english": "doctor"
+	},
+	{
+		"georgian": "სახელი",
+		"english": "name "
+	},
+	{
+		"georgian": "გვარი",
+		"english": "surname"
+	},
+	{
+		"georgian": "მისამართი",
+		"english": "address"
+	},
+	{
+		"georgian": "პროფესია",
+		"english": "profession"
+	},
+	{
+		"georgian": "ტელეფონი",
+		"english": "telephone "
+	},
+	{
+		"georgian": "ნომერი",
+		"english": "number "
+	},
+	{
+		"georgian": "თვე",
+		"english": "month "
+	},
+	{
+		"georgian": "დღე",
+		"english": "day"
+	},
+	{
+		"georgian": "დღეს",
+		"english": "today "
+	},
+	{
+		"georgian": "რიცხვი",
+		"english": "date"
+	},
+	{
+		"georgian": "კვირა",
+		"english": "week or sunday "
+	},
+	{
+		"georgian": "შეხედეთ!",
+		"english": "look!"
+	},
+	{
+		"georgian": "მომეცით",
+		"english": "give me "
+	},
+	{
+		"georgian": "ინებეთ / აიღეთ",
+		"english": "take "
+	},
+	{
+		"georgian": "თუ შეიძლება",
+		"english": "please "
+	},
+	{
+		"georgian": "რა ღირს?",
+		"english": "how much does it cost?"
+	},
+	{
+		"georgian": "შემოდით",
+		"english": "come in "
+	},
+	{
+		"georgian": "ეს",
+		"english": "this "
+	},
+	{
+		"georgian": "ეგ",
+		"english": "this /that (refers to an object or person that is closer to the second person than to the speaker)"
+	},
+	{
+		"georgian": "ის",
+		"english": "that "
+	},
+	{
+		"georgian": "ესენი",
+		"english": "these"
+	},
+	{
+		"georgian": "ეგენი",
+		"english": "these/those (refers to an object or person that is closer to the second person than to the speaker)"
+	},
+	{
+		"georgian": "ისინი",
+		"english": "those"
+	},
+	{
+		"georgian": "აქ",
+		"english": "here"
+	},
+	{
+		"georgian": "მანდ",
+		"english": "third demonstrative adverb of place which falls between the traditional “here” and “there”"
+	},
+	{
+		"georgian": "როდის?",
+		"english": "when?"
+	},
+	{
+		"georgian": "სურათი",
+		"english": "picture"
+	},
+	{
+		"georgian": "მადლიერების დღე",
+		"english": "thanks giving "
+	},
+	{
+		"georgian": "დაბადების დღე",
+		"english": "birthday "
+	},
+	{
+		"georgian": "შობა",
+		"english": "Christmas"
+	},
+	{
+		"georgian": "აღდგომა",
+		"english": "Easter"
+	},
+	{
+		"georgian": "დამოუკიდებლობის დღე",
+		"english": "Independence Day "
+	},
+	{
+		"georgian": "იანვარი",
+		"english": "January "
+	},
+	{
+		"georgian": "თებერვალი",
+		"english": "February "
+	},
+	{
+		"georgian": "მარტი",
+		"english": "March "
+	},
+	{
+		"georgian": "აპრილი",
+		"english": "April "
+	},
+	{
+		"georgian": "მაისი",
+		"english": "May "
+	},
+	{
+		"georgian": "ივნისი",
+		"english": "June"
+	},
+	{
+		"georgian": "ივლისი",
+		"english": "July "
+	},
+	{
+		"georgian": "აგვისტო",
+		"english": "August "
+	},
+	{
+		"georgian": "სექტემბერი",
+		"english": "Spetember "
+	},
+	{
+		"georgian": "ოქტომბერი",
+		"english": "October"
+	},
+	{
+		"georgian": "ნოემბერი",
+		"english": "November "
+	},
+	{
+		"georgian": "დეკემბერი",
+		"english": "December "
+	},
+	{
+		"georgian": "ორშაბათი",
+		"english": "Monday "
+	},
+	{
+		"georgian": "სამშაბათი",
+		"english": "Tuesday "
+	},
+	{
+		"georgian": "ოთხშაბათი",
+		"english": "Wedensday "
+	},
+	{
+		"georgian": "ხუთშაბათი",
+		"english": "Thursday "
+	},
+	{
+		"georgian": "პარასკევი",
+		"english": "Friday "
+	},
+	{
+		"georgian": "შაბათი",
+		"english": "Saturday "
+	},
+	{
+		"georgian": "კვირა",
+		"english": "Sunday "
+	},
+	{
+		"georgian": "ორშაბათ-ს",
+		"english": "on Monday "
+	},
+	{
+		"georgian": "სამშაბათ-ს",
+		"english": "on Tuesday etc. "
+	},
+	{
+		"georgian": "ავტობუსი",
+		"english": "a bus (nominative case) "
+	},
+	{
+		"georgian": "ავტობუსით",
+		"english": "by bus (instrumental case) "
+	},
+	{
+		"georgian": "მანქანა",
+		"english": "car"
+	},
+	{
+		"georgian": "მანქანით",
+		"english": "by car "
+	},
+	{
+		"georgian": "უთო",
+		"english": "iron "
+	},
+	{
+		"georgian": "საიდან?",
+		"english": "from where?"
+	},
+	{
+		"georgian": "კი ",
+		"english": "however/ but"
+	},
+	{
+		"georgian": "ან ",
+		"english": "or (for affirmative sentences)"
+	},
+	{
+		"georgian": "ვ-ცხოვრობ",
+		"english": "I live"
+	},
+	{
+		"georgian": "ცხოვრობ",
+		"english": "you live"
+	},
+	{
+		"georgian": "ცხოვრობ-ს",
+		"english": "he she it lives "
+	},
+	{
+		"georgian": "ვ-ცხოვრობ-თ",
+		"english": "we live"
+	},
+	{
+		"georgian": "ცხოვრობ-თ",
+		"english": "you live "
+	},
+	{
+		"georgian": "ცხოვრობ-ენ",
+		"english": "they live "
+	},
+	{
+		"georgian": "დედა",
+		"english": "mother "
+	},
+	{
+		"georgian": "მამა",
+		"english": "father "
+	},
+	{
+		"georgian": "დედ-მამა",
+		"english": "parents "
+	},
+	{
+		"georgian": "ძმა",
+		"english": "brother "
+	},
+	{
+		"georgian": "ცოლი",
+		"english": "wife "
+	},
+	{
+		"georgian": "მაგრამ",
+		"english": "but "
+	},
+	{
+		"georgian": "მატარებელი",
+		"english": "train "
+	},
+	{
+		"georgian": "ავტობუსი",
+		"english": "bus "
+	},
+	{
+		"georgian": "მარშრუტკა",
+		"english": "mini bus "
+	},
+	{
+		"georgian": "შოტლანდია",
+		"english": "Scotland "
+	},
+	{
+		"georgian": "მარტო",
+		"english": "alone "
+	},
+	{
+		"georgian": "თვითმფრინავი",
+		"english": "airplane "
+	},
+	{
+		"georgian": "და",
+		"english": "sister / and"
+	},
+	{
+		"georgian": "ბოდიში სად არის ოფისი",
+		"english": "sorry where is the office?"
+	},
+	{
+		"georgian": "არა, ეს არ არის ოფისში",
+		"english": "no this is not the office "
+	},
+	{
+		"georgian": "არა, ეს არაა ოფისში",
+		"english": "no this is not the office (short form) "
+	},
+	{
+		"georgian": "დიახ, ეს რესტორანია",
+		"english": "yes, that is the restaurant (short)"
+	},
+	{
+		"georgian": "არა, ეს არაა ნინო",
+		"english": "no, this isn't Nino (short)"
+	},
+	{
+		"georgian": "არა, ეს არ არის ნინო",
+		"english": "no, this isn't Nino (long)"
+	},
+	{
+		"georgian": "სასიამოვნოა",
+		"english": "nice to meet you "
+	},
+	{
+		"georgian": "ცუდად",
+		"english": "bad/not well"
+	},
+	{
+		"georgian": "არა უშავს",
+		"english": "that's ok/no problem"
+	},
+	{
+		"georgian": "აყ გამიჩერეთ",
+		"english": "stop here (taxi/bus)"
+	},
+	{
+		"georgian": "ისე რა",
+		"english": "so so"
+	},
+	{
+		"georgian": "მეც მინდა",
+		"english": "I also want "
+	},
+	{
+		"georgian": "ძალიან კარგი",
+		"english": "very well"
+	},
+	{
+		"georgian": "მეც კარგად",
+		"english": "I am also well"
+	},
+	{
+		"georgian": "მე ქალბატონი ნინო ვარ. ის ბატონი გიორგია?",
+		"english": "I am Mrs Nino, is that Mr Giorgi?"
+	},
+	{
+		"georgian": "ისინი მაია და ქეთი არიან?",
+		"english": "Are they Maia and Keti?"
+	},
+	{
+		"georgian": "ხო, მაია და ქეთი არიან",
+		"english": "Yes,t ehy are Maia and Keti"
+	},
+	{
+		"georgian": "დილა მშვიდობისა",
+		"english": "good morning "
+	},
+	{
+		"georgian": "საღამო მშვიდობისა",
+		"english": "good evening"
+	},
+	{
+		"georgian": "ღამე მშვიდობისა",
+		"english": "good night "
+	},
+	{
+		"georgian": "ბევრი ფრობლემაა",
+		"english": "there are many problems"
+	},
+	{
+		"georgian": "დაღლილი ვარ",
+		"english": "I am tired "
+	},
+	{
+		"georgian": "არ ვარ დაგლილი",
+		"english": "I am not tired "
+	},
+	{
+		"georgian": "ავად ვარ",
+		"english": "I am sick  "
+	},
+	{
+		"georgian": "გეძინება?",
+		"english": "are you tired?"
+	},
+	{
+		"georgian": "მეძინება",
+		"english": "I am tired   "
+	},
+	{
+		"georgian": "ეძინება?",
+		"english": "is he/she tired?"
+	},
+	{
+		"georgian": "რა გქვია?",
+		"english": "what's your name?"
+	},
+	{
+		"georgian": "ევა მქვია",
+		"english": "my name is eva "
+	},
+	{
+		"georgian": "შენ სახელი?",
+		"english": "your name?"
+	},
+	{
+		"georgian": "ჩემი სახელია...",
+		"english": "my name is..."
+	},
+	{
+		"georgian": "ჩემთვისაც სასიამოვნოა",
+		"english": "nice to meet you also (reply)"
+	},
+	{
+		"georgian": "საიდან ხარ?",
+		"english": "where are you from?"
+	},
+	{
+		"georgian": "სადაური ხარ?",
+		"english": "what is your nationality?"
+	},
+	{
+		"georgian": "ხვალამდე",
+		"english": "see you tomorrow"
+	},
+	{
+		"georgian": "ჩემთვის",
+		"english": "for me"
+	},
+	{
+		"georgian": "დაღლილი ხართ?",
+		"english": "are you tired?"
+	},
+	{
+		"georgian": "ვინ?",
+		"english": "who?"
+	},
+	{
+		"georgian": "რა?`",
+		"english": "what?"
+	},
+	{
+		"georgian": "ეს ვინ არის?",
+		"english": "who is this?"
+	},
+	{
+		"georgian": "ეს რა არის?",
+		"english": "what is this?"
+	},
+	{
+		"georgian": "ეს ძაღლია",
+		"english": "it is a dog "
+	},
+	{
+		"georgian": "ეს ვინაა?`",
+		"english": "who is this? (short)"
+	},
+	{
+		"georgian": "ეს რაა?",
+		"english": "what is this? (short)"
+	},
+	{
+		"georgian": "ნიკოს მამაა",
+		"english": "Niko's mum "
+	},
+	{
+		"georgian": "ეს მაგიდაა",
+		"english": "this is a table"
+	},
+	{
+		"georgian": "სკამი",
+		"english": "chair "
+	},
+	{
+		"georgian": "ჩანთა`",
+		"english": "bag "
+	},
+	{
+		"georgian": "კატა",
+		"english": "cat"
+	},
+	{
+		"georgian": "გვარი`",
+		"english": "surname"
+	},
+	{
+		"georgian": "ქვეყანა",
+		"english": "country"
+	},
+	{
+		"georgian": "კაცი",
+		"english": "man "
+	},
+	{
+		"georgian": "ქალი",
+		"english": "woman "
+	},
+	{
+		"georgian": "ბავშვი",
+		"english": "child "
+	},
+	{
+		"georgian": "ბიჭი",
+		"english": "boy"
+	},
+	{
+		"georgian": "ჟურნალისტი",
+		"english": "journalist"
+	},
+	{
+		"georgian": "მასწავლებელი",
+		"english": "teacher"
+	},
+	{
+		"georgian": "პარლამენტარი",
+		"english": "MP "
+	},
+	{
+		"georgian": "საელჩო",
+		"english": "embassy "
+	},
+	{
+		"georgian": "ელჩი",
+		"english": "ambassador"
+	},
+	{
+		"georgian": "სასტუმრო",
+		"english": "hotel "
+	},
+	{
+		"georgian": "სტუმარი",
+		"english": "guest"
+	},
+	{
+		"georgian": "მაგიდები",
+		"english": "tables "
+	},
+	{
+		"georgian": "სკამები",
+		"english": "chairs "
+	},
+	{
+		"georgian": "ხე",
+		"english": "tree "
+	},
+	{
+		"georgian": "ხეები",
+		"english": "trees "
+	},
+	{
+		"georgian": "გოგოები",
+		"english": "girls "
+	},
+	{
+		"georgian": "ბუ",
+		"english": "owl "
+	},
+	{
+		"georgian": "ბუები`",
+		"english": "owls "
+	},
+	{
+		"georgian": "კატები",
+		"english": "cats"
+	},
+	{
+		"georgian": "კაცები",
+		"english": "men "
+	},
+	{
+		"georgian": "ძაღლები",
+		"english": "dogs "
+	},
+	{
+		"georgian": "ქალები",
+		"english": "women "
+	},
+	{
+		"georgian": "ჩანთები",
+		"english": "bags "
+	},
+	{
+		"georgian": "ვიზები",
+		"english": "visas"
+	},
+	{
+		"georgian": "ბიჭები",
+		"english": "boys "
+	},
+	{
+		"georgian": "ბავშვები",
+		"english": "children"
+	},
+	{
+		"georgian": "პასპორტები",
+		"english": "passports"
+	},
+	{
+		"georgian": "ჟურნალისტები",
+		"english": "journalists "
+	},
+	{
+		"georgian": "მასწევლებლები",
+		"english": "teachers "
+	},
+	{
+		"georgian": "დირექტორები",
+		"english": "directors "
+	},
+	{
+		"georgian": "კალამი",
+		"english": "pen"
+	},
+	{
+		"georgian": "სადაა?",
+		"english": "where is he/she/is?"
+	},
+	{
+		"georgian": "აქაა",
+		"english": "she/he/it is here"
+	},
+	{
+		"georgian": "იქაა",
+		"english": "he/she/it is there"
+	},
+	{
+		"georgian": "სახლშია",
+		"english": "he/she/is is at home"
+	},
+	{
+		"georgian": "ოთახშია",
+		"english": "he/she/it is in the room"
+	},
+	{
+		"georgian": "მე",
+		"english": "I"
+	},
+	{
+		"georgian": "შენ     ",
+		"english": "you      "
+	},
+	{
+		"georgian": "ის",
+		"english": "he, she, it"
+	},
+	{
+		"georgian": "ჩვენ    ",
+		"english": "we "
+	},
+	{
+		"georgian": "თქვენ",
+		"english": "you (plural, formal)"
+	},
+	{
+		"georgian": "ისინი",
+		"english": "they "
+	},
+	{
+		"georgian": "საიდან ხარ?",
+		"english": "where are you from?"
+	},
+	{
+		"georgian": "ამერიკიდან",
+		"english": "from america"
+	},
+	{
+		"georgian": "საქართველოდან",
+		"english": "from Georgia "
+	},
+	{
+		"georgian": "ჩინეთიდან",
+		"english": "from china"
+	},
+	{
+		"georgian": "ესპანეთიდან",
+		"english": "from Spain "
+	},
+	{
+		"georgian": "საფრანგეთიდან",
+		"english": "from France"
+	},
+	{
+		"georgian": "საბერძნეთიდან",
+		"english": "from Greece"
+	},
+	{
+		"georgian": "ჩეხეთიდან",
+		"english": "from Czech Rep."
+	},
+	{
+		"georgian": "რუსეთიდან",
+		"english": "from Russia "
+	},
+	{
+		"georgian": "თურქეთიდან",
+		"english": "from Turkey"
+	},
+	{
+		"georgian": "ბელგიიდან",
+		"english": "from Belgium "
+	},
+	{
+		"georgian": "იაპონიიდან",
+		"english": "from Japan "
+	},
+	{
+		"georgian": "იტალიიდან",
+		"english": "from Italy "
+	},
+	{
+		"georgian": "ბრაზილიიდან",
+		"english": "from Brazil "
+	},
+	{
+		"georgian": "ჰოლანდიიდან",
+		"english": "from Holland"
+	},
+	{
+		"georgian": "ბოლივიიდან",
+		"english": "from Bolivia "
+	},
+	{
+		"georgian": "ავსტრიიდან",
+		"english": "from Austria "
+	},
+	{
+		"georgian": "გერმანიიდან",
+		"english": "from Germany"
+	},
+	{
+		"georgian": "ნორვეგიიდან",
+		"english": "from Norway "
+	},
+	{
+		"georgian": "პოლონეთიდან",
+		"english": "from Poland"
+	},
+	{
+		"georgian": "ინდოეთიდან",
+		"english": "from India"
+	},
+	{
+		"georgian": "ბრითანეტიდან",
+		"english": "from Britain "
+	},
+	{
+		"georgian": "ავსტრალიიდან",
+		"english": "from Australia "
+	},
+	{
+		"georgian": "რა პროფესიის ხართ?",
+		"english": "What is your profession?"
+	},
+	{
+		"georgian": "ექიმი ვარ",
+		"english": "I'm a doctor"
+	},
+	{
+		"georgian": "მძღოლი ვარ",
+		"english": "I'm a driver"
+	},
+	{
+		"georgian": "გამყიდველი ვარ",
+		"english": "I'm a seller"
+	},
+	{
+		"georgian": "მენეჯერი ვარ ვარ ",
+		"english": "I'm a manager "
+	},
+	{
+		"georgian": "მდივანი",
+		"english": "secretary"
+	},
+	{
+		"georgian": "თმის ხელოსანი",
+		"english": "hairdresser"
+	},
+	{
+		"georgian": "დიზზაინერი",
+		"english": "designer"
+	},
+	{
+		"georgian": "ხურო",
+		"english": "carpenter"
+	},
+	{
+		"georgian": "სანტექნიკოსი",
+		"english": "plumber"
+	},
+	{
+		"georgian": "ფიზიკოსი",
+		"english": "physicist"
+	},
+	{
+		"georgian": "ისტორიკოსი",
+		"english": "historian "
+	},
+	{
+		"georgian": "გეოგრაფი",
+		"english": "geographer"
+	},
+	{
+		"georgian": "მათემატიკოსი",
+		"english": "mathmatician"
+	},
+	{
+		"georgian": "მზარეული",
+		"english": "cook"
+	},
+	{
+		"georgian": "ინჟინერი",
+		"english": "engineer "
+	},
+	{
+		"georgian": "არქიტექტორი",
+		"english": "arquitect"
+	},
+	{
+		"georgian": "სად მიდიხარ?",
+		"english": "where are you going?"
+	},
+	{
+		"georgian": "როგორ/რით მიდიხარ?",
+		"english": "by which means of transport?"
+	},
+	{
+		"georgian": "ცავიდეთ",
+		"english": "let's go "
+	},
+	{
+		"georgian": "ერთად ცავიდეთ",
+		"english": "let's go together "
+	},
+	{
+		"georgian": "ძვირია",
+		"english": "it's expensive"
+	},
+	{
+		"georgian": "იაფია",
+		"english": "it's cheap"
+	},
+	{
+		"georgian": "თუ შეიძლება, პირდაპირ",
+		"english": "straight ahead please"
+	},
+	{
+		"georgian": "მარჯვნივ",
+		"english": "right"
+	},
+	{
+		"georgian": "მარცხნივ",
+		"english": "left"
+	},
+	{
+		"georgian": "ერთი წუთით",
+		"english": "wait one minute please"
+	},
+	{
+		"georgian": "როგორი?",
+		"english": "what kind?"
+	},
+	{
+		"georgian": "რომელი",
+		"english": "which?"
+	},
+	{
+		"georgian": "დიდი",
+		"english": "big"
+	},
+	{
+		"georgian": "კარგი",
+		"english": "good"
+	},
+	{
+		"georgian": "ახალი",
+		"english": "new"
+	},
+	{
+		"georgian": "ლამაზი",
+		"english": "beautiful"
+	},
+	{
+		"georgian": "პატარა",
+		"english": "small"
+	},
+	{
+		"georgian": "ცუდი",
+		"english": "bad"
+	},
+	{
+		"georgian": "ძველი",
+		"english": "old"
+	},
+	{
+		"georgian": "უშნო",
+		"english": "ugly"
+	},
+	{
+		"georgian": "პური იმერული",
+		"english": "round bread"
+	},
+	{
+		"georgian": "ნამცხვარი",
+		"english": "cake"
+	},
+	{
+		"georgian": "პერაშკი",
+		"english": "meat and potato pie"
+	},
+	{
+		"georgian": "ღვეზელი",
+		"english": "pie"
+	},
+	{
+		"georgian": "ლიმონათი",
+		"english": "lemonade"
+	},
+	{
+		"georgian": "კომპოტი",
+		"english": "boiled fruit jam"
+	},
+	{
+		"georgian": "კისელი",
+		"english": "thick boiled fruit jam"
+	},
+	{
+		"georgian": "წვენი",
+		"english": "juice"
+	},
+	{
+		"georgian": "1 პორცია",
+		"english": "1 portion"
+	},
+	{
+		"georgian": "1 თეფში",
+		"english": "1 plate"
+	},
+	{
+		"georgian": "1 ჭიქა",
+		"english": "1 glass"
+	},
+	{
+		"georgian": "1 ბოთლი",
+		"english": "1 bottle "
+	},
+	{
+		"georgian": "ნაყინი",
+		"english": "ice cream "
+	},
+	{
+		"georgian": "ეს ცივი ყავა ჩემია",
+		"english": "this iced coffee is mine"
+	},
+	{
+		"georgian": "ცხელი ჩაი მინდა ლიმონით და ორი კოვზი შაქრით",
+		"english": "I'd like hot tea with lemon and 2 teaspoons of sugar"
+	},
+	{
+		"georgian": "ლაშა მოსწონს ცივი კოკა კოლა ყინულით",
+		"english": "Lasha likes cold coke with ice"
+	},
+	{
+		"georgian": "ეს სალათა ძალიან მარილიანია",
+		"english": "This salad is very salty "
+	},
+	{
+		"georgian": "მე არ მომწონს მარილიანი საჭმელი",
+		"english": "მე არ მომწონს მარილიანი საჭმელი"
+	},
+	{
+		"georgian": "უმარილო ყველი მომწონს",
+		"english": "I like unsalted cheese "
+	},
+	{
+		"georgian": "ეს ხორციანი სადილი თბილია",
+		"english": "This dinner with meat is warm "
+	},
+	{
+		"georgian": "ის სოკოს სუპი ახლა გრილია",
+		"english": "that mushroom soup is cool now"
+	},
+	{
+		"georgian": "ეს კომბოსტოს სალათა ცივი და გამრიელია",
+		"english": "this cabbage salad is cold and tasty"
+	},
+	{
+		"georgian": "ის ჩაი უშაქროა",
+		"english": "that tea is without sugar"
+	},
+	{
+		"georgian": "მინდა ის სალათა ზეთით",
+		"english": "I'd like this salad with oil "
+	},
+	{
+		"georgian": "ანდროს უნდა ის სტაფილო მაიონეზით",
+		"english": "Andro wants these carrots with mayonnaise"
+	},
+	{
+		"georgian": "ევას მაინეზიანი ბადრიჯანი უნდა",
+		"english": "Eva wants eggplant with mayonnaise"
+	},
+	{
+		"georgian": "მე ნიგვზიანი ბადრიჯანი და ლობიო მომწონს",
+		"english": "I like aubergine and beans with walnuts "
+	},
+	{
+		"georgian": "მე უნიგვზო საჭმელი მომწონს",
+		"english": "I like food without walnuts "
+	},
+	{
+		"georgian": "ნიგოზზე ალერგია მაქვს",
+		"english": "I am allergic to nuts"
+	},
+	{
+		"georgian": "ქართული სუფრა",
+		"english": "Georgian supra"
+	},
+	{
+		"georgian": "ხელსახოცი",
+		"english": "napkin"
+	},
+	{
+		"georgian": "ფხალი",
+		"english": "vegetable pâté"
+	},
+	{
+		"georgian": "ნიგვზიანი",
+		"english": "with walnut"
+	},
+	{
+		"georgian": "ბაჟე",
+		"english": "walnut sauce"
+	},
+	{
+		"georgian": "მჭადი",
+		"english": "corn bread"
+	},
+	{
+		"georgian": "სადღეგრძელი",
+		"english": "toast (noun)"
+	},
+	{
+		"georgian": "ადღეგრძელებლ",
+		"english": "toasts"
+	},
+	{
+		"georgian": "სვამს",
+		"english": "he/she/it drinks"
+	},
+	{
+		"georgian": "ჭამს",
+		"english": "he/she/it eats "
+	},
+	{
+		"georgian": "ულოცავს",
+		"english": "he/she/it congratulates"
+	},
+	{
+		"georgian": "ისვენებს",
+		"english": "he/she/it rests"
+	},
+	{
+		"georgian": "დალიე",
+		"english": "drink!"
+	},
+	{
+		"georgian": "მეტი აღარ შემიძლია",
+		"english": "I can't eat anymore"
+	},
+	{
+		"georgian": "რას ჭამ?",
+		"english": "what are you eating?"
+	},
+	{
+		"georgian": "შემწვარი ქათამს ვჭამ",
+		"english": "I am eating fried chicken "
+	},
+	{
+		"georgian": "თუ გინდა, ჭამე!",
+		"english": "eat! if you want"
+	},
+	{
+		"georgian": "არ მიყვარს ჭარხალი",
+		"english": "I don't like beet"
+	},
+	{
+		"georgian": "წყალი მინდა  დავლიო",
+		"english": "I want water to drink "
+	},
+	{
+		"georgian": "დილას",
+		"english": "in the morning "
+	},
+	{
+		"georgian": "საღამოს",
+		"english": "in the evening "
+	},
+	{
+		"georgian": "ღამე",
+		"english": "at night"
+	},
+	{
+		"georgian": "დღეს",
+		"english": "today "
+	},
+	{
+		"georgian": "ისპანახის ფხალი",
+		"english": "cooked spinach"
+	},
+	{
+		"georgian": "გაგიმარჯოს",
+		"english": "cheers to you"
+	},
+	{
+		"georgian": "გაუმარჯოს",
+		"english": "cheers to him/her"
+	},
+	{
+		"georgian": "გაგვიმარჯოს",
+		"english": "cheers to us"
+	},
+	{
+		"georgian": "გაგიმარჯოთ",
+		"english": "cheers to you pl. "
+	},
+	{
+		"georgian": "გაუმარჯოთ",
+		"english": "cheers to them"
+	},
+	{
+		"georgian": "სადღეგრძელო",
+		"english": "toast! "
+	},
+	{
+		"georgian": "კარგად იყავი, ბედნიერად, ჯანმრთელად",
+		"english": "be well, happy and healthy"
+	},
+	{
+		"georgian": "გადღეგრძელებ",
+		"english": "I wish you a long life"
+	},
+	{
+		"georgian": "მე ძალიან ბედნიერი ვარ, რომ დღეს შენ ჩვენი სტუმარი ხარ",
+		"english": "I'm very happy that today you are our guest"
+	},
+	{
+		"georgian": "ჩვენი სახლის კარი ღიაა და ყოველთვის ღია იქნები შენთვის",
+		"english": "The door to our house will always be open for you"
+	},
+	{
+		"georgian": "დღელ მეც თქვენთად ერთად ძალიან ბედნიერი ვარ",
+		"english": "Today I am very happy too"
+	},
+	{
+		"georgian": "თქვენც და თქვენს ოჯახსაც დიდი მადლობა ყველაფრისთვის",
+		"english": "Thank you and your family for everything"
+	},
+	{
+		"georgian": "წყალი  გაქვთ?",
+		"english": "do you have water?"
+	},
+	{
+		"georgian": "კი, წივი",
+		"english": "yes, cold"
+	},
+	{
+		"georgian": "ცოლი გყავს?",
+		"english": "do you have a wife?"
+	},
+	{
+		"georgian": "არ მყავს",
+		"english": "no I don't (have a wife)"
+	},
+	{
+		"georgian": "მოგწონს თბილისი?",
+		"english": "do you like Tbilisi?"
+	},
+	{
+		"georgian": "გიყვარს ღვინო?",
+		"english": "do you like wine?"
+	},
+	{
+		"georgian": "კი, მიყვარს",
+		"english": "yes I do (like wine)"
+	},
+	{
+		"georgian": "კი, მომწონს",
+		"english": "yes I do (like Tbilisi)"
+	},
+	{
+		"georgian": "გაინტერესებს საქართველო?",
+		"english": "are you interested in Georgia?"
+	},
+	{
+		"georgian": "ძალიან მაინტერესებს ",
+		"english": "yes I'm very interested (in Georgia) "
+	},
+	{
+		"georgian": "დილას ნინოსთან მიდიხარ?",
+		"english": "are you going to Nino's?"
+	},
+	{
+		"georgian": "არა, მაიკლთან ერთად საღამოს კონცერტზე მივდივარ",
+		"english": "no, I am going to the concert with Michael"
+	},
+	{
+		"georgian": "მეძინება, მოდიხარ სახლში? არ გეძინება?",
+		"english": "I'm sleepy, are you coming home? aren't you sleepy?"
+	},
+	{
+		"georgian": "როგორ ერთობი? მოგწონს აქ? ვისთან ერთად ართობი?",
+		"english": "how do you relax? do you like it here? with whom do you relax?"
+	},
+	{
+		"georgian": "ჩემს მეგობრებთან ერთად, თითქმის ყოველ შაბათ-კვირას",
+		"english": "with my friends, most (almost every) weekend"
+	},
+	{
+		"georgian": "მე დღეს ვმუშაობ, შენ მუშაობ?",
+		"english": "I am working today, are you?"
+	},
+	{
+		"georgian": "არა, მე დღეს არ ვმუშაობ",
+		"english": "no, I am not working today"
+	},
+	{
+		"georgian": "მე ახლა აქ ვცხოვრობ. შენ სად ცხოვრობ?",
+		"english": "I am living here now. Where do you live?"
+	},
+	{
+		"georgian": "მე ქართულად ვლაპარაკობ. შენ ლაპარაკობ?",
+		"english": "I speak Georgian, do you?"
+	},
+	{
+		"georgian": "კი, მეც ვლაპარაკობ ქართულად",
+		"english": "yes, I speak Georgian too"
+	},
+	{
+		"georgian": "მე დილას ვსწავლობ. შენ სწავლობ?",
+		"english": "I am studying in the morning. Are you?"
+	},
+	{
+		"georgian": "არა, მე დილას არ ვსწავლობ",
+		"english": "no, I am not studying in the morning"
+	},
+	{
+		"georgian": "მე ღამე ვფიქრობ, შენ ფიქრობ?",
+		"english": "I think at night, do you?"
+	},
+	{
+		"georgian": "კი, მე ღამე ვფიქრობ",
+		"english": "yes, I think at night"
+	},
+	{
+		"georgian": "დღეს მე ბარში ვერთობი. შენ სად ერთობი?",
+		"english": "today I relax in the bar. Do you?"
+	},
+	{
+		"georgian": "კი, მეც საღამოს ბარში ვერთობი",
+		"english": "yes I relax in the bar in the evening"
+	},
+	{
+		"georgian": "მე ვფიქრობ",
+		"english": "I think"
+	},
+	{
+		"georgian": "შენ ფიქრობ",
+		"english": "you think"
+	},
+	{
+		"georgian": "ის ფიქრობს",
+		"english": "he thinks"
+	},
+	{
+		"georgian": "ჩვენ ვფიქრობთ",
+		"english": "we think"
+	},
+	{
+		"georgian": "თქვენ ფიქრობთ",
+		"english": "you (pl) think"
+	},
+	{
+		"georgian": "ისინი ფიქრობენ",
+		"english": "they think "
+	},
+	{
+		"georgian": "მე ვფიქრობდი",
+		"english": "I was thinking/used to"
+	},
+	{
+		"georgian": "შენ ფიქრობდი",
+		"english": "you were thinking/used to"
+	},
+	{
+		"georgian": "ის ფიქრობდა",
+		"english": "he was thinking/used to"
+	},
+	{
+		"georgian": "ჩვენ ვფიქრობდით",
+		"english": "we were thinking/used to"
+	},
+	{
+		"georgian": "თქვენ ფიქრობდით",
+		"english": "you were thinking/used to"
+	},
+	{
+		"georgian": "ისინი ფიქრობდნენ",
+		"english": "they were thinking/used to"
+	},
+	{
+		"georgian": "სამსახური/სამუშაო",
+		"english": "job/work"
+	},
+	{
+		"georgian": "საქმე",
+		"english": "affair/business"
+	},
+	{
+		"georgian": "უშნო",
+		"english": "ugly"
+	},
+	{
+		"georgian": "ხანდეხან",
+		"english": "sometimes"
+	},
+	{
+		"georgian": "ყოველდღე",
+		"english": "everyday"
+	},
+	{
+		"georgian": "ყველა",
+		"english": "everyone/everybody"
+	},
+	{
+		"georgian": "მთელი",
+		"english": "all/whole/entire"
+	},
+	{
+		"georgian": "ორჯერ",
+		"english": "twice"
+	},
+	{
+		"georgian": "ჯგუფი",
+		"english": "group"
+	},
+	{
+		"georgian": "ახლოს",
+		"english": "near"
+	},
+	{
+		"georgian": "შორს",
+		"english": "far"
+	},
+	{
+		"georgian": "მიღება",
+		"english": "reception"
+	},
+	{
+		"georgian": "გაკვეთილი",
+		"english": "lesson"
+	},
+	{
+		"georgian": "მაწავლებელი",
+		"english": "teacher"
+	},
+	{
+		"georgian": "სწავლობს",
+		"english": "studies"
+	},
+	{
+		"georgian": "კმაყოფილი",
+		"english": "satisfied"
+	},
+	{
+		"georgian": "ასე შემდეგ",
+		"english": "et cetera"
+	},
+	{
+		"georgian": "ბევრს ვერა",
+		"english": "not a lot"
+	},
+	{
+		"georgian": "მე ვლაპარაკობ",
+		"english": "I speak"
+	},
+	{
+		"georgian": "შენ ლაპარაკობ",
+		"english": "you speak "
+	},
+	{
+		"georgian": "ის ლაპარაკობს",
+		"english": "he speaks"
+	},
+	{
+		"georgian": "ჩვენ ვლაპარაკობთ",
+		"english": "we speak"
+	},
+	{
+		"georgian": "თქვენ ლაპარაკობთ",
+		"english": "you speak (pl)"
+	},
+	{
+		"georgian": "ისინი ლაპარაკობენ",
+		"english": "they speak"
+	},
+	{
+		"georgian": "მე ვლაპარაკობდი",
+		"english": "I was talking/use to talk"
+	},
+	{
+		"georgian": "შენ ლაპარაკობდი",
+		"english": "you were talking/used to"
+	},
+	{
+		"georgian": "ის ლაპარაკობდა",
+		"english": "he was talking/used to"
+	},
+	{
+		"georgian": "ჩვენ ვლაპარაკობდით",
+		"english": "we were talking/used to"
+	},
+	{
+		"georgian": "თქვენ ლაპარაკობდით",
+		"english": "you (pl) were talking/used to"
+	},
+	{
+		"georgian": "ისინი ლაპარაკობდნენ",
+		"english": "they were talking/used to"
+	},
+	{
+		"georgian": "მე ვსწავლობ",
+		"english": "I study"
+	},
+	{
+		"georgian": "შენ სწავლობ",
+		"english": "you study"
+	},
+	{
+		"georgian": "ის სწავლობს",
+		"english": "he studies"
+	},
+	{
+		"georgian": "ჩვენ ვსწავლობთ",
+		"english": "you study"
+	},
+	{
+		"georgian": "თქვენ სწავლობთ",
+		"english": "you study"
+	},
+	{
+		"georgian": "ისინი სწავლობენ",
+		"english": "they study"
+	},
+	{
+		"georgian": "მე ვსწავლობდი",
+		"english": "I was studying/used to study"
+	},
+	{
+		"georgian": "ჩვენ ვსწავლობდით",
+		"english": "we were studying/used to study"
+	},
+	{
+		"georgian": "ისინი სწავლობდნენ",
+		"english": "they were studying/used to study"
+	},
+	{
+		"georgian": "მე მაქვს",
+		"english": "I have (inanimate)"
+	},
+	{
+		"georgian": "შენ გაქვს",
+		"english": "you have (inanimate)"
+	},
+	{
+		"georgian": "he has",
+		"english": "მას აქვს"
+	},
+	{
+		"georgian": "ჩვენ გვაქვს",
+		"english": "we have"
+	},
+	{
+		"georgian": "თქვენ გაქვთ",
+		"english": "you have "
+	},
+	{
+		"georgian": "მათ აქვთ",
+		"english": "they have"
+	},
+	{
+		"georgian": "ნანას აქვს სახლი",
+		"english": "Nana has a house"
+	},
+	{
+		"georgian": "ნანას ჰყავს შვილი",
+		"english": "Nana has a child"
+	},
+	{
+		"georgian": "მე ვცხოვრობ",
+		"english": "I live"
+	},
+	{
+		"georgian": "ჩვენ ვცხოვრობთ",
+		"english": "we live"
+	},
+	{
+		"georgian": "ისინი ცხოვრობენ",
+		"english": "they live"
+	},
+	{
+		"georgian": "მე ვცხოვრობდი",
+		"english": "I used to live/was living"
+	},
+	{
+		"georgian": "ის ცხოვრობდა",
+		"english": "he was living/used to live"
+	},
+	{
+		"georgian": "ჩვენ ვცხოვრობდით",
+		"english": "we were living/used to live"
+	},
+	{
+		"georgian": "ისინი ცხოვრობდნენ",
+		"english": "they were living/used to live"
+	},
+	{
+		"georgian": "მე მყავს",
+		"english": "I have (animate)"
+	},
+	{
+		"georgian": "შენ გყავს",
+		"english": "you have (animate)"
+	},
+	{
+		"georgian": "მას ჰყავს",
+		"english": "he has"
+	},
+	{
+		"georgian": "ჩვენ გვყავს",
+		"english": "we have"
+	},
+	{
+		"georgian": "თქვენ გყავთ",
+		"english": "you have"
+	},
+	{
+		"georgian": "მათ ჰყავთ",
+		"english": "they have (animate)"
+	},
+	{
+		"georgian": "მინდა ვიყიდო",
+		"english": "I want to buy "
+	},
+	{
+		"georgian": "გინდა იყიდო",
+		"english": "you want to buy "
+	},
+	{
+		"georgian": "უნდა იყიდოს",
+		"english": "he wants to buy "
+	},
+	{
+		"georgian": "გვინდა ვიყიდოთ",
+		"english": "we want to buy"
+	},
+	{
+		"georgian": "გინდათ იყიდოთ",
+		"english": "you want to buy "
+	},
+	{
+		"georgian": "უნდათ იყიდონ",
+		"english": "they want to buy"
+	},
+	{
+		"georgian": "ბაღი",
+		"english": "garden"
+	},
+	{
+		"georgian": "მეზობელი",
+		"english": "neighbour"
+	},
+	{
+		"georgian": "სართული",
+		"english": "floor/story"
+	},
+	{
+		"georgian": "ბინა",
+		"english": "apartment"
+	},
+	{
+		"georgian": "მისამართი",
+		"english": "address"
+	},
+	{
+		"georgian": "სამზარეულო",
+		"english": "kitchen"
+	},
+	{
+		"georgian": "საძინებელი ოთახი",
+		"english": "bedroom"
+	},
+	{
+		"georgian": "მისაღები",
+		"english": "reception/foyer"
+	},
+	{
+		"georgian": "აივანი",
+		"english": "balcony"
+	},
+	{
+		"georgian": "სააბაზანო",
+		"english": "bathroom"
+	},
+	{
+		"georgian": "დარბაზო",
+		"english": "lobby"
+	},
+	{
+		"georgian": "სადარბაზო",
+		"english": "entrance"
+	},
+	{
+		"georgian": "კაბინეტი",
+		"english": "study"
+	},
+	{
+		"georgian": "საკუთარი",
+		"english": "private (own)"
+	},
+	{
+		"georgian": "ზოგი",
+		"english": "some"
+	},
+	{
+		"georgian": "უკეთესად",
+		"english": "better (adverb)"
+	},
+	{
+		"georgian": "უარესად",
+		"english": "worse"
+	},
+	{
+		"georgian": "სულ",
+		"english": "all/the whole of"
+	},
+	{
+		"georgian": "ბუხარი/ბუხარით",
+		"english": "fireplace/with a fireplace"
+	},
+	{
+		"georgian": "მშობელი",
+		"english": "parents"
+	},
+	{
+		"georgian": "ნათესავი",
+		"english": "relative"
+	},
+	{
+		"georgian": "რადგან",
+		"english": "because, since, as"
+	},
+	{
+		"georgian": "ბედნიერი",
+		"english": "happy"
+	},
+	{
+		"georgian": "უბედური",
+		"english": "unhappy"
+	}
+]

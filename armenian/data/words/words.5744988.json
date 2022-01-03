@@ -1,0 +1,7202 @@
+[
+	{
+		"armenian_translit": "yes",
+		"english": "I"
+	},
+	{
+		"armenian_translit": "yes yev du",
+		"english": "I and you"
+	},
+	{
+		"armenian_translit": "menk’ yerkuss",
+		"english": "both of us"
+	},
+	{
+		"armenian_translit": "na",
+		"english": "he"
+	},
+	{
+		"armenian_translit": "na yev na",
+		"english": "he and she"
+	},
+	{
+		"armenian_translit": "nrank’ yerkusy",
+		"english": "they both"
+	},
+	{
+		"armenian_translit": "tghamard",
+		"english": "the man"
+	},
+	{
+		"armenian_translit": "kin",
+		"english": "the woman"
+	},
+	{
+		"armenian_translit": "yerekha",
+		"english": "the child"
+	},
+	{
+		"armenian_translit": "mi yntanik’",
+		"english": "a family"
+	},
+	{
+		"armenian_translit": "im yntanik’y",
+		"english": "my family"
+	},
+	{
+		"armenian_translit": "im yntanik’y aystegh e",
+		"english": "My family is here."
+	},
+	{
+		"armenian_translit": "yes aystegh yem",
+		"english": "I am here."
+	},
+	{
+		"armenian_translit": "du aystegh yes",
+		"english": "You are here."
+	},
+	{
+		"armenian_translit": "na aystegh e yev na el e aystegh",
+		"english": "He is here and she is here."
+	},
+	{
+		"armenian_translit": "menk’ aystegh yenk’",
+		"english": "We are here."
+	},
+	{
+		"armenian_translit": "duk’ aystegh yek’",
+		"english": "You are here.0"
+	},
+	{
+		"armenian_translit": "nrank’ bolory aystegh yen",
+		"english": "They are all here."
+	},
+	{
+		"armenian_translit": "pap",
+		"english": "the grandfather"
+	},
+	{
+		"armenian_translit": "tat",
+		"english": "the grandmother"
+	},
+	{
+		"armenian_translit": "na yev na",
+		"english": "he and she1"
+	},
+	{
+		"armenian_translit": "hayr",
+		"english": "the father"
+	},
+	{
+		"armenian_translit": "mayr",
+		"english": "the mother"
+	},
+	{
+		"armenian_translit": "na yev na",
+		"english": "he and she2"
+	},
+	{
+		"armenian_translit": "vordi",
+		"english": "the son"
+	},
+	{
+		"armenian_translit": "dustr",
+		"english": "the daughter"
+	},
+	{
+		"armenian_translit": "na yev na",
+		"english": "he and she3"
+	},
+	{
+		"armenian_translit": "yeghbayr",
+		"english": "the brother"
+	},
+	{
+		"armenian_translit": "k’uyr",
+		"english": "the sister"
+	},
+	{
+		"armenian_translit": "na yev na",
+		"english": "he and she4"
+	},
+	{
+		"armenian_translit": "horeghbayr/k’yerri",
+		"english": "the uncle"
+	},
+	{
+		"armenian_translit": "morak’uyr/horak’uyr",
+		"english": "the aunt"
+	},
+	{
+		"armenian_translit": "na yev na",
+		"english": "he and she5"
+	},
+	{
+		"armenian_translit": "menk’ mi yntanik’ yenk’",
+		"english": "We are a family."
+	},
+	{
+		"armenian_translit": "yntanik’y p’vok’r ch’e",
+		"english": "The family is not small."
+	},
+	{
+		"armenian_translit": "yntanik’y mets e",
+		"english": "The family is big."
+	},
+	{
+		"armenian_translit": "voghjuyn!",
+		"english": "Hi!"
+	},
+	{
+		"armenian_translit": "bari or!",
+		"english": "Hello!"
+	},
+	{
+		"armenian_translit": "vo՞nts’ yes inch’pe՞s yes",
+		"english": "How are you?"
+	},
+	{
+		"armenian_translit": "duk’ yevropayits’ ye՞k’",
+		"english": "Do you come from Europe?"
+	},
+	{
+		"armenian_translit": "duk’ amerikayits’ ye՞k’",
+		"english": "Do you come from America?"
+	},
+	{
+		"armenian_translit": "duk’ asiayits’ ye՞k’",
+		"english": "Do you come from Asia?"
+	},
+	{
+		"armenian_translit": "vo՞r hyuranots’um yek’ duk’ aprum",
+		"english": "In which hotel are you staying?"
+	},
+	{
+		"armenian_translit": "inch’k’a՞n zhamanak e, vor aystegh yek’",
+		"english": "How long have you been here for?"
+	},
+	{
+		"armenian_translit": "inch’k’a՞n zhamanak kmnak’ aystegh",
+		"english": "How long will you be staying?"
+	},
+	{
+		"armenian_translit": "dzez du՞r e galis aystegh",
+		"english": "Do you like it here?"
+	},
+	{
+		"armenian_translit": "dzer ardzakurdn ayste՞gh yek’ ants’kats’num",
+		"english": "Are you here on vacation?"
+	},
+	{
+		"armenian_translit": "ayts’yelek’ indz!",
+		"english": "Please do visit me sometime!"
+	},
+	{
+		"armenian_translit": "sa im hasts’yen e",
+		"english": "Here is my address."
+	},
+	{
+		"armenian_translit": "ktesnve՞nk’ vaghy",
+		"english": "Shall we see each other tomorrow?"
+	},
+	{
+		"armenian_translit": "ts’avum yem, bayts’ vaghy urish planner unem",
+		"english": "I am sorry, but I already have plans."
+	},
+	{
+		"armenian_translit": "ts’tesut’yun!",
+		"english": "Bye!"
+	},
+	{
+		"armenian_translit": "ts’tesut’yun!",
+		"english": "Good bye!"
+	},
+	{
+		"armenian_translit": "arrayzhm!",
+		"english": "See you soon!"
+	},
+	{
+		"armenian_translit": "vorte՞gh yenk’ menk’",
+		"english": "Where are we?"
+	},
+	{
+		"armenian_translit": "menk’ dprots’um yenk’",
+		"english": "We are at school."
+	},
+	{
+		"armenian_translit": "menk’ dasnt’ats’ unenk’",
+		"english": "We are having class / a lesson."
+	},
+	{
+		"armenian_translit": "srank’ ashakertnern yen",
+		"english": "Those are the school children."
+	},
+	{
+		"armenian_translit": "sa usuts’ch’uhin e",
+		"english": "That is the teacher."
+	},
+	{
+		"armenian_translit": "sa dasarann e",
+		"english": "That is the class."
+	},
+	{
+		"armenian_translit": "menk’ i՞nch’ yenk’ anum",
+		"english": "What are we doing?"
+	},
+	{
+		"armenian_translit": "menk’ sovorum yenk’",
+		"english": "We are learning."
+	},
+	{
+		"armenian_translit": "menk’ lezu yenk’ sovorum",
+		"english": "We are learning a language."
+	},
+	{
+		"armenian_translit": "yes sovorum yem angleren",
+		"english": "I learn English."
+	},
+	{
+		"armenian_translit": "du sovorum yes ispaneren",
+		"english": "You learn Spanish."
+	},
+	{
+		"armenian_translit": "na sovorum e germaneren",
+		"english": "He learns German."
+	},
+	{
+		"armenian_translit": "menk’ sovorum yenk’ franseren",
+		"english": "We learn French."
+	},
+	{
+		"armenian_translit": "duk’ sovorum yek’ italeren",
+		"english": "You all learn Italian."
+	},
+	{
+		"armenian_translit": "nrank’ sovorum yen rruseren",
+		"english": "They learn Russian."
+	},
+	{
+		"armenian_translit": "lezuner sovorely hetak’rk’ir e",
+		"english": "Learning languages is interesting."
+	},
+	{
+		"armenian_translit": "menk’ uzum yenk’ mardkants’ haskanal",
+		"english": "We want to understand people."
+	},
+	{
+		"armenian_translit": "menk’ uzum yenk’ mardkants’ het khosel",
+		"english": "We want to speak with people."
+	},
+	{
+		"armenian_translit": "jony londonits’ e",
+		"english": "John is from London."
+	},
+	{
+		"armenian_translit": "londony gtnvum e mets britaniayum",
+		"english": "London is in Great Britain."
+	},
+	{
+		"armenian_translit": "na khosum e angleren",
+		"english": "He speaks English."
+	},
+	{
+		"armenian_translit": "marian madridits’ e",
+		"english": "Maria is from Madrid."
+	},
+	{
+		"armenian_translit": "madridy gtnvum e ispaniayum",
+		"english": "Madrid is in Spain."
+	},
+	{
+		"armenian_translit": "na khosum e ispaneren",
+		"english": "She speaks Spanish."
+	},
+	{
+		"armenian_translit": "petern u mart’an berrlinits’ yen",
+		"english": "Peter and Martha are from Berlin."
+	},
+	{
+		"armenian_translit": "berrliny gtnvum e germaniayum",
+		"english": "Berlin is in Germany."
+	},
+	{
+		"armenian_translit": "khosu՞m yek’ yerkusd el germaneren",
+		"english": "Do both of you speak German?"
+	},
+	{
+		"armenian_translit": "londony mayrak’aghak’ e",
+		"english": "London is a capital city."
+	},
+	{
+		"armenian_translit": "madridn u berrliny nuynpes mayrak’aghak’ner yen",
+		"english": "Madrid and Berlin are also capital cities."
+	},
+	{
+		"armenian_translit": "mayrak’aghak’nery mets yen u aghmkot",
+		"english": "Capital cities are big and noisy."
+	},
+	{
+		"armenian_translit": "fransian gtnvum e yevropayum",
+		"english": "France is in Europe."
+	},
+	{
+		"armenian_translit": "yegiptosy gtnvum e afrikayum",
+		"english": "Egypt is in Africa."
+	},
+	{
+		"armenian_translit": "chaponian gtnvum e asiayum",
+		"english": "Japan is in Asia."
+	},
+	{
+		"armenian_translit": "kanadan gtnvum e hyusisayin kanadayum",
+		"english": "Canada is in North America."
+	},
+	{
+		"armenian_translit": "panaman gtnvum e kentronakan amerikayum",
+		"english": "Panama is in Central America."
+	},
+	{
+		"armenian_translit": "brazilian gtnvum e haravayin amerikayum",
+		"english": "Brazil is in South America."
+	},
+	{
+		"armenian_translit": "yes kardum yem",
+		"english": "I read."
+	},
+	{
+		"armenian_translit": "yes kardum yem mi tarr",
+		"english": "I read a letter."
+	},
+	{
+		"armenian_translit": "yes kardum yem mi barr",
+		"english": "I read a word."
+	},
+	{
+		"armenian_translit": "yes kardum yem mi nakhadasut’yun",
+		"english": "I read a sentence."
+	},
+	{
+		"armenian_translit": "yes kardum yem mi namak",
+		"english": "I read a letter.6"
+	},
+	{
+		"armenian_translit": "yes kardum yem mi girk’",
+		"english": "I read a book."
+	},
+	{
+		"armenian_translit": "yes kardum yem",
+		"english": "I read.7"
+	},
+	{
+		"armenian_translit": "du kardum yes",
+		"english": "You read."
+	},
+	{
+		"armenian_translit": "na kardum e",
+		"english": "He reads."
+	},
+	{
+		"armenian_translit": "yes grum yem",
+		"english": "I write."
+	},
+	{
+		"armenian_translit": "yes grum yem mi tarr",
+		"english": "I write a letter / character."
+	},
+	{
+		"armenian_translit": "yes grum yem mi barr",
+		"english": "I write a word."
+	},
+	{
+		"armenian_translit": "yes grum yem mi nakhadasut’yun",
+		"english": "I write a sentence."
+	},
+	{
+		"armenian_translit": "yes grum yem mi namak",
+		"english": "I write a letter."
+	},
+	{
+		"armenian_translit": "yes grum yem mi girk’",
+		"english": "I write a book."
+	},
+	{
+		"armenian_translit": "yes grum yem",
+		"english": "I write.8"
+	},
+	{
+		"armenian_translit": "du grum yes",
+		"english": "You write."
+	},
+	{
+		"armenian_translit": "na grum e",
+		"english": "He writes."
+	},
+	{
+		"armenian_translit": "yes hashvum yem",
+		"english": "I count:"
+	},
+	{
+		"armenian_translit": "mek, yerku, yerek’",
+		"english": "one, two, three"
+	},
+	{
+		"armenian_translit": "yes hashvum yem minch’yev yerek’y",
+		"english": "I count to three."
+	},
+	{
+		"armenian_translit": "yes sharunakum yem hashvel",
+		"english": "I count further:"
+	},
+	{
+		"armenian_translit": "ch’vors, hing, vets’",
+		"english": "four, five, six,"
+	},
+	{
+		"armenian_translit": "yot’, ut’, iny",
+		"english": "seven, eight, nine"
+	},
+	{
+		"armenian_translit": "yes hashvum yem",
+		"english": "I count."
+	},
+	{
+		"armenian_translit": "du hashvum yes",
+		"english": "You count."
+	},
+	{
+		"armenian_translit": "na hashvum e",
+		"english": "He counts."
+	},
+	{
+		"armenian_translit": "mek- arrajiny",
+		"english": "One. The first."
+	},
+	{
+		"armenian_translit": "yerku - yerkrordy",
+		"english": "Two. The second."
+	},
+	{
+		"armenian_translit": "yerek’ - yerrordy",
+		"english": "Three. The third."
+	},
+	{
+		"armenian_translit": "ch’vors - ch’vorrordy",
+		"english": "Four. The fourth."
+	},
+	{
+		"armenian_translit": "hing - hingerordy",
+		"english": "Five. The fifth."
+	},
+	{
+		"armenian_translit": "vets’ - vets’yerordy",
+		"english": "Six. The sixth."
+	},
+	{
+		"armenian_translit": "yot’ - yot’yerordy",
+		"english": "Seven. The seventh."
+	},
+	{
+		"armenian_translit": "ut’ - ut’yerordy",
+		"english": "Eight. The eighth."
+	},
+	{
+		"armenian_translit": "iny- inerordy",
+		"english": "Nine. The ninth."
+	},
+	{
+		"armenian_translit": "nerets’yek’",
+		"english": "Excuse me!"
+	},
+	{
+		"armenian_translit": "zhamy k’ani՞sn e",
+		"english": "What time is it, please?"
+	},
+	{
+		"armenian_translit": "shat shnorhakalut’yun",
+		"english": "Thank you very much."
+	},
+	{
+		"armenian_translit": "zhamy mekn e (tasnerek’n e)",
+		"english": "It is one o’clock."
+	},
+	{
+		"armenian_translit": "zhamy yerkusn e (tasnch’vorsn e)",
+		"english": "It is two o’clock."
+	},
+	{
+		"armenian_translit": "zhamy yerek’n e(tasnhingn e)",
+		"english": "It is three o’clock."
+	},
+	{
+		"armenian_translit": "zhamy ch’vorsn e (tasnvets’n e)",
+		"english": "It is four o’clock."
+	},
+	{
+		"armenian_translit": "zhamy hingn e (tasnyot’n e)",
+		"english": "It is five o’clock."
+	},
+	{
+		"armenian_translit": "zhamy vets’n e (tasnut’n e)",
+		"english": "It is six o’clock."
+	},
+	{
+		"armenian_translit": "zhamy yot’n e ( tasninn e)",
+		"english": "It is seven o’clock."
+	},
+	{
+		"armenian_translit": "zhamy ut’n e (k’sann e)",
+		"english": "It is eight o’clock."
+	},
+	{
+		"armenian_translit": "zhamy inn e ( k’sanmekn e)",
+		"english": "It is nine o’clock."
+	},
+	{
+		"armenian_translit": "zhamy tasn e ( k’sanerkusn e)",
+		"english": "It is ten o’clock."
+	},
+	{
+		"armenian_translit": "zhamy tasnmekn e (k’sanerek’n e)",
+		"english": "It is eleven o’clock."
+	},
+	{
+		"armenian_translit": "zhamy tasnerkusn e (k’sanch’vorsn e)",
+		"english": "It is twelve o’clock."
+	},
+	{
+		"armenian_translit": "mek ropen uni vat’sun vayrkyan",
+		"english": "A minute has sixty seconds."
+	},
+	{
+		"armenian_translit": "mek zhamn uni vat’sun rope",
+		"english": "An hour has sixty minutes."
+	},
+	{
+		"armenian_translit": "mek orn uni k’sanch’vors zham",
+		"english": "A day has twenty-four hours."
+	},
+	{
+		"armenian_translit": "yerkushabt’i",
+		"english": "Monday"
+	},
+	{
+		"armenian_translit": "yerek’shabt’i",
+		"english": "Tuesday"
+	},
+	{
+		"armenian_translit": "ch’vorek’shabt’i",
+		"english": "Wednesday"
+	},
+	{
+		"armenian_translit": "hingshabt’i",
+		"english": "Thursday"
+	},
+	{
+		"armenian_translit": "urbat’",
+		"english": "Friday"
+	},
+	{
+		"armenian_translit": "shabat’",
+		"english": "Saturday"
+	},
+	{
+		"armenian_translit": "kiraki",
+		"english": "Sunday"
+	},
+	{
+		"armenian_translit": "mi shabat’",
+		"english": "the week"
+	},
+	{
+		"armenian_translit": "yerkushabt’iits’ minch’yev kiraki",
+		"english": "from Monday to Sunday"
+	},
+	{
+		"armenian_translit": "arrajin ory yerkushabt’in e",
+		"english": "The first day is Monday."
+	},
+	{
+		"armenian_translit": "yerkrord ory yerek’shabt’in e",
+		"english": "The second day is Tuesday."
+	},
+	{
+		"armenian_translit": "yerrord ory ch’vorek’shabt’in e",
+		"english": "The third day is Wednesday."
+	},
+	{
+		"armenian_translit": "ch’vorrord ory hingshabt’in e",
+		"english": "The fourth day is Thursday."
+	},
+	{
+		"armenian_translit": "hingerord ory urbat’n e",
+		"english": "The fifth day is Friday."
+	},
+	{
+		"armenian_translit": "vets’yerord ory shabat’n e",
+		"english": "The sixth day is Saturday."
+	},
+	{
+		"armenian_translit": "yot’yerord ory kirakin e",
+		"english": "The seventh day is Sunday."
+	},
+	{
+		"armenian_translit": "shabat’n uni yot’ or",
+		"english": "The week has seven days."
+	},
+	{
+		"armenian_translit": "menk’ ashkhatum yenk’ miayn hing or",
+		"english": "We only work for five days."
+	},
+	{
+		"armenian_translit": "yerek shabat’ or er",
+		"english": "Yesterday was Saturday."
+	},
+	{
+		"armenian_translit": "yerek gnats’yel ei kino",
+		"english": "I was at the cinema yesterday."
+	},
+	{
+		"armenian_translit": "filmy shat hetak’rk’ir er",
+		"english": "The film was interesting."
+	},
+	{
+		"armenian_translit": "aysor kiraki e",
+		"english": "Today is Sunday."
+	},
+	{
+		"armenian_translit": "aysor yes ch’yem ashkhatum",
+		"english": "I’m not working today."
+	},
+	{
+		"armenian_translit": "yes mnum yem tany",
+		"english": "I’m staying at home."
+	},
+	{
+		"armenian_translit": "vaghy yerkushabt’i e",
+		"english": "Tomorrow is Monday."
+	},
+	{
+		"armenian_translit": "vaghy yes norits’ ashkhatum yem.",
+		"english": "Tomorrow I will work again."
+	},
+	{
+		"armenian_translit": "yes ashkhatum yem grasenyakum",
+		"english": "I work at an office."
+	},
+	{
+		"armenian_translit": "ays vo՞v e",
+		"english": "Who is that?"
+	},
+	{
+		"armenian_translit": "sa petern e",
+		"english": "That is Peter."
+	},
+	{
+		"armenian_translit": "petery usanogh e",
+		"english": "Peter is a student."
+	},
+	{
+		"armenian_translit": "ays vo՞v e",
+		"english": "Who is that?9"
+	},
+	{
+		"armenian_translit": "sa mart’an e",
+		"english": "That is Martha."
+	},
+	{
+		"armenian_translit": "mart’an k’artugharuhi e",
+		"english": "Martha is a secretary."
+	},
+	{
+		"armenian_translit": "petern u mart’an ynkerner yen",
+		"english": "Peter and Martha are friends."
+	},
+	{
+		"armenian_translit": "petery mart’ayi ynkern e",
+		"english": "Peter is Martha’s friend."
+	},
+	{
+		"armenian_translit": "mart’an peteri ynkeruhin e",
+		"english": "Martha is Peter’s friend."
+	},
+	{
+		"armenian_translit": "hunvar",
+		"english": "January"
+	},
+	{
+		"armenian_translit": "p’yetrvar",
+		"english": "February"
+	},
+	{
+		"armenian_translit": "mart",
+		"english": "March"
+	},
+	{
+		"armenian_translit": "april",
+		"english": "April"
+	},
+	{
+		"armenian_translit": "mayis",
+		"english": "May"
+	},
+	{
+		"armenian_translit": "hunis",
+		"english": "June"
+	},
+	{
+		"armenian_translit": "srank’ vets’ amisner yen",
+		"english": "These are six months."
+	},
+	{
+		"armenian_translit": "hunvar,p’yetrvar,mart",
+		"english": "January, February, March,"
+	},
+	{
+		"armenian_translit": "april,mayis hunis",
+		"english": "April, May and June."
+	},
+	{
+		"armenian_translit": "hulis",
+		"english": "July"
+	},
+	{
+		"armenian_translit": "ogostos",
+		"english": "August"
+	},
+	{
+		"armenian_translit": "september",
+		"english": "September"
+	},
+	{
+		"armenian_translit": "hoktember",
+		"english": "October"
+	},
+	{
+		"armenian_translit": "noyember",
+		"english": "November"
+	},
+	{
+		"armenian_translit": "dektember",
+		"english": "December"
+	},
+	{
+		"armenian_translit": "srank’ nuynpes vets’ amisner yen",
+		"english": "These are also six months."
+	},
+	{
+		"armenian_translit": "hulis,ogostos,september",
+		"english": "July, August, September,"
+	},
+	{
+		"armenian_translit": "hoktember, noyember, dektember",
+		"english": "October, November and December."
+	},
+	{
+		"armenian_translit": "yes t’yey yem khmum",
+		"english": "I drink tea."
+	},
+	{
+		"armenian_translit": "yes surch yem khmum",
+		"english": "I drink coffee."
+	},
+	{
+		"armenian_translit": "yes hank’ayin jur yem khmum",
+		"english": "I drink mineral water."
+	},
+	{
+		"armenian_translit": "du t’yeyy kitrono՞v yes khmum",
+		"english": "Do you drink tea with lemon?"
+	},
+	{
+		"armenian_translit": "du surchy shak’aravazo՞v yes khmum",
+		"english": "Do you drink coffee with sugar?"
+	},
+	{
+		"armenian_translit": "du jury sarruyts’vo՞v yes khmum",
+		"english": "Do you drink water with ice?"
+	},
+	{
+		"armenian_translit": "aystegh khnjuyk’ e",
+		"english": "There is a party here."
+	},
+	{
+		"armenian_translit": "mardik shampayn yen khmum",
+		"english": "People are drinking champagne."
+	},
+	{
+		"armenian_translit": "mardik gini yev garejur yen khmum",
+		"english": "People are drinking wine and beer."
+	},
+	{
+		"armenian_translit": "du alkohol khmu՞m yes",
+		"english": "Do you drink alcohol?"
+	},
+	{
+		"armenian_translit": "du viski khmu՞m yes",
+		"english": "Do you drink whisky / whis`key` (am.)?"
+	},
+	{
+		"armenian_translit": "du kolan rromo՞v yes khmum",
+		"english": "Do you drink Coke with rum?"
+	},
+	{
+		"armenian_translit": "yes shampayn ch’yem sirum",
+		"english": "I do not like champagne."
+	},
+	{
+		"armenian_translit": "yes gini ch’yem sirum",
+		"english": "I do not like wine."
+	},
+	{
+		"armenian_translit": "yes garejur ch’yem sirum",
+		"english": "I do not like beer."
+	},
+	{
+		"armenian_translit": "yerekhan kat’ e sirum",
+		"english": "The baby likes milk."
+	},
+	{
+		"armenian_translit": "yerekhan kakao yev khndzori hyut’ e sirum",
+		"english": "The child likes cocoa and apple juice."
+	},
+	{
+		"armenian_translit": "kiny sirum e narnji yev grepfrut’i hyut’",
+		"english": "The woman likes orange and grapefruit juice."
+	},
+	{
+		"armenian_translit": "mart’an i՞nch’ e anum",
+		"english": "What does Martha do?"
+	},
+	{
+		"armenian_translit": "mart’an ashkhatum e grasenyakum",
+		"english": "She works at an office."
+	},
+	{
+		"armenian_translit": "mart’an ashkhatum e hamakargich’ov",
+		"english": "She works on the computer."
+	},
+	{
+		"armenian_translit": "u՞r e mart’an",
+		"english": "Where is Martha?"
+	},
+	{
+		"armenian_translit": "kinoyum",
+		"english": "At the cinema."
+	},
+	{
+		"armenian_translit": "na film e ditum",
+		"english": "She is watching a film."
+	},
+	{
+		"armenian_translit": "i՞nch’ e anum petery",
+		"english": "What does Peter do?"
+	},
+	{
+		"armenian_translit": "na sovorum e hamalsaranum",
+		"english": "He studies at the university."
+	},
+	{
+		"armenian_translit": "na sovorum e lezuner",
+		"english": "He studies languages."
+	},
+	{
+		"armenian_translit": "vo՞rtegh e petery",
+		"english": "Where is Peter?"
+	},
+	{
+		"armenian_translit": "srcharanum",
+		"english": "At the café."
+	},
+	{
+		"armenian_translit": "na surch e khmum",
+		"english": "He is drinking coffee."
+	},
+	{
+		"armenian_translit": "u՞r yek’ gnum duk’ hachuyk’ov",
+		"english": "Where do they like to go?"
+	},
+	{
+		"armenian_translit": "hamerg",
+		"english": "To a concert."
+	},
+	{
+		"armenian_translit": "nrank’ hachuyk’ov yerazhshtut’yun yen lsum",
+		"english": "They like to listen to music."
+	},
+	{
+		"armenian_translit": "u՞r yek’ gnum voch’ hachuyk’ov",
+		"english": "Where do they not like to go?"
+	},
+	{
+		"armenian_translit": "diskotek",
+		"english": "To the disco."
+	},
+	{
+		"armenian_translit": "nrank’ ch’yen parum hachuyk’ov",
+		"english": "They do not like to dance."
+	},
+	{
+		"armenian_translit": "sarruyts’y spitak e",
+		"english": "Snow is white."
+	},
+	{
+		"armenian_translit": "arevy deghin e",
+		"english": "The sun is yellow."
+	},
+	{
+		"armenian_translit": "narinjy narnjaguyn e",
+		"english": "The orange is orange."
+	},
+	{
+		"armenian_translit": "baly karmir e",
+		"english": "The cherry is red."
+	},
+	{
+		"armenian_translit": "yerkink’y kapuyt e",
+		"english": "The sky is blue."
+	},
+	{
+		"armenian_translit": "khoty kanach’ e",
+		"english": "The grass is green."
+	},
+	{
+		"armenian_translit": "yerkragundy shaganakaguyn e",
+		"english": "The earth is brown."
+	},
+	{
+		"armenian_translit": "ampy mokhraguyn e",
+		"english": "The cloud is grey / gray (am.)."
+	},
+	{
+		"armenian_translit": "anvadoghery sev yen",
+		"english": "The tyres / tires (am.) are black."
+	},
+	{
+		"armenian_translit": "i՞nch’ guyni e dzyuny spitak",
+		"english": "What colour / color (am.) is the snow? White."
+	},
+	{
+		"armenian_translit": "i՞nch’ guyni e arevy deghin",
+		"english": "What colour / color (am.) is the sun? Yellow."
+	},
+	{
+		"armenian_translit": "i՞nch’ guyni e narinjy narnjaguyn",
+		"english": "What colour / color (am.) is the orange? Orange."
+	},
+	{
+		"armenian_translit": "i՞nch’ guyni e baly karmir",
+		"english": "What colour / color (am.) is the cherry? Red."
+	},
+	{
+		"armenian_translit": "i՞nch’ guyni e yerkink’y kapuyt",
+		"english": "What colour / color (am.) is the sky? Blue."
+	},
+	{
+		"armenian_translit": "i՞nch’ guyni e khoty kanach’",
+		"english": "What colour / color (am.) is the grass? Green."
+	},
+	{
+		"armenian_translit": "i՞nch’ guyni e yerkragundy shaganakaguyn",
+		"english": "What colour / color (am.) is the earth? Brown."
+	},
+	{
+		"armenian_translit": "i՞nch’ guyni e ampy mokhraguyn",
+		"english": "What colour / color (am.) is the cloud? Grey / Gray (am.)."
+	},
+	{
+		"armenian_translit": "i՞nch’ guyni yen anvadoghery sev",
+		"english": "What colour / color (am.) are the tyres / tires (am.)? Black."
+	},
+	{
+		"armenian_translit": "yes mi yelak unem",
+		"english": "I have a strawberry."
+	},
+	{
+		"armenian_translit": "yes unem mi kivi yev mi sekh",
+		"english": "I have a kiwi and a melon."
+	},
+	{
+		"armenian_translit": "yes unem mi narinj yev mi grepfrut’",
+		"english": "I have an orange and a grapefruit."
+	},
+	{
+		"armenian_translit": "yes unem mi khndzor yev mi mango",
+		"english": "I have an apple and a mango."
+	},
+	{
+		"armenian_translit": "yes unem mi banan yev mi ark’ayakhndzor",
+		"english": "I have a banana and a pineapple."
+	},
+	{
+		"armenian_translit": "yes mrgayin salat’ yem patrastum",
+		"english": "I am making a fruit salad."
+	},
+	{
+		"armenian_translit": "yes mi tost yem utum",
+		"english": "I am eating toast."
+	},
+	{
+		"armenian_translit": "yes utum yem tosty karagov",
+		"english": "I am eating toast with butter."
+	},
+	{
+		"armenian_translit": "yes utum yem tosty karagov yev jemov",
+		"english": "I am eating toast with butter and jam."
+	},
+	{
+		"armenian_translit": "yes utum yem sendvich’",
+		"english": "I am eating a sandwich."
+	},
+	{
+		"armenian_translit": "yes utum yem mi sendvich’ margarinov",
+		"english": "I am eating a sandwich with margarine."
+	},
+	{
+		"armenian_translit": "yes utum yem mi sendvich’ margarinov yev pomidorov",
+		"english": "I am eating a sandwich with margarine and tomatoes."
+	},
+	{
+		"armenian_translit": "mez petk’ e hats’ yev brindz",
+		"english": "We need bread and rice."
+	},
+	{
+		"armenian_translit": "mez petk’ e dzuk yev bifshtek’s",
+		"english": "We need fish and steaks."
+	},
+	{
+		"armenian_translit": "mez petk’ e pits’ts’a yev spagetti",
+		"english": "We need pizza and spaghetti."
+	},
+	{
+		"armenian_translit": "urish i՞nch’ e mez harkavor",
+		"english": "What else do we need?"
+	},
+	{
+		"armenian_translit": "mez apuri hamar gazar yev pomidor e petk’",
+		"english": "We need carrots and tomatoes for the soup."
+	},
+	{
+		"armenian_translit": "vo՞rtegh ka supermarket (khanut’)",
+		"english": "Where is the supermarket?"
+	},
+	{
+		"armenian_translit": "srank’ tarva yeghanakanern yen;",
+		"english": "These are the seasons:"
+	},
+	{
+		"armenian_translit": "garun, amarr,",
+		"english": "Spring, summer,"
+	},
+	{
+		"armenian_translit": "ashun yev dzmerr",
+		"english": "autumn / fall (am.) and winter."
+	},
+	{
+		"armenian_translit": "amrrany shog e",
+		"english": "The summer is warm."
+	},
+	{
+		"armenian_translit": "amrrany shoghum e arevy",
+		"english": "The sun shines in summer."
+	},
+	{
+		"armenian_translit": "amrrany hachuyk’ov yenk’ gnum zbosank’i",
+		"english": "We like to go for a walk in summer."
+	},
+	{
+		"armenian_translit": "dzmrrany ts’urt e",
+		"english": "The winter is cold."
+	},
+	{
+		"armenian_translit": "dzmrrany dzyun kam andzrev e galis",
+		"english": "It snows or rains in winter."
+	},
+	{
+		"armenian_translit": "dzmrrany hachuyk’ov tann yenk’ mnum",
+		"english": "We like to stay home in winter."
+	},
+	{
+		"armenian_translit": "ts’urt e",
+		"english": "It is cold."
+	},
+	{
+		"armenian_translit": "andzrev e galis",
+		"english": "It is raining."
+	},
+	{
+		"armenian_translit": "k’amot e",
+		"english": "It is windy."
+	},
+	{
+		"armenian_translit": "tak’ e",
+		"english": "It is warm."
+	},
+	{
+		"armenian_translit": "arevot e",
+		"english": "It is sunny."
+	},
+	{
+		"armenian_translit": "arevot e",
+		"english": "It is pleasant."
+	},
+	{
+		"armenian_translit": "yeghanakn inch’pe՞s e aysor",
+		"english": "What is the weather like today?"
+	},
+	{
+		"armenian_translit": "aysor ts’urt e",
+		"english": "It is cold today."
+	},
+	{
+		"armenian_translit": "aysor tak’ e",
+		"english": "It is warm today."
+	},
+	{
+		"armenian_translit": "sa mer tunn e",
+		"english": "Our house is here."
+	},
+	{
+		"armenian_translit": "verevum tanik’n e",
+		"english": "The roof is on top."
+	},
+	{
+		"armenian_translit": "nerk’yevum nkughn e",
+		"english": "The basement is below."
+	},
+	{
+		"armenian_translit": "tan hetevum partezn e",
+		"english": "There is a garden behind the house."
+	},
+	{
+		"armenian_translit": "tan dimats’ p’voghots’ ch’ka",
+		"english": "There is no street in front of the house."
+	},
+	{
+		"armenian_translit": "tan koghk’in tsarrer yen",
+		"english": "There are trees next to the house."
+	},
+	{
+		"armenian_translit": "sa im bnakarann e",
+		"english": "My apartment is here."
+	},
+	{
+		"armenian_translit": "sa khohanots’n e u logarany",
+		"english": "The kitchen and bathroom are here."
+	},
+	{
+		"armenian_translit": "ayntegh hyurasenyakn e u nnjarany",
+		"english": "The living room and bedroom are there."
+	},
+	{
+		"armenian_translit": "tan durry p’ak e",
+		"english": "The front door is closed."
+	},
+	{
+		"armenian_translit": "bayts’ patuhannery bats’ yen",
+		"english": "But the windows are open."
+	},
+	{
+		"armenian_translit": "aysor shog e",
+		"english": "It is hot today."
+	},
+	{
+		"armenian_translit": "menk’ gnum yenk’ hyurasenyak",
+		"english": "We are going to the living room."
+	},
+	{
+		"armenian_translit": "ayntegh bazmots’n u bazkat’vorrn yen",
+		"english": "There is a sofa and an armchair there."
+	},
+	{
+		"armenian_translit": "nstek’!",
+		"english": "Please, sit down!"
+	},
+	{
+		"armenian_translit": "ayntegh im hamakargich’n e",
+		"english": "My computer is there."
+	},
+	{
+		"armenian_translit": "ayntegh im dzaynarkich’n e",
+		"english": "My stereo is there."
+	},
+	{
+		"armenian_translit": "herrustats’uyts’y shat nor e",
+		"english": "The TV set is brand new."
+	},
+	{
+		"armenian_translit": "aysor shabat’ e",
+		"english": "Today is Saturday."
+	},
+	{
+		"armenian_translit": "aysor menk’ zhamanak unenk’",
+		"english": "We have time today."
+	},
+	{
+		"armenian_translit": "aysor menk’ bnakarann yenk’ mak’rum",
+		"english": "We are cleaning the apartment today."
+	},
+	{
+		"armenian_translit": "yes mak’rum yem logarany",
+		"english": "I am cleaning the bathroom."
+	},
+	{
+		"armenian_translit": "amusins avtomek’yenan e lvanum",
+		"english": "My husband is washing the car."
+	},
+	{
+		"armenian_translit": "yerekhanery mak’rum yen hetsanivnery",
+		"english": "The children are cleaning the bicycles."
+	},
+	{
+		"armenian_translit": "tatiky jrum e tsaghiknery",
+		"english": "Grandma is watering the flowers."
+	},
+	{
+		"armenian_translit": "yerekhanery havak’um yen mankakan senyaky",
+		"english": "The children are cleaning up the children’s room."
+	},
+	{
+		"armenian_translit": "amusins havak’um e ir graseghany",
+		"english": "My husband is tidying up his desk."
+	},
+	{
+		"armenian_translit": "yes dnum yem hagusty lvats’k’i mek’yenayi mej",
+		"english": "I am putting the laundry in the washing machine."
+	},
+	{
+		"armenian_translit": "yes kakhum yem lvats’k’y",
+		"english": "I am hanging up the laundry."
+	},
+	{
+		"armenian_translit": "yes ardukum yem hagusty",
+		"english": "I am ironing the clothes."
+	},
+	{
+		"armenian_translit": "lusamutnery keghtot yen",
+		"english": "The windows are dirty."
+	},
+	{
+		"armenian_translit": "hataky keghtot e",
+		"english": "The floor is dirty."
+	},
+	{
+		"armenian_translit": "spask’y keghtot e",
+		"english": "The dishes are dirty."
+	},
+	{
+		"armenian_translit": "vo՞v e mak’rum lusamutnery",
+		"english": "Who washes the windows?"
+	},
+	{
+		"armenian_translit": "vo՞v e mak’rum p’voshetstsich’ov",
+		"english": "Who does the vacuuming?"
+	},
+	{
+		"armenian_translit": "vo՞v e lvanum spask’y",
+		"english": "Who does the dishes?"
+	},
+	{
+		"armenian_translit": "du nor khohanots’ une՞s",
+		"english": "Do you have a new kitchen?"
+	},
+	{
+		"armenian_translit": "i՞nch’ yes uzum aysor yep’yel",
+		"english": "What do you want to cook today?"
+	},
+	{
+		"armenian_translit": "yep’um yes yelektrakan t’ye՞ gazi jerrots’i vra",
+		"english": "Do you cook on an electric or a gas stove?"
+	},
+	{
+		"armenian_translit": "sokhy ktrte՞m",
+		"english": "Shall I cut the onions?"
+	},
+	{
+		"armenian_translit": "kartofily klpe՞m",
+		"english": "Shall I peel the potatoes?"
+	},
+	{
+		"armenian_translit": "salat’y lvana՞m",
+		"english": "Shall I rinse the lettuce?"
+	},
+	{
+		"armenian_translit": "vo՞rtegh yen bazhaknery",
+		"english": "Where are the glasses?"
+	},
+	{
+		"armenian_translit": "vo՞rtegh e spask’y",
+		"english": "Where are the dishes?"
+	},
+	{
+		"armenian_translit": "vo՞rtegh e danak-patarrak’aghy",
+		"english": "Where is the cutlery / silverware (am.)?"
+	},
+	{
+		"armenian_translit": "bats’ich’ une՞s",
+		"english": "Do you have a tin opener / can opener (am.)?"
+	},
+	{
+		"armenian_translit": "bats’ich’ une՞s",
+		"english": "Do you have a bottle opener?"
+	},
+	{
+		"armenian_translit": "khts’anahan une՞s",
+		"english": "Do you have a corkscrew?"
+	},
+	{
+		"armenian_translit": "apurn ays kat’sayi mej yes yep’u՞m",
+		"english": "Are you cooking the soup in this pot?"
+	},
+	{
+		"armenian_translit": "dzukn ays t’avayi mej yes tapaku՞m",
+		"english": "Are you frying the fish in this pan?"
+	},
+	{
+		"armenian_translit": "banjaregheny ays jerrots’i mej yes khorovu՞m",
+		"english": "Are you grilling the vegetables on this grill?"
+	},
+	{
+		"armenian_translit": "yes seghann yem patrastum",
+		"english": "I am setting the table."
+	},
+	{
+		"armenian_translit": "aystegh gtnvum yen danaknery, patarrak’aghnery yev gdalnery",
+		"english": "Here are the knives, the forks and the spoons."
+	},
+	{
+		"armenian_translit": "aystegh gtnvum yen bazhaknery, ap’senery yev andzerrots’iknery",
+		"english": "Here are the glasses, the plates and the napkins."
+	},
+	{
+		"armenian_translit": "zgats’yek’ dzez harmar",
+		"english": "Make yourself comfortable!"
+	},
+	{
+		"armenian_translit": "zgats’yek’ dzez inch’pes dzer tany",
+		"english": "Please, feel right at home!"
+	},
+	{
+		"armenian_translit": "i՞nch’ yek’ uzum khmel",
+		"english": "What would you like to drink?"
+	},
+	{
+		"armenian_translit": "yerazhshtut’yun siru՞m yek’",
+		"english": "Do you like music?"
+	},
+	{
+		"armenian_translit": "yes sirum yem dasakan yerazhshtut’yun",
+		"english": "I like classical music."
+	},
+	{
+		"armenian_translit": "aystegh im cd-nern yen",
+		"english": "These are my CD’s."
+	},
+	{
+		"armenian_translit": "yerazhshtakan gortsik’ nvagu՞m yek’",
+		"english": "Do you play a musical instrument?"
+	},
+	{
+		"armenian_translit": "sa im kit’arrn e",
+		"english": "This is my guitar."
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ yergum",
+		"english": "Do you like to sing?"
+	},
+	{
+		"armenian_translit": "yerekhaner une՞k’",
+		"english": "Do you have children?"
+	},
+	{
+		"armenian_translit": "shun une՞k’",
+		"english": "Do you have a dog?"
+	},
+	{
+		"armenian_translit": "katu une՞k’",
+		"english": "Do you have a cat?"
+	},
+	{
+		"armenian_translit": "aystegh im grk’yern yen",
+		"english": "These are my books."
+	},
+	{
+		"armenian_translit": "ays pahin ays girk’n yem kardum",
+		"english": "I am currently reading this book."
+	},
+	{
+		"armenian_translit": "i՞nch’ girk’ yek’ hachuyk’ov kardum",
+		"english": "What do you like to read?"
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ hamerg hachakhum",
+		"english": "Do you like to go to concerts?"
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ t’atron hachakhum",
+		"english": "Do you like to go to the theatre / theater (am.)?"
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ opera hachakhum",
+		"english": "Do you like to go to the opera?"
+	},
+	{
+		"armenian_translit": "vorteghi՞ts’ yek’ duk’",
+		"english": "Where do you come from?"
+	},
+	{
+		"armenian_translit": "bazelits’",
+		"english": "From Basel."
+	},
+	{
+		"armenian_translit": "bazely gtnvum e shvets’ariayum",
+		"english": "Basel is in Switzerland."
+	},
+	{
+		"armenian_translit": "karo՞gh yem paron millerin dzez nerkayats’nel",
+		"english": "May I introduce Mr. Miller?"
+	},
+	{
+		"armenian_translit": "na otarerkrats’i e",
+		"english": "He is a foreigner."
+	},
+	{
+		"armenian_translit": "na khosum e mi k’ani lezunerov",
+		"english": "He speaks several languages."
+	},
+	{
+		"armenian_translit": "duk’ arrajin anga՞mn yek’ aystegh",
+		"english": "Are you here for the first time?"
+	},
+	{
+		"armenian_translit": "voch’, yes ants’yal tari el yem yeghel aystegh",
+		"english": "No, I was here once last year."
+	},
+	{
+		"armenian_translit": "bayts’ miayn mi shabat’",
+		"english": "Only for a week, though."
+	},
+	{
+		"armenian_translit": "du՞r e galis dzez mez mot",
+		"english": "How do you like it here?"
+	},
+	{
+		"armenian_translit": "shat mardik shat siralir yen",
+		"english": "A lot. The people are nice."
+	},
+	{
+		"armenian_translit": "yev bnut’yunn el e indz dur galis",
+		"english": "And I like the scenery, too."
+	},
+	{
+		"armenian_translit": "i՞nch’ masnagitut’yun unek’",
+		"english": "What is your profession?"
+	},
+	{
+		"armenian_translit": "yes t’argmanich’ yem",
+		"english": "I am a translator."
+	},
+	{
+		"armenian_translit": "yes t’argmanum yem grk’yer",
+		"english": "I translate books."
+	},
+	{
+		"armenian_translit": "duk’ mena՞k yek’ aystegh",
+		"english": "Are you alone here?"
+	},
+	{
+		"armenian_translit": "voch’, im kiny/im amusinn el e aystegh",
+		"english": "No, my wife / my husband is also here."
+	},
+	{
+		"armenian_translit": "yev ayntegh im yerku yerekhanern yen",
+		"english": "And those are my two children."
+	},
+	{
+		"armenian_translit": "duk’ tskhu՞m yek’",
+		"english": "Do you smoke?"
+	},
+	{
+		"armenian_translit": "arraj` ayo",
+		"english": "I used to."
+	},
+	{
+		"armenian_translit": "bayts’ hima yes aylevs ch’yem tskhum",
+		"english": "But I don’t smoke anymore."
+	},
+	{
+		"armenian_translit": "duk’ dem kline՞k’, yet’ye yes tskhem",
+		"english": "Does it disturb you if I smoke?"
+	},
+	{
+		"armenian_translit": "voch’, bats’ardzakapes voch’",
+		"english": "No, absolutely not."
+	},
+	{
+		"armenian_translit": "da indz ch’i khangarum",
+		"english": "It doesn’t disturb me."
+	},
+	{
+		"armenian_translit": "kkhmei՞k’ inch’ vor ban",
+		"english": "Will you drink something?"
+	},
+	{
+		"armenian_translit": "konya՞k",
+		"english": "A brandy?"
+	},
+	{
+		"armenian_translit": "voch’, bayts’ garejur` sirov",
+		"english": "No, preferably a beer."
+	},
+	{
+		"armenian_translit": "duk’ hacha՞kh yek’ champ’vordum",
+		"english": "Do you travel a lot?"
+	},
+	{
+		"armenian_translit": "ayo, bayts’ drank’ himnakanum ashkhatank’ayin bnuyt’i yen",
+		"english": "Yes, mostly on business trips."
+	},
+	{
+		"armenian_translit": "bayts’ hima mer ardzakurdn yenk’ ants’kats’num",
+		"english": "But now we’re on holiday."
+	},
+	{
+		"armenian_translit": "inch’ sho ́g e",
+		"english": "It’s so hot!"
+	},
+	{
+		"armenian_translit": "ayo, aysor iskapes shog e",
+		"english": "Yes, today it’s really hot."
+	},
+	{
+		"armenian_translit": "gnank’ patshgamb",
+		"english": "Let’s go to the balcony."
+	},
+	{
+		"armenian_translit": "aystegh vaghy khnjuyk’ e",
+		"english": "There’s a party here tomorrow."
+	},
+	{
+		"armenian_translit": "duk’ el kga՞k’",
+		"english": "Are you also coming?"
+	},
+	{
+		"armenian_translit": "ayo, menk’ nuynpes hravirvats yenk’",
+		"english": "Yes, we’ve also been invited."
+	},
+	{
+		"armenian_translit": "vorte՞gh yek’ ispaneren sovorel",
+		"english": "Where did you learn Spanish?"
+	},
+	{
+		"armenian_translit": "portugaleren el yek’ karoghanu՞m",
+		"english": "Can you also speak Portuguese?"
+	},
+	{
+		"armenian_translit": "ayo, karoghanum yem naev mi k’ich’ italeren",
+		"english": "Yes, and I also speak some Italian."
+	},
+	{
+		"armenian_translit": "yes gtnum yem, vor duk’ shat lav yek’ khosum",
+		"english": "I think you speak very well."
+	},
+	{
+		"armenian_translit": "lezunery bavakanin nman yen irar",
+		"english": "The languages are quite similar."
+	},
+	{
+		"armenian_translit": "yes dzez lav yem haskanum",
+		"english": "I can understand them well."
+	},
+	{
+		"armenian_translit": "bayts’ khoseln u grely dzhvar e",
+		"english": "But speaking and writing is difficult."
+	},
+	{
+		"armenian_translit": "yes derr skhalner yem anum",
+		"english": "I still make many mistakes."
+	},
+	{
+		"armenian_translit": "khndrum yem indz misht ughghek’",
+		"english": "Please correct me each time."
+	},
+	{
+		"armenian_translit": "dzer arroganut’yuny shat lav e",
+		"english": "Your pronunciation is very good."
+	},
+	{
+		"armenian_translit": "duk’ mi p’vok’r arroganut’yun unek’",
+		"english": "You only have a slight accent."
+	},
+	{
+		"armenian_translit": "dzgats’vum e, t’ye vorteghits’ yek’ galis",
+		"english": "One can tell where you come from."
+	},
+	{
+		"armenian_translit": "vo՞rn e dzer mayreni lezun",
+		"english": "What is your mother tongue / native language (am.)?"
+	},
+	{
+		"armenian_translit": "duk’ lezvi dasynt’ats’i՞ yek’ gnum",
+		"english": "Are you taking a language course?"
+	},
+	{
+		"armenian_translit": "duk’ vo՞r dasagirk’n yek’ ogtagortsum",
+		"english": "Which textbook are you using?"
+	},
+	{
+		"armenian_translit": "ays pahin yes ch’gitem, t’ye da inch’pes e koch’vum",
+		"english": "I don’t remember the name right now."
+	},
+	{
+		"armenian_translit": "yes vernagiry ch’yem hishum",
+		"english": "The title is not coming to me."
+	},
+	{
+		"armenian_translit": "yes da morrats’yel yem",
+		"english": "I’ve forgotten it."
+	},
+	{
+		"armenian_translit": "avtobusits’ ushats’a՞r",
+		"english": "Did you miss the bus?"
+	},
+	{
+		"armenian_translit": "yes kes zham k’yez spasets’i",
+		"english": "I waited for you for half an hour."
+	},
+	{
+		"armenian_translit": "sharzhakan herrakhos ch’une՞s",
+		"english": "Don’t you have a mobile / cell phone (am.) with you?"
+	},
+	{
+		"armenian_translit": "myus angam chshtapah yeghir",
+		"english": "Be punctual next time!"
+	},
+	{
+		"armenian_translit": "myus angam tak’si verts’ru",
+		"english": "Take a taxi next time!"
+	},
+	{
+		"armenian_translit": "myus angam andzrevanots’ verts’ru",
+		"english": "Take an umbrella with you next time!"
+	},
+	{
+		"armenian_translit": "vaghy yes azat yem",
+		"english": "I have the day off tomorrow."
+	},
+	{
+		"armenian_translit": "vaghy handipe՞nk’",
+		"english": "Shall we meet tomorrow?"
+	},
+	{
+		"armenian_translit": "nerir, ts’avok’ vaghy ch’yem karogh",
+		"english": "I’m sorry, I can’t make it tomorrow."
+	},
+	{
+		"armenian_translit": "isk ays shabat’-kiraki inch’ vor planner une՞s",
+		"english": "Do you already have plans for this weekend?"
+	},
+	{
+		"armenian_translit": "t’ye՞ arden paymanavorvats yes",
+		"english": "Or do you already have an appointment?"
+	},
+	{
+		"armenian_translit": "yes arrajarkum yem ays shabat’-kiraki handipel",
+		"english": "I suggest that we meet on the weekend."
+	},
+	{
+		"armenian_translit": "zbosakhnjuyk’ ane՞nk’",
+		"english": "Shall we have a picnic?"
+	},
+	{
+		"armenian_translit": "tsovap’ gna՞nk’",
+		"english": "Shall we go to the beach?"
+	},
+	{
+		"armenian_translit": "gna՞nk’ depi lerrnery",
+		"english": "Shall we go to the mountains?"
+	},
+	{
+		"armenian_translit": "yes kverts’nem k’yez grasenyakits’",
+		"english": "I will pick you up at the office."
+	},
+	{
+		"armenian_translit": "yes kverts’nem k’yez tnits’",
+		"english": "I will pick you up at home."
+	},
+	{
+		"armenian_translit": "yes kverts’nem k’yez avtobusi kangarrits’",
+		"english": "I will pick you up at the bus stop."
+	},
+	{
+		"armenian_translit": "yes uzum yem gnal yerkat’ughayin kayaran",
+		"english": "I would like to go to the station."
+	},
+	{
+		"armenian_translit": "yes uzum yem gnal odanavakayan",
+		"english": "I would like to go to the airport."
+	},
+	{
+		"armenian_translit": "yes uzum yem gnal k’aghak’i kentron",
+		"english": "I would like to go to the city centre / center (am.)."
+	},
+	{
+		"armenian_translit": "inch’pe՞s gnam yerkat’ughayin kayaran",
+		"english": "How do I get to the station?"
+	},
+	{
+		"armenian_translit": "inch’pe՞s gnam odanavakayan",
+		"english": "How do I get to the airport?"
+	},
+	{
+		"armenian_translit": "inch’pe՞s gnam k’aghak’i kentron",
+		"english": "How do I get to the city centre / center (am.)?"
+	},
+	{
+		"armenian_translit": "indz tak’si e harkavor",
+		"english": "I need a taxi."
+	},
+	{
+		"armenian_translit": "indz k’aghak’i k’artez e harkavor",
+		"english": "I need a city map."
+	},
+	{
+		"armenian_translit": "indz hyuranots’ e harkavor",
+		"english": "I need a hotel."
+	},
+	{
+		"armenian_translit": "yes uzum yem avtomek’yena vardzel",
+		"english": "I would like to rent a car."
+	},
+	{
+		"armenian_translit": "sa im varkayin k’artn e",
+		"english": "Here is my credit card."
+	},
+	{
+		"armenian_translit": "sa im varordakan iravunk’n e",
+		"english": "Here is my licence / license (am.)."
+	},
+	{
+		"armenian_translit": "i՞nch’ ka k’aghak’um tesnelu",
+		"english": "What is there to see in the city?"
+	},
+	{
+		"armenian_translit": "gnats’yek’ depi hin k’aghak’",
+		"english": "Go to the old city."
+	},
+	{
+		"armenian_translit": "k’aghak’um shrjayts’ arek’",
+		"english": "Go on a city tour."
+	},
+	{
+		"armenian_translit": "gnats’yek’ depi navahangist",
+		"english": "Go to the harbour / harbor (am.)."
+	},
+	{
+		"armenian_translit": "navahangstum shrjayts’ katarek’",
+		"english": "Go on a harbour / harbor (am.) tour."
+	},
+	{
+		"armenian_translit": "el i՞nch’ tesarzhan vayrer kan",
+		"english": "Are there any other places of interest?"
+	},
+	{
+		"armenian_translit": "tesnu՞m yes ayntegh ayn ashtaraky",
+		"english": "Do you see the tower there?"
+	},
+	{
+		"armenian_translit": "tesnu՞m yes ayntegh ayn sary",
+		"english": "Do you see the mountain there?"
+	},
+	{
+		"armenian_translit": "tesnu՞m yes ayntegh ayn gyughy",
+		"english": "Do you see the village there?"
+	},
+	{
+		"armenian_translit": "tesnu՞m yes ayntegh ayn gety",
+		"english": "Do you see the river there?"
+	},
+	{
+		"armenian_translit": "tesnu՞m yes ayntegh ayn kamurjy",
+		"english": "Do you see the bridge there?"
+	},
+	{
+		"armenian_translit": "tesnu՞m yes ayntegh ayn lichy",
+		"english": "Do you see the lake there?"
+	},
+	{
+		"armenian_translit": "ays t’rrch’unn indz dur e galis",
+		"english": "I like that bird."
+	},
+	{
+		"armenian_translit": "ayn tsarrn indz dur e galis",
+		"english": "I like that tree."
+	},
+	{
+		"armenian_translit": "ays k’arn aystegh indz dur e galis",
+		"english": "I like this stone."
+	},
+	{
+		"armenian_translit": "ayd aygin ayntegh indz dur e galis",
+		"english": "I like that park."
+	},
+	{
+		"armenian_translit": "ayd partezn ayntegh indz dur e galis",
+		"english": "I like that garden."
+	},
+	{
+		"armenian_translit": "ays tsaghikn aystegh indz dur e galis",
+		"english": "I like this flower."
+	},
+	{
+		"armenian_translit": "yes da sirun yem hamarum",
+		"english": "I find that pretty."
+	},
+	{
+		"armenian_translit": "yes da hetak’rk’ir yem hamarum",
+		"english": "I find that interesting."
+	},
+	{
+		"armenian_translit": "yes da hiask’anch’ yem hamarum",
+		"english": "I find that gorgeous."
+	},
+	{
+		"armenian_translit": "yes da tgegh yem gtnum",
+		"english": "I find that ugly."
+	},
+	{
+		"armenian_translit": "yes da dzandzrali yem gtnum",
+		"english": "I find that boring."
+	},
+	{
+		"armenian_translit": "yes da sarsap’yeli yem gtnum",
+		"english": "I find that terrible."
+	},
+	{
+		"armenian_translit": "azat senyak une՞k’",
+		"english": "Do you have a vacant room?"
+	},
+	{
+		"armenian_translit": "yes senyak yem patvirel",
+		"english": "I have booked a room."
+	},
+	{
+		"armenian_translit": "im anuny myuller e",
+		"english": "My name is Miller."
+	},
+	{
+		"armenian_translit": "indz mekteghanots’ senyak e harkavor",
+		"english": "I need a single room."
+	},
+	{
+		"armenian_translit": "indz yerku teghanots’ senyak e harkavor",
+		"english": "I need a double room."
+	},
+	{
+		"armenian_translit": "i՞nch’ arzhe senyaky mek gisherva hamar",
+		"english": "What does the room cost per night?"
+	},
+	{
+		"armenian_translit": "yes uzum yem logaranov senyak",
+		"english": "I would like a room with a bathroom."
+	},
+	{
+		"armenian_translit": "yes uzum yem ts’nts’ughov senyak",
+		"english": "I would like a room with a shower."
+	},
+	{
+		"armenian_translit": "karo՞gh yem senyaky tesnel",
+		"english": "Can I see the room?"
+	},
+	{
+		"armenian_translit": "aystegh avtotnak ka՞",
+		"english": "Is there a garage here?"
+	},
+	{
+		"armenian_translit": "aystegh ka՞ gaghtnaran",
+		"english": "Is there a safe here?"
+	},
+	{
+		"armenian_translit": "aystegh ka՞ fak’s",
+		"english": "Is there a fax machine here?"
+	},
+	{
+		"armenian_translit": "lav, yes verts’num yem ays senyaky",
+		"english": "Fine, I’ll take the room."
+	},
+	{
+		"armenian_translit": "aystegh banalinnern yen",
+		"english": "Here are the `key`s."
+	},
+	{
+		"armenian_translit": "aystegh im champruknern yen",
+		"english": "Here is my luggage."
+	},
+	{
+		"armenian_translit": "zhamy k’anisi՞n e nakhachashy",
+		"english": "What time do you serve breakfast?"
+	},
+	{
+		"armenian_translit": "zhamy k’anisi՞n e chashy",
+		"english": "What time do you serve lunch?"
+	},
+	{
+		"armenian_translit": "zhamy k’anisi՞n e ynt’rik’y",
+		"english": "What time do you serve dinner?"
+	},
+	{
+		"armenian_translit": "ts’nts’ughy ch’i ashkhatum",
+		"english": "The shower isn’t working."
+	},
+	{
+		"armenian_translit": "tak’ jur ch’i galis",
+		"english": "There is no warm water."
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ norogel",
+		"english": "Can you get it repaired?"
+	},
+	{
+		"armenian_translit": "herrakhos ch’ka senyakum",
+		"english": "There is no telephone in the room."
+	},
+	{
+		"armenian_translit": "herrustats’uyts’ ch’ka senyakum",
+		"english": "There is no TV in the room."
+	},
+	{
+		"armenian_translit": "senyaky ch’uni patshgamb",
+		"english": "The room has no balcony."
+	},
+	{
+		"armenian_translit": "senyaky aghmkot e",
+		"english": "The room is too noisy."
+	},
+	{
+		"armenian_translit": "senyaky p’vok’r e",
+		"english": "The room is too small."
+	},
+	{
+		"armenian_translit": "senyaky mut’ e",
+		"english": "The room is too dark."
+	},
+	{
+		"armenian_translit": "jerruts’umy ch’i ashkhatum",
+		"english": "The heater isn’t working."
+	},
+	{
+		"armenian_translit": "odakargavorich’y ch’i ashkhatum",
+		"english": "The air-conditioning isn’t working."
+	},
+	{
+		"armenian_translit": "herrustats’uyts’y ch’i ashkhatum",
+		"english": "The TV isn’t working."
+	},
+	{
+		"armenian_translit": "da indz dur ch’i galis",
+		"english": "I don’t like that."
+	},
+	{
+		"armenian_translit": "im hamar da t’ank e",
+		"english": "That’s too expensive."
+	},
+	{
+		"armenian_translit": "aveli ezhan ch’une՞k’",
+		"english": "Do you have anything cheaper?"
+	},
+	{
+		"armenian_translit": "aystegh motakayk’um yeritasardakan hanrakats’aran ka՞",
+		"english": "Is there a youth hostel nearby?"
+	},
+	{
+		"armenian_translit": "aystegh motakayk’um hyuranots’ ka՞",
+		"english": "Is there a boarding house / a bed and breakfast nearby?"
+	},
+	{
+		"armenian_translit": "aystegh motakayk’um rrestoran ka՞",
+		"english": "Is there a restaurant nearby?"
+	},
+	{
+		"armenian_translit": "ays seghany azat e",
+		"english": "Is this table taken?"
+	},
+	{
+		"armenian_translit": "kareli՞ e chashats’uts’aky khndrem",
+		"english": "I would like the menu, please."
+	},
+	{
+		"armenian_translit": "i՞nch’ karogh yek’ khorhurd tal",
+		"english": "What would you recommend?"
+	},
+	{
+		"armenian_translit": "yes sirov garejur kts’ankanayi",
+		"english": "I’d like a beer."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi jur",
+		"english": "I’d like a mineral water."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi narnji hyut’",
+		"english": "I’d like an orange juice."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi surch",
+		"english": "I’d like a coffee."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi surchy kat’ov",
+		"english": "I’d like a coffee with milk."
+	},
+	{
+		"armenian_translit": "khndrum yem shak’aravazov",
+		"english": "With sugar, please."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi t’yey",
+		"english": "I’d like a tea."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi t’yeyykitronov",
+		"english": "I’d like a tea with lemon."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi t’yeyy kat’ov",
+		"english": "I’d like a tea with milk."
+	},
+	{
+		"armenian_translit": "tskhakhot une՞k’",
+		"english": "Do you have cigarettes?"
+	},
+	{
+		"armenian_translit": "mokhraman une՞k’",
+		"english": "Do you have an ashtray?"
+	},
+	{
+		"armenian_translit": "krakvarrich’ une՞k’",
+		"english": "Do you have a light?"
+	},
+	{
+		"armenian_translit": "yes patarak’agh ch’unem",
+		"english": "I’m missing a fork."
+	},
+	{
+		"armenian_translit": "yes danak ch’unem",
+		"english": "I’m missing a knife."
+	},
+	{
+		"armenian_translit": "yes gdal ch’unem",
+		"english": "I’m missing a spoon."
+	},
+	{
+		"armenian_translit": "khndzori hyut’, khndrum yem",
+		"english": "An apple juice, please."
+	},
+	{
+		"armenian_translit": "limonad, khndrum yem",
+		"english": "A lemonade, please."
+	},
+	{
+		"armenian_translit": "pomidori hyut’, khndrum yem",
+		"english": "A tomato juice, please."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi mek gavat’ karmir gini",
+		"english": "I’d like a glass of red wine."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi mek gavat’ spitak gini",
+		"english": "I’d like a glass of white wine."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi mek shish shampayn",
+		"english": "I’d like a bottle of champagne."
+	},
+	{
+		"armenian_translit": "dzuk kuzei՞r",
+		"english": "Do you like fish?"
+	},
+	{
+		"armenian_translit": "tavari mis kuzei՞r",
+		"english": "Do you like beef?"
+	},
+	{
+		"armenian_translit": "khozi mis kuzei՞r",
+		"english": "Do you like pork?"
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi inch’ vor ban arrants’ msi",
+		"english": "I’d like something without meat."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi banjareghenov",
+		"english": "I’d like some mixed vegetables."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi inch’ vor ban, vor yerkar ch’tevi",
+		"english": "I’d like something that won’t take much time."
+	},
+	{
+		"armenian_translit": "kts’ankanayik’ brndzo՞v",
+		"english": "Would you like that with rice?"
+	},
+	{
+		"armenian_translit": "kts’ankanayik’ arishtayo՞v",
+		"english": "Would you like that with pasta?"
+	},
+	{
+		"armenian_translit": "kts’ankanayik’ kartofilo՞v",
+		"english": "Would you like that with potatoes?"
+	},
+	{
+		"armenian_translit": "hamegh ch’e",
+		"english": "That doesn’t taste good."
+	},
+	{
+		"armenian_translit": "utelik’y sarrn e",
+		"english": "The food is cold."
+	},
+	{
+		"armenian_translit": "yes da ch’yem patvirel",
+		"english": "I didn’t order this."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi nakhutest",
+		"english": "I would like a starter."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi salat’ yem",
+		"english": "I would like a salad."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi apur",
+		"english": "I would like a soup."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi aghander",
+		"english": "I would like a dessert."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi seruts’k’ov paghpaghak",
+		"english": "I would like an ice cream with whipped cream."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi mirg kam panir",
+		"english": "I would like some fruit or cheese."
+	},
+	{
+		"armenian_translit": "menk’ ts’ankanum yenk’ nakhachashel",
+		"english": "We would like to have breakfast."
+	},
+	{
+		"armenian_translit": "menk’ ts’ankanum yenk’ chashel",
+		"english": "We would like to have lunch."
+	},
+	{
+		"armenian_translit": "menk’ ts’ankanum yenk’ ynt’rel",
+		"english": "We would like to have dinner."
+	},
+	{
+		"armenian_translit": "i՞nch’ kts’ankanayik’ nakhachashin",
+		"english": "What would you like for breakfast?"
+	},
+	{
+		"armenian_translit": "hats’ jemov yev meghro՞v",
+		"english": "Rolls with jam and honey?"
+	},
+	{
+		"armenian_translit": "tost yershikov yev paniro՞v",
+		"english": "Toast with sausage and cheese?"
+	},
+	{
+		"armenian_translit": "yep’ats dzu՞",
+		"english": "A boiled egg?"
+	},
+	{
+		"armenian_translit": "tapakats dzu՞",
+		"english": "A fried egg?"
+	},
+	{
+		"armenian_translit": "dzvatsegh՞",
+		"english": "An omelette?"
+	},
+	{
+		"armenian_translit": "khndrum yem naev matsun",
+		"english": "Another yoghurt, please."
+	},
+	{
+		"armenian_translit": "khndrum yem naev agh yev pghpegh",
+		"english": "Some salt and pepper also, please."
+	},
+	{
+		"armenian_translit": "khndrum yem naev mek bazhak jur",
+		"english": "Another glass of water, please."
+	},
+	{
+		"armenian_translit": "mek bazhin kartofili fri ketch’upov",
+		"english": "I’d like chips / French fries (am.) with ketchup."
+	},
+	{
+		"armenian_translit": "yev yerku bazhin mayonezov",
+		"english": "And two with mayonnaise."
+	},
+	{
+		"armenian_translit": "yev yerek’ hat tapakats nrbershik mananekhov",
+		"english": "And three sausages with mustard."
+	},
+	{
+		"armenian_translit": "i՞nch’ banjareghen unek’",
+		"english": "What vegetables do you have?"
+	},
+	{
+		"armenian_translit": "lobi une՞k’",
+		"english": "Do you have beans?"
+	},
+	{
+		"armenian_translit": "tsaghkakaghamb une՞k’",
+		"english": "Do you have cauliflower?"
+	},
+	{
+		"armenian_translit": "yes hachuyk’ov yem yegiptats’voren utum",
+		"english": "I like to eat (sweet) corn."
+	},
+	{
+		"armenian_translit": "yes hachuyk’ov yem varung utum",
+		"english": "I like to eat cucumber."
+	},
+	{
+		"armenian_translit": "yes hachuyk’ov yem pomidor utum",
+		"english": "I like to eat tomatoes."
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ naev pras utum",
+		"english": "Do you also like to eat leek?"
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ naev t’t’u drats kaghamb utum",
+		"english": "Do you also like to eat sauerkraut?"
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ naev vosp utum",
+		"english": "Do you also like to eat lentils?"
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ naev gazar utum",
+		"english": "Do you also like to eat carrots?"
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ naev brokkoli utum",
+		"english": "Do you also like to eat broccoli?"
+	},
+	{
+		"armenian_translit": "hachuyk’vo՞v yek’ naev pghpegh utum",
+		"english": "Do you also like to eat peppers?"
+	},
+	{
+		"armenian_translit": "yes sokh ch’yem sirum",
+		"english": "I don’t like onions."
+	},
+	{
+		"armenian_translit": "yes dzit’aptugh ch’yem sirum",
+		"english": "I don’t like olives."
+	},
+	{
+		"armenian_translit": "yes sunk ch’yem sirum",
+		"english": "I don’t like mushrooms."
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord gnats’k’y depi berrlin",
+		"english": "When is the next train to Berlin?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord gnats’k’y depi p’ariz",
+		"english": "When is the next train to Paris?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord gnats’k’y depi london",
+		"english": "When is the next train to London?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord gnats’k’y depi varshava",
+		"english": "When does the train for Warsaw leave?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord gnats’k’y depi stokholm",
+		"english": "When does the train for Stockholm leave?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord gnats’k’y depi budapesht",
+		"english": "When does the train for Budapest leave?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord gnats’k’y depi madrid",
+		"english": "I’d like a ticket to Madrid."
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord gnats’k’y depi praga",
+		"english": "I’d like a ticket to Prague."
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord gnats’k’y depi berrn",
+		"english": "I’d like a ticket to Bern."
+	},
+	{
+		"armenian_translit": "ye՞rb e zhamanum gnats’k’y vienna",
+		"english": "When does the train arrive in Vienna?"
+	},
+	{
+		"armenian_translit": "ye՞rb e zhamanum gnats’k’y moskva",
+		"english": "When does the train arrive in Moscow?"
+	},
+	{
+		"armenian_translit": "ye՞rb e zhamanum gnats’k’y amsterdam",
+		"english": "When does the train arrive in Amsterdam?"
+	},
+	{
+		"armenian_translit": "petk’ e p’vokhe՞m gnats’k’y",
+		"english": "Do I have to change trains?"
+	},
+	{
+		"armenian_translit": "vo՞r shavighits’ e meknum gnats’k’y",
+		"english": "From which platform does the train leave?"
+	},
+	{
+		"armenian_translit": "vagon–nnjaran ka՞ gnats’k’i mej",
+		"english": "Does the train have sleepers?"
+	},
+	{
+		"armenian_translit": "yes uzum yem miayn miakoghmani toms depi bryusel",
+		"english": "I’d like a one-way ticket to Brussels."
+	},
+	{
+		"armenian_translit": "yes uzum yem miayn hetadardz depi kopenhagen",
+		"english": "I’d like a return ticket to Copenhagen."
+	},
+	{
+		"armenian_translit": "i՞nch’ arzhe tomsy mek andzi hamar vagon-nnjaranum",
+		"english": "What does a berth in the sleeper cost?"
+	},
+	{
+		"armenian_translit": "sa berrlin meknogh gna՞ts’k’n e",
+		"english": "Is that the train to Berlin?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum ays gnats’k’y",
+		"english": "When does the train leave?"
+	},
+	{
+		"armenian_translit": "ye՞rb e zhamanum gnats’k’y berrlin",
+		"english": "When does the train arrive in Berlin?"
+	},
+	{
+		"armenian_translit": "knerek’ kareli՞ e ants’nel",
+		"english": "Excuse me, may I pass?"
+	},
+	{
+		"armenian_translit": "yes kartsum yem, vor sa im teghn e",
+		"english": "I think this is my seat."
+	},
+	{
+		"armenian_translit": "yes kartsum yem, vor duk’ im teghn yek’ zbaghets’rel",
+		"english": "I think you’re sitting in my seat."
+	},
+	{
+		"armenian_translit": "vortegh e vagon-nnjarany",
+		"english": "Where is the sleeper?"
+	},
+	{
+		"armenian_translit": "vagon-nnjaranvagony gtnvum e gnats’k’i verjum",
+		"english": "The sleeper is at the end of the train."
+	},
+	{
+		"armenian_translit": "isk vorte՞gh e vagon-rrestorany - arrajnamasum",
+		"english": "And where is the dining car? – At the front."
+	},
+	{
+		"armenian_translit": "kareli՞ e yes nerk’yevum k’nem",
+		"english": "Can I sleep below?"
+	},
+	{
+		"armenian_translit": "kareli՞ e yes mijin harkum k’nem",
+		"english": "Can I sleep in the middle?"
+	},
+	{
+		"armenian_translit": "kareli՞ e yes verevum k’nem",
+		"english": "Can I sleep at the top?"
+	},
+	{
+		"armenian_translit": "ye՞rb yenk’ hasnum sahmanin",
+		"english": "When will we get to the border?"
+	},
+	{
+		"armenian_translit": "vork’a՞n e tevum chanaparhy depi berrlin",
+		"english": "How long does the journey to Berlin take?"
+	},
+	{
+		"armenian_translit": "gnats’k’y ushanu՞m e",
+		"english": "Is the train delayed?"
+	},
+	{
+		"armenian_translit": "kardalu inch’ vor ban une՞k’",
+		"english": "Do you have something to read?"
+	},
+	{
+		"armenian_translit": "kareli՞ e aystegh inch’-vor utelu yev khmelu ban stanal",
+		"english": "Can one get something to eat and to drink here?"
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ indz zhamy 7-in art’nats’nel",
+		"english": "Could you please wake me up at 7 o’clock?"
+	},
+	{
+		"armenian_translit": "yes uzum yem t’rrich’k’ depi at’yenk’ gnel",
+		"english": "I’d like to book a flight to Athens."
+	},
+	{
+		"armenian_translit": "da ughi՞gh t’rrich’k’ e",
+		"english": "Is it a direct flight?"
+	},
+	{
+		"armenian_translit": "khndrum yem mi toms patuhani mot",
+		"english": "A window seat, non-smoking, please."
+	},
+	{
+		"armenian_translit": "yes uzum yem im patvery hastatel",
+		"english": "I would like to confirm my reservation."
+	},
+	{
+		"armenian_translit": "yes uzum yem im patvery ch’yegharkel",
+		"english": "I would like to cancel my reservation."
+	},
+	{
+		"armenian_translit": "yes uzum yem im patvery p’vokhel",
+		"english": "I would like to change my reservation."
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum hajord odanavy depi hrrom",
+		"english": "When is the next flight to Rome?"
+	},
+	{
+		"armenian_translit": "yerku azat tegher derr ka՞n",
+		"english": "Are there two seats available?"
+	},
+	{
+		"armenian_translit": "voch’, unenk’ miayn mek azat tegh",
+		"english": "No, we have only one seat available."
+	},
+	{
+		"armenian_translit": "ye՞rb yenk’ vayrejk’ katarum",
+		"english": "When do we land?"
+	},
+	{
+		"armenian_translit": "ye՞rb yenk’ hasnum",
+		"english": "When will we be there?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum avtobusy depi k’aghak’i kentron",
+		"english": "When does a bus go to the city centre / center (am.)?"
+	},
+	{
+		"armenian_translit": "sa dze՞r champrukn e",
+		"english": "Is that your suitcase?"
+	},
+	{
+		"armenian_translit": "sa dze՞r payusakn e",
+		"english": "Is that your bag?"
+	},
+	{
+		"armenian_translit": "sa dze՞r champrukn e",
+		"english": "Is that your luggage?"
+	},
+	{
+		"armenian_translit": "k’ani՞ champruk karogh yem verts’nel",
+		"english": "How much luggage can I take?"
+	},
+	{
+		"armenian_translit": "k’san kilogram",
+		"english": "Twenty kilos."
+	},
+	{
+		"armenian_translit": "inch’pe՞s; miayn k’san kilogra՞m",
+		"english": "What? Only twenty kilos?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e kangarry",
+		"english": "Where is the bus stop?"
+	},
+	{
+		"armenian_translit": "vo՞r avtobusn e meknum depi k’aghak’i kentron",
+		"english": "Which bus goes to the city centre / center (am.)?"
+	},
+	{
+		"armenian_translit": "vo՞r hamari avtobusn e harkavor verts’nel",
+		"english": "Which bus do I have to take?"
+	},
+	{
+		"armenian_translit": "pe՞tk’ e p’vokhel avtobusy",
+		"english": "Do I have to change?"
+	},
+	{
+		"armenian_translit": "vorte՞ gh e petk’ avtobusy p’vokhel",
+		"english": "Where do I have to change?"
+	},
+	{
+		"armenian_translit": "i՞nch’ arzhe mek tomsy",
+		"english": "How much does a ticket cost?"
+	},
+	{
+		"armenian_translit": "k’ani՞ kangarr e minch’yev k’aghak’i kentron",
+		"english": "How many stops are there before downtown / the city centre?"
+	},
+	{
+		"armenian_translit": "duk’ petk’ e aystegh ijnek’",
+		"english": "You have to get off here."
+	},
+	{
+		"armenian_translit": "duk’ petk’ e hetevi drrnits’ ijnek’",
+		"english": "You have to get off at the back."
+	},
+	{
+		"armenian_translit": "hajord metron kga hing ropeits’",
+		"english": "The next train is in 5 minutes."
+	},
+	{
+		"armenian_translit": "hajord tramvayy kga tasy ropeits’",
+		"english": "The next tram is in 10 minutes."
+	},
+	{
+		"armenian_translit": "hajord avtobusy kga tasnhing ropeits’",
+		"english": "The next bus is in 15 minutes."
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum verjin metroyi gnats’k’y",
+		"english": "When is the last train?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum verjin tramvayy",
+		"english": "When is the last tram?"
+	},
+	{
+		"armenian_translit": "ye՞rb e meknum verjin avtobusy",
+		"english": "When is the last bus?"
+	},
+	{
+		"armenian_translit": "varordakan iravunk’ une՞k’",
+		"english": "Do you have a ticket?"
+	},
+	{
+		"armenian_translit": "to՞ms, voch’ ch’unem",
+		"english": "A ticket? – No, I don’t have one."
+	},
+	{
+		"armenian_translit": "ayd depk’um tugank’ yek’ vcharelu",
+		"english": "Then you have to pay a fine."
+	},
+	{
+		"armenian_translit": "na motots’ikl e k’shum",
+		"english": "He drives a motorbike."
+	},
+	{
+		"armenian_translit": "na hetsaniv e k’shum",
+		"english": "He rides a bicycle."
+	},
+	{
+		"armenian_translit": "na votk’ov e gnum",
+		"english": "He walks."
+	},
+	{
+		"armenian_translit": "na navov e gnum",
+		"english": "He goes by ship."
+	},
+	{
+		"armenian_translit": "na navakov e gnum",
+		"english": "He goes by boat."
+	},
+	{
+		"armenian_translit": "na loghum e",
+		"english": "He swims."
+	},
+	{
+		"armenian_translit": "vtangavo՞r e aystegh",
+		"english": "Is it dangerous here?"
+	},
+	{
+		"armenian_translit": "vtangavo՞r e aystegh mek’yena kangnets’nel",
+		"english": "Is it dangerous to hitchhike alone?"
+	},
+	{
+		"armenian_translit": "vtangavo՞r e aystegh gisherov zbosnel",
+		"english": "Is it dangerous to go for a walk at night?"
+	},
+	{
+		"armenian_translit": "menk’ skhal yenk’ yekel",
+		"english": "We got lost."
+	},
+	{
+		"armenian_translit": "menk’ skhal chanaparhi vra yenk’",
+		"english": "We’re on the wrong road."
+	},
+	{
+		"armenian_translit": "menk’ petk’ e het darrnank’",
+		"english": "We must turn around."
+	},
+	{
+		"armenian_translit": "vorte՞gh karogh yenk’ mek’yenan aystegh kangnets’nel",
+		"english": "Where can one park here?"
+	},
+	{
+		"armenian_translit": "aystegh mek’yenayi kayanateghi ka՞",
+		"english": "Is there a parking lot here?"
+	},
+	{
+		"armenian_translit": "inch’k’a՞n zhamanakov kareli e aystegh mek’yenan kangnets’nel",
+		"english": "How long can one park here?"
+	},
+	{
+		"armenian_translit": "dahuk k’shu՞m yek’",
+		"english": "Do you ski?"
+	},
+	{
+		"armenian_translit": "dahukayin verelakov ye՞k’ gnum depi verev",
+		"english": "Do you take the ski lift to the top?"
+	},
+	{
+		"armenian_translit": "kareli՞ e aystegh dahukner vardzel",
+		"english": "Can one rent skis here?"
+	},
+	{
+		"armenian_translit": "tak’si kkanch’ye՞ k’",
+		"english": "Please call a taxi."
+	},
+	{
+		"armenian_translit": "i՞ nch’ arzhe minch’yev kayaran",
+		"english": "What does it cost to go to the station?"
+	},
+	{
+		"armenian_translit": "i՞ nch’ arzhe minch’yev odanavakayan",
+		"english": "What does it cost to go to the airport?"
+	},
+	{
+		"armenian_translit": "khndrum yem ughigh gnats’yek’",
+		"english": "Please go straight ahead."
+	},
+	{
+		"armenian_translit": "aysteghits’ khndrum yem depi aj",
+		"english": "Please turn right here."
+	},
+	{
+		"armenian_translit": "ayn ankyunum khndrum yem depi dzakh",
+		"english": "Please turn left at the corner."
+	},
+	{
+		"armenian_translit": "yes shtapum yem",
+		"english": "I’m in a hurry."
+	},
+	{
+		"armenian_translit": "yes zhamanak unem",
+		"english": "I have time."
+	},
+	{
+		"armenian_translit": "khndrum yem dandagh k’shek’",
+		"english": "Please drive slowly."
+	},
+	{
+		"armenian_translit": "kangnek’ aystegh, khndrum yem",
+		"english": "Please stop here."
+	},
+	{
+		"armenian_translit": "khndrum yem mi aknt’art’ spasek’",
+		"english": "Please wait a moment."
+	},
+	{
+		"armenian_translit": "yes shutov kveradarrnam",
+		"english": "I’ll be back immediately."
+	},
+	{
+		"armenian_translit": "khndrum yem ktron tvek’",
+		"english": "Please give me a receipt."
+	},
+	{
+		"armenian_translit": "yes manr p’vogh ch’unem",
+		"english": "I have no change."
+	},
+	{
+		"armenian_translit": "ayspes chisht e, mnats’atsy dzez hamar e",
+		"english": "That is okay, please keep the change."
+	},
+	{
+		"armenian_translit": "tarek’ indz ays hasts’yeov",
+		"english": "Drive me to this address."
+	},
+	{
+		"armenian_translit": "tarek’ indz im hyuranots’",
+		"english": "Drive me to my hotel."
+	},
+	{
+		"armenian_translit": "tarek’ indz tsovap’",
+		"english": "Drive me to the beach."
+	},
+	{
+		"armenian_translit": "vorte՞gh e motaka benzalts’akayany",
+		"english": "Where is the next gas station?"
+	},
+	{
+		"armenian_translit": "mek’yenayi anvadoghy nstel e",
+		"english": "I have a flat tyre / tire (am.)."
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ anvadoghy p’vokhel",
+		"english": "Can you change the tyre / tire (am.)?"
+	},
+	{
+		"armenian_translit": "indz harkavor e mi k’ani litr dizel",
+		"english": "I need a few litres / liters (am.) of diesel."
+	},
+	{
+		"armenian_translit": "yes aylevs benzin ch’unem",
+		"english": "I have no more petrol / gas (am.)."
+	},
+	{
+		"armenian_translit": "pahestayin takarr une՞k’",
+		"english": "Do you have a petrol can / jerry can / gas can (am.)?"
+	},
+	{
+		"armenian_translit": "vorteghi՞ts’ karogh yem zangaharel",
+		"english": "Where can I make a call?"
+	},
+	{
+		"armenian_translit": "indz tarahanman tsarrayut’yun e petk’",
+		"english": "I need a towing service."
+	},
+	{
+		"armenian_translit": "yes avtomek’yenayi veranorogman srah yem p’ntrum",
+		"english": "I’m looking for a garage."
+	},
+	{
+		"armenian_translit": "patahar e teghi unets’yel",
+		"english": "An accident has occurred."
+	},
+	{
+		"armenian_translit": "vorte՞gh e motaka herrakhosy",
+		"english": "Where is the nearest telephone?"
+	},
+	{
+		"armenian_translit": "bjjayin herrakhos une՞k’ dzer mot",
+		"english": "Do you have a mobile / cell phone (am.) with you?"
+	},
+	{
+		"armenian_translit": "mez ognut’yun e harkavor",
+		"english": "We need help."
+	},
+	{
+		"armenian_translit": "bzhishk kanch’yek’!",
+		"english": "Call a doctor!"
+	},
+	{
+		"armenian_translit": "vostikanut’yun kanch’yek’!",
+		"english": "Call the police!"
+	},
+	{
+		"armenian_translit": "dzer p’astat’ght’yery, khndrum yem",
+		"english": "Your papers, please."
+	},
+	{
+		"armenian_translit": "dzer varordakan iravunk’y, khndrum yem",
+		"english": "Your licence / license (am.), please."
+	},
+	{
+		"armenian_translit": "dzer avtomek’yenayi p’astat’ght’yery khndrum yem",
+		"english": "Your registration, please."
+	},
+	{
+		"armenian_translit": "nerets’yek’!",
+		"english": "Excuse me!10"
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ indz ognel",
+		"english": "Can you help me?"
+	},
+	{
+		"armenian_translit": "aystegh vorte՞gh ka lav rrestoran",
+		"english": "Is there a good restaurant around here?"
+	},
+	{
+		"armenian_translit": "gnats’yek’ dzakh ankyunov",
+		"english": "Take a left at the corner."
+	},
+	{
+		"armenian_translit": "gnats’yek’ mi vorosh zhamanak ughigh",
+		"english": "Then go straight for a while."
+	},
+	{
+		"armenian_translit": "apa gnats’yek’ haryur metr depi aj",
+		"english": "Then go right for a hundred metres / meters (am.)."
+	},
+	{
+		"armenian_translit": "duk’ karogh yek’ naev avtobusov gnal",
+		"english": "You can also take the bus."
+	},
+	{
+		"armenian_translit": "duk’ karogh yek’ naev tramvayov gnal",
+		"english": "You can also take the tram."
+	},
+	{
+		"armenian_translit": "duk’ karogh yek’ parzapes im hetevits’ varel",
+		"english": "You can also follow me with your car."
+	},
+	{
+		"armenian_translit": "inch’pe՞s gnam futboli stadion",
+		"english": "How do I get to the football / soccer (am.) stadium?"
+	},
+	{
+		"armenian_translit": "ants’yek’ kamurjy!",
+		"english": "Cross the bridge!"
+	},
+	{
+		"armenian_translit": "varek’ t’uneli mijov",
+		"english": "Go through the tunnel!"
+	},
+	{
+		"armenian_translit": "varek’ minch’yev yerrord lusakiry",
+		"english": "Drive until you reach the third traffic light."
+	},
+	{
+		"armenian_translit": "apa t’yek’vek’ arrajin p’voghots’its’ depi aj",
+		"english": "Then turn into the first street on your right."
+	},
+	{
+		"armenian_translit": "sharunakek’ u ants’yek’ hajord khach’meruki mijov",
+		"english": "Then drive straight through the next intersection."
+	},
+	{
+		"armenian_translit": "nerets’yek’, inch’pe՞s karogh yem gnal odanavakayan",
+		"english": "Excuse me, how do I get to the airport?"
+	},
+	{
+		"armenian_translit": "aveli lav e, vor duk’ metroyov gnak’",
+		"english": "It is best if you take the underground / subway (am.)."
+	},
+	{
+		"armenian_translit": "gnats’yek’ minch’yev verjin kangarr",
+		"english": "Simply get out at the last stop."
+	},
+	{
+		"armenian_translit": "vorte՞gh e gtnvum turistakan grasenyaky",
+		"english": "Where is the tourist information office?"
+	},
+	{
+		"armenian_translit": "k’aghak’i k’artez une՞k’ indz hamar",
+		"english": "Do you have a city map for me?"
+	},
+	{
+		"armenian_translit": "karo՞gh yem aystegh hyuranots’i senyak patvirel",
+		"english": "Can one reserve a room here?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e k’aghak’i hin masy",
+		"english": "Where is the old city?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e mayr tachary",
+		"english": "Where is the cathedral?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e t’angarany",
+		"english": "Where is the museum?"
+	},
+	{
+		"armenian_translit": "vorteghi՞ts’ karogh yem droshmanishner gnel",
+		"english": "Where can one buy stamps?"
+	},
+	{
+		"armenian_translit": "vorteghi՞ts’ karogh yem tsaghikner gnel",
+		"english": "Where can one buy flowers?"
+	},
+	{
+		"armenian_translit": "vorteghi՞ts’ karogh yem tomser gnel",
+		"english": "Where can one buy tickets?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e navahangisty",
+		"english": "Where is the harbour / harbor (am.)?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e shukan",
+		"english": "Where is the market?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e amrots’y",
+		"english": "Where is the castle?"
+	},
+	{
+		"armenian_translit": "ye՞rb e sksvum ek’skursian",
+		"english": "When does the tour begin?"
+	},
+	{
+		"armenian_translit": "ye՞rb e verjanum ek’skursian",
+		"english": "When does the tour end?"
+	},
+	{
+		"armenian_translit": "i՞nch’k’an e tevum ek’skursian",
+		"english": "How long is the tour?"
+	},
+	{
+		"armenian_translit": "yes uzum yem ek’skursavar, vory khosum e germaneren",
+		"english": "I would like a guide who speaks German."
+	},
+	{
+		"armenian_translit": "yes uzum yem ek’skursavar, vory khosum e italeren",
+		"english": "I would like a guide who speaks Italian."
+	},
+	{
+		"armenian_translit": "yes uzum yem ek’skursavar, vory khosum e franseren",
+		"english": "I would like a guide who speaks French."
+	},
+	{
+		"armenian_translit": "shukan kiraki orery bats’ e",
+		"english": "Is the market open on Sundays?"
+	},
+	{
+		"armenian_translit": "tonavacharry kiraki orery bats’ e",
+		"english": "Is the fair open on Mondays?"
+	},
+	{
+		"armenian_translit": "ts’uts’ahandesy yerek’shabt’i ory bats’ e",
+		"english": "Is the exhibition open on Tuesdays?"
+	},
+	{
+		"armenian_translit": "kendanabanakan aygin ch’vorek’shabt’i ory bats’ e",
+		"english": "Is the zoo open on Wednesdays?"
+	},
+	{
+		"armenian_translit": "t’angarany hingshabt’i ory bats’ e",
+		"english": "Is the museum open on Thursdays?"
+	},
+	{
+		"armenian_translit": "patkerasrahy urbat’ ory bats’ e",
+		"english": "Is the gallery open on Fridays?"
+	},
+	{
+		"armenian_translit": "t’uylatrvu՞m e lusankarel",
+		"english": "Can one take photographs?"
+	},
+	{
+		"armenian_translit": "mutk’y vcharovi՞ e",
+		"english": "Does one have to pay an entrance fee?"
+	},
+	{
+		"armenian_translit": "vork’a՞n e tomsi arzhek’y",
+		"english": "How much is the entrance fee?"
+	},
+	{
+		"armenian_translit": "zeghch’ ka՞ khmberi hamar",
+		"english": "Is there a discount for groups?"
+	},
+	{
+		"armenian_translit": "zeghch’ ka՞ yerekhaneri hamar",
+		"english": "Is there a discount for children?"
+	},
+	{
+		"armenian_translit": "zeghch’ ka՞ usanoghneri hamar",
+		"english": "Is there a discount for students?"
+	},
+	{
+		"armenian_translit": "sa i՞nch’ karruyts’ e",
+		"english": "What building is that?"
+	},
+	{
+		"armenian_translit": "k’ani՞ tarekan e ays shenk’y",
+		"english": "How old is the building?"
+	},
+	{
+		"armenian_translit": "vo՞v e karruts’yel ays shenk’y",
+		"english": "Who built the building?"
+	},
+	{
+		"armenian_translit": "yes hetak’rk’rvum yem chartarapetut’yamb",
+		"english": "I’m interested in architecture."
+	},
+	{
+		"armenian_translit": "yes hetak’rk’rvum yem arvestov",
+		"english": "I’m interested in art."
+	},
+	{
+		"armenian_translit": "yes hetak’rk’rvum yem nkarch’ut’yamb",
+		"english": "I’m interested in paintings."
+	},
+	{
+		"armenian_translit": "ayntegh kendanabanakan aygi e",
+		"english": "The zoo is there."
+	},
+	{
+		"armenian_translit": "ayntegh yndzughtnern yen",
+		"english": "The giraffes are there."
+	},
+	{
+		"armenian_translit": "vorte՞gh yen arjery",
+		"english": "Where are the bears?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yen p’ghery",
+		"english": "Where are the elephants?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yen odzery",
+		"english": "Where are the snakes?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yen arryutsnery",
+		"english": "Where are the lions?"
+	},
+	{
+		"armenian_translit": "yes unem fotokhts’ik",
+		"english": "I have a camera."
+	},
+	{
+		"armenian_translit": "yes unem tesakhts’ik",
+		"english": "I also have a video camera."
+	},
+	{
+		"armenian_translit": "vorte՞gh e lits’k’avorman glanaky",
+		"english": "Where can I find a battery?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yen pingvinnery",
+		"english": "Where are the penguins?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yen kengurunery",
+		"english": "Where are the kangaroos?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yen rrngeghjyunery",
+		"english": "Where are the rhinos?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e zugarany",
+		"english": "Where is the toilet / restroom (am.)?"
+	},
+	{
+		"armenian_translit": "aynte՞gh mi srcharan e",
+		"english": "There is a café over there."
+	},
+	{
+		"armenian_translit": "aynte՞gh mi rrestoran e",
+		"english": "There is a restaurant over there."
+	},
+	{
+		"armenian_translit": "vorte՞gh yen ughtery",
+		"english": "Where are the camels?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yen gorillanery yev zebrery",
+		"english": "Where are the gorillas and the zebras?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yen vagrery yev kokordilosnery",
+		"english": "Where are the tigers and the crocodiles?"
+	},
+	{
+		"armenian_translit": "aystegh diskotek ka՞",
+		"english": "Is there a disco here?"
+	},
+	{
+		"armenian_translit": "aystegh gisherayin akumb ka՞",
+		"english": "Is there a nightclub here?"
+	},
+	{
+		"armenian_translit": "aystegh bar ka՞",
+		"english": "Is there a pub here?"
+	},
+	{
+		"armenian_translit": "i՞nch’ nerkayats’um ka aysor yerekoyan t’atronum",
+		"english": "What’s playing at the theatre / theater (am.) this evening?"
+	},
+	{
+		"armenian_translit": "i՞nch’ nerkayats’um ka aysor yerekoyan kino t’atronum",
+		"english": "What’s playing at the cinema / movies (am.) this evening?"
+	},
+	{
+		"armenian_translit": "i՞nch’ ka aysor yerekoyan herrustats’uyts’ov",
+		"english": "What’s on TV this evening?"
+	},
+	{
+		"armenian_translit": "t’atroni tomser ka՞n",
+		"english": "Are tickets for the theatre / theater (am.) still available?"
+	},
+	{
+		"armenian_translit": "kinoyi tomser ka՞n",
+		"english": "Are tickets for the cinema / movies (am.) still available?"
+	},
+	{
+		"armenian_translit": "futbolayin khaghi tomse՞r kan",
+		"english": "Are tickets for the football / soccer am. game still available?"
+	},
+	{
+		"armenian_translit": "yes ts’ankanum yem verjum nstel",
+		"english": "I want to sit in the back."
+	},
+	{
+		"armenian_translit": "yes ts’ankanum yem mijin masum nstel",
+		"english": "I want to sit somewhere in the middle."
+	},
+	{
+		"armenian_translit": "yes ts’ankanum yem arrjevum nstel",
+		"english": "I want to sit at the front."
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ indz inch’ vor ban khorhurd tal",
+		"english": "Could you recommend something?"
+	},
+	{
+		"armenian_translit": "ye՞rb e sksvum nerkayats’umy",
+		"english": "When does the show begin?"
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ indz hamar mi toms dzerrk’ berel",
+		"english": "Can you get me a ticket?"
+	},
+	{
+		"armenian_translit": "aystegh motakayk’um golfi dasht ka՞",
+		"english": "Is there a golf course nearby?"
+	},
+	{
+		"armenian_translit": "aystegh motakayk’um t’yenisi dasht ka՞",
+		"english": "Is there a tennis court nearby?"
+	},
+	{
+		"armenian_translit": "aystegh motakayk’um loghavazan ka՞",
+		"english": "Is there an indoor swimming pool nearby?"
+	},
+	{
+		"armenian_translit": "menk’ uzum yenk’ kino gnal",
+		"english": "We want to go to the cinema."
+	},
+	{
+		"armenian_translit": "aysor lav film e linelu",
+		"english": "A good film is playing today."
+	},
+	{
+		"armenian_translit": "filmy nor e",
+		"english": "The film is brand new."
+	},
+	{
+		"armenian_translit": "vorte՞gh e tomsarkghy",
+		"english": "Where is the cash register?"
+	},
+	{
+		"armenian_translit": "azat tegher ka՞n",
+		"english": "Are seats still available?"
+	},
+	{
+		"armenian_translit": "i՞nch’ arzhen mutk’i tomsery",
+		"english": "How much are the admission tickets?"
+	},
+	{
+		"armenian_translit": "ye՞rb e sksvum nerkayats’umy",
+		"english": "When does the show begin?11"
+	},
+	{
+		"armenian_translit": "vork’a՞n e filmi tevoghut’yuny",
+		"english": "How long is the film?"
+	},
+	{
+		"armenian_translit": "hnaravo՞r e tomser patvirel",
+		"english": "Can one reserve tickets?"
+	},
+	{
+		"armenian_translit": "yes ts’ankanum yem verjum nstel",
+		"english": "I want to sit at the back."
+	},
+	{
+		"armenian_translit": "yes ts’ankanum yem arrjevum nstel",
+		"english": "I want to sit at the front.12"
+	},
+	{
+		"armenian_translit": "yes ts’ankanum yem mijin masum nstel",
+		"english": "I want to sit in the middle."
+	},
+	{
+		"armenian_translit": "filmy hetak’rk’ir er",
+		"english": "The film was exciting."
+	},
+	{
+		"armenian_translit": "filmy dzandzrali ch’er",
+		"english": "The film was not boring."
+	},
+	{
+		"armenian_translit": "bayts’ girk’y aveli lavn er, k’an filmy",
+		"english": "But the book on which the film was based was better."
+	},
+	{
+		"armenian_translit": "inch’pe՞s er yerazhshtut’yuny",
+		"english": "How was the music?"
+	},
+	{
+		"armenian_translit": "inch’pe՞s ein khaghum derasannery",
+		"english": "How were the actors?"
+	},
+	{
+		"armenian_translit": "angleren lezvov yent’avernagir ka՞r",
+		"english": "Were there English subtitles?"
+	},
+	{
+		"armenian_translit": "ays teghn aza՞t e",
+		"english": "Is this seat taken?"
+	},
+	{
+		"armenian_translit": "kareli՞ e dzer mot nstel",
+		"english": "May I sit with you?"
+	},
+	{
+		"armenian_translit": "hachuyk’ov",
+		"english": "Sure."
+	},
+	{
+		"armenian_translit": "inch’pe՞s yek’ gtnum yerazhshtut’yuny",
+		"english": "How do you like the music?"
+	},
+	{
+		"armenian_translit": "mi k’ich’ bardzr e",
+		"english": "A little too loud."
+	},
+	{
+		"armenian_translit": "bayts’ khumby lav e nvagum",
+		"english": "But the band plays very well."
+	},
+	{
+		"armenian_translit": "hacha՞kh yek’ aystegh linum",
+		"english": "Do you come here often?"
+	},
+	{
+		"armenian_translit": "voch’, sa arrajin angamn e",
+		"english": "No, this is the first time."
+	},
+	{
+		"armenian_translit": "yes aystegh yerbek’ ch’yem yeghel",
+		"english": "I’ve never been here before."
+	},
+	{
+		"armenian_translit": "paru՞m yek’",
+		"english": "Would you like to dance?"
+	},
+	{
+		"armenian_translit": "miguts’ye aveli ush",
+		"english": "Maybe later."
+	},
+	{
+		"armenian_translit": "yes lav ch’yem parum",
+		"english": "I can’t dance very well."
+	},
+	{
+		"armenian_translit": "da shat hasarak ban e",
+		"english": "It’s very easy."
+	},
+	{
+		"armenian_translit": "yes dzez ts’uyts’ ktam",
+		"english": "I’ll show you."
+	},
+	{
+		"armenian_translit": "voch’, aveli lav e hajord angam",
+		"english": "No, maybe some other time."
+	},
+	{
+		"armenian_translit": "spasu՞m yek’ inch’ vor mekin",
+		"english": "Are you waiting for someone?"
+	},
+	{
+		"armenian_translit": "ayo, im ynkerojy",
+		"english": "Yes, for my boyfriend."
+	},
+	{
+		"armenian_translit": "aha na galis e",
+		"english": "There he is!"
+	},
+	{
+		"armenian_translit": "du petk’ e mer champruky p’akes",
+		"english": "You have to pack our suitcase!"
+	},
+	{
+		"armenian_translit": "du ch’petk’ e voch’inch’ morranas",
+		"english": "Don’t forget anything!"
+	},
+	{
+		"armenian_translit": "k’yez mets champruk e harkavor",
+		"english": "You need a big suitcase!"
+	},
+	{
+		"armenian_translit": "ch’morranas andznagird!",
+		"english": "Don’t forget your passport!"
+	},
+	{
+		"armenian_translit": "ch’morranas ink’nat’irri tomsd!",
+		"english": "Don’t forget your ticket!"
+	},
+	{
+		"armenian_translit": "ch’morranas champ’vordakan tomsery!",
+		"english": "Don’t forget your traveller’s cheques / traveler’s checks (am.)!"
+	},
+	{
+		"armenian_translit": "arevayruk’i k’suk’ verts’ru hetd",
+		"english": "Take some suntan lotion with you."
+	},
+	{
+		"armenian_translit": "arevi aknots’ner verts’ru hetd",
+		"english": "Take the sun-glasses with you."
+	},
+	{
+		"armenian_translit": "glkhark verts’ru hetd",
+		"english": "Take the sun hat with you."
+	},
+	{
+		"armenian_translit": "k’artez uzu՞m yes verts’nel k’yez het",
+		"english": "Do you want to take a road map?"
+	},
+	{
+		"armenian_translit": "ughets’uyts’ uzu՞m yes verts’nel k’yez het",
+		"english": "Do you want to take a travel guide?"
+	},
+	{
+		"armenian_translit": "andzrevanots’ uzu՞m yes verts’nel k’yez het",
+		"english": "Do you want to take an umbrella?"
+	},
+	{
+		"armenian_translit": "hishir tabati, vernashapikneri yev gulpaneri masin",
+		"english": "Remember to take pants, shirts and socks."
+	},
+	{
+		"armenian_translit": "hishir p’voghkapi, gotu yev bachkoni masin",
+		"english": "Remember to take ties, belts and sports jackets."
+	},
+	{
+		"armenian_translit": "hishir shapiki yev gisherashapiki masin",
+		"english": "Remember to take pyjamas, nightgowns and t-shirts."
+	},
+	{
+		"armenian_translit": "k’yez harkavor yen koshikner, sandalner yev yerkarachit koshikner",
+		"english": "You need shoes, sandals and boots."
+	},
+	{
+		"armenian_translit": "k’yez harkavor yen t’ashkinakner, ocharr yev yeghungneri mkrat",
+		"english": "You need handkerchiefs, soap and a nail clipper."
+	},
+	{
+		"armenian_translit": "k’yez harkavor yen sanr, atami khozanak yev atami matsuk",
+		"english": "You need a comb, a toothbrush and toothpaste."
+	},
+	{
+		"armenian_translit": "loghap’y mak’ur e",
+		"english": "Is the beach clean?"
+	},
+	{
+		"armenian_translit": "karo՞gh yenk’ ayntegh loghal",
+		"english": "Can one swim there?"
+	},
+	{
+		"armenian_translit": "vtangavor e ayntegh loghaly",
+		"english": "Isn’t it dangerous to swim there?"
+	},
+	{
+		"armenian_translit": "kareli՞ e aystegh hovanots’ vardzel",
+		"english": "Can one rent a sun umbrella / parasol here?"
+	},
+	{
+		"armenian_translit": "kareli՞ e aystegh parrkelat’vorr vardzel",
+		"english": "Can one rent a deck chair here?"
+	},
+	{
+		"armenian_translit": "hnaravo՞r e aystegh navak vardzel",
+		"english": "Can one rent a boat here?"
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi serfingov zbaghvel",
+		"english": "I would like to surf."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi suzvel",
+		"english": "I would like to dive."
+	},
+	{
+		"armenian_translit": "yes kts’ankanayi jradahuknerov zbaghvel",
+		"english": "I would like to water ski."
+	},
+	{
+		"armenian_translit": "kareli՞ e serfingi takhtak vardzel",
+		"english": "Can one rent a surfboard?"
+	},
+	{
+		"armenian_translit": "kareli՞ e jrasuzaki hagust vardzel",
+		"english": "Can one rent diving equipment?"
+	},
+	{
+		"armenian_translit": "kareli՞ e jradahuk vardzel",
+		"english": "Can one rent water skis?"
+	},
+	{
+		"armenian_translit": "yes sksnak yem",
+		"english": "I’m only a beginner."
+	},
+	{
+		"armenian_translit": "yes mijin kargi yndunakut’yunner unem",
+		"english": "I’m moderately good."
+	},
+	{
+		"armenian_translit": "yes da lav gitem",
+		"english": "I’m pretty good at it."
+	},
+	{
+		"armenian_translit": "vorte՞gh e dahukayin chopanughin",
+		"english": "Where is the ski lift?"
+	},
+	{
+		"armenian_translit": "dahuknery mo՞td yen",
+		"english": "Do you have skis?"
+	},
+	{
+		"armenian_translit": "dahuki koshiknery mo՞td yen",
+		"english": "Do you have ski boots?"
+	},
+	{
+		"armenian_translit": "sportov zbaghvu՞m yes",
+		"english": "Do you exercise?"
+	},
+	{
+		"armenian_translit": "ayo, indz sharzhvel e petk’",
+		"english": "Yes, I need some exercise."
+	},
+	{
+		"armenian_translit": "yes gnum yem sporti akumb",
+		"english": "I am a member of a sports club."
+	},
+	{
+		"armenian_translit": "menk’ futbol yenk’ khaghum",
+		"english": "We play football / soccer (am.)."
+	},
+	{
+		"armenian_translit": "mek mek loghum yenk’",
+		"english": "We swim sometimes."
+	},
+	{
+		"armenian_translit": "kam hetsaniv yenk’ k’shum",
+		"english": "Or we cycle."
+	},
+	{
+		"armenian_translit": "mer k’aghak’um futboli stadion ka",
+		"english": "There is a football / soccer (am.) stadium in our city."
+	},
+	{
+		"armenian_translit": "ka mi loghavazan shogebaghnik’ov",
+		"english": "There is also a swimming pool with a sauna."
+	},
+	{
+		"armenian_translit": "yev mi golfi dasht ka",
+		"english": "And there is a golf course."
+	},
+	{
+		"armenian_translit": "i՞nch’ ka herrustats’uyts’ov",
+		"english": "What is on TV?"
+	},
+	{
+		"armenian_translit": "hima futboli khagh e",
+		"english": "There is a football / soccer (am.) match on now."
+	},
+	{
+		"armenian_translit": "germanakan t’imy khaghum e angliakan t’imi dem",
+		"english": "The German team is playing against the English one."
+	},
+	{
+		"armenian_translit": "vo՞v e haght’um",
+		"english": "Who is winning?"
+	},
+	{
+		"armenian_translit": "yes ch’gitem",
+		"english": "I have no idea."
+	},
+	{
+		"armenian_translit": "ays pahin voch’ vok’i e",
+		"english": "It is currently a tie."
+	},
+	{
+		"armenian_translit": "mrts’avary belgiats’i e",
+		"english": "The referee is from Belgium."
+	},
+	{
+		"armenian_translit": "hima tuganayin tasnmek metranots’ e",
+		"english": "Now there is a penalty."
+	},
+	{
+		"armenian_translit": "gol!mek-zro",
+		"english": "Goal! One – zero!"
+	},
+	{
+		"armenian_translit": "aysor shog e",
+		"english": "It is hot today.13"
+	},
+	{
+		"armenian_translit": "gna՞nk’ loghavazan",
+		"english": "Shall we go to the swimming pool?"
+	},
+	{
+		"armenian_translit": "uzu՞m yes gnank’ loghavazan",
+		"english": "Do you feel like swimming?"
+	},
+	{
+		"armenian_translit": "srbich’ une՞s",
+		"english": "Do you have a towel?"
+	},
+	{
+		"armenian_translit": "loghavartik’ une՞s",
+		"english": "Do you have swimming trunks?"
+	},
+	{
+		"armenian_translit": "loghazgest une՞s",
+		"english": "Do you have a bathing suit?"
+	},
+	{
+		"armenian_translit": "loghal gite՞s",
+		"english": "Can you swim?"
+	},
+	{
+		"armenian_translit": "suzvel gite՞s",
+		"english": "Can you dive?"
+	},
+	{
+		"armenian_translit": "karo՞gh yes jri mej ts’atkel",
+		"english": "Can you jump in the water?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e ts’nts’ughy",
+		"english": "Where is the shower?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e p’vokhvelu khts’iky",
+		"english": "Where is the changing room?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e loghi aknots’y",
+		"english": "Where are the swimming goggles?"
+	},
+	{
+		"armenian_translit": "jury kho՞rn e",
+		"english": "Is the water deep?"
+	},
+	{
+		"armenian_translit": "jury mak’u՞r e",
+		"english": "Is the water clean?"
+	},
+	{
+		"armenian_translit": "jury ta՞k’ e",
+		"english": "Is the water warm?"
+	},
+	{
+		"armenian_translit": "yes mrsum yem",
+		"english": "I am freezing."
+	},
+	{
+		"armenian_translit": "jury sarrn e",
+		"english": "The water is too cold."
+	},
+	{
+		"armenian_translit": "yes hima jrits’ durs yem galis",
+		"english": "I am getting out of the water now."
+	},
+	{
+		"armenian_translit": "yes uzum yem gradaran gnal",
+		"english": "I want to go to the library."
+	},
+	{
+		"armenian_translit": "yes uzum yem grakhanut’ gnal",
+		"english": "I want to go to the bookstore."
+	},
+	{
+		"armenian_translit": "yes uzum yem krpak gnal",
+		"english": "I want to go to the newspaper stand."
+	},
+	{
+		"armenian_translit": "yes uzum yem mi girk’ verts’nel",
+		"english": "I want to borrow a book."
+	},
+	{
+		"armenian_translit": "yes uzum yem mi girk’ gnel",
+		"english": "I want to buy a book."
+	},
+	{
+		"armenian_translit": "yes uzum yem mi t’yert’ gnel",
+		"english": "I want to buy a newspaper."
+	},
+	{
+		"armenian_translit": "yes uzum yem gradaran gnal, vorpeszi mi girk’ verts’nem",
+		"english": "I want to go to the library to borrow a book."
+	},
+	{
+		"armenian_translit": "yes uzum yem grakhanut’ gnal, vorpeszi mi girk’ gnem",
+		"english": "I want to go to the bookstore to buy a book."
+	},
+	{
+		"armenian_translit": "yes uzum yem krpak gnal, vorpeszi mi t’yert’ gnem",
+		"english": "I want to go to the kiosk / newspaper stand to buy a newspaper."
+	},
+	{
+		"armenian_translit": "yes uzum yem optika gnam",
+		"english": "I want to go to the optician."
+	},
+	{
+		"armenian_translit": "yes uzum supermarket gnam",
+		"english": "I want to go to the supermarket."
+	},
+	{
+		"armenian_translit": "yes uzum yem hats’i khanut’ gnam",
+		"english": "I want to go to the bakery."
+	},
+	{
+		"armenian_translit": "yes uzum yem mi aknots’ gnem",
+		"english": "I want to buy some glasses."
+	},
+	{
+		"armenian_translit": "yes uzum yem mirg yev banjareghen gnem",
+		"english": "I want to buy fruit and vegetables."
+	},
+	{
+		"armenian_translit": "yes uzum yem hats’ gnem",
+		"english": "I want to buy rolls and bread."
+	},
+	{
+		"armenian_translit": "yes uzum yem optika gnam, vorpeszi aknots’ gnem",
+		"english": "I want to go to the optician to buy glasses."
+	},
+	{
+		"armenian_translit": "yes uzum supermarket gnam, vorpeszi mirg yev banjareghen gnem",
+		"english": "I want to go to the supermarket to buy fruit and vegetables."
+	},
+	{
+		"armenian_translit": "yes uzum yem hats’i khanut’ gnam, vorpeszi hats’ gnem",
+		"english": "I want to go to the baker to buy rolls and bread."
+	},
+	{
+		"armenian_translit": "gna՞nk’ hanrakhanut’",
+		"english": "Shall we go to the department store?"
+	},
+	{
+		"armenian_translit": "yes petk’ e gnumner anem",
+		"english": "I have to go shopping."
+	},
+	{
+		"armenian_translit": "yes shat gnumner unem anelu",
+		"english": "I want to do a lot of shopping."
+	},
+	{
+		"armenian_translit": "vorte՞gh yen grenakan pituyk’nery",
+		"english": "Where are the office supplies?"
+	},
+	{
+		"armenian_translit": "indz tsrarner yev t’ght’yer yen anhrazhesht",
+		"english": "I need envelopes and stationery."
+	},
+	{
+		"armenian_translit": "indz grich’ner yev flomasterner yen anhrazhesht",
+		"english": "I need pens and markers."
+	},
+	{
+		"armenian_translit": "vorte՞gh e kahuyk’y",
+		"english": "Where is the furniture?"
+	},
+	{
+		"armenian_translit": "indz paharan yev zardaseghan e anhrazhesht",
+		"english": "I need a cupboard and a chest of drawers."
+	},
+	{
+		"armenian_translit": "indz graseghan yev darakner e anhrazhesht",
+		"english": "I need a desk and a bookshelf."
+	},
+	{
+		"armenian_translit": "vorte՞gh yen khaghalik’nery",
+		"english": "Where are the toys?"
+	},
+	{
+		"armenian_translit": "indz anhrazhesht e tiknik yev arjuk",
+		"english": "I need a doll and a teddy bear."
+	},
+	{
+		"armenian_translit": "indz anhrazhesht e futboli gndak yev shakhmat",
+		"english": "I need a football and a chess board."
+	},
+	{
+		"armenian_translit": "vorte՞gh yen gortsik’nery",
+		"english": "Where are the tools?"
+	},
+	{
+		"armenian_translit": "indz harkavor e murch yev ak’ts’an",
+		"english": "I need a hammer and a pair of pliers."
+	},
+	{
+		"armenian_translit": "indz harkavor e yev ptutakahan",
+		"english": "I need a drill and a screwdriver."
+	},
+	{
+		"armenian_translit": "vorte՞gh yen zardery",
+		"english": "Where is the jewellery / jewelry (am.) department?"
+	},
+	{
+		"armenian_translit": "indz harkavor yen shght’a yev aparanjan",
+		"english": "I need a chain and a bracelet."
+	},
+	{
+		"armenian_translit": "indz harkavor yen matani yev akanjogher",
+		"english": "I need a ring and earrings."
+	},
+	{
+		"armenian_translit": "menk’ sportayin khanut’ yenk’ p’ntrum",
+		"english": "We’re looking for a sports shop."
+	},
+	{
+		"armenian_translit": "menk’ msagortsi khanut’ yenk’ p’ntrum",
+		"english": "We’re looking for a butcher shop."
+	},
+	{
+		"armenian_translit": "menk’ deghatun yenk’ p’ntrum",
+		"english": "We’re looking for a pharmacy / drugstore (am.)."
+	},
+	{
+		"armenian_translit": "menk’ uzum yenk’ mi gndak gnel",
+		"english": "We want to buy a football."
+	},
+	{
+		"armenian_translit": "menk’ uzum yenk’ yershik gnel",
+		"english": "We want to buy salami."
+	},
+	{
+		"armenian_translit": "menk’ uzum yenk’ degh gnel",
+		"english": "We want to buy medicine."
+	},
+	{
+		"armenian_translit": "menk’ sportayin khanut’ yenk’ p’ntrum, vor mi gndak gnenk’",
+		"english": "We’re looking for a sports shop to buy a football."
+	},
+	{
+		"armenian_translit": "menk’ msagortsi khanut’ yenk’ p’ntrum, vor yershik gnenk’",
+		"english": "We’re looking for a butcher shop to buy salami."
+	},
+	{
+		"armenian_translit": "menk’ deghatun yenk’ p’ntrum, vor degh gnenk’",
+		"english": "We’re looking for a drugstore to buy medicine."
+	},
+	{
+		"armenian_translit": "menk’ voskerich’ yenk’ p’ntrum",
+		"english": "I’m looking for a jeweller / jeweler (am.)."
+	},
+	{
+		"armenian_translit": "menk’ lusankarch’akan khanut’ yenk’ p’ntrum",
+		"english": "I’m looking for a photo equipment store."
+	},
+	{
+		"armenian_translit": "menk’ hrushakagortsakan khanut’ yenk’ p’ntrum",
+		"english": "I’m looking for a confectionery."
+	},
+	{
+		"armenian_translit": "yes mtadir yem mi matani gnem",
+		"english": "I actually plan to buy a ring."
+	},
+	{
+		"armenian_translit": "yes mtadir yem mi film gnem",
+		"english": "I actually plan to buy a roll of film."
+	},
+	{
+		"armenian_translit": "yes mtadir yem mi tort’ gnem",
+		"english": "I actually plan to buy a cake."
+	},
+	{
+		"armenian_translit": "yes voskerich’ yem p’ntrum, vor mi matani gnem",
+		"english": "I’m looking for a jeweler to buy a ring."
+	},
+	{
+		"armenian_translit": "yes lusankarch’akan khanut’ yem p’ntrum, vor mi film gnem",
+		"english": "I’m looking for a photo shop to buy a roll of film."
+	},
+	{
+		"armenian_translit": "yes hrushakagortsakan khanut’ yem p’ntrum, vor mi tort’ gnem",
+		"english": "I’m looking for a confectionery to buy a cake."
+	},
+	{
+		"armenian_translit": "yes uzum yem mi nver gnel",
+		"english": "I want to buy a present."
+	},
+	{
+		"armenian_translit": "bayts’ voch’ t’ank",
+		"english": "But nothing too expensive."
+	},
+	{
+		"armenian_translit": "miguts’ye mi payusa՞k",
+		"english": "Maybe a handbag?"
+	},
+	{
+		"armenian_translit": "vo՞r guynn yek’ uzum",
+		"english": "Which color would you like?"
+	},
+	{
+		"armenian_translit": "sev՞, mokhragu՞yn, t’ye՞ spitak",
+		"english": "Black, brown or white?"
+	},
+	{
+		"armenian_translit": "p’vo՞k’r t’ye me՞ts",
+		"english": "A large one or a small one?"
+	},
+	{
+		"armenian_translit": "kareli՞ e sa tesnem",
+		"english": "May I see this one, please?"
+	},
+	{
+		"armenian_translit": "sa kashvi՞ts’ e",
+		"english": "Is it made of leather?"
+	},
+	{
+		"armenian_translit": "t’ye՞ arhestakan kashvits’",
+		"english": "Or is it made of plastic?"
+	},
+	{
+		"armenian_translit": "kashve iharke",
+		"english": "Of leather, of course."
+	},
+	{
+		"armenian_translit": "sa hatkapes lav voraki e",
+		"english": "This is very good quality."
+	},
+	{
+		"armenian_translit": "yev payusaky iskapes shat ezhan e",
+		"english": "And the bag is really very reasonable."
+	},
+	{
+		"armenian_translit": "sa indz dur e galis",
+		"english": "I like it."
+	},
+	{
+		"armenian_translit": "sa verts’num yem",
+		"english": "I’ll take it."
+	},
+	{
+		"armenian_translit": "karo՞gh yem p’vokhanakel",
+		"english": "Can I exchange it if needed?"
+	},
+	{
+		"armenian_translit": "iharke",
+		"english": "Of course."
+	},
+	{
+		"armenian_translit": "menk’ vorpes nver kp’at’yet’avorenk’",
+		"english": "We’ll gift wrap it."
+	},
+	{
+		"armenian_translit": "ayntegh dramarkghn e",
+		"english": "The cashier is over there."
+	},
+	{
+		"armenian_translit": "i՞nch’ yek’ masnagitut’yamb",
+		"english": "What do you do for a living?"
+	},
+	{
+		"armenian_translit": "amusins bzhishk e masnagitut’yamb",
+		"english": "My husband is a doctor."
+	},
+	{
+		"armenian_translit": "yes kes orov buzhk’uyr yem ashkhatum",
+		"english": "I work as a nurse part-time."
+	},
+	{
+		"armenian_translit": "shutov kensat’voshak yenk’ stanalu",
+		"english": "We will soon receive our pension."
+	},
+	{
+		"armenian_translit": "bayts’ harkery bardzr yen",
+		"english": "But taxes are high."
+	},
+	{
+		"armenian_translit": "yev bzhshkakan apahovagrut’yuny bardzr e",
+		"english": "And health insurance is expensive."
+	},
+	{
+		"armenian_translit": "i՞nch’ yes uzum darrnal",
+		"english": "What would you like to become some day?"
+	},
+	{
+		"armenian_translit": "yes inzhener yem uzum darrnal",
+		"english": "I would like to become an engineer."
+	},
+	{
+		"armenian_translit": "yes uzum hamalsaranum sovorel",
+		"english": "I want to go to college."
+	},
+	{
+		"armenian_translit": "yes praktikant yem",
+		"english": "I am an intern."
+	},
+	{
+		"armenian_translit": "yes shat ch’yem vastakum",
+		"english": "I do not earn much."
+	},
+	{
+		"armenian_translit": "yes artasahmanum praktika yem ants’kats’num",
+		"english": "I am doing an internship abroad."
+	},
+	{
+		"armenian_translit": "sa im direktorn e",
+		"english": "That is my boss."
+	},
+	{
+		"armenian_translit": "yes hacheli gortsynkerner unem",
+		"english": "I have nice colleagues."
+	},
+	{
+		"armenian_translit": "kesorin menk’ misht miasin chasharan gnum yenk’",
+		"english": "We always go to the cafeteria at noon."
+	},
+	{
+		"armenian_translit": "yes ashkhatank’i tegh yem p’ntrum",
+		"english": "I am looking for a job."
+	},
+	{
+		"armenian_translit": "arden mi tari e, vor gortsazurk yem",
+		"english": "I have already been unemployed for a year."
+	},
+	{
+		"armenian_translit": "ays yerkrum shat yen gortsazurknery",
+		"english": "There are too many unemployed people in this country."
+	},
+	{
+		"armenian_translit": "hachuyk’ unenal",
+		"english": "to feel like / want to"
+	},
+	{
+		"armenian_translit": "menk’ hachuyk’ unenk’",
+		"english": "We feel like. / We want to."
+	},
+	{
+		"armenian_translit": "menk’ tramadrut’yun ch’unenk’",
+		"english": "We don’t feel like. / We do’t want to."
+	},
+	{
+		"armenian_translit": "vakh unenal",
+		"english": "to be afraid"
+	},
+	{
+		"armenian_translit": "yes vakhenum yem",
+		"english": "I’m afraid."
+	},
+	{
+		"armenian_translit": "yes ch’yem vakhenum",
+		"english": "I am not afraid."
+	},
+	{
+		"armenian_translit": "zhamanak unenal",
+		"english": "to have time"
+	},
+	{
+		"armenian_translit": "na zhamanak uni",
+		"english": "He has time."
+	},
+	{
+		"armenian_translit": "na zhamanak ch’uni",
+		"english": "He has no time."
+	},
+	{
+		"armenian_translit": "dzandzruyt’ unenal",
+		"english": "to be bored"
+	},
+	{
+		"armenian_translit": "nra hamar dzandzrali e",
+		"english": "She is bored."
+	},
+	{
+		"armenian_translit": "nra hamar dzandzrali ch’e",
+		"english": "She is not bored."
+	},
+	{
+		"armenian_translit": "k’aghts’ats linel",
+		"english": "to be hungry"
+	},
+	{
+		"armenian_translit": "k’aghts’a՞ts yek’",
+		"english": "Are you hungry?"
+	},
+	{
+		"armenian_translit": "k’aghts’a՞ts ch’yek’",
+		"english": "Aren’t you hungry?"
+	},
+	{
+		"armenian_translit": "tsaravel",
+		"english": "to be thirsty"
+	},
+	{
+		"armenian_translit": "na tsarav e",
+		"english": "They are thirsty."
+	},
+	{
+		"armenian_translit": "na tsarav ch’e",
+		"english": "They are not thirsty."
+	},
+	{
+		"armenian_translit": "yes zhamadrvats yem bzhshki het",
+		"english": "I have a doctor’s appointment."
+	},
+	{
+		"armenian_translit": "yes zhamadrvats yem zhamy tasin",
+		"english": "I have the appointment at ten o’clock."
+	},
+	{
+		"armenian_translit": "inch’pe՞s e dzer anuny",
+		"english": "What is your name?"
+	},
+	{
+		"armenian_translit": "khndrum yem spasek’ spasasrahum",
+		"english": "Please take a seat in the waiting room."
+	},
+	{
+		"armenian_translit": "bzhishky kga hima",
+		"english": "The doctor is on his way."
+	},
+	{
+		"armenian_translit": "vorte՞gh yek’ apahovagrvats",
+		"english": "What insurance company do you belong to?"
+	},
+	{
+		"armenian_translit": "i՞nch’ karogh yem anel dzez hamar",
+		"english": "What can I do for you?"
+	},
+	{
+		"armenian_translit": "ts’aver une՞k’",
+		"english": "Do you have any pain?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e ts’avum",
+		"english": "Where does it hurt?"
+	},
+	{
+		"armenian_translit": "yes misht mejk’i ts’aver unem",
+		"english": "I always have back pain."
+	},
+	{
+		"armenian_translit": "yes glkhats’aver unem",
+		"english": "I often have headaches."
+	},
+	{
+		"armenian_translit": "yes vorovayni ts’aver unem",
+		"english": "I sometimes have stomach aches."
+	},
+	{
+		"armenian_translit": "khndrum yem azatek’ marmni verin masy",
+		"english": "Remove your top!"
+	},
+	{
+		"armenian_translit": "parrkek’ ankoghnu vra",
+		"english": "Lie down on the examining table."
+	},
+	{
+		"armenian_translit": "aryan chnshumy normal e",
+		"english": "Your blood pressure is okay."
+	},
+	{
+		"armenian_translit": "yes dzez nerarkum yem",
+		"english": "I will give you an injection."
+	},
+	{
+		"armenian_translit": "yes dzez haber yem nshanakum",
+		"english": "I will give you some pills."
+	},
+	{
+		"armenian_translit": "yes dzez deghatoms yem grum deghatan hamar",
+		"english": "I am giving you a prescription for the pharmacy."
+	},
+	{
+		"armenian_translit": "yes mi mard yem nkarum",
+		"english": "I am drawing a man."
+	},
+	{
+		"armenian_translit": "skzbum glukhy",
+		"english": "First the head."
+	},
+	{
+		"armenian_translit": "ayd mardy glkhark e drel",
+		"english": "The man is wearing a hat."
+	},
+	{
+		"armenian_translit": "mazery ch’yen yerevum",
+		"english": "One cannot see the hair."
+	},
+	{
+		"armenian_translit": "akanjnery nuynpes ch’yen yerevum",
+		"english": "One cannot see the ears either."
+	},
+	{
+		"armenian_translit": "mejk’y nuynpes ch’i yerevum",
+		"english": "One cannot see his back either."
+	},
+	{
+		"armenian_translit": "yes nkarum yem ach’k’yery yev berany",
+		"english": "I am drawing the eyes and the mouth."
+	},
+	{
+		"armenian_translit": "mardy parum e yev tsitsaghum",
+		"english": "The man is dancing and laughing."
+	},
+	{
+		"armenian_translit": "mardy yerkar k’it’ uni",
+		"english": "The man has a long nose."
+	},
+	{
+		"armenian_translit": "nra dzerrk’in mi p’ayt ka",
+		"english": "He is carrying a cane in his hands."
+	},
+	{
+		"armenian_translit": "nra paranots’in mi sharf e p’at’at’ats",
+		"english": "He is also wearing a scarf around his neck."
+	},
+	{
+		"armenian_translit": "dzmerr e yev ts’urt",
+		"english": "It is winter and it is cold."
+	},
+	{
+		"armenian_translit": "dzerrk’yery amrakazm yen",
+		"english": "The arms are athletic."
+	},
+	{
+		"armenian_translit": "votk’yery nuynpes amrakazm yen",
+		"english": "The legs are also athletic."
+	},
+	{
+		"armenian_translit": "mardy dzyunits’ e patrastvats",
+		"english": "The man is made of snow."
+	},
+	{
+		"armenian_translit": "na vartik’ yev verarku ch’i krum",
+		"english": "He is neither wearing pants nor a coat."
+	},
+	{
+		"armenian_translit": "bayts’ mardy ch’i mrsum",
+		"english": "But the man is not freezing."
+	},
+	{
+		"armenian_translit": "na dznemard e",
+		"english": "He is a snowman."
+	},
+	{
+		"armenian_translit": "vorte՞gh e motaka p’vosty",
+		"english": "Where is the nearest post office?"
+	},
+	{
+		"armenian_translit": "motaka p’vosty herru e aysteghits’",
+		"english": "Is the post office far from here?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e motaka p’vostarkghy",
+		"english": "Where is the nearest mail box?"
+	},
+	{
+		"armenian_translit": "indz mi k’ani namakanish e harkavor",
+		"english": "I need a couple of stamps."
+	},
+	{
+		"armenian_translit": "mi bats’iki yev namaki hamar",
+		"english": "For a card and a letter."
+	},
+	{
+		"armenian_translit": "i՞nch’ arzhe p’vostayin arzhek’y minch’yev amerika",
+		"english": "How much is the postage to America?"
+	},
+	{
+		"armenian_translit": "tsanrots’y i՞nch’ tsanrut’yun uni",
+		"english": "How heavy is the package?"
+	},
+	{
+		"armenian_translit": "karo՞gh yem odayin chanaparhov ugharkel",
+		"english": "Can I send it by air mail?"
+	},
+	{
+		"armenian_translit": "inch’k’a՞n ktevi minch’yev hasni",
+		"english": "How long will it take to get there?"
+	},
+	{
+		"armenian_translit": "vorteghi՞ts’ karogh yem zangaharel",
+		"english": "Where can I make a call?14"
+	},
+	{
+		"armenian_translit": "vorte՞gh e motaka herrakhosakhts’iky",
+		"english": "Where is the nearest telephone booth?"
+	},
+	{
+		"armenian_translit": "herrakhosi k’arter une՞k’",
+		"english": "Do you have calling cards?"
+	},
+	{
+		"armenian_translit": "herrakhosi hamarneri girk’ une՞k’",
+		"english": "Do you have a telephone directory?"
+	},
+	{
+		"armenian_translit": "avstriayi mijk’aghak’ayin kody gite՞k’",
+		"english": "Do you know the area code for Austria?"
+	},
+	{
+		"armenian_translit": "mek vayrkyan, yes nayem",
+		"english": "One moment, I’ll look it up."
+	},
+	{
+		"armenian_translit": "gitsy misht zbaghvats e",
+		"english": "The line is always busy."
+	},
+	{
+		"armenian_translit": "vo՞r herrakhosahamarn yek’ zangaharel",
+		"english": "Which number did you dial?"
+	},
+	{
+		"armenian_translit": "duk’ petk’ e skzbum zro havak’yek’",
+		"english": "You have to dial a zero first!"
+	},
+	{
+		"armenian_translit": "yes uzum yem hashvehamar bats’yel",
+		"english": "I would like to open an account."
+	},
+	{
+		"armenian_translit": "aystegh im andznagirn e",
+		"english": "Here is my passport."
+	},
+	{
+		"armenian_translit": "yev aha im hasts’yen",
+		"english": "And here is my address."
+	},
+	{
+		"armenian_translit": "yes uzum yem im hashvehamarin gumar p’vokhants’yel",
+		"english": "I want to deposit money in my account."
+	},
+	{
+		"armenian_translit": "yes uzum yem im hashvi hamarits’ gumar hanel",
+		"english": "I want to withdraw money from my account."
+	},
+	{
+		"armenian_translit": "yes uzum yem im hashvi hamarits’ andorragir hanel",
+		"english": "I want to pick up the bank statements."
+	},
+	{
+		"armenian_translit": "yes uzum yem champ’vordakan toms handznel",
+		"english": "I want to cash a traveller’s cheque / traveler’s check (am.)."
+	},
+	{
+		"armenian_translit": "vork’a՞n yen vardzavcharnery",
+		"english": "What are the fees?"
+	},
+	{
+		"armenian_translit": "vorte՞gh storagrem",
+		"english": "Where should I sign?"
+	},
+	{
+		"armenian_translit": "yes spasum yem gumari p’vokhants’um germaniayits’",
+		"english": "I’m expecting a transfer from Germany."
+	},
+	{
+		"armenian_translit": "sa im hashvi hamarn e",
+		"english": "Here is my account number."
+	},
+	{
+		"armenian_translit": "gumary p’vokhants’umy katarvel e",
+		"english": "Has the money arrived?"
+	},
+	{
+		"armenian_translit": "yes uzum yem ays gumary p’vokhanakel",
+		"english": "I want to change money."
+	},
+	{
+		"armenian_translit": "indz amerikyan dollar e harkavor",
+		"english": "I need US-Dollars."
+	},
+	{
+		"armenian_translit": "khndrum yem indz manr dramanishner tvek’",
+		"english": "Could you please give me small notes / bills (am.)?"
+	},
+	{
+		"armenian_translit": "aystegh bankomat ka՞",
+		"english": "Is there a cashpoint / an ATM (am.)?"
+	},
+	{
+		"armenian_translit": "inch’k’a՞n gumar kareli e hanel bankomatits’",
+		"english": "How much money can one withdraw?"
+	},
+	{
+		"armenian_translit": "vo՞r varkayin k’artery kareli e aystegh ogtagortsel",
+		"english": "Which credit cards can one use?"
+	},
+	{
+		"armenian_translit": "arrajin amisy hunvarn e",
+		"english": "The first month is January."
+	},
+	{
+		"armenian_translit": "yerkrord amisy p’yetrvarn e",
+		"english": "The second month is February."
+	},
+	{
+		"armenian_translit": "yerrord amisy martn e",
+		"english": "The third month is March."
+	},
+	{
+		"armenian_translit": "ch’vorrord amisy apriln e",
+		"english": "The fourth month is April."
+	},
+	{
+		"armenian_translit": "hingerord amisy mayisn e",
+		"english": "The fifth month is May."
+	},
+	{
+		"armenian_translit": "vets’yerord amisy hunisn e",
+		"english": "The sixth month is June."
+	},
+	{
+		"armenian_translit": "vets’ amisnery miasin kes tari e",
+		"english": "Six months make half a year."
+	},
+	{
+		"armenian_translit": "hunvar, p’yetrvar, mart,",
+		"english": "January, February, March,15"
+	},
+	{
+		"armenian_translit": "april, mayis, hunis",
+		"english": "April, May and June.16"
+	},
+	{
+		"armenian_translit": "yot’yerord amisy hulisn e",
+		"english": "The seventh month is July."
+	},
+	{
+		"armenian_translit": "ut’yerord amisy ogostosn e",
+		"english": "The eighth month is August."
+	},
+	{
+		"armenian_translit": "inerord amisy septembern e",
+		"english": "The ninth month is September."
+	},
+	{
+		"armenian_translit": "tasnerord amisy hoktembern e",
+		"english": "The tenth month is October."
+	},
+	{
+		"armenian_translit": "tasnmekerord amisy noyembern e",
+		"english": "The eleventh month is November."
+	},
+	{
+		"armenian_translit": "tasnerkuerrord amisy dektembern e",
+		"english": "The twelfth month is December."
+	},
+	{
+		"armenian_translit": "tasnerku amisnery miasin mek tari e",
+		"english": "Twelve months make a year."
+	},
+	{
+		"armenian_translit": "hulis, ogostos, september",
+		"english": "July, August, September,17"
+	},
+	{
+		"armenian_translit": "hoktember, noyember, dektember",
+		"english": "October, November and December.18"
+	},
+	{
+		"armenian_translit": "sovorel",
+		"english": "to learn"
+	},
+	{
+		"armenian_translit": "ashakertnery shat yen sovorum",
+		"english": "Do the students learn a lot?"
+	},
+	{
+		"armenian_translit": "voch’ , k’ich’ yen sovorum",
+		"english": "No, they learn a little."
+	},
+	{
+		"armenian_translit": "harts’nel",
+		"english": "to ask"
+	},
+	{
+		"armenian_translit": "usuts’ch’in hacha՞kh yes harts’num",
+		"english": "Do you often ask the teacher questions?"
+	},
+	{
+		"armenian_translit": "voch’, yes nran hachakh ch’yem harts’num",
+		"english": "No, I don’t ask him questions often."
+	},
+	{
+		"armenian_translit": "pataskhanel",
+		"english": "to reply"
+	},
+	{
+		"armenian_translit": "pataskhanek’, khndrum yem",
+		"english": "Please reply."
+	},
+	{
+		"armenian_translit": "yes pataskhanum yem",
+		"english": "I reply."
+	},
+	{
+		"armenian_translit": "ashkhatel",
+		"english": "to work"
+	},
+	{
+		"armenian_translit": "ays pahin na ashkhatum e",
+		"english": "Is he working right now?"
+	},
+	{
+		"armenian_translit": "ayo, na ays pahin ashkhatum e",
+		"english": "Yes, he is working right now."
+	},
+	{
+		"armenian_translit": "gal",
+		"english": "to come"
+	},
+	{
+		"armenian_translit": "gali՞s yek’",
+		"english": "Are you coming?"
+	},
+	{
+		"armenian_translit": "ayo, menk’ galis yenk’ shutov",
+		"english": "Yes, we are coming soon."
+	},
+	{
+		"armenian_translit": "aprel",
+		"english": "to live"
+	},
+	{
+		"armenian_translit": "berrlinu՞m yek’ aprum",
+		"english": "Do you live in Berlin?"
+	},
+	{
+		"armenian_translit": "ayo, yes aprum yem berrlinum",
+		"english": "Yes, I live in Berlin."
+	},
+	{
+		"armenian_translit": "yes mi hobbi unem",
+		"english": "I have a hobby."
+	},
+	{
+		"armenian_translit": "yes t’yenis yem khaghum",
+		"english": "I play tennis."
+	},
+	{
+		"armenian_translit": "vorte՞gh ka aystegh t’yenisi dasht",
+		"english": "Where is the tennis court?"
+	},
+	{
+		"armenian_translit": "du hobbi une՞s",
+		"english": "Do you have a hobby?"
+	},
+	{
+		"armenian_translit": "yes futbol yem khaghum",
+		"english": "I play football / soccer (am.)."
+	},
+	{
+		"armenian_translit": "vorte՞gh ka aystegh futboli dasht",
+		"english": "Where is the football / soccer (am.) field?"
+	},
+	{
+		"armenian_translit": "im dzerrk’y ts’avum e",
+		"english": "My arm hurts."
+	},
+	{
+		"armenian_translit": "im votk’n u dzerrk’n el e ts’avum",
+		"english": "My foot and hand also hurt."
+	},
+	{
+		"armenian_translit": "vorte՞gh ka aystegh bzhishk",
+		"english": "Is there a doctor?"
+	},
+	{
+		"armenian_translit": "yes mek’yena unem",
+		"english": "I have a car / an automobile."
+	},
+	{
+		"armenian_translit": "yes el motots’ikl unem",
+		"english": "I also have a motorcycle."
+	},
+	{
+		"armenian_translit": "vorte՞gh ka aystegh mek’yenayi kangnets’man tegh",
+		"english": "Where could I park?"
+	},
+	{
+		"armenian_translit": "yes sviter unem",
+		"english": "I have a sweater."
+	},
+	{
+		"armenian_translit": "yes unem naev bachkon yev jins",
+		"english": "I also have a jacket and a pair of jeans."
+	},
+	{
+		"armenian_translit": "vorte՞gh e lvats’k’i mek’yenan",
+		"english": "Where is the washing machine?"
+	},
+	{
+		"armenian_translit": "yes ap’se unem",
+		"english": "I have a plate."
+	},
+	{
+		"armenian_translit": "yes unem mi danak, patarrak’agh yev mi gdal",
+		"english": "I have a knife, a fork and a spoon."
+	},
+	{
+		"armenian_translit": "vorte՞gh e aghn u pghpeghy",
+		"english": "Where is the salt and pepper?"
+	},
+	{
+		"armenian_translit": "yes barry ch’yem haskanum",
+		"english": "I don’t understand the word."
+	},
+	{
+		"armenian_translit": "yes nakhadasut’yuny ch’yem haskanum",
+		"english": "I don’t understand the sentence."
+	},
+	{
+		"armenian_translit": "yes imasty ch’yem haskanum",
+		"english": "I don’t understand the meaning."
+	},
+	{
+		"armenian_translit": "usuts’ich’",
+		"english": "the teacher"
+	},
+	{
+		"armenian_translit": "usuts’ch’in haskanu՞m yek’",
+		"english": "Do you understand the teacher?"
+	},
+	{
+		"armenian_translit": "ayo, yes nran lav yem haskanum",
+		"english": "Yes, I understand him well."
+	},
+	{
+		"armenian_translit": "usuts’ch’uhi",
+		"english": "the teacher19"
+	},
+	{
+		"armenian_translit": "usuts’ch’uhun haskanu՞m yek’",
+		"english": "Do you understand the teacher?20"
+	},
+	{
+		"armenian_translit": "ayo, yes nran lav yem haskanum",
+		"english": "Yes, I understand her well."
+	},
+	{
+		"armenian_translit": "mardik",
+		"english": "the people"
+	},
+	{
+		"armenian_translit": "ays mardkants’ haskanu՞m yek’",
+		"english": "Do you understand the people?"
+	},
+	{
+		"armenian_translit": "voch’, yes nrants’ lav ch’yem haskanum",
+		"english": "No, I don’t understand them so well."
+	},
+	{
+		"armenian_translit": "ynkeruhi",
+		"english": "the girlfriend"
+	},
+	{
+		"armenian_translit": "ynkeruhi une՞s",
+		"english": "Do you have a girlfriend?"
+	},
+	{
+		"armenian_translit": "ayo, yes mi ynkeruhi unem",
+		"english": "Yes, I do."
+	},
+	{
+		"armenian_translit": "dustr",
+		"english": "the daughter21"
+	},
+	{
+		"armenian_translit": "dustr une՞s",
+		"english": "Do you have a daughter?"
+	},
+	{
+		"armenian_translit": "voch’, yes dustr ch’unem",
+		"english": "No, I don’t."
+	},
+	{
+		"armenian_translit": "ays matanin t’a՞nk e",
+		"english": "Is the ring expensive?"
+	},
+	{
+		"armenian_translit": "voch’, da arzhe miayn haryur yevro",
+		"english": "No, it costs only one hundred Euros."
+	},
+	{
+		"armenian_translit": "bayts’ yes miayn hisun unem",
+		"english": "But I have only fifty."
+	},
+	{
+		"armenian_translit": "arden patra՞st yes",
+		"english": "Are you finished?"
+	},
+	{
+		"armenian_translit": "voch’, derr voch’",
+		"english": "No, not yet."
+	},
+	{
+		"armenian_translit": "bayts’ shotov patrast klinem",
+		"english": "But I’ll be finished soon."
+	},
+	{
+		"armenian_translit": "apur uzu՞m yes",
+		"english": "Do you want some more soup?"
+	},
+	{
+		"armenian_translit": "voch’, yes el ch’yem uzum",
+		"english": "No, I don’t want anymore."
+	},
+	{
+		"armenian_translit": "bayts’ mek paghpaghak",
+		"english": "But another ice cream."
+	},
+	{
+		"armenian_translit": "aystegh arden yerka՞r yes aprum",
+		"english": "Have you lived here long?"
+	},
+	{
+		"armenian_translit": "voch’, derr mek amis e",
+		"english": "No, only for a month."
+	},
+	{
+		"armenian_translit": "bayts’ yes arden shat mardkants’ yem chanach’um",
+		"english": "But I already know a lot of people."
+	},
+	{
+		"armenian_translit": "vaghy tu՞n yes gnum",
+		"english": "Are you driving home tomorrow?"
+	},
+	{
+		"armenian_translit": "voch’, shabat’averjin",
+		"english": "No, only on the weekend."
+	},
+	{
+		"armenian_translit": "bayts’ yes kiraki ory arden het yem galis",
+		"english": "But I will be back on Sunday."
+	},
+	{
+		"armenian_translit": "k’vo dustry arden ch’ap’aha՞s e",
+		"english": "Is your daughter an adult?"
+	},
+	{
+		"armenian_translit": "voch’, na derr tasnyot’ tarekan e",
+		"english": "No, she is only seventeen."
+	},
+	{
+		"armenian_translit": "bayts’ na arden ynker uni",
+		"english": "But she already has a boyfriend."
+	},
+	{
+		"armenian_translit": "yes - im",
+		"english": "I – my"
+	},
+	{
+		"armenian_translit": "yes im banalin ch’yem gtnum",
+		"english": "I can’t find my `key`."
+	},
+	{
+		"armenian_translit": "yes im tomsy ch’yem gtnum",
+		"english": "I can’t find my ticket."
+	},
+	{
+		"armenian_translit": "du - k’vo",
+		"english": "you – your"
+	},
+	{
+		"armenian_translit": "du k’vo banalin gte՞l yes",
+		"english": "Have you found your `key`?"
+	},
+	{
+		"armenian_translit": "du k’vo tomsy gte՞l yes",
+		"english": "Have you found your ticket?"
+	},
+	{
+		"armenian_translit": "na - nra",
+		"english": "he – his"
+	},
+	{
+		"armenian_translit": "du gite՞s nra banalin vortegh e",
+		"english": "Do you know where his `key` is?"
+	},
+	{
+		"armenian_translit": "du gite՞s nra tomsy vortegh e",
+		"english": "Do you know where his ticket is?"
+	},
+	{
+		"armenian_translit": "na - ir",
+		"english": "she – her"
+	},
+	{
+		"armenian_translit": "nra gumary ch’ka",
+		"english": "Her money is gone."
+	},
+	{
+		"armenian_translit": "yev ir varkayin k’artn el ch’ka",
+		"english": "And her credit card is also gone."
+	},
+	{
+		"armenian_translit": "menk’ - mer",
+		"english": "we – our"
+	},
+	{
+		"armenian_translit": "mer papiky hivand e",
+		"english": "Our grandfather is ill."
+	},
+	{
+		"armenian_translit": "mer tatiky arroghj e",
+		"english": "Our grandmother is healthy."
+	},
+	{
+		"armenian_translit": "duk’ - dzer",
+		"english": "you – your22"
+	},
+	{
+		"armenian_translit": "vorte՞gh e dzer hayriky",
+		"english": "Children, where is your father?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e dzer mayriky",
+		"english": "Children, where is your mother?"
+	},
+	{
+		"armenian_translit": "aknots’",
+		"english": "the glasses"
+	},
+	{
+		"armenian_translit": "na ir aknots’y morrats’yel e",
+		"english": "He has forgotten his glasses."
+	},
+	{
+		"armenian_translit": "vorte՞gh e nra aknots’y",
+		"english": "Where has he left his glasses?"
+	},
+	{
+		"armenian_translit": "zhamats’uyts’",
+		"english": "the clock"
+	},
+	{
+		"armenian_translit": "nra zhamats’uyts’ p’ch’ats’yel e",
+		"english": "His clock isn’t working."
+	},
+	{
+		"armenian_translit": "zhamats’uyts’y kakhvats e patits’",
+		"english": "The clock hangs on the wall."
+	},
+	{
+		"armenian_translit": "andznagir",
+		"english": "the passport"
+	},
+	{
+		"armenian_translit": "na korts’rel e ir andznagiry",
+		"english": "He has lost his passport."
+	},
+	{
+		"armenian_translit": "vorte՞gh e nra andznagiry",
+		"english": "Where is his passport then?"
+	},
+	{
+		"armenian_translit": "na - ir",
+		"english": "they – their"
+	},
+	{
+		"armenian_translit": "yerekhanery ch’yen karoghanum gtnel irents’ tsnoghnerin",
+		"english": "The children cannot find their parents."
+	},
+	{
+		"armenian_translit": "aha galis yen nrants’ tsnoghnery",
+		"english": "Here come their parents!"
+	},
+	{
+		"armenian_translit": "duk’ - dzer",
+		"english": "you – your23"
+	},
+	{
+		"armenian_translit": "inch’pes er dzer chambordut’yuny, paron myuller",
+		"english": "How was your trip, Mr. Miller?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e dzer kiny, paron myuller",
+		"english": "Where is your wife, Mr. Miller?"
+	},
+	{
+		"armenian_translit": "duk’ - dzer",
+		"english": "you – your24"
+	},
+	{
+		"armenian_translit": "inch’pe՞s er dzer chambordut’yuny, tikin shmid",
+		"english": "How was your trip, Mrs. Smith?"
+	},
+	{
+		"armenian_translit": "vorte՞gh e dzer amusiny, tikin shmid",
+		"english": "Where is your husband, Mrs. Smith?"
+	},
+	{
+		"armenian_translit": "mets yev p’vok’r",
+		"english": "big and small"
+	},
+	{
+		"armenian_translit": "p’ighy mets e",
+		"english": "The elephant is big."
+	},
+	{
+		"armenian_translit": "muky p’vok’r e",
+		"english": "The mouse is small."
+	},
+	{
+		"armenian_translit": "mut’ yev lusavor",
+		"english": "dark and bright"
+	},
+	{
+		"armenian_translit": "gishery mut’ e",
+		"english": "The night is dark."
+	},
+	{
+		"armenian_translit": "ory paytsarr e",
+		"english": "The day is bright."
+	},
+	{
+		"armenian_translit": "tser yev yeritasard",
+		"english": "old and young"
+	},
+	{
+		"armenian_translit": "mer papiky shat tser e",
+		"english": "Our grandfather is very old."
+	},
+	{
+		"armenian_translit": "yot’anasun tari arraj na yeritasard er",
+		"english": "70 years ago he was still young."
+	},
+	{
+		"armenian_translit": "geghets’ik yev tgegh",
+		"english": "beautiful and ugly"
+	},
+	{
+		"armenian_translit": "t’it’yerry geghets’ik e",
+		"english": "The butterfly is beautiful."
+	},
+	{
+		"armenian_translit": "sardy tgegh e",
+		"english": "The spider is ugly."
+	},
+	{
+		"armenian_translit": "ger yev nihar",
+		"english": "fat and thin"
+	},
+	{
+		"armenian_translit": "kiny haryur kilogramov ger e",
+		"english": "A woman who weighs a hundred kilos is fat."
+	},
+	{
+		"armenian_translit": "tghamardy hisun kilogramov nihar e",
+		"english": "A man who weighs fifty kilos is thin."
+	},
+	{
+		"armenian_translit": "t’ank yev ezhan",
+		"english": "expensive and cheap"
+	},
+	{
+		"armenian_translit": "mek’yenan t’ank e",
+		"english": "The car is expensive."
+	},
+	{
+		"armenian_translit": "t’yert’y ezhan e",
+		"english": "The newspaper is cheap."
+	},
+	{
+		"armenian_translit": "yes ankoghnu karik’ unem",
+		"english": "I need a bed."
+	},
+	{
+		"armenian_translit": "yes uzum yem k’nel",
+		"english": "I want to sleep."
+	},
+	{
+		"armenian_translit": "aystegh mahchakal ka՞",
+		"english": "Is there a bed here?"
+	},
+	{
+		"armenian_translit": "yes chragi karik’ unem",
+		"english": "I need a lamp."
+	},
+	{
+		"armenian_translit": "yes uzum yem kardal",
+		"english": "I want to read."
+	},
+	{
+		"armenian_translit": "aystegh chrag ka՞",
+		"english": "Is there a lamp here?"
+	},
+	{
+		"armenian_translit": "yes herrakhosi karik’ unem",
+		"english": "I need a telephone."
+	},
+	{
+		"armenian_translit": "yes uzum yem zangaharel",
+		"english": "I want to make a call."
+	},
+	{
+		"armenian_translit": "aystegh herrakhos ka՞",
+		"english": "Is there a telephone here?"
+	},
+	{
+		"armenian_translit": "indz fotokhts’ik e harkavor",
+		"english": "I need a camera."
+	},
+	{
+		"armenian_translit": "yes uzum yem lusankarel",
+		"english": "I want to take photographs."
+	},
+	{
+		"armenian_translit": "aystegh fotokhts’ik ka՞",
+		"english": "Is there a camera here?"
+	},
+	{
+		"armenian_translit": "indz hamakargich’ e anhrazhesht",
+		"english": "I need a computer."
+	},
+	{
+		"armenian_translit": "yes uzum yem e-mail ugharkel",
+		"english": "I want to send an email."
+	},
+	{
+		"armenian_translit": "aystegh hamakargich’ ka՞",
+		"english": "Is there a computer here?"
+	},
+	{
+		"armenian_translit": "indz grich’ e harkavor",
+		"english": "I need a pen."
+	},
+	{
+		"armenian_translit": "yes uzum yem inch’ vor ban grel",
+		"english": "I want to write something."
+	},
+	{
+		"armenian_translit": "aystegh t’ught’ yev grich’ ka՞",
+		"english": "Is there a sheet of paper and a pen here?"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ tskhel",
+		"english": "Would you like to smoke?"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ parel",
+		"english": "Would you like to dance?25"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ zbosnel",
+		"english": "Would you like to go for a walk?"
+	},
+	{
+		"armenian_translit": "yes uzum yem tskhel",
+		"english": "I would like to smoke."
+	},
+	{
+		"armenian_translit": "tskhakhot uzu՞m yes",
+		"english": "Would you like a cigarette?"
+	},
+	{
+		"armenian_translit": "na varrich’ e uzum",
+		"english": "He wants a light."
+	},
+	{
+		"armenian_translit": "na inch’ vor ban e uzum khmel",
+		"english": "I want to drink something."
+	},
+	{
+		"armenian_translit": "yes uzum yem inch’ vor ban utel",
+		"english": "I want to eat something."
+	},
+	{
+		"armenian_translit": "yes uzum yem mi k’ich’ hangstanal",
+		"english": "I want to relax a little."
+	},
+	{
+		"armenian_translit": "yes uzum yem dzez inch’ vor ban harts’nel",
+		"english": "I want to ask you something."
+	},
+	{
+		"armenian_translit": "yes uzum yem dzez inch’ vor ban khndrel",
+		"english": "I want to ask you for something."
+	},
+	{
+		"armenian_translit": "yes uzum yem dzez hravirel",
+		"english": "I want to treat you to something."
+	},
+	{
+		"armenian_translit": "nerets’yek’, i՞nch’ yek’ uzum",
+		"english": "What would you like?"
+	},
+	{
+		"armenian_translit": "surch uzu՞m yek’",
+		"english": "Would you like a coffee?"
+	},
+	{
+		"armenian_translit": "t’ye՞ aveli lav e t’yey",
+		"english": "Or do you prefer a tea?"
+	},
+	{
+		"armenian_translit": "menk’ uzum yenk’ tun gnal",
+		"english": "We want to drive home."
+	},
+	{
+		"armenian_translit": "tak’si uzu՞m yek’",
+		"english": "Do you want a taxi?"
+	},
+	{
+		"armenian_translit": "nrank’ uzum yen zangaharel",
+		"english": "They want to make a call."
+	},
+	{
+		"armenian_translit": "duk’ i՞nch’ yek’ uzum",
+		"english": "What do you want to do?"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ futbol khaghal",
+		"english": "Do you want to play football / soccer (am.)?"
+	},
+	{
+		"armenian_translit": "uzu՞k’ yek’ ynkerneri ayts’yelel",
+		"english": "Do you want to visit friends?"
+	},
+	{
+		"armenian_translit": "uzenal, ts’ankanal",
+		"english": "to want"
+	},
+	{
+		"armenian_translit": "yes ch’yem uzum ush gal",
+		"english": "I don’t want to arrive late."
+	},
+	{
+		"armenian_translit": "yes ch’yem uzum ayntegh gnal",
+		"english": "I don’t want to go there."
+	},
+	{
+		"armenian_translit": "yes uzum yem tun gnal",
+		"english": "I want to go home."
+	},
+	{
+		"armenian_translit": "yes uzum yem tany mnal",
+		"english": "I want to stay at home."
+	},
+	{
+		"armenian_translit": "yes uzum yem miaynak linel",
+		"english": "I want to be alone."
+	},
+	{
+		"armenian_translit": "uzo՞m yes aystegh mnal",
+		"english": "Do you want to stay here?"
+	},
+	{
+		"armenian_translit": "uzu՞m yes aystegh utel",
+		"english": "Do you want to eat here?"
+	},
+	{
+		"armenian_translit": "uzu՞m yes aystegh k’nel",
+		"english": "Do you want to sleep here?"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ vaghy meknel",
+		"english": "Do you want to leave tomorrow?"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ minch’yev vaghy mnal",
+		"english": "Do you want to stay till tomorrow?"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ vaghy hashivy p’akel",
+		"english": "Do you want to pay the bill only tomorrow?"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ diskotek gnal",
+		"english": "Do you want to go to the disco?"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ kino gnal",
+		"english": "Do you want to go to the cinema?"
+	},
+	{
+		"armenian_translit": "uzu՞m yek’ srcharan gnal",
+		"english": "Do you want to go to a café?"
+	},
+	{
+		"armenian_translit": "petk’ e",
+		"english": "must"
+	},
+	{
+		"armenian_translit": "yes piti namak ugharkem",
+		"english": "I must post the letter."
+	},
+	{
+		"armenian_translit": "yes piti hyuranots’y vcharem",
+		"english": "I must pay the hotel."
+	},
+	{
+		"armenian_translit": "du petk’ e arravoty shut art’nanas",
+		"english": "You must get up early."
+	},
+	{
+		"armenian_translit": "du petk’ e shat ashkhates",
+		"english": "You must work a lot."
+	},
+	{
+		"armenian_translit": "du petk’ e chshtapah lines",
+		"english": "You must be punctual."
+	},
+	{
+		"armenian_translit": "na piti mek’yenan lits’k’avori",
+		"english": "He must fuel / get petrol / get gas (am.)."
+	},
+	{
+		"armenian_translit": "na petk’ e mek’yenan norogi",
+		"english": "He must repair the car."
+	},
+	{
+		"armenian_translit": "na petk’ e mek’yenan lvana",
+		"english": "He must wash the car."
+	},
+	{
+		"armenian_translit": "na petk’ e gnumner katari",
+		"english": "She must shop."
+	},
+	{
+		"armenian_translit": "na petk’ e bnakarany havak’i",
+		"english": "She must clean the apartment."
+	},
+	{
+		"armenian_translit": "na petk’ e lvats’k’y lvana",
+		"english": "She must wash the clothes."
+	},
+	{
+		"armenian_translit": "menk’ petk’ e shutov dprots’ gnank’",
+		"english": "We must go to school at once."
+	},
+	{
+		"armenian_translit": "menk’ petk’ e shutov ashkhatank’i gnank’",
+		"english": "We must go to work at once."
+	},
+	{
+		"armenian_translit": "menk’ petk’ e shutov bzhshki gnank’",
+		"english": "We must go to the doctor at once."
+	},
+	{
+		"armenian_translit": "duk’ petk’ e avtobusin spasek’",
+		"english": "You must wait for the bus."
+	},
+	{
+		"armenian_translit": "duk’ petk’ e gnats’k’in spasek’",
+		"english": "You must wait for the train."
+	},
+	{
+		"armenian_translit": "duk’ petk’ e tak’siin spasek’",
+		"english": "You must wait for the taxi."
+	},
+	{
+		"armenian_translit": "k’yez arden t’uylatrvu՞m e mek’yena varel",
+		"english": "Are you already allowed to drive?"
+	},
+	{
+		"armenian_translit": "k’yez arden t’uylatrvu՞m e alkohol khmel",
+		"english": "Are you already allowed to drink alcohol?"
+	},
+	{
+		"armenian_translit": "k’yez arden t’uylatrvu՞m e menak artasahman gnal",
+		"english": "Are you already allowed to travel abroad alone?"
+	},
+	{
+		"armenian_translit": "t’uylatrel, kareli e",
+		"english": "may / to be allowed"
+	},
+	{
+		"armenian_translit": "karo՞gh yenk’ aystegh tskhel",
+		"english": "May we smoke here?"
+	},
+	{
+		"armenian_translit": "kareli՞ e aystegh tskhel",
+		"english": "Is smoking allowed here?"
+	},
+	{
+		"armenian_translit": "kareli՞ e varkayin k’artov vcharel",
+		"english": "May one pay by credit card?"
+	},
+	{
+		"armenian_translit": "kareli՞ e ch’yekerov vcharel",
+		"english": "May one pay by cheque / check (am.)?"
+	},
+	{
+		"armenian_translit": "kareli՞ e miayn kankhik vcharel",
+		"english": "May one only pay in cash?"
+	},
+	{
+		"armenian_translit": "kareli՞ e zangaharel",
+		"english": "May I just make a call?"
+	},
+	{
+		"armenian_translit": "kareli՞ e inch’ vor ban harts’nel",
+		"english": "May I just ask something?"
+	},
+	{
+		"armenian_translit": "kareli՞ e inch’ vor ban asel",
+		"english": "May I just say something?"
+	},
+	{
+		"armenian_translit": "nran ch’i kareli k’nel aygum",
+		"english": "He is not allowed to sleep in the park."
+	},
+	{
+		"armenian_translit": "nran ch’i kareli k’nel mek’yenayum",
+		"english": "He is not allowed to sleep in the car."
+	},
+	{
+		"armenian_translit": "nran ch’i kareli k’nel kayaranum",
+		"english": "He is not allowed to sleep at the train station."
+	},
+	{
+		"armenian_translit": "kareli՞ e nstel",
+		"english": "May we take a seat?"
+	},
+	{
+		"armenian_translit": "kareli՞ e menyun stanank’",
+		"english": "May we have the menu?"
+	},
+	{
+		"armenian_translit": "kareli՞ e arrandzin vcharenk’",
+		"english": "May we pay separately?"
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ mazers ktrel",
+		"english": "Can you cut my hair?"
+	},
+	{
+		"armenian_translit": "shat karch ch’e, khndrum yem",
+		"english": "Not too short, please."
+	},
+	{
+		"armenian_translit": "mi k’ich’ karch, khndrum yem",
+		"english": "A bit shorter, please."
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ nkarnery mshakel",
+		"english": "Can you develop the pictures?"
+	},
+	{
+		"armenian_translit": "nkarnery cd-i mej yen",
+		"english": "The pictures are on the CD."
+	},
+	{
+		"armenian_translit": "nkarnery fotokhts’iki mej yen",
+		"english": "The pictures are in the camera."
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ chamats’uyts’y veranorogel",
+		"english": "Can you fix the clock?"
+	},
+	{
+		"armenian_translit": "apakin kotrvats e",
+		"english": "The glass is broken."
+	},
+	{
+		"armenian_translit": "martkots’y nstel e",
+		"english": "The battery is dead / empty."
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ vernashapiky ardukel",
+		"english": "Can you iron the shirt?"
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ shalvary mak’rel",
+		"english": "Can you clean the pants / trousers?"
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ koshiknery veranorogel",
+		"english": "Can you fix the shoes?"
+	},
+	{
+		"armenian_translit": "karo՞gh yek’ indz varrich’ tal",
+		"english": "Do you have a light?26"
+	},
+	{
+		"armenian_translit": "luts’ku hatikner kam varrich’ unek’",
+		"english": "Do you have a match or a lighter?"
+	},
+	{
+		"armenian_translit": "mokhraman une՞k’",
+		"english": "Do you have an ashtray?27"
+	},
+	{
+		"armenian_translit": "sigar tskhu՞m yek’",
+		"english": "Do you smoke cigars?"
+	},
+	{
+		"armenian_translit": "tskhakhot tskhu՞m yek’",
+		"english": "Do you smoke cigarettes?"
+	},
+	{
+		"armenian_translit": "tskhakhot tskhu՞m yek’",
+		"english": "Do you smoke a pipe?"
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yek’ galis",
+		"english": "Why aren’t you coming?"
+	},
+	{
+		"armenian_translit": "yeghanaky vatn e",
+		"english": "The weather is so bad."
+	},
+	{
+		"armenian_translit": "yes ch’yem galis, vorovhetev yeghanaky vatn e",
+		"english": "I am not coming because the weather is so bad."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’e na galis",
+		"english": "Why isn’t he coming?"
+	},
+	{
+		"armenian_translit": "na hravirvats ch’e",
+		"english": "He isn’t invited."
+	},
+	{
+		"armenian_translit": "na ch’i galis, vorovhetev na hravirvats ch’e",
+		"english": "He isn’t coming because he isn’t invited."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yes galis",
+		"english": "Why aren’t you coming?28"
+	},
+	{
+		"armenian_translit": "yes zhamanak ch’unem",
+		"english": "I have no time."
+	},
+	{
+		"armenian_translit": "yes ch’yem galis, vorovhetev zhamanak ch’unem",
+		"english": "I am not coming because I have no time."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yes mnum",
+		"english": "Why don’t you stay?"
+	},
+	{
+		"armenian_translit": "yes petk’ e derr ashkhatem",
+		"english": "I still have to work."
+	},
+	{
+		"armenian_translit": "yes ch’yem mnum, vorovhetev yes petk’ e derr ashkhatem",
+		"english": "I am not staying because I still have to work."
+	},
+	{
+		"armenian_translit": "inch’u՞ yek’ arden gnum",
+		"english": "Why are you going already?"
+	},
+	{
+		"armenian_translit": "yes hognats yem",
+		"english": "I am tired."
+	},
+	{
+		"armenian_translit": "yes gnum yem, vorovhetev hognats yem",
+		"english": "I’m going because I’m tired."
+	},
+	{
+		"armenian_translit": "inch’u՞ yek’ arden gnum",
+		"english": "Why are you going already?29"
+	},
+	{
+		"armenian_translit": "arden ush e",
+		"english": "It is already late."
+	},
+	{
+		"armenian_translit": "yes gnum yem, vorovhetev arden ush e",
+		"english": "I’m going because it is already late."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yeir yekel",
+		"english": "Why didn’t you come?"
+	},
+	{
+		"armenian_translit": "yes hivand ei",
+		"english": "I was ill."
+	},
+	{
+		"armenian_translit": "yes ch’yei yekel, vorovhetev yes hivand ei",
+		"english": "I didn’t come because I was ill."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’er na yekel",
+		"english": "Why didn’t she come?"
+	},
+	{
+		"armenian_translit": "na hognats er",
+		"english": "She was tired."
+	},
+	{
+		"armenian_translit": "na ch’er yekel, vorovhetev na hognats er",
+		"english": "She didn’t come because she was tired."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’er na yekel",
+		"english": "Why didn’t he come?"
+	},
+	{
+		"armenian_translit": "na hachuyk’ ch’uner",
+		"english": "He wasn’t interested."
+	},
+	{
+		"armenian_translit": "na ch’er yekel, vorovehetev na hachuyk’ ch’uner",
+		"english": "He didn’t come because he wasn’t interested."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yeik’ yekel",
+		"english": "Why didn’t you come?30"
+	},
+	{
+		"armenian_translit": "mer mek’yenan p’ch’ats’yel er",
+		"english": "Our car is damaged."
+	},
+	{
+		"armenian_translit": "menk’ ch’eink’ yekel, vorovhetev mer mek’yenan p’ch’ats’yel er",
+		"english": "We didn’t come because our car is damaged."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’ein mardik yekel",
+		"english": "Why didn’t the people come?"
+	},
+	{
+		"armenian_translit": "nrank’ gnats’k’its’ ein ushats’yel",
+		"english": "They missed the train."
+	},
+	{
+		"armenian_translit": "nrank’ ch’ein yekel, vorovhetev gnats’k’its’ ein ushats’yel",
+		"english": "They didn’t come because they missed the train."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’eir yekel",
+		"english": "Why didn’t you come?31"
+	},
+	{
+		"armenian_translit": "indz ch’er kareli",
+		"english": "I was not allowed to."
+	},
+	{
+		"armenian_translit": "yes ch’ei yekel, vorovhetev indz ch’er kareli",
+		"english": "I didn’t come because I was not allowed to."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’ek’ tort’y utum",
+		"english": "Why aren’t you eating the cake?"
+	},
+	{
+		"armenian_translit": "yes petk’ e niharem",
+		"english": "I must lose weight."
+	},
+	{
+		"armenian_translit": "yes da ch’em utum, vorovhetev petk’ e niharem",
+		"english": "I’m not eating it because I must lose weight."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’ek’ garejury khmum",
+		"english": "Why aren’t you drinking the beer?"
+	},
+	{
+		"armenian_translit": "yes petk’ e derr mek’yena varem",
+		"english": "I have to drive."
+	},
+	{
+		"armenian_translit": "yes ch’yem khmum, vorovhetev derr petk’ e mek’yena varem",
+		"english": "I’m not drinking it because I have to drive."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yes surchy khmum",
+		"english": "Why aren’t you drinking the coffee?"
+	},
+	{
+		"armenian_translit": "sarrn e",
+		"english": "It is cold.32"
+	},
+	{
+		"armenian_translit": "yes ch’yem khmum, vorovhetev sarrn e",
+		"english": "I’m not drinking it because it is cold."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yes t’yeyy khmum",
+		"english": "Why aren’t you drinking the tea?"
+	},
+	{
+		"armenian_translit": "yes shak’aravaz ch’unem",
+		"english": "I have no sugar."
+	},
+	{
+		"armenian_translit": "yes ch’yem khmum, vorovhetev shak’aravaz ch’unem",
+		"english": "I’m not drinking it because I don’t have any sugar."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yek’ apury utum",
+		"english": "Why aren’t you eating the soup?"
+	},
+	{
+		"armenian_translit": "yes da ch’yem patvirel",
+		"english": "I didn’t order it."
+	},
+	{
+		"armenian_translit": "yes ch’yem utum, vorovhetev yes da ch’yem patvirel",
+		"english": "I’m not eating it because I didn’t order it."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yek’ misy utum",
+		"english": "Why don’t you eat the meat?"
+	},
+	{
+		"armenian_translit": "yes busaker yem",
+		"english": "I am a vegetarian."
+	},
+	{
+		"armenian_translit": "yes misy ch’yem utum, vorovhetev yes busaker ch’yem",
+		"english": "I’m not eating it because I am a vegetarian."
+	},
+	{
+		"armenian_translit": "mi tser kin",
+		"english": "an old lady"
+	},
+	{
+		"armenian_translit": "mi ger kin",
+		"english": "a fat lady"
+	},
+	{
+		"armenian_translit": "mi hetak’rk’raser kin",
+		"english": "a curious lady"
+	},
+	{
+		"armenian_translit": "mi nor mek’yena",
+		"english": "a new car"
+	},
+	{
+		"armenian_translit": "mi arag mek’yena",
+		"english": "a fast car"
+	},
+	{
+		"armenian_translit": "mi harmaravet mek’yena",
+		"english": "a comfortable car"
+	},
+	{
+		"armenian_translit": "kapuyt zgest",
+		"english": "a blue dress"
+	},
+	{
+		"armenian_translit": "karmir zgest",
+		"english": "a red dress"
+	},
+	{
+		"armenian_translit": "kanach’ zgest",
+		"english": "a green dress"
+	},
+	{
+		"armenian_translit": "sev payusak",
+		"english": "a black bag"
+	},
+	{
+		"armenian_translit": "mokhraguyn payusak",
+		"english": "a brown bag"
+	},
+	{
+		"armenian_translit": "spitak payusak",
+		"english": "a white bag"
+	},
+	{
+		"armenian_translit": "hacheli mardik",
+		"english": "nice people"
+	},
+	{
+		"armenian_translit": "barehambuyr mardik",
+		"english": "polite people"
+	},
+	{
+		"armenian_translit": "hetak’rk’ir mardik",
+		"english": "interesting people"
+	},
+	{
+		"armenian_translit": "lav yerekhaner",
+		"english": "loving children"
+	},
+	{
+		"armenian_translit": "anhnazand yerekhaner",
+		"english": "cheeky children"
+	},
+	{
+		"armenian_translit": "khizakh yerekhaner",
+		"english": "well behaved children"
+	},
+	{
+		"armenian_translit": "yes kapuyt zgest yem hagel",
+		"english": "I am wearing a blue dress."
+	},
+	{
+		"armenian_translit": "yes karmir zgest yem hagel",
+		"english": "I am wearing a red dress."
+	},
+	{
+		"armenian_translit": "yes kanach’ zgest yem hagel",
+		"english": "I am wearing a green dress."
+	},
+	{
+		"armenian_translit": "yes sev payusak yem gnum",
+		"english": "I’m buying a black bag."
+	},
+	{
+		"armenian_translit": "yes mokhraguyn payusak yem gnum",
+		"english": "I’m buying a brown bag."
+	},
+	{
+		"armenian_translit": "yes spitak payusak yem gnum",
+		"english": "I’m buying a white bag."
+	},
+	{
+		"armenian_translit": "indz nor mek’yena e harkavor",
+		"english": "I need a new car."
+	},
+	{
+		"armenian_translit": "indz arag mek’yena e harkavor",
+		"english": "I need a fast car."
+	},
+	{
+		"armenian_translit": "indz harmaravet mek’yena e harkavor",
+		"english": "I need a comfortable car."
+	},
+	{
+		"armenian_translit": "verevum mi tser kin e aprum",
+		"english": "An old lady lives at the top."
+	},
+	{
+		"armenian_translit": "verevum mi ger kin e aprum",
+		"english": "A fat lady lives at the top."
+	},
+	{
+		"armenian_translit": "verevum mi hetak’rk’raser kin e aprum",
+		"english": "A curious lady lives below."
+	},
+	{
+		"armenian_translit": "mer hyurery hacheli mardik yen",
+		"english": "Our guests were nice people."
+	},
+	{
+		"armenian_translit": "mer hyurery barehambuyr mardik yen",
+		"english": "Our guests were polite people."
+	},
+	{
+		"armenian_translit": "mer hyurery hetak’rk’ir mardik yen",
+		"english": "Our guests were interesting people."
+	},
+	{
+		"armenian_translit": "yes lav yerekhaner unem",
+		"english": "I have lovely children."
+	},
+	{
+		"armenian_translit": "bayts’ harevannery anhnazand yerekhaner unen",
+		"english": "But the neighbours have naughty children."
+	},
+	{
+		"armenian_translit": "dzer yerekhanery khiza՞kh yen",
+		"english": "Are your children well behaved?"
+	},
+	{
+		"armenian_translit": "na shun uni",
+		"english": "She has a dog."
+	},
+	{
+		"armenian_translit": "shuny mets e",
+		"english": "The dog is big."
+	},
+	{
+		"armenian_translit": "na mets shun uni",
+		"english": "She has a big dog."
+	},
+	{
+		"armenian_translit": "na tun uni",
+		"english": "She has a house."
+	},
+	{
+		"armenian_translit": "tuny p’vok’r e",
+		"english": "The house is small."
+	},
+	{
+		"armenian_translit": "na p’vok’r tun uni",
+		"english": "She has a small house."
+	},
+	{
+		"armenian_translit": "na hyuranots’um e aprum",
+		"english": "He is staying in a hotel."
+	},
+	{
+		"armenian_translit": "hyuranots’y ezhan e",
+		"english": "The hotel is cheap."
+	},
+	{
+		"armenian_translit": "na aprum e ezhan hyuranots’um",
+		"english": "He is staying in a cheap hotel."
+	},
+	{
+		"armenian_translit": "na mek’yena uni",
+		"english": "He has a car."
+	},
+	{
+		"armenian_translit": "mek’yenan t’ank e",
+		"english": "The car is expensive.33"
+	},
+	{
+		"armenian_translit": "na t’ank mek’yena uni",
+		"english": "He has an expensive car."
+	},
+	{
+		"armenian_translit": "na vep e kardum",
+		"english": "He reads a novel."
+	},
+	{
+		"armenian_translit": "vepy dzandzrali e",
+		"english": "The novel is boring."
+	},
+	{
+		"armenian_translit": "na mi dzandzrali vep e kardum",
+		"english": "He is reading a boring novel."
+	},
+	{
+		"armenian_translit": "na film e nayum",
+		"english": "She is watching a movie."
+	},
+	{
+		"armenian_translit": "filmy hetak’rk’ir e",
+		"english": "The movie is exciting."
+	},
+	{
+		"armenian_translit": "na mi hetak’rk’ir film e nayum",
+		"english": "She is watching an exciting movie."
+	},
+	{
+		"armenian_translit": "grel",
+		"english": "to write"
+	},
+	{
+		"armenian_translit": "na namak grets’",
+		"english": "He wrote a letter."
+	},
+	{
+		"armenian_translit": "yev na bats’ik grets’",
+		"english": "And she wrote a card."
+	},
+	{
+		"armenian_translit": "kardal",
+		"english": "to read"
+	},
+	{
+		"armenian_translit": "na kardum er amsagiry",
+		"english": "He read a magazine."
+	},
+	{
+		"armenian_translit": "yev na kardum er mi girk’",
+		"english": "And she read a book."
+	},
+	{
+		"armenian_translit": "verts’nel",
+		"english": "to take"
+	},
+	{
+		"armenian_translit": "na mi sigaret verts’rets’",
+		"english": "He took a cigarette."
+	},
+	{
+		"armenian_translit": "na mi ktor shokolad verts’rets’",
+		"english": "She took a piece of chocolate."
+	},
+	{
+		"armenian_translit": "na anhavatarim er yeghel, isk na havatarim",
+		"english": "He was disloyal, but she was loyal."
+	},
+	{
+		"armenian_translit": "na tsuyl er yeghel, isk na janaser er",
+		"english": "He was lazy, but she was hard-working."
+	},
+	{
+		"armenian_translit": "na aghk’at er, isk na harust",
+		"english": "He was poor, but she was rich."
+	},
+	{
+		"armenian_translit": "na p’vogh ch’uner, ayl partk’yer",
+		"english": "He had no money, only debts."
+	},
+	{
+		"armenian_translit": "na hajoghut’yun ch’uner, ayl dzakhordut’yun",
+		"english": "He had no luck, only bad luck."
+	},
+	{
+		"armenian_translit": "na ch’uner hajoghut’yun, ayl anhajoghut’yun",
+		"english": "He had no success, only failure."
+	},
+	{
+		"armenian_translit": "na goh ch’er, ayl dzhgoh",
+		"english": "He was not satisfied, but dissatisfied."
+	},
+	{
+		"armenian_translit": "na yerjanik ch’er, ayl dzhbakht",
+		"english": "He was not happy, but sad."
+	},
+	{
+		"armenian_translit": "na hamakreli ch’er, ayl hakakreli",
+		"english": "He was not friendly, but unfriendly."
+	},
+	{
+		"armenian_translit": "petk’ er shtapognut’yun kanch’yei՞r",
+		"english": "Did you have to call an ambulance?"
+	},
+	{
+		"armenian_translit": "petk’ er bzhishkin kanch’yei՞r",
+		"english": "Did you have to call the doctor?"
+	},
+	{
+		"armenian_translit": "petk’ er vostikanut’yany kanch’yei՞r",
+		"english": "Did you have to call the police?"
+	},
+	{
+		"armenian_translit": "herrakhosahamary une՞k’mi k’ich’ arraj unei",
+		"english": "Do you have the telephone number? I had it just now."
+	},
+	{
+		"armenian_translit": "hasts’yen une՞k’mi k’ich’ arraj unei",
+		"english": "Do you have the address? I had it just now."
+	},
+	{
+		"armenian_translit": "k’aghak’i k’artezy une՞k’mi k’ich’ arraj unei",
+		"english": "Do you have the city map? I had it just now."
+	},
+	{
+		"armenian_translit": "na chshtapah yeka՞v na ch’er karogh chshtapah gal",
+		"english": "Did he come on time? He could not come on time."
+	},
+	{
+		"armenian_translit": "na chanaparhy gta՞vna ch’er karogh chanaparhy gtnel",
+		"english": "Did he find the way? He could not find the way."
+	},
+	{
+		"armenian_translit": "na k’yez haskats’a՞vna ch’er karogh indz haskanal",
+		"english": "Did he understand you? He could not understand me."
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yes karoghats’yel zhamanakin gal",
+		"english": "Why could you not come on time?"
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yes karoghats’yel chanaparhy gtnel",
+		"english": "Why could you not find the way?"
+	},
+	{
+		"armenian_translit": "inch’u՞ ch’yes karoghats’yel nran haskanal",
+		"english": "Why could you not understand him?"
+	},
+	{
+		"armenian_translit": "yes ch’yem karoghats’yel zhamanakin gal, vorovhetev avtubus ch’kar",
+		"english": "I could not come on time because there were no buses."
+	},
+	{
+		"armenian_translit": "yes ch’yem karoghats’yel chanaparhy gtnel, vorovhetev k’aghak’i k’artez ch’une",
+		"english": "I could not find the way because I had no city map."
+	},
+	{
+		"armenian_translit": "yes nran ch’yem karogh haskanal, vorovhetev yerazhshtut’yuny shat bardzr e",
+		"english": "I could not understand him because the music was so loud."
+	},
+	{
+		"armenian_translit": "yes petk’ e tak’si verts’nei",
+		"english": "I had to take a taxi."
+	},
+	{
+		"armenian_translit": "yes petk’ e k’aghak’i k’artez gnei",
+		"english": "I had to buy a city map."
+	},
+	{
+		"armenian_translit": "yes petk’ e rradion anjatei",
+		"english": "I had to switch off the radio."
+	},
+	{
+		"armenian_translit": "zangaharel",
+		"english": "to make a call"
+	},
+	{
+		"armenian_translit": "yes zangaharel ei",
+		"english": "I made a call."
+	},
+	{
+		"armenian_translit": "yes mi amboghj zhamanak zangaharum ei",
+		"english": "I was talking on the phone all the time."
+	},
+	{
+		"armenian_translit": "harts’nel",
+		"english": "to ask34"
+	},
+	{
+		"armenian_translit": "yes harts’rel ei",
+		"english": "I asked."
+	},
+	{
+		"armenian_translit": "yes misht harts’rel ei",
+		"english": "I always asked."
+	},
+	{
+		"armenian_translit": "patmel",
+		"english": "to narrate"
+	},
+	{
+		"armenian_translit": "yes patmel ei",
+		"english": "I narrated."
+	},
+	{
+		"armenian_translit": "yes amboghj patmut’yuny patmel ei",
+		"english": "I narrated the whole story."
+	},
+	{
+		"armenian_translit": "sovorel",
+		"english": "to study"
+	},
+	{
+		"armenian_translit": "yes sovorel ei",
+		"english": "I studied."
+	},
+	{
+		"armenian_translit": "yes amboghj yereko sovorel ei",
+		"english": "I studied the whole evening."
+	},
+	{
+		"armenian_translit": "ashkhatel",
+		"english": "to work35"
+	},
+	{
+		"armenian_translit": "yes ashkhatel ei",
+		"english": "I worked."
+	},
+	{
+		"armenian_translit": "yes amboghj ory ashkhatel ei",
+		"english": "I worked all day long."
+	},
+	{
+		"armenian_translit": "utel",
+		"english": "to eat"
+	},
+	{
+		"armenian_translit": "yes kerel yem",
+		"english": "I ate."
+	},
+	{
+		"armenian_translit": "yes amboghj utelik’y kerel yem",
+		"english": "I ate all the food."
+	},
+	{
+		"armenian_translit": "kardal",
+		"english": "to read36"
+	},
+	{
+		"armenian_translit": "yes kardats’yel yem",
+		"english": "I read.37"
+	},
+	{
+		"armenian_translit": "yes amboghj vepy kardats’yel yem",
+		"english": "I read the whole novel."
+	},
+	{
+		"armenian_translit": "haskanal",
+		"english": "to understand"
+	},
+	{
+		"armenian_translit": "yes haskats’yel yem",
+		"english": "I understood."
+	},
+	{
+		"armenian_translit": "yes amboj tek’sty haskats’yel yem",
+		"english": "I understood the whole text."
+	},
+	{
+		"armenian_translit": "pataskhanel",
+		"english": "to answer"
+	},
+	{
+		"armenian_translit": "yes pataskhanel yem",
+		"english": "I answered."
+	},
+	{
+		"armenian_translit": "yes bolor harts’yerin pataskhanel yem",
+		"english": "I answered all the questions."
+	},
+	{
+		"armenian_translit": "yes da gitem- yes da gitei",
+		"english": "I know that – I knew that."
+	},
+	{
+		"armenian_translit": "yes da grum yem- yes da grel ei",
+		"english": "I write that – I wrote that."
+	},
+	{
+		"armenian_translit": "yes da lsum yem- yes da lsel ei",
+		"english": "I hear that – I heard that."
+	},
+	{
+		"armenian_translit": "yes da berum yem- yes da berel ei",
+		"english": "I’ll get it – I got it."
+	},
+	{
+		"armenian_translit": "yes da tanum yem- yes da tarel ei",
+		"english": "I’ll bring that – I brought that."
+	},
+	{
+		"armenian_translit": "yes da gnum yem- yes da gnel ei",
+		"english": "I’ll buy that – I bought that."
+	},
+	{
+		"armenian_translit": "yes dran spasum yem- yes dran spasum ei",
+		"english": "I expect that – I expected that."
+	},
+	{
+		"armenian_translit": "yes da bats’atrum yem- yes da bats’atrel ei",
+		"english": "I’ll explain that – I explained that."
+	},
+	{
+		"armenian_translit": "yes da gitem- yes da gitei",
+		"english": "I know that – I knew that.38"
+	},
+	{
+		"armenian_translit": "inch’k’a՞n yek’ khmel",
+		"english": "How much did you drink?"
+	},
+	{
+		"armenian_translit": "inch’k’a՞n yek’ ashkhatel",
+		"english": "How much did you work?"
+	},
+	{
+		"armenian_translit": "inch’k’a՞n yek’ grel",
+		"english": "How much did you write?"
+	},
+	{
+		"armenian_translit": "inch’pe՞s yek’ k’nel",
+		"english": "How did you sleep?"
+	},
+	{
+		"armenian_translit": "inch’pe՞s yek’ k’nnut’yuny stats’yel",
+		"english": "How did you pass the exam?"
+	},
+	{
+		"armenian_translit": "inch’pe՞s yek’ chanaparhy gtel",
+		"english": "How did you find the way?"
+	},
+	{
+		"armenian_translit": "u՞m het yek’ khosel",
+		"english": "Who did you speak to?"
+	},
+	{
+		"armenian_translit": "u՞m het yek’ paymanavorvel",
+		"english": "With whom did you make an appointment?"
+	},
+	{
+		"armenian_translit": "u՞m het yek’ tsnndyan tony tonel",
+		"english": "With whom did you celebrate your birthday?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yek’ yeghel",
+		"english": "Where were you?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yek’ aprel",
+		"english": "Where did you live?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yek’ ashkhatel",
+		"english": "Where did you work?"
+	},
+	{
+		"armenian_translit": "i՞nch’ yek’ arrajarkel",
+		"english": "What did you suggest?"
+	},
+	{
+		"armenian_translit": "i՞nch’ yek’ kerel",
+		"english": "What did you eat?"
+	},
+	{
+		"armenian_translit": "i՞nch’ yek’ imats’yel",
+		"english": "What did you come to know?"
+	},
+	{
+		"armenian_translit": "i՞nch’ aragut’yamb yek’ varel",
+		"english": "How fast did you drive?"
+	},
+	{
+		"armenian_translit": "i՞nch’k’an zhamanak yek’ t’rrel",
+		"english": "How long did you fly?"
+	},
+	{
+		"armenian_translit": "i՞nch’ bardzrut’yamb yek’ t’rrel",
+		"english": "How high did you jump?"
+	},
+	{
+		"armenian_translit": "vo՞r p’voghkapn eir krel",
+		"english": "Which tie did you wear?"
+	},
+	{
+		"armenian_translit": "vo՞r mek’yenan yes gnel",
+		"english": "Which car did you buy?"
+	},
+	{
+		"armenian_translit": "vo՞r t’yert’n yes bazhanordagrvel",
+		"english": "Which newspaper did you subscribe to?"
+	},
+	{
+		"armenian_translit": "u՞m yek’ tesel",
+		"english": "Who did you see?"
+	},
+	{
+		"armenian_translit": "u՞m yek’ handipel",
+		"english": "Who did you meet?"
+	},
+	{
+		"armenian_translit": "u՞m yek’ chanach’yel",
+		"english": "Who did you recognize?"
+	},
+	{
+		"armenian_translit": "k’anisi՞n yek’ verkats’yel",
+		"english": "When did you get up?"
+	},
+	{
+		"armenian_translit": "ye՞rb yek’ sksel",
+		"english": "When did you start?"
+	},
+	{
+		"armenian_translit": "ye՞rb yek’ verjats’rel",
+		"english": "When did you finish?"
+	},
+	{
+		"armenian_translit": "inch’u՞ yek’ art’nats’yel",
+		"english": "Why did you wake up?"
+	},
+	{
+		"armenian_translit": "inch’u՞ yek’ usuts’ich’ dardzel",
+		"english": "Why did you become a teacher?"
+	},
+	{
+		"armenian_translit": "inch’u՞ yek’ tak’si vardzel",
+		"english": "Why did you take a taxi?"
+	},
+	{
+		"armenian_translit": "vorteghi՞ts’ yek’ yekel",
+		"english": "Where did you come from?"
+	},
+	{
+		"armenian_translit": "u՞r yek’ gnats’yel",
+		"english": "Where did you go?"
+	},
+	{
+		"armenian_translit": "vorte՞gh yek’ yeghel",
+		"english": "Where were you?39"
+	},
+	{
+		"armenian_translit": "u՞m yek’ ognel",
+		"english": "Who did you help?"
+	},
+	{
+		"armenian_translit": "u՞m yek’ grel",
+		"english": "Who did you write to?"
+	},
+	{
+		"armenian_translit": "u՞m yek’ pataskhanel",
+		"english": "Who did you reply to?"
+	},
+	{
+		"armenian_translit": "menk’ petk’ e tsaghiknery jreink’",
+		"english": "We had to water the flowers."
+	},
+	{
+		"armenian_translit": "menk’ petk’ e bnakarany havak’yeink’",
+		"english": "We had to clean the apartment."
+	},
+	{
+		"armenian_translit": "menk’ petk’ e spask’y lvanayink’",
+		"english": "We had to wash the dishes."
+	},
+	{
+		"armenian_translit": "hashivy piti vcharei՞k’",
+		"english": "Did you have to pay the bill?"
+	},
+	{
+		"armenian_translit": "mutk’i tomsy piti vcharei՞k’",
+		"english": "Did you have to pay an entrance fee?"
+	},
+	{
+		"armenian_translit": "tugank’ piti vcharei՞k’",
+		"english": "Did you have to pay a fine?"
+	},
+	{
+		"armenian_translit": "vo՞v er stipvats yeghel hrazhesht tal",
+		"english": "Who had to say goodbye?"
+	},
+	{
+		"armenian_translit": "vo՞v er stipvats yeghel shut tun gnal",
+		"english": "Who had to go home early?"
+	},
+	{
+		"armenian_translit": "vo՞v er stipvats yeghel gnats’k’ov gnal",
+		"english": "Who had to take the train?"
+	},
+	{
+		"armenian_translit": "menk’ ch’eink’ uzum yerkar mnal",
+		"english": "We did not want to stay long."
+	},
+	{
+		"armenian_translit": "menk’ ch’eink’ uzum inch’ vor ban khmel",
+		"english": "We did not want to drink anything."
+	},
+	{
+		"armenian_translit": "menk’ ch’eink’ uzum khangarel",
+		"english": "We did not want to disturb you."
+	},
+	{
+		"armenian_translit": "yes uzum ei zangaharel",
+		"english": "I just wanted to make a call."
+	},
+	{
+		"armenian_translit": "yes uzum ei tak’si kanch’yel",
+		"english": "I just wanted to call a taxi."
+	},
+	{
+		"armenian_translit": "yes uzum ei tun gnal",
+		"english": "Actually I wanted to drive home."
+	},
+	{
+		"armenian_translit": "yes kartsum ei, t’ye du knojd eir zangum",
+		"english": "I thought you wanted to call your wife."
+	},
+	{
+		"armenian_translit": "yes kartsum ei, t’ye du teghekatu eir zangum",
+		"english": "I thought you wanted to call information."
+	},
+	{
+		"armenian_translit": "yes kartsum ei, t’ye du pits’ts’a eir patvirum",
+		"english": "I thought you wanted to order a pizza."
+	},
+	{
+		"armenian_translit": "im tghan ch’er uzum tikniki het khaghal",
+		"english": "My son did not want to play with the doll."
+	},
+	{
+		"armenian_translit": "im aghjiky ch’er uzum futbol khaghal",
+		"english": "My daughter did not want to play football / soccer (am.)."
+	},
+	{
+		"armenian_translit": "im kiny ch’er uzum im het shakhmat khaghal",
+		"english": "My wife did not want to play chess with me."
+	},
+	{
+		"armenian_translit": "im yerekhanery ch’ein uzum zbosank’i gnal",
+		"english": "My children did not want to go for a walk."
+	},
+	{
+		"armenian_translit": "nrank’ ch’ein uzum senyaky havak’yel",
+		"english": "They did not want to tidy the room."
+	},
+	{
+		"armenian_translit": "nrank’ ch’ein uzum ankoghin gnal",
+		"english": "They did not want to go to bed."
+	},
+	{
+		"armenian_translit": "nran ch’er t’uylatrvum paghpaghak utel",
+		"english": "He was not allowed to eat ice cream."
+	},
+	{
+		"armenian_translit": "nran ch’er t’uylatrvum shokolad utel",
+		"english": "He was not allowed to eat chocolate."
+	},
+	{
+		"armenian_translit": "nran ch’er t’uylatrvum konfet utel",
+		"english": "He was not allowed to eat sweets."
+	},
+	{
+		"armenian_translit": "yes karogh ei inch’ vor ban ts’ankanal",
+		"english": "I was allowed to make a wish."
+	},
+	{
+		"armenian_translit": "yes karogh ei inch’ vor zgest gnel",
+		"english": "I was allowed to buy myself a dress."
+	},
+	{
+		"armenian_translit": "indz t’uyl er trvel shokolad verts’nel",
+		"english": "I was allowed to take a chocolate."
+	},
+	{
+		"armenian_translit": "t’uylatrvu՞m er ink’nat’irrum tskhel",
+		"english": "Were you allowed to smoke in the airplane?"
+	},
+	{
+		"armenian_translit": "t’uylatrvu՞m er hivandanots’um khmel",
+		"english": "Were you allowed to drink beer in the hospital?"
+	},
+	{
+		"armenian_translit": "t’uylatrvu՞m er shany hyuranots’ tanel",
+		"english": "Were you allowed to take the dog into the hotel?"
+	},
+	{
+		"armenian_translit": "ardzakurdnerin yerekhanerin kareli er yerkar drsum mnal",
+		"english": "During the holidays the children were allowed to remain outside late."
+	},
+	{
+		"armenian_translit": "nrants’ kareli er yerkar bakum khaghal",
+		"english": "They were allowed to play in the yard for a long time."
+	},
+	{
+		"armenian_translit": "nrants’ kareli er yerkar art’un mnal",
+		"english": "They were allowed to stay up late."
+	},
+	{
+		"armenian_translit": "du shat tsuyl yes-mi ́ yeghir aydk’an tsuyl",
+		"english": "You are so lazy – don’t be so lazy!"
+	},
+	{
+		"armenian_translit": "du yerkar yes k’num-mi ́ k’nir aydk’an yerkar",
+		"english": "You sleep for so long – don’t sleep so late!"
+	},
+	{
+		"armenian_translit": "du ush yes galis-aydk’an ush mi ́ ari",
+		"english": "You come home so late – don’t come home so late!"
+	},
+	{
+		"armenian_translit": "du shat bardzr yes tsitsaghum-aydk’an bardzr mi ́ tsitsaghir",
+		"english": "You laugh so loudly – don’t laugh so loudly!"
+	},
+	{
+		"armenian_translit": "du shat ts’atsr yes khosum-aydk’an ts’atsr mi ́ khosir",
+		"english": "You speak so softly – don’t speak so softly!"
+	},
+	{
+		"armenian_translit": "du shat yes khmum-aydk’an shat mi ́ khmir",
+		"english": "You drink too much – don’t drink so much!"
+	},
+	{
+		"armenian_translit": "du shat yes tskhum-aydk’an shat mi ́ tskhir",
+		"english": "You smoke too much – don’t smoke so much!"
+	},
+	{
+		"armenian_translit": "du shat yes ashkhatum-aydk’an shat mi ́ ashkhatir",
+		"english": "You work too much – don’t work so much!"
+	},
+	{
+		"armenian_translit": "du arag yes k’shum-aydk’an arag mi ́ k’shir",
+		"english": "You drive too fast – don’t drive so fast!"
+	},
+	{
+		"armenian_translit": "kangne ́k’ paron myuller",
+		"english": "Get up, Mr. Miller!"
+	},
+	{
+		"armenian_translit": "nste ́k’ paron myuller",
+		"english": "Sit down, Mr. Miller!"
+	},
+	{
+		"armenian_translit": "mnats’ye ́k’ nstats paron myuller",
+		"english": "Remain seated, Mr. Miller!"
+	},
+	{
+		"armenian_translit": "hamberut’yun unets’ye ́k’",
+		"english": "Be patient!"
+	},
+	{
+		"armenian_translit": "verts’re ́k’ dzer zhamanaky",
+		"english": "Take your time!"
+	},
+	{
+		"armenian_translit": "spase ́k’ mi aknt’art’",
+		"english": "Wait a moment!"
+	},
+	{
+		"armenian_translit": "zguysh yeghe ́k’",
+		"english": "Be careful!"
+	},
+	{
+		"armenian_translit": "partachanach’ yeghe ́k’",
+		"english": "Be punctual!"
+	},
+	{
+		"armenian_translit": "himar mi yeghe ́k’",
+		"english": "Don’t be stupid!"
+	},
+	{
+		"armenian_translit": "sap’rvi ́r",
+		"english": "Shave!"
+	},
+	{
+		"armenian_translit": "lvats’vi ́r",
+		"english": "Wash yourself!"
+	},
+	{
+		"armenian_translit": "sanrvi ́r",
+		"english": "Comb your hair!"
+	},
+	{
+		"armenian_translit": "zangi ́r zange ́k’",
+		"english": "Call!"
+	},
+	{
+		"armenian_translit": "brrni ́r brrne ́k’",
+		"english": "Begin!"
+	},
+	{
+		"armenian_translit": "verjats’ru ́ verjats’re ́k’",
+		"english": "Stop!"
+	},
+	{
+		"armenian_translit": "t’vo ́gh t’voghe ́k’",
+		"english": "Leave it!"
+	},
+	{
+		"armenian_translit": "asa ́ ase ́k’",
+		"english": "Say it!"
+	},
+	{
+		"armenian_translit": "gni ́r gne ́k’",
+		"english": "Buy it!"
+	},
+	{
+		"armenian_translit": "mi ́ yeghir anazniv",
+		"english": "Never be dishonest!"
+	},
+	{
+		"armenian_translit": "mi ́ yeghir anvayel",
+		"english": "Never be naughty!"
+	},
+	{
+		"armenian_translit": "mi ́ yeghir anhargali",
+		"english": "Never be impolite!"
+	},
+	{
+		"armenian_translit": "yeghi ́r misht azniv",
+		"english": "Always be honest!"
+	},
+	{
+		"armenian_translit": "yeghi ́r misht azniv",
+		"english": "Always be nice!"
+	},
+	{
+		"armenian_translit": "yeghi ́r misht k’aghak’avari",
+		"english": "Always be polite!"
+	},
+	{
+		"armenian_translit": "apahov tun hase ́k’",
+		"english": "Hope you arrive home safely!"
+	},
+	{
+		"armenian_translit": "hog tar ink’d k’yez hamar",
+		"english": "Take care of yourself!"
+	},
+	{
+		"armenian_translit": "ayts’yele ́k’ mez yevs mek angam",
+		"english": "Do visit us again soon!"
+	},
+	{
+		"armenian_translit": "vaghy yeghanaky yerevi klavana",
+		"english": "Perhaps the weather will get better tomorrow."
+	},
+	{
+		"armenian_translit": "duk’ vorteghits’ da gitek’",
+		"english": "How do you know that?"
+	},
+	{
+		"armenian_translit": "yes huys unem, vor klavana",
+		"english": "I hope that it gets better."
+	},
+	{
+		"armenian_translit": "na galis e anpayman",
+		"english": "He will definitely come."
+	},
+	{
+		"armenian_translit": "da hasta՞t e",
+		"english": "Are you sure?"
+	},
+	{
+		"armenian_translit": "yes gitem, vor na galis e",
+		"english": "I know that he’ll come."
+	},
+	{
+		"armenian_translit": "na zangaharum e anpayman",
+		"english": "He’ll definitely call."
+	},
+	{
+		"armenian_translit": "iskape՞s",
+		"english": "Really?"
+	},
+	{
+		"armenian_translit": "yes kartsum yem, vor na zangaharum e",
+		"english": "I believe that he’ll call."
+	},
+	{
+		"armenian_translit": "ginin iskapes hin e",
+		"english": "The wine is definitely old."
+	},
+	{
+		"armenian_translit": "da hastat gite՞k’",
+		"english": "Do you know that for sure?"
+	},
+	{
+		"armenian_translit": "yes kaskatsum yem, vor da hin e",
+		"english": "I think that it is old."
+	},
+	{
+		"armenian_translit": "mer direktory shat lav tesk’ uni",
+		"english": "Our boss is good-looking."
+	},
+	{
+		"armenian_translit": "kartsu՞m yek’",
+		"english": "Do you think so?"
+	},
+	{
+		"armenian_translit": "yes gtnum yem, vor na iskapes lav tesk’ uni",
+		"english": "I find him very handsome."
+	},
+	{
+		"armenian_translit": "direktory hastat ynkeruhi uni",
+		"english": "The boss definitely has a girlfriend."
+	},
+	{
+		"armenian_translit": "duk’ iskapes kartsu՞m yek’",
+		"english": "Do you really think so?"
+	},
+	{
+		"armenian_translit": "da shat hnaravor e, vor na ynkeruhi uni",
+		"english": "It is very possible that he has a girlfriend."
+	},
+	{
+		"armenian_translit": "da indz barkats’num e, vor du khrrmp’ats’num yes",
+		"english": "I’m angry that you snore."
+	},
+	{
+		"armenian_translit": "da indz barkats’num e, vor du aydk’an shat garejur yes khmum",
+		"english": "I’m angry that you drink so much beer."
+	},
+	{
+		"armenian_translit": "da indz barkats’num e, vor du aydk’an ush yes galis",
+		"english": "I’m angry that you come so late."
+	},
+	{
+		"armenian_translit": "yes kartsum yem, vor nran bzhishk e harkavor",
+		"english": "I think he needs a doctor."
+	},
+	{
+		"armenian_translit": "yes kartsum yem, vor na hivand e",
+		"english": "I think he is ill."
+	},
+	{
+		"armenian_translit": "yes kartsum yem, vor na ayzhm k’num e",
+		"english": "I think he is sleeping now."
+	},
+	{
+		"armenian_translit": "menk’ husov enk’, vor na mer aghjka het kamusnana",
+		"english": "We hope that he marries our daughter."
+	},
+	{
+		"armenian_translit": "menk’ husov enk’, vor na shat p’vogh uni",
+		"english": "We hope that he has a lot of money."
+	},
+	{
+		"armenian_translit": "menk’ husov enk’, vor na millionater e",
+		"english": "We hope that he is a millionaire."
+	},
+	{
+		"armenian_translit": "yes lsel yem, vor nra kiny vt’ari e yent’arkvel",
+		"english": "I heard that your wife had an accident."
+	},
+	{
+		"armenian_translit": "yes lsel yem, vor na hivandanots’um e",
+		"english": "I heard that she is in the hospital."
+	},
+	{
+		"armenian_translit": "yes lsel yem, vor k’vo mek’yenan liovin p’ch’ats’yel e",
+		"english": "I heard that your car is completely wrecked."
+	},
+	{
+		"armenian_translit": "yes urakh yem, vor duk’ yekel yek’",
+		"english": "I’m happy that you came."
+	},
+	{
+		"armenian_translit": "yes urakh yem, vor duk’ hetak’rk’rut’yun unek’",
+		"english": "I’m happy that you are interested."
+	},
+	{
+		"armenian_translit": "yes urakh yem, vor duk’ ayd tuny gnel yek’ ts’ankanum",
+		"english": "I’m happy that you want to buy the house."
+	},
+	{
+		"armenian_translit": "yes mtavakhut’yun unem, vor verjin avtobusy arden meknel e",
+		"english": "I’m afraid the last bus has already gone."
+	},
+	{
+		"armenian_translit": "yes mtavakhut’yun unem, vor menk’ tak’si petk’ e verts’nenk’",
+		"english": "I’m afraid we will have to take a taxi."
+	},
+	{
+		"armenian_translit": "yes mtavakhut’yun unem, vor im mot voch’ mi p’vogh ch’ka",
+		"english": "I’m afraid I have no more money."
+	},
+	{
+		"armenian_translit": "yes ch’gitem, t’ye na indz sirum e",
+		"english": "I don’t know if he loves me."
+	},
+	{
+		"armenian_translit": "yes ch’gitem, t’ye na kveradarrna",
+		"english": "I don’t know if he’ll come back."
+	},
+	{
+		"armenian_translit": "yes ch’gitem, t’ye na indz kzangahari",
+		"english": "I don’t know if he’ll call me."
+	},
+	{
+		"armenian_translit": "t’ye na indz siru՞m e",
+		"english": "Maybe he doesn’t love me?"
+	},
+	{
+		"armenian_translit": "t’ye na kveradarrna՞",
+		"english": "Maybe he won’t come back?"
+	},
+	{
+		"armenian_translit": "t’ye na indz kzangahari՞",
+		"english": "Maybe he won’t call me?"
+	},
+	{
+		"armenian_translit": "yes ink’s indz harts’num yem, t’ye na im masin mtatsum e",
+		"english": "I wonder if he thinks about me."
+	},
+	{
+		"armenian_translit": "yes ink’s indz harts’num yem, t’ye na mek urishin uni",
+		"english": "I wonder if he has someone else."
+	},
+	{
+		"armenian_translit": "yes ink’s indz harts’num yem, t’ye na stum e",
+		"english": "I wonder if he lies."
+	},
+	{
+		"armenian_translit": "t’ye na im masin mtatsu՞m e",
+		"english": "Maybe he thinks of me?"
+	},
+	{
+		"armenian_translit": "t’ye na na mek urishin uni՞",
+		"english": "Maybe he has someone else?"
+	},
+	{
+		"armenian_translit": "t’ye na chshmartut’yu՞nn e asum",
+		"english": "Maybe he tells me the truth?"
+	},
+	{
+		"armenian_translit": "yes kaskatsum yem, t’ye na indz iskapes hamakrum e",
+		"english": "I doubt whether he really likes me."
+	},
+	{
+		"armenian_translit": "yes kaskatsum yem, t’ye na e indz grum",
+		"english": "I doubt whether he’ll write to me."
+	},
+	{
+		"armenian_translit": "yes kaskatsum yem, t’ye na e im het kamusnana",
+		"english": "I doubt whether he’ll marry me."
+	},
+	{
+		"armenian_translit": "miguts’ye na indz iskapes hamakru՞m e",
+		"english": "Does he really like me?"
+	},
+	{
+		"armenian_translit": "miguts’ye na indz gru՞m e",
+		"english": "Will he write to me?"
+	},
+	{
+		"armenian_translit": "miguts’ye na e im het kamusnana՞",
+		"english": "Will he marry me?"
+	},
+	{
+		"armenian_translit": "spasir, minch’yev andzrevy dadari",
+		"english": "Wait until the rain stops."
+	},
+	{
+		"armenian_translit": "spasir, minch’yev yes patrast linem",
+		"english": "Wait until I’m finished."
+	},
+	{
+		"armenian_translit": "spasir, minch’yev yes het veradarrnam",
+		"english": "Wait until he comes back."
+	},
+	{
+		"armenian_translit": "yes spasum yem, minch’yev mazers ch’voranan",
+		"english": "I’ll wait until my hair is dry."
+	},
+	{
+		"armenian_translit": "yes spasum yem, minch’yev filmy avartvi",
+		"english": "I’ll wait until the film is over."
+	},
+	{
+		"armenian_translit": "yes spasum yem, minch’yev lusanshany kanach’ lini",
+		"english": "I’ll wait until the traffic light is green."
+	},
+	{
+		"armenian_translit": "ye՞rb yes ardzakurdi gnum",
+		"english": "When do you go on holiday?"
+	},
+	{
+		"armenian_translit": "amarrayin ardzakurdnerits’ arra՞j",
+		"english": "Before the summer holidays?"
+	},
+	{
+		"armenian_translit": "ayo, minch’yev amarrayin ardzakurdneri sksvely",
+		"english": "Yes, before the summer holidays begin."
+	},
+	{
+		"armenian_translit": "veranorogir tanik’y, minch’yev dzmrran skizby",
+		"english": "Repair the roof before the winter begins."
+	},
+	{
+		"armenian_translit": "lva dzerrk’yerd, minch’ du seghan nstes",
+		"english": "Wash your hands before you sit at the table."
+	},
+	{
+		"armenian_translit": "p’akir lusamuty, minch’yev du gnas",
+		"english": "Close the window before you go out."
+	},
+	{
+		"armenian_translit": "ye՞rb yes tun galis",
+		"english": "When will you come home?"
+	},
+	{
+		"armenian_translit": "dasits’ heto՞",
+		"english": "After class?"
+	},
+	{
+		"armenian_translit": "ayo, dasits’ heto",
+		"english": "Yes, after the class is over."
+	},
+	{
+		"armenian_translit": "vt’arits’ heto na aylevs ch’karoghats’av ashkhatel",
+		"english": "After he had an accident, he could not work anymore."
+	},
+	{
+		"armenian_translit": "ashkhatank’y korts’neluts’ heto na meknets’ amerika",
+		"english": "After he had lost his job, he went to America."
+	},
+	{
+		"armenian_translit": "amerika mekneluts’ heto na harstats’av",
+		"english": "After he went to America, he became rich."
+	},
+	{
+		"armenian_translit": "inch’k’a՞n zhamanak e, vor na ch’i ashkhatum",
+		"english": "Since when is she no longer working?"
+	},
+	{
+		"armenian_translit": "amusnut’yunits’ sksa՞ts",
+		"english": "Since her marriage?"
+	},
+	{
+		"armenian_translit": "ayo, na amusnut’yunits’ heto aywyevs ch’i ashkhatum",
+		"english": "Yes, she is no longer working since she got married."
+	},
+	{
+		"armenian_translit": "amusnanaluts’ sksats na aylevs ch’i ashkhatum",
+		"english": "Since she got married, she’s no longer working."
+	},
+	{
+		"armenian_translit": "tsanot’analuts’ sksats nrank’ yerjanik yen",
+		"english": "Since they have met each other, they are happy."
+	},
+	{
+		"armenian_translit": "yerekhaner unenaluts’ sksats’ nrank’ hazvadep yen yerekoyan durs gn",
+		"english": "Since they have had children, they rarely go out."
+	},
+	{
+		"armenian_translit": "ye՞rb e na herrakhosov khosum",
+		"english": "When does she call?"
+	},
+	{
+		"armenian_translit": "varelu ynt’ats’k’u՞m",
+		"english": "When driving?"
+	},
+	{
+		"armenian_translit": "ayo, varelu ynt’ats’k’um",
+		"english": "Yes, when she is driving."
+	},
+	{
+		"armenian_translit": "na herrakhosov khosum e varelu ynt’ats’k’um",
+		"english": "She calls while she drives."
+	},
+	{
+		"armenian_translit": "na herrustats’uyts’ e nayum hardukelu ynt’ats’k’um",
+		"english": "She watches TV while she irons."
+	},
+	{
+		"armenian_translit": "na yerazhshtut’yun e lsum handznararut’yunnery katarelu ynt’‰",
+		"english": "She listens to music while she does her work."
+	},
+	{
+		"armenian_translit": "yes voch’inch’ ch’yem tesnum, yet’ye yes aknots’ ch’unem",
+		"english": "I can’t see anything when I don’t have glasses."
+	},
+	{
+		"armenian_translit": "yes voch’inch’ ch’yem haskanum, yet’ye yerazhshtut’yuny bardzr e",
+		"english": "I can’t understand anything when the music is so loud."
+	},
+	{
+		"armenian_translit": "yes voch’ mi hot ch’yem zgum, yet’ye harbukhov hivand yem",
+		"english": "I can’t smell anything when I have a cold."
+	},
+	{
+		"armenian_translit": "menk’ tak’si yenk’ verts’num, yet’ye andzrev e galis",
+		"english": "We’ll take a taxi if it rains."
+	},
+	{
+		"armenian_translit": "menk’ ashkharhov kshrjagayenk’, yet’ye lotoyov gumar shahenk’",
+		"english": "We’ll travel around the world if we win the lottery."
+	},
+	{
+		"armenian_translit": "menk’ ksksenk’ chashy, yet’ye na shutov ch’ga",
+		"english": "We’ll start eating if he doesn’t come soon."
+	},
+	{
+		"armenian_translit": "yes ver yem kenum, yerb zarduts’ich’y zngum e",
+		"english": "I get up as soon as the alarm rings."
+	},
+	{
+		"armenian_translit": "yes hognum yem, yerb petk’ e sovorem",
+		"english": "I become tired as soon as I have to study."
+	},
+	{
+		"armenian_translit": "yes kdadarem ashkhatel, yerb yes vat’sun tarekan darrnam",
+		"english": "I will stop working as soon as I am 60."
+	},
+	{
+		"armenian_translit": "ye՞rb duk’ kzangaharek’",
+		"english": "When will you call?"
+	},
+	{
+		"armenian_translit": "yerb yes zhamanak unenam",
+		"english": "As soon as I have a moment."
+	},
+	{
+		"armenian_translit": "na kzangahari, yerb na zhamanak unena",
+		"english": "He’ll call, as soon as he has a little time."
+	},
+	{
+		"armenian_translit": "inch’k’a՞n yek’ ashkhatelu",
+		"english": "How long will you work?"
+	},
+	{
+		"armenian_translit": "yes kashkhatem, inch’k’an vor karoghanam",
+		"english": "I’ll work as long as I can."
+	},
+	{
+		"armenian_translit": "yes kashkhatem, inch’k’an vor arroghj linem",
+		"english": "I’ll work as long as I am healthy."
+	},
+	{
+		"armenian_translit": "na ankoghnum parrkats e ashkhatelu p’vokharen",
+		"english": "He lies in bed instead of working."
+	},
+	{
+		"armenian_translit": "na t’yert’ e kardum yep’yelu p’vokharen",
+		"english": "She reads the newspaper instead of cooking."
+	},
+	{
+		"armenian_translit": "na pandokum nstats e tun gnalu p’vokharen",
+		"english": "He is at the bar instead of going home."
+	},
+	{
+		"armenian_translit": "inch’k’an gitem na aystegh e aprum",
+		"english": "As far as I know, he lives here."
+	},
+	{
+		"armenian_translit": "inch’k’an gitem nra kiny hivand e",
+		"english": "As far as I know, his wife is ill."
+	},
+	{
+		"armenian_translit": "inch’k’an gitem na gortsazurk e",
+		"english": "As far as I know, he is unemployed."
+	},
+	{
+		"armenian_translit": "yes k’nats ei mnats’yel, t’ye ch’e chshtapah klinei",
+		"english": "I overslept; otherwise I’d have been on time."
+	},
+	{
+		"armenian_translit": "yes avtobusits’ ushats’a, t’ye ch’e chshtapah klinei",
+		"english": "I missed the bus; otherwise I’d have been on time."
+	},
+	{
+		"armenian_translit": "yes chanaparhy ch’yem gtel, t’ye ch’e chshtapah klinei",
+		"english": "I didn’t find the way / I got lost; otherwise I’d have been on time."
+	},
+	{
+		"armenian_translit": "na k’nel er, ch’nayats vor herrustats’uyts’y miats’rats er",
+		"english": "He fell asleep although the TV was on."
+	},
+	{
+		"armenian_translit": "na derr mnats’yel er, ch’nayats vor arden ush er",
+		"english": "He stayed a while although it was late."
+	},
+	{
+		"armenian_translit": "na ch’er yekel, ch’nayats vor paymanavorvats eink’",
+		"english": "He didn’t come although we had made an appointment."
+	},
+	{
+		"armenian_translit": "herrustats’uyts’y miats’rats er aynuamenayniv na k’nel er",
+		"english": "The TV was on. Nevertheless, he fell asleep."
+	},
+	{
+		"armenian_translit": "arden ush er aynuamenayniv na derr mnats’yel er",
+		"english": "It was already late. Nevertheless, he stayed a while."
+	},
+	{
+		"armenian_translit": "menk’ paymanavorvats eink’ aynuamenayniv na ch’er yekel",
+		"english": "We had made an appointment. Nevertheless, he didn’t come."
+	},
+	{
+		"armenian_translit": "ch’nayats vor na varordakan iravunk’ ch’uni, na mek’yena e varum",
+		"english": "Although he has no license, he drives the car."
+	},
+	{
+		"armenian_translit": "ch’nayats vor p’voghots’y sahun e, na arag e varum",
+		"english": "Although the road is slippery, he drives so fast."
+	},
+	{
+		"armenian_translit": "ch’nayats vor na khmats e, na hetsaniv e k’shum",
+		"english": "Although he is drunk, he rides his bicycle."
+	},
+	{
+		"armenian_translit": "na varordakan iravunk’ ch’uni aynuamenayniv na mek’yena e varu",
+		"english": "Despite having no licence / license (am.), he drives the car."
+	},
+	{
+		"armenian_translit": "p’voghots’y sahun e aynuamenayniv na arag e varum",
+		"english": "Despite the road being slippery, he drives fast."
+	},
+	{
+		"armenian_translit": "na khmats e aynuamenayniv na hetsaniv e k’shum",
+		"english": "Despite being drunk, he rides the bike."
+	},
+	{
+		"armenian_translit": "na ashkhatank’i tegh ch’i gtnum, ch’nayats vor bardzraguyn krt’ut’yun u",
+		"english": "Although she went to college, she can’t find a job."
+	},
+	{
+		"armenian_translit": "na bzhshki ch’i gnum, ch’nayats vor ts’aver uni",
+		"english": "Although she is in pain, she doesn’t go to the doctor."
+	},
+	{
+		"armenian_translit": "na mek’yena e gnum, ch’nayats vor p’vogh ch’uni",
+		"english": "Although she has no money, she buys a car."
+	},
+	{
+		"armenian_translit": "na usanel e bayts’ na ashkhatank’ ch’i gtnum",
+		"english": "She went to college. Nevertheless, she can’t find a job."
+	},
+	{
+		"armenian_translit": "na ts’aver uni aynuamenayniv na bzhshki ch’i gnum",
+		"english": "She is in pain. Nevertheless, she doesn’t go to the doctor."
+	},
+	{
+		"armenian_translit": "na p’vogh ch’uni aynuamenayniv na mek’yena e gnum",
+		"english": "She has no money. Nevertheless, she buys a car."
+	},
+	{
+		"armenian_translit": "chambordut’yuny t’yeev geghets’ik er, bayts’ naev hognets’uts’ich’",
+		"english": "The journey was beautiful, but too tiring."
+	},
+	{
+		"armenian_translit": "gnats’k’y t’yeev chshtapah er, bayts’ naev lets’un",
+		"english": "The train was on time, but too full."
+	},
+	{
+		"armenian_translit": "hyuranots’y t’yeev harmaravet er, bayts’ naev t’ank",
+		"english": "The hotel was comfortable, but too expensive."
+	},
+	{
+		"armenian_translit": "na kam avtobusn e verts’num, kam el gnats’k’y",
+		"english": "He’ll take either the bus or the train."
+	},
+	{
+		"armenian_translit": "na kam aysor yerekoyan kga, kam vaghy shut",
+		"english": "He’ll come either this evening or tomorrow morning."
+	},
+	{
+		"armenian_translit": "na kam mez mot kapri, kam hyuranots’um",
+		"english": "He’s going to stay either with us or in the hotel."
+	},
+	{
+		"armenian_translit": "na t’ye ́ ispaneren e khosum t’ye ́ angleren",
+		"english": "She speaks Spanish as well as English."
+	},
+	{
+		"armenian_translit": "na t’ye ́ madridum e aprel yev t’ye  ́londonum",
+		"english": "She has lived in Madrid as well as in London."
+	},
+	{
+		"armenian_translit": "na chanach’um e t’ye ́ ispanian yev t’ye ́anglian",
+		"english": "She knows Spain as well as England."
+	},
+	{
+		"armenian_translit": "na voch’ miayn himar e, ayl naev tsuyl",
+		"english": "He is not only stupid, but also lazy."
+	},
+	{
+		"armenian_translit": "na voch’ miayn geghets’ik e, ayl naev khelats’i",
+		"english": "She is not only pretty, but also intelligent."
+	},
+	{
+		"armenian_translit": "na khosum e voch’ miayn germaneren, ayl naev franseren",
+		"english": "She speaks not only German, but also French."
+	},
+	{
+		"armenian_translit": "yes voch’ dashnamur yem nvagum, voch’ el kit’arr",
+		"english": "I can neither play the piano nor the guitar."
+	},
+	{
+		"armenian_translit": "yes voch’ vals yem parum, voch’ el samba",
+		"english": "I can neither waltz nor do the samba."
+	},
+	{
+		"armenian_translit": "yes voch’ opera yem sirum, voch’ el balet",
+		"english": "I like neither opera nor ballet."
+	},
+	{
+		"armenian_translit": "inch’k’an arag du ashkhates, aynk’an shut kverjats’nes",
+		"english": "The faster you work, the earlier you will be finished."
+	},
+	{
+		"armenian_translit": "inch’k’an shut gas, aynk’an shut kgnas",
+		"english": "The earlier you come, the earlier you can go."
+	},
+	{
+		"armenian_translit": "inch’k’an tseranum yes, aynk’an harmaravet yes darrnum",
+		"english": "The older one gets, the more complacent one gets."
+	},
+	{
+		"armenian_translit": "im ynkeruhu katun",
+		"english": "my girlfriend’s cat"
+	},
+	{
+		"armenian_translit": "im ynkeroj shuny",
+		"english": "my boyfriend’s dog"
+	},
+	{
+		"armenian_translit": "im yerekhaneri khaghalik’nery",
+		"english": "my children’s toys"
+	},
+	{
+		"armenian_translit": "sa im ashkhatakts’i verarkun e",
+		"english": "This is my colleague’s overcoat."
+	},
+	{
+		"armenian_translit": "sa im ashkhatakts’uhu mek’yenan e",
+		"english": "That is my colleague’s car."
+	},
+	{
+		"armenian_translit": "sa im ashkhatakts’uhu ashkhatank’n e",
+		"english": "That is my colleagues’ work."
+	},
+	{
+		"armenian_translit": "vernashapiki kochaky pokvats e",
+		"english": "The button from the shirt is gone."
+	},
+	{
+		"armenian_translit": "avtotnaki banalin korel e",
+		"english": "The garage `key` is gone."
+	},
+	{
+		"armenian_translit": "direktori hamakargich’y p’ch’ats’yel e",
+		"english": "The boss’ computer is not working."
+	},
+	{
+		"armenian_translit": "aghjka tsnoghnery ovk’ye՞r yen",
+		"english": "Who are the girl’s parents?"
+	},
+	{
+		"armenian_translit": "i՞nch’pes karogh yem dzer tsnoghneri tun gnal",
+		"english": "How do I get to her parents’ house?"
+	},
+	{
+		"armenian_translit": "tuny gtnvum e p’voghots’i verjum",
+		"english": "The house is at the end of the road."
+	},
+	{
+		"armenian_translit": "i՞nch’pes e koch’vum shvets’ariayi mayrak’aghak’y",
+		"english": "What is the name of the capital city of Switzerland?"
+	},
+	{
+		"armenian_translit": "i՞nch’pes e grk’i vernagiry",
+		"english": "What is the title of the book?"
+	},
+	{
+		"armenian_translit": "i՞nch’pes yen harevanneri yerekhaneri anunnery",
+		"english": "What are the names of the neighbour’s / neighbor’s (am.) children?"
+	},
+	{
+		"armenian_translit": "ye՞rb yen yerekhaneri dprots’akan ardzakurdnery",
+		"english": "When are the children’s holidays?"
+	},
+	{
+		"armenian_translit": "ye՞rb yen bzhshki bats’man zhamery",
+		"english": "What are the doctor’s consultation times?"
+	},
+	{
+		"armenian_translit": "ye՞rb yen t’angarani bats’man zhamery",
+		"english": "What time is the museum open?"
+	},
+	{
+		"armenian_translit": "yerbeve - yerbek’",
+		"english": "already – not yet"
+	},
+	{
+		"armenian_translit": "yerbeve mi angam berrlinum yeghe՞l yek’",
+		"english": "Have you already been to Berlin?"
+	},
+	{
+		"armenian_translit": "voch’, voch’ mi angam",
+		"english": "No, not yet.40"
+	},
+	{
+		"armenian_translit": "inch’ vor meky - voch’ meky",
+		"english": "someone – no one"
+	},
+	{
+		"armenian_translit": "inch’ vor mekin (voch’ vok’i)aystegh chanach’u՞m yek’",
+		"english": "Do you know someone here?"
+	},
+	{
+		"armenian_translit": "voch’, yes aystegh voch’ meki(voch’ vok’i) ch’yem chanach’um",
+		"english": "No, I don’t know anyone here."
+	},
+	{
+		"armenian_translit": "derr - aylevs",
+		"english": "a little longer – not much longer"
+	},
+	{
+		"armenian_translit": "aystegh derr yerka՞r yek’ mnalu",
+		"english": "Will you stay here a little longer?"
+	},
+	{
+		"armenian_translit": "voch’, yes aystegh aylevs ch’yem mnalu",
+		"english": "No, I won’t stay here much longer."
+	},
+	{
+		"armenian_translit": "derr inch’ vor ban- voch’inch’",
+		"english": "something else – nothing else"
+	},
+	{
+		"armenian_translit": "derr inch’ vor ban uzu՞m yek’ khmel",
+		"english": "Would you like to drink something else?"
+	},
+	{
+		"armenian_translit": "voch’, yes voch’inch’ ch’yem uzum",
+		"english": "No, I don’t want anything else."
+	},
+	{
+		"armenian_translit": "arden inch’ vor ban - derr voch’inch’",
+		"english": "something already – nothing yet"
+	},
+	{
+		"armenian_translit": "arden inch’ vor ban kere՞l yek’",
+		"english": "Have you already eaten something?"
+	},
+	{
+		"armenian_translit": "voch’, derr yes voch’inch’ ch’yem kerel",
+		"english": "No, I haven’t eaten anything yet."
+	},
+	{
+		"armenian_translit": "inch’ vor meky - voch’ meky",
+		"english": "someone else – no one else"
+	},
+	{
+		"armenian_translit": "inch’ vor meky surch ts’ankanu՞m e",
+		"english": "Does anyone else want a coffee?"
+	},
+	{
+		"armenian_translit": "voch’, voch’ vok’",
+		"english": "No, no one else."
+	}
+]

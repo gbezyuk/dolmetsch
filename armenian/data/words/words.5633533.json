@@ -1,0 +1,2294 @@
+[
+	{
+		"armenian_translit": "ayst'ex",
+		"english": "here"
+	},
+	{
+		"armenian_translit": "amenur",
+		"english": "everywhere"
+	},
+	{
+		"armenian_translit": "aylur",
+		"english": "elsewhere"
+	},
+	{
+		"armenian_translit": "ners",
+		"english": "inside"
+	},
+	{
+		"armenian_translit": "durs",
+		"english": "outside"
+	},
+	{
+		"armenian_translit": "atch",
+		"english": "on the right"
+	},
+	{
+		"armenian_translit": "dzax",
+		"english": "on the left"
+	},
+	{
+		"armenian_translit": "hima",
+		"english": "now"
+	},
+	{
+		"armenian_translit": "uxix",
+		"english": "straight on"
+	},
+	{
+		"armenian_translit": "ayssor",
+		"english": "today"
+	},
+	{
+		"armenian_translit": "yerek'",
+		"english": "yesterday"
+	},
+	{
+		"armenian_translit": "vaghё",
+		"english": "tomorrow"
+	},
+	{
+		"armenian_translit": "aysp'es",
+		"english": "thus, this way"
+	},
+	{
+		"armenian_translit": "miayn",
+		"english": "only, just"
+	},
+	{
+		"armenian_translit": "shat",
+		"english": "very"
+	},
+	{
+		"armenian_translit": "sirov",
+		"english": "with pleasure"
+	},
+	{
+		"armenian_translit": "het'o",
+		"english": "later"
+	},
+	{
+		"armenian_translit": "shut'ov",
+		"english": "soon"
+	},
+	{
+		"armenian_translit": "misht",
+		"english": "always"
+	},
+	{
+		"armenian_translit": "yerbek",
+		"english": "never"
+	},
+	{
+		"armenian_translit": "mek-mek",
+		"english": "sometimes"
+	},
+	{
+		"armenian_translit": "azvagüt",
+		"english": "rarely"
+	},
+	{
+		"armenian_translit": "achax",
+		"english": "often"
+	},
+	{
+		"armenian_translit": "shutvanits",
+		"english": "long time ago"
+	},
+	{
+		"armenian_translit": "verchers",
+		"english": "not long ago"
+	},
+	{
+		"armenian_translit": "eli",
+		"english": "yet, still"
+	},
+	{
+		"armenian_translit": "bardzr",
+		"english": "loud"
+	},
+	{
+		"armenian_translit": "mot'avorap'es",
+		"english": "about, approximately"
+	},
+	{
+		"armenian_translit": "arden",
+		"english": "already"
+	},
+	{
+		"armenian_translit": "shut",
+		"english": "early"
+	},
+	{
+		"armenian_translit": "ush",
+		"english": "late"
+	},
+	{
+		"armenian_translit": "aveli ush",
+		"english": "later"
+	},
+	{
+		"armenian_translit": "sovorakan",
+		"english": "usually"
+	},
+	{
+		"armenian_translit": "eto",
+		"english": "then, after"
+	},
+	{
+		"armenian_translit": "anmijales",
+		"english": "immediately, straight away"
+	},
+	{
+		"armenian_translit": "yerkar",
+		"english": "long, for a long time"
+	},
+	{
+		"armenian_translit": "karch",
+		"english": "briefly, shortly, summarily"
+	},
+	{
+		"armenian_translit": "skzbits",
+		"english": "at first, in the beginning"
+	},
+	{
+		"armenian_translit": "yes em",
+		"english": "I am"
+	},
+	{
+		"armenian_translit": "du es",
+		"english": "you are"
+	},
+	{
+		"armenian_translit": "na e",
+		"english": "He/she/it it"
+	},
+	{
+		"armenian_translit": "menk enk",
+		"english": "We are"
+	},
+	{
+		"armenian_translit": "duk ek",
+		"english": "You are (pl)"
+	},
+	{
+		"armenian_translit": "nrank en",
+		"english": "They are"
+	},
+	{
+		"armenian_translit": "yes ei",
+		"english": "I was"
+	},
+	{
+		"armenian_translit": "du eir",
+		"english": "You were"
+	},
+	{
+		"armenian_translit": "na er",
+		"english": "He/she/it was"
+	},
+	{
+		"armenian_translit": "menk eink",
+		"english": "We were"
+	},
+	{
+		"armenian_translit": "duk eik",
+		"english": "You were (pl)"
+	},
+	{
+		"armenian_translit": "nrank ein",
+		"english": "They were"
+	},
+	{
+		"armenian_translit": "yes k'ёlinem",
+		"english": "I will be"
+	},
+	{
+		"armenian_translit": "du k'ёlines",
+		"english": "You will be"
+	},
+	{
+		"armenian_translit": "na k'ёlini",
+		"english": "He/she/it will be"
+	},
+	{
+		"armenian_translit": "menk k'ёlinenk",
+		"english": "We will be"
+	},
+	{
+		"armenian_translit": "duk k'ёlinek",
+		"english": "You will be (pl)"
+	},
+	{
+		"armenian_translit": "nrank k'ёlinen",
+		"english": "They will be"
+	},
+	{
+		"armenian_translit": "yes unem",
+		"english": "I have (got)"
+	},
+	{
+		"armenian_translit": "du unes",
+		"english": "You have (got)"
+	},
+	{
+		"armenian_translit": "na uni",
+		"english": "He/she/it has (got)"
+	},
+	{
+		"armenian_translit": "menk unenk",
+		"english": "We have (got)"
+	},
+	{
+		"armenian_translit": "duk unek",
+		"english": "You have (got) (pl)"
+	},
+	{
+		"armenian_translit": "nrank unen",
+		"english": "They have (got)"
+	},
+	{
+		"armenian_translit": "yes unei",
+		"english": "I had"
+	},
+	{
+		"armenian_translit": "du uneir",
+		"english": "You had"
+	},
+	{
+		"armenian_translit": "na uner",
+		"english": "He/she/it had"
+	},
+	{
+		"armenian_translit": "menk uneink",
+		"english": "We had"
+	},
+	{
+		"armenian_translit": "duk uneik",
+		"english": "You had (pl)"
+	},
+	{
+		"armenian_translit": "nrank uneyin",
+		"english": "They had"
+	},
+	{
+		"armenian_translit": "yes k'unenam",
+		"english": "I will have"
+	},
+	{
+		"armenian_translit": "du k'unenas",
+		"english": "You will have"
+	},
+	{
+		"armenian_translit": "na k'unena",
+		"english": "He/she/it will have"
+	},
+	{
+		"armenian_translit": "menk k'unenank",
+		"english": "We will have"
+	},
+	{
+		"armenian_translit": "duk k'unenak",
+		"english": "You will have (pl)"
+	},
+	{
+		"armenian_translit": "nrank k'unenan",
+		"english": "They will have"
+	},
+	{
+		"armenian_translit": "jes shat uxeberr unem",
+		"english": "I have a lot of luggage with me"
+	},
+	{
+		"armenian_translit": "yes vochinch chunem dek'laratsiayum grantselu",
+		"english": "I have nothing to declare"
+	},
+	{
+		"armenian_translit": "menk derr shat' shamanak' unenk",
+		"english": "We still have a lot of time"
+	},
+	{
+		"armenian_translit": "ayd inch e?",
+		"english": "What is this?"
+	},
+	{
+		"armenian_translit": "yes aystex em",
+		"english": "I am here"
+	},
+	{
+		"armenian_translit": "hayast'ani dexdzerё kaxtsr en",
+		"english": "In Armenia peaches are sweet"
+	},
+	{
+		"armenian_translit": "t'ari",
+		"english": "year"
+	},
+	{
+		"armenian_translit": "amis",
+		"english": "month"
+	},
+	{
+		"armenian_translit": "antsyal amis",
+		"english": "last month"
+	},
+	{
+		"armenian_translit": "shabat",
+		"english": "week"
+	},
+	{
+		"armenian_translit": "antsyal shabat",
+		"english": "last week"
+	},
+	{
+		"armenian_translit": "ays shabat",
+		"english": "this week"
+	},
+	{
+		"armenian_translit": "myus shabat",
+		"english": "next week"
+	},
+	{
+		"armenian_translit": "or",
+		"english": "day"
+	},
+	{
+		"armenian_translit": "aysor",
+		"english": "today"
+	},
+	{
+		"armenian_translit": "yerek'",
+		"english": "yesterday"
+	},
+	{
+		"armenian_translit": "yerek' che antsal orё",
+		"english": "day before yesterday"
+	},
+	{
+		"armenian_translit": "yerek'che arradjin orё",
+		"english": "the day before yesterday"
+	},
+	{
+		"armenian_translit": "vaghё",
+		"english": "tomorrow"
+	},
+	{
+		"armenian_translit": "vaxё che/myus orё",
+		"english": "day after tomorrow"
+	},
+	{
+		"armenian_translit": "yerk'u or arrach",
+		"english": "Two days ago"
+	},
+	{
+		"armenian_translit": "yerk'u orits",
+		"english": "in two days from now"
+	},
+	{
+		"armenian_translit": "yerk'u or ants",
+		"english": "two days later"
+	},
+	{
+		"armenian_translit": "kesor",
+		"english": "midday"
+	},
+	{
+		"armenian_translit": "kesorin",
+		"english": "at midday"
+	},
+	{
+		"armenian_translit": "yereko",
+		"english": "evening"
+	},
+	{
+		"armenian_translit": "yerekoyan",
+		"english": "in the evening"
+	},
+	{
+		"armenian_translit": "gisher",
+		"english": "night"
+	},
+	{
+		"armenian_translit": "gisherё",
+		"english": "at night"
+	},
+	{
+		"armenian_translit": "kesgisher",
+		"english": "midnight"
+	},
+	{
+		"armenian_translit": "kesgisherin",
+		"english": "at midnight"
+	},
+	{
+		"armenian_translit": "ambodj",
+		"english": "all day long"
+	},
+	{
+		"armenian_translit": "mi orits",
+		"english": "day in day out"
+	},
+	{
+		"armenian_translit": "ays shabatin",
+		"english": "this week"
+	},
+	{
+		"armenian_translit": "antsal shabat",
+		"english": "last week"
+	},
+	{
+		"armenian_translit": "ajord shabat",
+		"english": "next week"
+	},
+	{
+		"armenian_translit": "mi shabtits",
+		"english": "in a week's time"
+	},
+	{
+		"armenian_translit": "arrawot'yan",
+		"english": "in the morning"
+	},
+	{
+		"armenian_translit": "yerek'oyan",
+		"english": "in the evening"
+	},
+	{
+		"armenian_translit": "amen or",
+		"english": "every day"
+	},
+	{
+		"armenian_translit": "amen t'ari",
+		"english": "every year"
+	},
+	{
+		"armenian_translit": "hents hima",
+		"english": "right now"
+	},
+	{
+		"armenian_translit": "ayn zhamanak' hnaraworin",
+		"english": "at that time, then"
+	},
+	{
+		"armenian_translit": "chap shut'",
+		"english": "as soon as possible"
+	},
+	{
+		"armenian_translit": "1994 tvak'anits",
+		"english": "since 1994"
+	},
+	{
+		"armenian_translit": "noyemberits",
+		"english": "since November"
+	},
+	{
+		"armenian_translit": "amsi utits",
+		"english": "since the 8th (of this month)"
+	},
+	{
+		"armenian_translit": "zhamё chorsits",
+		"english": "starting at 4 o'clock (and on)"
+	},
+	{
+		"armenian_translit": "yerk'u zhamits",
+		"english": "in 2 hours"
+	},
+	{
+		"armenian_translit": "hing rop'eits",
+		"english": "in 5 minutes"
+	},
+	{
+		"armenian_translit": "mi kani orits",
+		"english": "in a few days"
+	},
+	{
+		"armenian_translit": "vets orits",
+		"english": "in 6 days"
+	},
+	{
+		"armenian_translit": "yerek amsits",
+		"english": "in 3 months"
+	},
+	{
+		"armenian_translit": "1998 twak'anin",
+		"english": "in the year 1998"
+	},
+	{
+		"armenian_translit": "1998-in",
+		"english": "in 1998"
+	},
+	{
+		"armenian_translit": "ogost'osi yerekin",
+		"english": "on August 3"
+	},
+	{
+		"armenian_translit": "zhamё yerekin",
+		"english": "at 3 o'clock"
+	},
+	{
+		"armenian_translit": "hazar inё haryur innsun utin (1998) tvak'ani mart'i t'asnvetsin",
+		"english": "16 March 1998"
+	},
+	{
+		"armenian_translit": "amsi vetsin",
+		"english": "on the 6th (of this month)"
+	},
+	{
+		"armenian_translit": "ayssor yerekshabti ё",
+		"english": "Today is Tuesday"
+	},
+	{
+		"armenian_translit": "yerkushabti",
+		"english": "Monday"
+	},
+	{
+		"armenian_translit": "yerekshabti",
+		"english": "Tuesday"
+	},
+	{
+		"armenian_translit": "chorekshabti",
+		"english": "Wednesday"
+	},
+	{
+		"armenian_translit": "ingshabti",
+		"english": "Thursday"
+	},
+	{
+		"armenian_translit": "urbat'",
+		"english": "Friday"
+	},
+	{
+		"armenian_translit": "shabat",
+		"english": "Saturday"
+	},
+	{
+		"armenian_translit": "kiraki",
+		"english": "Sunday"
+	},
+	{
+		"armenian_translit": "ap'rel",
+		"english": "to live"
+	},
+	{
+		"armenian_translit": "(yes) ap'rum em",
+		"english": "I live"
+	},
+	{
+		"armenian_translit": "(du) ap'rum es",
+		"english": "You live"
+	},
+	{
+		"armenian_translit": "(na) ap'rum e",
+		"english": "He/she/it lives"
+	},
+	{
+		"armenian_translit": "(menk) ap'rum enk",
+		"english": "We live"
+	},
+	{
+		"armenian_translit": "(duk) ap'rum ek",
+		"english": "You live (pl + polite)"
+	},
+	{
+		"armenian_translit": "(nrank) ap'rum en",
+		"english": "They live"
+	},
+	{
+		"armenian_translit": "k'ardal",
+		"english": "to read"
+	},
+	{
+		"armenian_translit": "k'ardum em",
+		"english": "I read"
+	},
+	{
+		"armenian_translit": "k'ardum es",
+		"english": "You read"
+	},
+	{
+		"armenian_translit": "k'ardum e",
+		"english": "He/she/it reads"
+	},
+	{
+		"armenian_translit": "k'ardum enk",
+		"english": "We read"
+	},
+	{
+		"armenian_translit": "k'ardum ek",
+		"english": "You read (polite)"
+	},
+	{
+		"armenian_translit": "k'ardum en",
+		"english": "They read"
+	},
+	{
+		"armenian_translit": "ap'rel",
+		"english": "to live"
+	},
+	{
+		"armenian_translit": "k'ardal",
+		"english": "to read"
+	},
+	{
+		"armenian_translit": "ashxat'el",
+		"english": "to work"
+	},
+	{
+		"armenian_translit": "barevel",
+		"english": "to greet"
+	},
+	{
+		"armenian_translit": "batsel",
+		"english": "to open"
+	},
+	{
+		"armenian_translit": "gnal",
+		"english": "to go"
+	},
+	{
+		"armenian_translit": "gnel",
+		"english": "to buy"
+	},
+	{
+		"armenian_translit": "grel",
+		"english": "to write"
+	},
+	{
+		"armenian_translit": "zangel",
+		"english": "to call"
+	},
+	{
+		"armenian_translit": "targmanel",
+		"english": "to translate"
+	},
+	{
+		"armenian_translit": "lsel",
+		"english": "to hear"
+	},
+	{
+		"armenian_translit": "khmel",
+		"english": "to drink"
+	},
+	{
+		"armenian_translit": "k'anchel",
+		"english": "to cry"
+	},
+	{
+		"armenian_translit": "ut'el",
+		"english": "to eat"
+	},
+	{
+		"armenian_translit": "p'arel",
+		"english": "to dance"
+	},
+	{
+		"armenian_translit": "sovorel",
+		"english": "to learn"
+	},
+	{
+		"armenian_translit": "knel",
+		"english": "to sleep"
+	},
+	{
+		"armenian_translit": "ognel",
+		"english": "to help"
+	},
+	{
+		"armenian_translit": "ap'rel",
+		"english": "to live"
+	},
+	{
+		"armenian_translit": "(yes) ap'rezi",
+		"english": "I lived"
+	},
+	{
+		"armenian_translit": "(du) ap'rezir",
+		"english": "you lived"
+	},
+	{
+		"armenian_translit": "(na) ap'rer",
+		"english": "he/she/it lived"
+	},
+	{
+		"armenian_translit": "(menk) ap'rezink",
+		"english": "we lived"
+	},
+	{
+		"armenian_translit": "(duk) ap'rezik",
+		"english": "You lived (pl + polite)"
+	},
+	{
+		"armenian_translit": "(nrank) ap'rezin",
+		"english": "they lived"
+	},
+	{
+		"armenian_translit": "ognel",
+		"english": "to help"
+	},
+	{
+		"armenian_translit": "(yes) ogna",
+		"english": "I helped"
+	},
+	{
+		"armenian_translit": "(du) ognar",
+		"english": "you helped"
+	},
+	{
+		"armenian_translit": "(na) ognaw",
+		"english": "he/she/it helped"
+	},
+	{
+		"armenian_translit": "(menk) ognank",
+		"english": "we helped"
+	},
+	{
+		"armenian_translit": "(duk) ognak",
+		"english": "You helped (pl + polite)"
+	},
+	{
+		"armenian_translit": "(nrank) ognan",
+		"english": "they helped"
+	},
+	{
+		"armenian_translit": "hin",
+		"english": "old"
+	},
+	{
+		"armenian_translit": "nor",
+		"english": "new"
+	},
+	{
+		"armenian_translit": "ezhan",
+		"english": "cheap"
+	},
+	{
+		"armenian_translit": "dzri",
+		"english": "free of charge"
+	},
+	{
+		"armenian_translit": "layn",
+		"english": "wide"
+	},
+	{
+		"armenian_translit": "nex",
+		"english": "narrow"
+	},
+	{
+		"armenian_translit": "hast'",
+		"english": "thick"
+	},
+	{
+		"armenian_translit": "mut",
+		"english": "dark"
+	},
+	{
+		"armenian_translit": "ch'isht'",
+		"english": "right, correct"
+	},
+	{
+		"armenian_translit": "sxal",
+		"english": "wrong, incorrect, erroneous"
+	},
+	{
+		"armenian_translit": "herru",
+		"english": "distant, remote"
+	},
+	{
+		"armenian_translit": "azat'",
+		"english": "free"
+	},
+	{
+		"armenian_translit": "tarm",
+		"english": "fresh"
+	},
+	{
+		"armenian_translit": "hach'eli",
+		"english": "pleasant"
+	},
+	{
+		"armenian_translit": "sirun/gexetsik'",
+		"english": "beautiful"
+	},
+	{
+		"armenian_translit": "yerk'ar",
+		"english": "long"
+	},
+	{
+		"armenian_translit": "k'arch",
+		"english": "short"
+	},
+	{
+		"armenian_translit": "arag",
+		"english": "fast, quick"
+	},
+	{
+		"armenian_translit": "dandax",
+		"english": "slow"
+	},
+	{
+		"armenian_translit": "dat'ark'",
+		"english": "empty"
+	},
+	{
+		"armenian_translit": "dzhvar",
+		"english": "difficult, hard"
+	},
+	{
+		"armenian_translit": "hesht'",
+		"english": "easy"
+	},
+	{
+		"armenian_translit": "hognats'",
+		"english": "tired"
+	},
+	{
+		"armenian_translit": "angist'",
+		"english": "calm, peaceful"
+	},
+	{
+		"armenian_translit": "vat'",
+		"english": "bad"
+	},
+	{
+		"armenian_translit": "makur",
+		"english": "clean"
+	},
+	{
+		"armenian_translit": "urax",
+		"english": "happy, merry"
+	},
+	{
+		"armenian_translit": "mets'",
+		"english": "big, large"
+	},
+	{
+		"armenian_translit": "pokr",
+		"english": "small, little"
+	},
+	{
+		"armenian_translit": "lav",
+		"english": "good"
+	},
+	{
+		"armenian_translit": "t'ak",
+		"english": "hot/warm"
+	},
+	{
+		"armenian_translit": "et'akrkir",
+		"english": "interesting"
+	},
+	{
+		"armenian_translit": "hivand",
+		"english": "ill, sick"
+	},
+	{
+		"armenian_translit": "ttu",
+		"english": "sour"
+	},
+	{
+		"armenian_translit": "k'ts'u",
+		"english": "spicy"
+	},
+	{
+		"armenian_translit": "axi",
+		"english": "salty"
+	},
+	{
+		"armenian_translit": "uzhex",
+		"english": "strong"
+	},
+	{
+		"armenian_translit": "argelvats'",
+		"english": "forbidden, prohibited"
+	},
+	{
+		"armenian_translit": "viravorwats'",
+		"english": "injured"
+	},
+	{
+		"armenian_translit": "k'arevor",
+		"english": "important"
+	},
+	{
+		"armenian_translit": "tetev",
+		"english": "light (weight)"
+	},
+	{
+		"armenian_translit": "kaxtsats'",
+		"english": "hungry"
+	},
+	{
+		"armenian_translit": "hunvar",
+		"english": "January"
+	},
+	{
+		"armenian_translit": "petrvar",
+		"english": "February"
+	},
+	{
+		"armenian_translit": "mart",
+		"english": "March"
+	},
+	{
+		"armenian_translit": "april",
+		"english": "April"
+	},
+	{
+		"armenian_translit": "mayis",
+		"english": "May"
+	},
+	{
+		"armenian_translit": "hunis",
+		"english": "June"
+	},
+	{
+		"armenian_translit": "hulis",
+		"english": "July"
+	},
+	{
+		"armenian_translit": "ogostos",
+		"english": "August"
+	},
+	{
+		"armenian_translit": "september",
+		"english": "September"
+	},
+	{
+		"armenian_translit": "oktember",
+		"english": "October"
+	},
+	{
+		"armenian_translit": "noyember",
+		"english": "November"
+	},
+	{
+		"armenian_translit": "dektember",
+		"english": "December"
+	},
+	{
+		"armenian_translit": "hunvarin",
+		"english": "in January"
+	},
+	{
+		"armenian_translit": "petrvarin",
+		"english": "in February"
+	},
+	{
+		"armenian_translit": "martin",
+		"english": "in March"
+	},
+	{
+		"armenian_translit": "aprilin",
+		"english": "in April"
+	},
+	{
+		"armenian_translit": "mayisin",
+		"english": "in May"
+	},
+	{
+		"armenian_translit": "hunisin",
+		"english": "in June"
+	},
+	{
+		"armenian_translit": "hulisin",
+		"english": "in July"
+	},
+	{
+		"armenian_translit": "ogostosin",
+		"english": "in August"
+	},
+	{
+		"armenian_translit": "septemberin",
+		"english": "in September"
+	},
+	{
+		"armenian_translit": "oktemberin",
+		"english": "in October"
+	},
+	{
+		"armenian_translit": "noyemberin",
+		"english": "in November"
+	},
+	{
+		"armenian_translit": "dektemberin",
+		"english": "in December"
+	},
+	{
+		"armenian_translit": "garun",
+		"english": "spring"
+	},
+	{
+		"armenian_translit": "amar",
+		"english": "summer"
+	},
+	{
+		"armenian_translit": "ashun",
+		"english": "autumn"
+	},
+	{
+		"armenian_translit": "dzmer",
+		"english": "winter"
+	},
+	{
+		"armenian_translit": "garnanё",
+		"english": "in spring"
+	},
+	{
+		"armenian_translit": "amrranё",
+		"english": "in summer"
+	},
+	{
+		"armenian_translit": "ashnanё",
+		"english": "in autumn"
+	},
+	{
+		"armenian_translit": "dzmranё",
+		"english": "in winter"
+	},
+	{
+		"armenian_translit": "im",
+		"english": "my"
+	},
+	{
+		"armenian_translit": "ko",
+		"english": "your"
+	},
+	{
+		"armenian_translit": "nra",
+		"english": "his/her/its"
+	},
+	{
+		"armenian_translit": "mer",
+		"english": "our"
+	},
+	{
+		"armenian_translit": "dzer",
+		"english": "your (pl)"
+	},
+	{
+		"armenian_translit": "nrants",
+		"english": "their"
+	},
+	{
+		"armenian_translit": "imё",
+		"english": "mine"
+	},
+	{
+		"armenian_translit": "konё",
+		"english": "yours"
+	},
+	{
+		"armenian_translit": "nranё",
+		"english": "his/hers/its"
+	},
+	{
+		"armenian_translit": "merё",
+		"english": "ours"
+	},
+	{
+		"armenian_translit": "dzerё",
+		"english": "yours (pl/pol)"
+	},
+	{
+		"armenian_translit": "nrantsё",
+		"english": "theirs"
+	},
+	{
+		"armenian_translit": "im jerk'irё",
+		"english": "my country"
+	},
+	{
+		"armenian_translit": "dzer ёnk'erё",
+		"english": "your friend (pl/pol)"
+	},
+	{
+		"armenian_translit": "mer hyuranotsё",
+		"english": "our hotel"
+	},
+	{
+		"armenian_translit": "0",
+		"english": "sro"
+	},
+	{
+		"armenian_translit": "1",
+		"english": "mek'"
+	},
+	{
+		"armenian_translit": "2",
+		"english": "yerk'u"
+	},
+	{
+		"armenian_translit": "3",
+		"english": "yerek"
+	},
+	{
+		"armenian_translit": "4",
+		"english": "chors"
+	},
+	{
+		"armenian_translit": "5",
+		"english": "hing"
+	},
+	{
+		"armenian_translit": "6",
+		"english": "vets"
+	},
+	{
+		"armenian_translit": "7",
+		"english": "yot"
+	},
+	{
+		"armenian_translit": "8",
+		"english": "ut"
+	},
+	{
+		"armenian_translit": "9",
+		"english": "inё"
+	},
+	{
+		"armenian_translit": "10",
+		"english": "t'as"
+	},
+	{
+		"armenian_translit": "11",
+		"english": "t'asnmek'"
+	},
+	{
+		"armenian_translit": "12",
+		"english": "t'asnerk'u"
+	},
+	{
+		"armenian_translit": "13",
+		"english": "t'asnerek"
+	},
+	{
+		"armenian_translit": "14",
+		"english": "t'asnchors"
+	},
+	{
+		"armenian_translit": "15",
+		"english": "t'asnhing"
+	},
+	{
+		"armenian_translit": "16",
+		"english": "t'asnvets"
+	},
+	{
+		"armenian_translit": "17",
+		"english": "t'asnyot"
+	},
+	{
+		"armenian_translit": "18",
+		"english": "t'asnut"
+	},
+	{
+		"armenian_translit": "19",
+		"english": "t'asninё"
+	},
+	{
+		"armenian_translit": "20",
+		"english": "ksan"
+	},
+	{
+		"armenian_translit": "21",
+		"english": "ksan mek'"
+	},
+	{
+		"armenian_translit": "30",
+		"english": "yeresun"
+	},
+	{
+		"armenian_translit": "31",
+		"english": "yeresun mek'"
+	},
+	{
+		"armenian_translit": "40",
+		"english": "karrasun"
+	},
+	{
+		"armenian_translit": "50",
+		"english": "hisun"
+	},
+	{
+		"armenian_translit": "60",
+		"english": "vatsun"
+	},
+	{
+		"armenian_translit": "70",
+		"english": "yotanasun"
+	},
+	{
+		"armenian_translit": "80",
+		"english": "utsun"
+	},
+	{
+		"armenian_translit": "90",
+		"english": "innsun"
+	},
+	{
+		"armenian_translit": "100",
+		"english": "haryur"
+	},
+	{
+		"armenian_translit": "150",
+		"english": "haryur hisun"
+	},
+	{
+		"armenian_translit": "200",
+		"english": "yerk'u haryur"
+	},
+	{
+		"armenian_translit": "1000",
+		"english": "hazar"
+	},
+	{
+		"armenian_translit": "5000",
+		"english": "hing hazar"
+	},
+	{
+		"armenian_translit": "1,000,000",
+		"english": "mek' milion"
+	},
+	{
+		"armenian_translit": "1900",
+		"english": "hazar inё haryur"
+	},
+	{
+		"armenian_translit": "1998",
+		"english": "hazar inё haryur innsun ut"
+	},
+	{
+		"armenian_translit": "arradshin(ё)",
+		"english": "(the) first"
+	},
+	{
+		"armenian_translit": "yerk'rord(ё)",
+		"english": "(the) second"
+	},
+	{
+		"armenian_translit": "yerord(ё)",
+		"english": "(the) third"
+	},
+	{
+		"armenian_translit": "chorord(ё)",
+		"english": "fourth"
+	},
+	{
+		"armenian_translit": "hingerord(ё)",
+		"english": "fifth"
+	},
+	{
+		"armenian_translit": "vetserord(ё)",
+		"english": "sixth"
+	},
+	{
+		"armenian_translit": "yoterord(ё)",
+		"english": "seventh"
+	},
+	{
+		"armenian_translit": "uterord(ё)",
+		"english": "eighth"
+	},
+	{
+		"armenian_translit": "innerord(ё)",
+		"english": "ninth"
+	},
+	{
+		"armenian_translit": "t'aserord(ё)",
+		"english": "tenth"
+	},
+	{
+		"armenian_translit": "t'asnmek'erord(ё)",
+		"english": "eleventh"
+	},
+	{
+		"armenian_translit": "vatsun hingerord",
+		"english": "65th"
+	},
+	{
+		"armenian_translit": "ksan uterord",
+		"english": "28th"
+	},
+	{
+		"armenian_translit": "hing vetserord",
+		"english": "5/6"
+	},
+	{
+		"armenian_translit": "mek' yerord",
+		"english": "1/3"
+	},
+	{
+		"armenian_translit": "mek' karrord",
+		"english": "1/4"
+	},
+	{
+		"armenian_translit": "yerek karrord",
+		"english": "3/4"
+	},
+	{
+		"armenian_translit": "k'es",
+		"english": "1/2"
+	},
+	{
+		"armenian_translit": "3.5",
+		"english": "yerek u k'es"
+	},
+	{
+		"armenian_translit": "k'rk'nak'i",
+		"english": "twice, double"
+	},
+	{
+		"armenian_translit": "yerrak'i",
+		"english": "thrice, triple"
+	},
+	{
+		"armenian_translit": "karrak'i",
+		"english": "four times, quadruple"
+	},
+	{
+		"armenian_translit": "hing angam",
+		"english": "five times"
+	},
+	{
+		"armenian_translit": "yerek avt'o",
+		"english": "3 cars"
+	},
+	{
+		"armenian_translit": "yerk'u angam",
+		"english": "twice, 2 times"
+	},
+	{
+		"armenian_translit": "hazar dram",
+		"english": "1000 Drams"
+	},
+	{
+		"armenian_translit": "hing t'ari",
+		"english": "5 years"
+	},
+	{
+		"armenian_translit": "ut shabat",
+		"english": "8 weeks"
+	},
+	{
+		"armenian_translit": "barev dzez!",
+		"english": "Hello!"
+	},
+	{
+		"armenian_translit": "barev!",
+		"english": "Hi!"
+	},
+	{
+		"armenian_translit": "bari luys!",
+		"english": "Good morning!"
+	},
+	{
+		"armenian_translit": "bari or!",
+		"english": "Godd afternoon!"
+	},
+	{
+		"armenian_translit": "bari irikun!",
+		"english": "Good evening!"
+	},
+	{
+		"armenian_translit": "bari gisher!",
+		"english": "Good night!"
+	},
+	{
+		"armenian_translit": "barov ek yekel!",
+		"english": "Welcome!"
+	},
+	{
+		"armenian_translit": "bari veradardz!",
+		"english": "Welcome back!"
+	},
+	{
+		"armenian_translit": "(duk) vonts ek?/inchpes ek?",
+		"english": "How are you? (polite)"
+	},
+	{
+		"armenian_translit": "vonts e gortserd?",
+		"english": "How are things? How's it going?"
+	},
+	{
+		"armenian_translit": "shnorakalutyun, lav e",
+		"english": "Fine, thank you."
+	},
+	{
+		"armenian_translit": "isk duk?",
+		"english": "And You?"
+	},
+	{
+		"armenian_translit": "shnorakalutyun, vochinch",
+		"english": "Not bad, thank you."
+	},
+	{
+		"armenian_translit": "urish inch norutyun?",
+		"english": "What's new? What's been happening?"
+	},
+	{
+		"armenian_translit": "vochinch",
+		"english": "Nothing"
+	},
+	{
+		"armenian_translit": "tstesutyun!",
+		"english": "Good bye"
+	},
+	{
+		"armenian_translit": "adjoh!",
+		"english": "Bye!"
+	},
+	{
+		"armenian_translit": "amenabari maxtanknerё!",
+		"english": "All the best!"
+	},
+	{
+		"armenian_translit": "minchev shutapuyt tesutyunё!",
+		"english": "See you soon!"
+	},
+	{
+		"armenian_translit": "minchev vaghё!",
+		"english": "See you tomorrow!"
+	},
+	{
+		"armenian_translit": "ktesnvenk!",
+		"english": "See you!"
+	},
+	{
+		"armenian_translit": "kzangaarvenk!",
+		"english": "Talk to you later on the phone!"
+	},
+	{
+		"armenian_translit": "mnas ak barov!",
+		"english": "Fare you well!"
+	},
+	{
+		"armenian_translit": "paron",
+		"english": "Mr..."
+	},
+	{
+		"armenian_translit": "paronui",
+		"english": "Mrs..."
+	},
+	{
+		"armenian_translit": "yeritasard",
+		"english": "Young man!"
+	},
+	{
+		"armenian_translit": "paron professor/usutschapat!",
+		"english": "Professor!"
+	},
+	{
+		"armenian_translit": "tikinner yev paronayk!",
+		"english": "Ladies and gentlemen!"
+	},
+	{
+		"armenian_translit": "tankagin ёnkerner!",
+		"english": "Dear colleagues!"
+	},
+	{
+		"armenian_translit": "tankagin koleganer!",
+		"english": "Dear friends!"
+	},
+	{
+		"armenian_translit": "txerk!",
+		"english": "Guys!"
+	},
+	{
+		"armenian_translit": "yereghaner!",
+		"english": "Kids!"
+	},
+	{
+		"armenian_translit": "inch?",
+		"english": "What?"
+	},
+	{
+		"armenian_translit": "da inch e?",
+		"english": "What is this?"
+	},
+	{
+		"armenian_translit": "inch e patayel?",
+		"english": "What happened?"
+	},
+	{
+		"armenian_translit": "nor inch?",
+		"english": "What's new? What's the news?"
+	},
+	{
+		"armenian_translit": "da inch kaghak e?",
+		"english": "What city is this?"
+	},
+	{
+		"armenian_translit": "inchchumn e gortsё?",
+		"english": "What's the matter?"
+	},
+	{
+		"armenian_translit": "ov?",
+		"english": "Who?"
+	},
+	{
+		"armenian_translit": "da ov e?",
+		"english": "Who is this?"
+	},
+	{
+		"armenian_translit": "ov e aystex?",
+		"english": "Who's there?"
+	},
+	{
+		"armenian_translit": "da um amare?",
+		"english": "Who is this for?"
+	},
+	{
+		"armenian_translit": "umn e da?",
+		"english": "Whose is this?"
+	},
+	{
+		"armenian_translit": "um et ek duk xosum?",
+		"english": "Who are you talking to?"
+	},
+	{
+		"armenian_translit": "vortex?",
+		"english": "Where?"
+	},
+	{
+		"armenian_translit": "vortex e da?",
+		"english": "Where is this?"
+	},
+	{
+		"armenian_translit": "vortex e gtnvum?",
+		"english": "Where is...(situated)?"
+	},
+	{
+		"armenian_translit": "vortex ek duk gnum?",
+		"english": "Where do you live?"
+	},
+	{
+		"armenian_translit": "vonts/inchpes?",
+		"english": "How?"
+	},
+	{
+		"armenian_translit": "vonts e dzer anunё?",
+		"english": "What is your name?"
+	},
+	{
+		"armenian_translit": "vonts e dzer gortserё?",
+		"english": "How are things with you?"
+	},
+	{
+		"armenian_translit": "vonts ek duk aprum?",
+		"english": "How are you living? (=How's life treating you)"
+	},
+	{
+		"armenian_translit": "vonts asem ayeren?",
+		"english": "How do you say this in Armenian?"
+	},
+	{
+		"armenian_translit": "vonts asem ruseren?",
+		"english": "How do you say this in Russian?"
+	},
+	{
+		"armenian_translit": "vonts asem angleren?",
+		"english": "How do you say this in English?"
+	},
+	{
+		"armenian_translit": "vonts kareli e antsel...mot?",
+		"english": "How do I get to...?"
+	},
+	{
+		"armenian_translit": "inchpes?",
+		"english": "What? What kind of?"
+	},
+	{
+		"armenian_translit": "inchpesi guyni?",
+		"english": "What colour?"
+	},
+	{
+		"armenian_translit": "inch amar e?",
+		"english": "What size?"
+	},
+	{
+		"armenian_translit": "yerb?",
+		"english": "When?"
+	},
+	{
+		"armenian_translit": "yerb e gnatskё zhamanum?",
+		"english": "What time does the train arrive?"
+	},
+	{
+		"armenian_translit": "yerb e gnatskё meknum?",
+		"english": "What time does the train leave?"
+	},
+	{
+		"armenian_translit": "vortex ek duk gnum?",
+		"english": "Where are you going?"
+	},
+	{
+		"armenian_translit": "vortexits?",
+		"english": "Where from?"
+	},
+	{
+		"armenian_translit": "vortexits ek duk?",
+		"english": "Where are you from?"
+	},
+	{
+		"armenian_translit": "votexits ek duk yekel?",
+		"english": "Where do you come from?"
+	},
+	{
+		"armenian_translit": "inchkan?",
+		"english": "How much?"
+	},
+	{
+		"armenian_translit": "kani?",
+		"english": "How many?"
+	},
+	{
+		"armenian_translit": "inchkan da arzhe?",
+		"english": "How much does it cost?"
+	},
+	{
+		"armenian_translit": "inchkan zhamanak?",
+		"english": "How long?"
+	},
+	{
+		"armenian_translit": "inchkan zhamanak ek duk aystex mnalu?",
+		"english": "How long are you going to stay here?"
+	},
+	{
+		"armenian_translit": "inchkan zhamanak e dran antsnelu?",
+		"english": "How long will it take?"
+	},
+	{
+		"armenian_translit": "bari yexek,",
+		"english": "Would you be so kind..."
+	},
+	{
+		"armenian_translit": "chndrem, duk chek asi...?",
+		"english": "Excuse me, could you tell me..."
+	},
+	{
+		"armenian_translit": "duk chek karoghanal indz ognel?",
+		"english": "Could you help me?"
+	},
+	{
+		"armenian_translit": "duk chek akachari yete yes...?",
+		"english": "Would you mind if I...?"
+	},
+	{
+		"armenian_translit": "che, chndrem",
+		"english": "No, please do."
+	},
+	{
+		"armenian_translit": "kareli e mtnel?",
+		"english": "May I come in?"
+	},
+	{
+		"armenian_translit": "chndrem, tvek indz...",
+		"english": "Please, give me..."
+	},
+	{
+		"armenian_translit": "chndrem, poxantsek indz...",
+		"english": "Please, pass on to me..."
+	},
+	{
+		"armenian_translit": "chndrem, tsuyts tvek indz...",
+		"english": "Please, show me..."
+	},
+	{
+		"armenian_translit": "chndrem, asatsek indz...",
+		"english": "Please, tell me..."
+	},
+	{
+		"armenian_translit": "vazel",
+		"english": "to run"
+	},
+	{
+		"armenian_translit": "vaxenal",
+		"english": "to fear, to be afraid"
+	},
+	{
+		"armenian_translit": "verts'nel",
+		"english": "to take"
+	},
+	{
+		"armenian_translit": "amadzayn linel",
+		"english": "to agree"
+	},
+	{
+		"armenian_translit": "avatal",
+		"english": "to believe"
+	},
+	{
+		"armenian_translit": "tesnel",
+		"english": "to see"
+	},
+	{
+		"armenian_translit": "unenal",
+		"english": "to own, to possess"
+	},
+	{
+		"armenian_translit": "akacharel",
+		"english": "to object, to mind"
+	},
+	{
+		"armenian_translit": "mtnel",
+		"english": "to enter"
+	},
+	{
+		"armenian_translit": "ёntrel",
+		"english": "to choose"
+	},
+	{
+		"armenian_translit": "durs gal",
+		"english": "to exit"
+	},
+	{
+		"armenian_translit": "hosel",
+		"english": "to talk"
+	},
+	{
+		"armenian_translit": "patrastel",
+		"english": "to cook"
+	},
+	{
+		"armenian_translit": "tal",
+		"english": "to give"
+	},
+	{
+		"armenian_translit": "anel",
+		"english": "to do"
+	},
+	{
+		"armenian_translit": "vsta'el",
+		"english": "to trust"
+	},
+	{
+		"armenian_translit": "mtatsel",
+		"english": "to think"
+	},
+	{
+		"armenian_translit": "gangatvel",
+		"english": "to complain, to moan"
+	},
+	{
+		"armenian_translit": "spasel",
+		"english": "to wait"
+	},
+	{
+		"armenian_translit": "moranal",
+		"english": "to forget"
+	},
+	{
+		"armenian_translit": "naxachashel",
+		"english": "to breakfast"
+	},
+	{
+		"armenian_translit": "patvirel",
+		"english": "to order, to make an order"
+	},
+	{
+		"armenian_translit": "avartel",
+		"english": "to finish"
+	},
+	{
+		"armenian_translit": "nkatel",
+		"english": "to notice"
+	},
+	{
+		"armenian_translit": "grarel",
+		"english": "to write down"
+	},
+	{
+		"armenian_translit": "pashtpanel",
+		"english": "to defend"
+	},
+	{
+		"armenian_translit": "kanch'el",
+		"english": "to call"
+	},
+	{
+		"armenian_translit": "imanal",
+		"english": "to know something"
+	},
+	{
+		"armenian_translit": "xaghal",
+		"english": "to play"
+	},
+	{
+		"armenian_translit": "oyakap e!",
+		"english": "Great!"
+	},
+	{
+		"armenian_translit": "ianali e!",
+		"english": "Wonderful!"
+	},
+	{
+		"armenian_translit": "gerazants e!",
+		"english": "Super!"
+	},
+	{
+		"armenian_translit": "shat lav e!",
+		"english": "Very good!"
+	},
+	{
+		"armenian_translit": "shat sirali e!",
+		"english": "Very nice!"
+	},
+	{
+		"armenian_translit": "urax em dzer amar!",
+		"english": "Happy for you!"
+	},
+	{
+		"armenian_translit": "katarelapes vat che",
+		"english": "Not bad at all"
+	},
+	{
+		"armenian_translit": "dzer baxtё berel e!",
+		"english": "Lucky you!"
+	},
+	{
+		"armenian_translit": "yes aynkan em urax!",
+		"english": "I am so glad!"
+	},
+	{
+		"armenian_translit": "indz ama shat acheli e",
+		"english": "I am very pleased"
+	},
+	{
+		"armenian_translit": "yes aynkan em yerdzhanik",
+		"english": "I am so happy"
+	},
+	{
+		"armenian_translit": "yes..",
+		"english": "I [am]..."
+	},
+	{
+		"armenian_translit": "im anunё....",
+		"english": "My name is..."
+	},
+	{
+		"armenian_translit": "paron...",
+		"english": "Mr..."
+	},
+	{
+		"armenian_translit": "paronui",
+		"english": "Mrs..."
+	},
+	{
+		"armenian_translit": "doktor...",
+		"english": "Doctor..."
+	},
+	{
+		"armenian_translit": "professor...",
+		"english": "Professor..."
+	},
+	{
+		"armenian_translit": "acheli e",
+		"english": "My pleasure"
+	},
+	{
+		"armenian_translit": "shat acheli e",
+		"english": "Pleased to meet you"
+	},
+	{
+		"armenian_translit": "acheli e dzer et tsanotanal",
+		"english": "Nice to meet you"
+	},
+	{
+		"armenian_translit": "indz el e shat acheli",
+		"english": "Nice to meet you too"
+	},
+	{
+		"armenian_translit": "duk indz chek chanachum?",
+		"english": "Do you not recognise me?"
+	},
+	{
+		"armenian_translit": "knerek duk patakaan paron/paronui... chek?",
+		"english": "Excuse me, are you be any chance Mr/Mrs...?"
+	},
+	{
+		"armenian_translit": "ayo, ayd yes em.",
+		"english": "Yes, that is me."
+	},
+	{
+		"armenian_translit": "duk yerbeve yexel ek (name of the place)un/yun?",
+		"english": "Have you ever been to...?"
+	},
+	{
+		"armenian_translit": "ov e ayd/ayn paronё?",
+		"english": "Who is that gentleman?"
+	},
+	{
+		"armenian_translit": "ov e ayd/ayn tikinё?",
+		"english": "Who is that lady?"
+	},
+	{
+		"armenian_translit": "da im mterimn e",
+		"english": "This is my friend (m)"
+	},
+	{
+		"armenian_translit": "im mtermuin e",
+		"english": "This is my friend (f)"
+	},
+	{
+		"armenian_translit": "da im kolegan e.",
+		"english": "This is my colleague"
+	},
+	{
+		"armenian_translit": "duk tsanot chek?",
+		"english": "Do you know each other?"
+	},
+	{
+		"armenian_translit": "yes karox yem dzez nerkayatsnel?",
+		"english": "I would like to introduce to you..."
+	},
+	{
+		"armenian_translit": "duk xosum ek...?",
+		"english": "Do you speak...?"
+	},
+	{
+		"armenian_translit": "...angleren",
+		"english": "...English"
+	},
+	{
+		"armenian_translit": "...italeren",
+		"english": "...Italian"
+	},
+	{
+		"armenian_translit": "...ruseren",
+		"english": "...Russian"
+	},
+	{
+		"armenian_translit": "che, chem xosum.",
+		"english": "No, I don't [speak]"
+	},
+	{
+		"armenian_translit": "ayo, mi kich",
+		"english": "Yes, a little."
+	},
+	{
+		"armenian_translit": "im ayrenё lezun ayerenn e",
+		"english": "My mother tongue is Armenian"
+	},
+	{
+		"armenian_translit": "ye sunem yerku ayrenё lezu",
+		"english": "I have 2 native languages."
+	},
+	{
+		"armenian_translit": "yes askanum em ayerenn",
+		"english": "I understand Armenian."
+	},
+	{
+		"armenian_translit": "yes karoghanum... em",
+		"english": "I can..."
+	},
+	{
+		"armenian_translit": "yes karoghanum... chem",
+		"english": "I can't..."
+	},
+	{
+		"armenian_translit": "yes karoghanum kardal em",
+		"english": "I can read."
+	},
+	{
+		"armenian_translit": "yes karoghanum grel em",
+		"english": "I can write."
+	},
+	{
+		"armenian_translit": "yes karoghanum batsatrvel em...",
+		"english": "I can manage in/make myself understood/get by in..."
+	},
+	{
+		"armenian_translit": "yes karoghanum em targmanel ayrenits ruseren yev akarakё",
+		"english": "I can translate from Italian to Russian and vice versa"
+	},
+	{
+		"armenian_translit": "menk karogh enk xosel ayeren?",
+		"english": "Can we speak Armenian?"
+	},
+	{
+		"armenian_translit": "duk indz askanum ek?",
+		"english": "Do you understand me?"
+	},
+	{
+		"armenian_translit": "yes askanum em mi kitch",
+		"english": "I understand a little."
+	},
+	{
+		"armenian_translit": "yes askanum em amarya lriv",
+		"english": "I understand almost everything."
+	},
+	{
+		"armenian_translit": "yes askanum em yerb duk kamats ek xosum",
+		"english": "I understand when you speak slowly"
+	},
+	{
+		"armenian_translit": "yes vochinch chem askanum",
+		"english": "I don't understand anything"
+	},
+	{
+		"armenian_translit": "knerek, yes vochinch chaskatsa",
+		"english": "Sorry, I did not understand anything"
+	},
+	{
+		"armenian_translit": "inch asetsik duk?",
+		"english": "What did you say?"
+	},
+	{
+		"armenian_translit": "duk karogh ek krnel?",
+		"english": "Could you repeat?"
+	},
+	{
+		"armenian_translit": "inch e na asum?",
+		"english": "What is s/he saying?"
+	},
+	{
+		"armenian_translit": "inch na asats?",
+		"english": "What did he/she say?"
+	},
+	{
+		"armenian_translit": "aystex ruseren/angleren xosatsogh ka?",
+		"english": "Does anyone here speak Russian/English?"
+	},
+	{
+		"armenian_translit": "asatsek, xosatsek kamats",
+		"english": "Please, speak more slowly"
+	},
+	{
+		"armenian_translit": "asatsek, xosatsek bartsr",
+		"english": "Please, speak louder"
+	},
+	{
+		"armenian_translit": "inch e nshakanum ays barё?",
+		"english": "What does this word mean?"
+	},
+	{
+		"armenian_translit": "gretsek indz amar, xndrum em",
+		"english": "Please, write it for me"
+	},
+	{
+		"armenian_translit": "vonts e ayn ёnchvum?",
+		"english": "How is it pronounced?"
+	},
+	{
+		"armenian_translit": "vonts e ayn grvum?",
+		"english": "How is it spelled?"
+	},
+	{
+		"armenian_translit": "shnorakalutyun, ima askanum em",
+		"english": "Thank you, now I understand."
+	},
+	{
+		"armenian_translit": "knerek, vor ёndatum em dzez",
+		"english": "Sorry for interrupting."
+	},
+	{
+		"armenian_translit": "aktiv",
+		"english": "active"
+	},
+	{
+		"armenian_translit": "passiv",
+		"english": "passive"
+	},
+	{
+		"armenian_translit": "kaxakavari",
+		"english": "polite"
+	},
+	{
+		"armenian_translit": "ankaxakavari",
+		"english": "impolite"
+	},
+	{
+		"armenian_translit": "urax",
+		"english": "happy, merry"
+	},
+	{
+		"armenian_translit": "dzandzrali",
+		"english": "boring, dull"
+	},
+	{
+		"armenian_translit": "bari",
+		"english": "good, kind"
+	},
+	{
+		"armenian_translit": "char",
+		"english": "bad, evil"
+	},
+	{
+		"armenian_translit": "dastirakvats",
+		"english": "well-bred"
+	},
+	{
+		"armenian_translit": "andastirak",
+		"english": "ill-bred"
+	},
+	{
+		"armenian_translit": "nervayn",
+		"english": "highly strung, neurotic"
+	},
+	{
+		"armenian_translit": "angist",
+		"english": "calm, composed"
+	},
+	{
+		"armenian_translit": "dzernerets",
+		"english": "enterprising, full of initiative"
+	},
+	{
+		"armenian_translit": "andzernerets",
+		"english": "lacking initiative"
+	},
+	{
+		"armenian_translit": "zguysh",
+		"english": "careful, cautious"
+	},
+	{
+		"armenian_translit": "anzguysh",
+		"english": "careless"
+	},
+	{
+		"armenian_translit": "bats",
+		"english": "open"
+	},
+	{
+		"armenian_translit": "pak",
+		"english": "closed, shut"
+	},
+	{
+		"armenian_translit": "vchrakan",
+		"english": "determined"
+	},
+	{
+		"armenian_translit": "anvchrakan/anvorosh",
+		"english": "undetermined, dithering, irresolute"
+	},
+	{
+		"armenian_translit": "uzhex",
+		"english": "strong"
+	},
+	{
+		"armenian_translit": "tuyl",
+		"english": "weak"
+	},
+	{
+		"armenian_translit": "amest",
+		"english": "modest"
+	},
+	{
+		"armenian_translit": "lkti/pirb",
+		"english": "insolent, bold, cheeky (x2)"
+	},
+	{
+		"armenian_translit": "ashxataser",
+		"english": "hard-working"
+	},
+	{
+		"armenian_translit": "tsuyl",
+		"english": "lazy"
+	},
+	{
+		"armenian_translit": "vstah",
+		"english": "confident"
+	},
+	{
+		"armenian_translit": "anvstah",
+		"english": "inconfident"
+	},
+	{
+		"armenian_translit": "xelok",
+		"english": "clever, smart"
+	},
+	{
+		"armenian_translit": "txmar",
+		"english": "stupid"
+	},
+	{
+		"armenian_translit": "koghkё ast",
+		"english": "stubborn"
+	},
+	{
+		"armenian_translit": "amakerpvogh",
+		"english": "easy-going, complaisant"
+	},
+	{
+		"armenian_translit": "azniv",
+		"english": "honest"
+	},
+	{
+		"armenian_translit": "anazniv",
+		"english": "dishonest"
+	},
+	{
+		"armenian_translit": "argeli",
+		"english": "respectable, esteemed"
+	},
+	{
+		"armenian_translit": "avelatsnets",
+		"english": "to increase"
+	},
+	{
+		"armenian_translit": "gravich",
+		"english": "fascinating"
+	},
+	{
+		"armenian_translit": "pasian",
+		"english": "pheasant"
+	},
+	{
+		"armenian_translit": "azganun",
+		"english": "surname"
+	},
+	{
+		"armenian_translit": "chenapaki",
+		"english": "porcelain, china"
+	},
+	{
+		"armenian_translit": "fauna/kendanakan ashxar",
+		"english": "fauna, animal kingdom"
+	},
+	{
+		"armenian_translit": "ёravarrutyun",
+		"english": "fireworks"
+	},
+	{
+		"armenian_translit": "ferma/agarak",
+		"english": "farm (x2)"
+	},
+	{
+		"armenian_translit": "parraton",
+		"english": "festival"
+	},
+	{
+		"armenian_translit": "firma",
+		"english": "a firm"
+	},
+	{
+		"armenian_translit": "flora/busakan ashxar",
+		"english": "flora, plant kingdom"
+	},
+	{
+		"armenian_translit": "lapter",
+		"english": "lantern, lamp"
+	},
+	{
+		"armenian_translit": "shatrvan",
+		"english": "fountain"
+	},
+	{
+		"armenian_translit": "lusankar",
+		"english": "photo"
+	},
+	{
+		"armenian_translit": "ktor/atvats",
+		"english": "extract, piece, fragment (x2)"
+	},
+	{
+		"armenian_translit": "vormnankar",
+		"english": "fresco"
+	},
+	{
+		"armenian_translit": "mirg",
+		"english": "fruit"
+	},
+	{
+		"armenian_translit": "lusankarchakan apparat",
+		"english": "photo camera"
+	}
+]

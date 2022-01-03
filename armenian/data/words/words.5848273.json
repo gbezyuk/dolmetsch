@@ -1,0 +1,7170 @@
+[
+	{
+		"armenian": "ես",
+		"english": "I"
+	},
+	{
+		"armenian": "ես եւ դու",
+		"english": "I and you"
+	},
+	{
+		"armenian": "մենք երկուսս",
+		"english": "both of us"
+	},
+	{
+		"armenian": "նա",
+		"english": "he (or she)"
+	},
+	{
+		"armenian": "նա եւ նա",
+		"english": "he and she"
+	},
+	{
+		"armenian": "նրանք երկուսը",
+		"english": "they both"
+	},
+	{
+		"armenian": "տղամարդ",
+		"english": "the man"
+	},
+	{
+		"armenian": "կին",
+		"english": "the woman"
+	},
+	{
+		"armenian": "երեխա",
+		"english": "the child"
+	},
+	{
+		"armenian": "մի ընտանիք",
+		"english": "a family"
+	},
+	{
+		"armenian": "իմ ընտանիքը",
+		"english": "my family"
+	},
+	{
+		"armenian": "իմ ընտանիքը այստեղ է:",
+		"english": "My family is here."
+	},
+	{
+		"armenian": "ես այստեղ եմ:",
+		"english": "I am here."
+	},
+	{
+		"armenian": "դու այստեղ ես:",
+		"english": "You are (singular) here."
+	},
+	{
+		"armenian": "նա այստեղ է եւ նա էլ է այստեղ:",
+		"english": "He is here and she is here."
+	},
+	{
+		"armenian": "մենք այստեղ ենք:",
+		"english": "We are here."
+	},
+	{
+		"armenian": "դուք այստեղ եք:",
+		"english": "You are (plural) here."
+	},
+	{
+		"armenian": "նրանք բոլորը այստեղ են:",
+		"english": "They are all here."
+	},
+	{
+		"armenian": "պապ",
+		"english": "the grandfather"
+	},
+	{
+		"armenian": "տատ",
+		"english": "the grandmother"
+	},
+	{
+		"armenian": "նա եւ նա",
+		"english": "he and she"
+	},
+	{
+		"armenian": "հայր",
+		"english": "the father"
+	},
+	{
+		"armenian": "մայր",
+		"english": "the mother"
+	},
+	{
+		"armenian": "որդի",
+		"english": "the son"
+	},
+	{
+		"armenian": "դուստր",
+		"english": "the daughter"
+	},
+	{
+		"armenian": "եղբայր",
+		"english": "the brother"
+	},
+	{
+		"armenian": "քույր",
+		"english": "the sister"
+	},
+	{
+		"armenian": "hորեղբայր/քեռի",
+		"english": "the uncle"
+	},
+	{
+		"armenian": "մորաքույր/հորաքույր",
+		"english": "the aunt"
+	},
+	{
+		"armenian": "մենք մի ընտանիք ենք:",
+		"english": "We are a family."
+	},
+	{
+		"armenian": "ընտանիքը փոքր չէ:",
+		"english": "The family is not small."
+	},
+	{
+		"armenian": "ընտանիքը մեծ է:",
+		"english": "The family is big."
+	},
+	{
+		"armenian": "ողջույն!",
+		"english": "Hi!"
+	},
+	{
+		"armenian": "բարի օր!",
+		"english": "Hello!"
+	},
+	{
+		"armenian": "ո՞նց ես: ինչպե՞ս ես:",
+		"english": "How are you?"
+	},
+	{
+		"armenian": "դուք եվրոպայից ե՞ք:",
+		"english": "Do you come from Europe?"
+	},
+	{
+		"armenian": "դուք ամերիկայից ե՞ք:",
+		"english": "Do you come from America?"
+	},
+	{
+		"armenian": "դուք ասիայից ե՞ք:",
+		"english": "Do you come from Asia?"
+	},
+	{
+		"armenian": "ո՞ր հյուրանոցում եք դուք ապրում:",
+		"english": "In which hotel are you staying?"
+	},
+	{
+		"armenian": "ինչքա՞ն ժամանակ է, որ այստեղ եք:",
+		"english": "How long have you been here for?"
+	},
+	{
+		"armenian": "ինչքա՞ն ժամանակ կմնաք այստեղ:",
+		"english": "How long will you be staying?"
+	},
+	{
+		"armenian": "ձեզ դու՞ր է գալիս այստեղ:",
+		"english": "Do you like it here?"
+	},
+	{
+		"armenian": "ձեր արձակուրդն այստե՞ղ եք անցկացնում",
+		"english": "Are you here on vacation?"
+	},
+	{
+		"armenian": "այցելեք ինձ!",
+		"english": "Please do visit me sometime!"
+	},
+	{
+		"armenian": "սա իմ հասցեն է:",
+		"english": "Here is my address."
+	},
+	{
+		"armenian": "կտեսնվե՞նք վաղը:",
+		"english": "Shall we see each other tomorrow?"
+	},
+	{
+		"armenian": "ցավում եմ, բայց վաղը ուրիշ պլաններ ունեմ:",
+		"english": "I am sorry, but I already have plans."
+	},
+	{
+		"armenian": "ցտեսություն!",
+		"english": "Bye!"
+	},
+	{
+		"armenian": "ցտեսություն!",
+		"english": "Good bye!"
+	},
+	{
+		"armenian": "առայժմ!",
+		"english": "See you soon!"
+	},
+	{
+		"armenian": "որտե՞ղ ենք մենք:",
+		"english": "Where are we?"
+	},
+	{
+		"armenian": "մենք դպրոցում ենք:",
+		"english": "We are at school."
+	},
+	{
+		"armenian": "մենք դասնթաց ունենք:",
+		"english": "We are having class / a lesson."
+	},
+	{
+		"armenian": "սրանք աշակերտներն են:",
+		"english": "Those are the school children."
+	},
+	{
+		"armenian": "սա ուսուցչուհին է:",
+		"english": "That is the teacher."
+	},
+	{
+		"armenian": "սա դասարանն է:",
+		"english": "That is the class."
+	},
+	{
+		"armenian": "մենք ի՞նչ ենք անում:",
+		"english": "What are we doing?"
+	},
+	{
+		"armenian": "մենք սովորում ենք:",
+		"english": "We are learning."
+	},
+	{
+		"armenian": "մենք լեզու ենք սովորում:",
+		"english": "We are learning a language."
+	},
+	{
+		"armenian": "ես սովորում եմ անգլերեն:",
+		"english": "I learn English."
+	},
+	{
+		"armenian": "դու սովորում ես իսպաներեն:",
+		"english": "You learn Spanish."
+	},
+	{
+		"armenian": "նա սովորում է գերմաներեն:",
+		"english": "He learns German."
+	},
+	{
+		"armenian": "մենք սովորում ենք ֆրանսերեն:",
+		"english": "We learn French."
+	},
+	{
+		"armenian": "դուք սովորում եք իտալերեն:",
+		"english": "You all learn Italian."
+	},
+	{
+		"armenian": "նրանք սովորում են ռուսերեն:",
+		"english": "They learn Russian."
+	},
+	{
+		"armenian": "լեզուներ սովորելը հետաքրքիր է:",
+		"english": "Learning languages is interesting."
+	},
+	{
+		"armenian": "մենք ուզում ենք մարդկանց հասկանալ:",
+		"english": "We want to understand people."
+	},
+	{
+		"armenian": "մենք ուզում ենք մարդկանց հետ խոսել:",
+		"english": "We want to speak with people."
+	},
+	{
+		"armenian": "ջոնը լոնդոնից է:",
+		"english": "John is from London."
+	},
+	{
+		"armenian": "լոնդոնը գտնվում է մեծ բրիտանիայում:",
+		"english": "London is in Great Britain."
+	},
+	{
+		"armenian": "նա խոսում է անգլերեն:",
+		"english": "He speaks English."
+	},
+	{
+		"armenian": "մարիան մադրիդից է:",
+		"english": "Maria is from Madrid."
+	},
+	{
+		"armenian": "մադրիդը գտնվում է իսպանիայում:",
+		"english": "Madrid is in Spain."
+	},
+	{
+		"armenian": "նա խոսում է իսպաներեն:",
+		"english": "She speaks Spanish."
+	},
+	{
+		"armenian": "պետերն ու մարթան բեռլինից են:",
+		"english": "Peter and Martha are from Berlin."
+	},
+	{
+		"armenian": "բեռլինը գտնվում է գերմանիայում:",
+		"english": "Berlin is in Germany."
+	},
+	{
+		"armenian": "խոսու՞մ եք երկուսդ էլ գերմաներեն:",
+		"english": "Do both of you speak German?"
+	},
+	{
+		"armenian": "լոնդոնը մայրաքաղաք է:",
+		"english": "London is a capital city."
+	},
+	{
+		"armenian": "մադրիդն ու բեռլինը նույնպես մայրաքաղաքներ են:",
+		"english": "Madrid and Berlin are also capital cities."
+	},
+	{
+		"armenian": "մայրաքաղաքները մեծ են ու աղմկոտ:",
+		"english": "Capital cities are big and noisy."
+	},
+	{
+		"armenian": "ֆրանսիան գտնվում է եվրոպայում:",
+		"english": "France is in Europe."
+	},
+	{
+		"armenian": "եգիպտոսը գտնվում է աֆրիկայում:",
+		"english": "Egypt is in Africa."
+	},
+	{
+		"armenian": "ճապոնիան գտնվում է ասիայում:",
+		"english": "Japan is in Asia."
+	},
+	{
+		"armenian": "կանադան գտնվում է հյուսիսային ամերիկայում:",
+		"english": "Canada is in North America."
+	},
+	{
+		"armenian": "պանաման գտնվում է կենտրոնական ամերիկայում:",
+		"english": "Panama is in Central America."
+	},
+	{
+		"armenian": "բրազիլիան գտնվում է հարավային ամերիկայում:",
+		"english": "Brazil is in South America."
+	},
+	{
+		"armenian": "ես կարդում եմ:",
+		"english": "I read."
+	},
+	{
+		"armenian": "ես կարդում եմ մի տառ:",
+		"english": "I read a letter (character)."
+	},
+	{
+		"armenian": "ես կարդում եմ մի բառ:",
+		"english": "I read a word."
+	},
+	{
+		"armenian": "ես կարդում եմ մի նախադասություն:",
+		"english": "I read a sentence."
+	},
+	{
+		"armenian": "ես կարդում եմ մի նամակ:",
+		"english": "I read a letter."
+	},
+	{
+		"armenian": "ես կարդում եմ մի գիրք:",
+		"english": "I read a book."
+	},
+	{
+		"armenian": "դու կարդում ես:",
+		"english": "You read."
+	},
+	{
+		"armenian": "նա կարդում է:",
+		"english": "He reads."
+	},
+	{
+		"armenian": "ես գրում եմ:",
+		"english": "I write."
+	},
+	{
+		"armenian": "ես գրում եմ մի տառ:",
+		"english": "I write a letter (character)."
+	},
+	{
+		"armenian": "ես գրում եմ մի բառ:",
+		"english": "I write a word."
+	},
+	{
+		"armenian": "ես գրում եմ մի նախադասություն:",
+		"english": "I write a sentence."
+	},
+	{
+		"armenian": "ես գրում եմ մի նամակ:",
+		"english": "I write a letter."
+	},
+	{
+		"armenian": "ես գրում եմ մի գիրք:",
+		"english": "I write a book."
+	},
+	{
+		"armenian": "դու գրում ես:",
+		"english": "You write."
+	},
+	{
+		"armenian": "նա գրում է:",
+		"english": "He writes."
+	},
+	{
+		"armenian": "ես հաշվում եմ:",
+		"english": "I count:"
+	},
+	{
+		"armenian": "մեկ, երկու, երեք",
+		"english": "one, two, three"
+	},
+	{
+		"armenian": "ես հաշվում եմ մինչեւ երեքը:",
+		"english": "I count to three."
+	},
+	{
+		"armenian": "ես շարունակում եմ հաշվել:",
+		"english": "I count further:"
+	},
+	{
+		"armenian": "չորս, հինգ, վեց",
+		"english": "four, five, six,"
+	},
+	{
+		"armenian": "յոթ, ութ, ինը",
+		"english": "seven, eight, nine"
+	},
+	{
+		"armenian": "ես հաշվում եմ:",
+		"english": "I count."
+	},
+	{
+		"armenian": "դու հաշվում ես:",
+		"english": "You count."
+	},
+	{
+		"armenian": "նա հաշվում է:",
+		"english": "He counts."
+	},
+	{
+		"armenian": "մեկ- առաջինը",
+		"english": "One. The first."
+	},
+	{
+		"armenian": "երկու - երկրորդը",
+		"english": "Two. The second."
+	},
+	{
+		"armenian": "երեք - երրորդը",
+		"english": "Three. The third."
+	},
+	{
+		"armenian": "չորս - չորրորդը",
+		"english": "Four. The fourth."
+	},
+	{
+		"armenian": "հինգ - հինգերորդը",
+		"english": "Five. The fifth."
+	},
+	{
+		"armenian": "վեց - վեցերորդը",
+		"english": "Six. The sixth."
+	},
+	{
+		"armenian": "յոթ - յոթերորդը",
+		"english": "Seven. The seventh."
+	},
+	{
+		"armenian": "ութ - ութերորդը",
+		"english": "Eight. The eighth."
+	},
+	{
+		"armenian": "ինը- իներորդը",
+		"english": "Nine. The ninth."
+	},
+	{
+		"armenian": "ներեցեք:",
+		"english": "Excuse me!"
+	},
+	{
+		"armenian": "ժամը քանի՞սն է:",
+		"english": "What time is it, please?"
+	},
+	{
+		"armenian": "շատ շնորհակալություն:",
+		"english": "Thank you very much."
+	},
+	{
+		"armenian": "ժամը մեկն է: (տասներեքն է)",
+		"english": "It is one o’clock."
+	},
+	{
+		"armenian": "ժամը երկուսն է: (տասնչորսն է)",
+		"english": "It is two o’clock."
+	},
+	{
+		"armenian": "ժամը երեքն է:(տասնհինգն է)",
+		"english": "It is three o’clock."
+	},
+	{
+		"armenian": "ժամը չորսն է: (տասնվեցն է)",
+		"english": "It is four o’clock."
+	},
+	{
+		"armenian": "ժամը հինգն է: (տասնյոթն է)",
+		"english": "It is five o’clock."
+	},
+	{
+		"armenian": "ժամը վեցն է: (տասնութն է)",
+		"english": "It is six o’clock."
+	},
+	{
+		"armenian": "ժամը յոթն է: ( տասնինն է)",
+		"english": "It is seven o’clock."
+	},
+	{
+		"armenian": "ժամը ութն է: (քսանն է)",
+		"english": "It is eight o’clock."
+	},
+	{
+		"armenian": "ժամը ինն է: ( քսանմեկն է)",
+		"english": "It is nine o’clock."
+	},
+	{
+		"armenian": "ժամը տասն է: ( քսաներկուսն է)",
+		"english": "It is ten o’clock."
+	},
+	{
+		"armenian": "ժամը տասնմեկն է: (քսաներեքն է)",
+		"english": "It is eleven o’clock."
+	},
+	{
+		"armenian": "ժամը տասներկուսն է: (քսանչորսն է)",
+		"english": "It is twelve o’clock."
+	},
+	{
+		"armenian": "մեկ րոպեն ունի վաթսուն վայրկյան:",
+		"english": "A minute has sixty seconds."
+	},
+	{
+		"armenian": "մեկ ժամն ունի վաթսուն րոպե:",
+		"english": "An hour has sixty minutes."
+	},
+	{
+		"armenian": "մեկ օրն ունի քսանչորս ժամ:",
+		"english": "A day has twenty-four hours."
+	},
+	{
+		"armenian": "երկուշաբթի",
+		"english": "Monday"
+	},
+	{
+		"armenian": "երեքշաբթի",
+		"english": "Tuesday"
+	},
+	{
+		"armenian": "չորեքշաբթի",
+		"english": "Wednesday"
+	},
+	{
+		"armenian": "հինգշաբթի",
+		"english": "Thursday"
+	},
+	{
+		"armenian": "ուրբաթ",
+		"english": "Friday"
+	},
+	{
+		"armenian": "շաբաթ",
+		"english": "Saturday"
+	},
+	{
+		"armenian": "կիրակի",
+		"english": "Sunday"
+	},
+	{
+		"armenian": "մի շաբաթ",
+		"english": "the week"
+	},
+	{
+		"armenian": "երկուշաբթիից մինչեւ կիրակի",
+		"english": "from Monday to Sunday"
+	},
+	{
+		"armenian": "առաջին օրը երկուշաբթին է:",
+		"english": "The first day is Monday."
+	},
+	{
+		"armenian": "երկրորդ օրը երեքշաբթին է:",
+		"english": "The second day is Tuesday."
+	},
+	{
+		"armenian": "երրորդ օրը չորեքշաբթին է:",
+		"english": "The third day is Wednesday."
+	},
+	{
+		"armenian": "չորրորդ օրը հինգշաբթին է:",
+		"english": "The fourth day is Thursday."
+	},
+	{
+		"armenian": "հինգերորդ օրը ուրբաթն է:",
+		"english": "The fifth day is Friday."
+	},
+	{
+		"armenian": "վեցերորդ օրը շաբաթն է:",
+		"english": "The sixth day is Saturday."
+	},
+	{
+		"armenian": "յոթերորդ օրը կիրակին է:",
+		"english": "The seventh day is Sunday."
+	},
+	{
+		"armenian": "շաբաթն ունի յոթ օր:",
+		"english": "The week has seven days."
+	},
+	{
+		"armenian": "մենք աշխատում ենք միայն հինգ օր:",
+		"english": "We only work for five days."
+	},
+	{
+		"armenian": "երեկ շաբաթ օր էր:",
+		"english": "Yesterday was Saturday."
+	},
+	{
+		"armenian": "երեկ գնացել էի կինո:",
+		"english": "I was at the cinema yesterday."
+	},
+	{
+		"armenian": "ֆիլմը շատ հետաքրքիր էր:",
+		"english": "The film was interesting."
+	},
+	{
+		"armenian": "այսօր կիրակի է:",
+		"english": "Today is Sunday."
+	},
+	{
+		"armenian": "այսօր ես չեմ աշխատում:",
+		"english": "I’m not working today."
+	},
+	{
+		"armenian": "ես մնում եմ տանը:",
+		"english": "I’m staying at home."
+	},
+	{
+		"armenian": "վաղը երկուշաբթի է:",
+		"english": "Tomorrow is Monday."
+	},
+	{
+		"armenian": "վաղը ես նորից աշխատում եմ.",
+		"english": "Tomorrow I will work again."
+	},
+	{
+		"armenian": "ես աշխատում եմ գրասենյակում:",
+		"english": "I work at an office."
+	},
+	{
+		"armenian": "այս ո՞վ է:",
+		"english": "Who is that?"
+	},
+	{
+		"armenian": "սա պետերն է:",
+		"english": "That is Peter."
+	},
+	{
+		"armenian": "պետերը ուսանող է:",
+		"english": "Peter is a student."
+	},
+	{
+		"armenian": "սա մարթան է:",
+		"english": "That is Martha."
+	},
+	{
+		"armenian": "մարթան քարտուղարուհի է:",
+		"english": "Martha is a secretary."
+	},
+	{
+		"armenian": "պետերն ու մարթան ընկերներ են:",
+		"english": "Peter and Martha are friends."
+	},
+	{
+		"armenian": "պետերը մարթայի ընկերն է:",
+		"english": "Peter is Martha’s friend."
+	},
+	{
+		"armenian": "մարթան պետերի ընկերուհին է:",
+		"english": "Martha is Peter’s friend."
+	},
+	{
+		"armenian": "հունվար",
+		"english": "January"
+	},
+	{
+		"armenian": "փետրվար",
+		"english": "February"
+	},
+	{
+		"armenian": "մարտ",
+		"english": "March"
+	},
+	{
+		"armenian": "ապրիլ",
+		"english": "April"
+	},
+	{
+		"armenian": "մայիս",
+		"english": "May"
+	},
+	{
+		"armenian": "հունիս",
+		"english": "June"
+	},
+	{
+		"armenian": "սրանք վեց ամիսներ են:",
+		"english": "These are six months."
+	},
+	{
+		"armenian": "հունվար, փետրվար, մարտ",
+		"english": "January, February, March,"
+	},
+	{
+		"armenian": "ապրիլ, մայիս հունիս",
+		"english": "April, May and June."
+	},
+	{
+		"armenian": "հուլիս",
+		"english": "July"
+	},
+	{
+		"armenian": "օգոստոս",
+		"english": "August"
+	},
+	{
+		"armenian": "սեպտեմբեր",
+		"english": "September"
+	},
+	{
+		"armenian": "հոկտեմբեր",
+		"english": "October"
+	},
+	{
+		"armenian": "նոյեմբեր",
+		"english": "November"
+	},
+	{
+		"armenian": "դեկտեմբեր",
+		"english": "December"
+	},
+	{
+		"armenian": "սրանք նույնպես վեց ամիսներ են:",
+		"english": "These are also six months."
+	},
+	{
+		"armenian": "հուլիս, օգոստոս, սեպտեմբեր",
+		"english": "July, August, September,"
+	},
+	{
+		"armenian": "հոկտեմբեր, նոյեմբեր, դեկտեմբեր",
+		"english": "October, November and December."
+	},
+	{
+		"armenian": "ես թեյ եմ խմում:",
+		"english": "I drink tea."
+	},
+	{
+		"armenian": "ես սուրճ եմ խմում:",
+		"english": "I drink coffee."
+	},
+	{
+		"armenian": "ես հանքային ջուր եմ խմում:",
+		"english": "I drink mineral water."
+	},
+	{
+		"armenian": "դու թեյը կիտրոնո՞վ ես խմում:",
+		"english": "Do you drink tea with lemon?"
+	},
+	{
+		"armenian": "դու սուրճը շաքարավազո՞վ ես խմում:",
+		"english": "Do you drink coffee with sugar?"
+	},
+	{
+		"armenian": "դու ջուրը սառույցո՞վ ես խմում:",
+		"english": "Do you drink water with ice?"
+	},
+	{
+		"armenian": "այստեղ խնջույք է:",
+		"english": "There is a party here."
+	},
+	{
+		"armenian": "մարդիկ շամպայն են խմում:",
+		"english": "People are drinking champagne."
+	},
+	{
+		"armenian": "մարդիկ գինի եւ գարեջուր են խմում:",
+		"english": "People are drinking wine and beer."
+	},
+	{
+		"armenian": "դու ալկոհոլ խմու՞մ ես:",
+		"english": "Do you drink alcohol?"
+	},
+	{
+		"armenian": "դու վիսկի խմու՞մ ես:",
+		"english": "Do you drink whisky / whiskey (am.)?"
+	},
+	{
+		"armenian": "դու կոլան ռոմո՞վ ես խմում:",
+		"english": "Do you drink Coke with rum?"
+	},
+	{
+		"armenian": "ես շամպայն չեմ սիրում:",
+		"english": "I do not like champagne."
+	},
+	{
+		"armenian": "ես գինի չեմ սիրում:",
+		"english": "I do not like wine."
+	},
+	{
+		"armenian": "ես գարեջուր չեմ սիրում:",
+		"english": "I do not like beer."
+	},
+	{
+		"armenian": "երեխան կաթ է սիրում:",
+		"english": "The baby likes milk."
+	},
+	{
+		"armenian": "երեխան կակաո եւ խնձորի հյութ է սիրում:",
+		"english": "The child likes cocoa and apple juice."
+	},
+	{
+		"armenian": "կինը սիրում է նարնջի եւ գրեպֆրութի հյութ:",
+		"english": "The woman likes orange and grapefruit juice."
+	},
+	{
+		"armenian": "մարթան ի՞նչ է անում:",
+		"english": "What does Martha do?"
+	},
+	{
+		"armenian": "մարթան աշխատում է գրասենյակում:",
+		"english": "She works at an office."
+	},
+	{
+		"armenian": "մարթան աշխատում է համակարգիչով:",
+		"english": "She works on the computer."
+	},
+	{
+		"armenian": "ու՞ր է մարթան:",
+		"english": "Where is Martha?"
+	},
+	{
+		"armenian": "կինոյում:",
+		"english": "At the cinema."
+	},
+	{
+		"armenian": "նա ֆիլմ է դիտում:",
+		"english": "She is watching a film."
+	},
+	{
+		"armenian": "ի՞նչ է անում պետերը:",
+		"english": "What does Peter do?"
+	},
+	{
+		"armenian": "նա սովորում է համալսարանում:",
+		"english": "He studies at the university."
+	},
+	{
+		"armenian": "նա սովորում է լեզուներ:",
+		"english": "He studies languages."
+	},
+	{
+		"armenian": "ո՞րտեղ է պետերը:",
+		"english": "Where is Peter?"
+	},
+	{
+		"armenian": "սրճարանում:",
+		"english": "At the café."
+	},
+	{
+		"armenian": "նա սուրճ է խմում:",
+		"english": "He is drinking coffee."
+	},
+	{
+		"armenian": "ու՞ր եք գնում դուք հաճույքով:",
+		"english": "Where do they like to go?"
+	},
+	{
+		"armenian": "համերգ:",
+		"english": "To a concert."
+	},
+	{
+		"armenian": "նրանք հաճույքով երաժշտություն են լսում:",
+		"english": "They like to listen to music."
+	},
+	{
+		"armenian": "ու՞ր եք գնում ոչ հաճույքով:",
+		"english": "Where do they not like to go?"
+	},
+	{
+		"armenian": "դիսկոտեկ:",
+		"english": "To the disco."
+	},
+	{
+		"armenian": "նրանք չեն պարում հաճույքով:",
+		"english": "They do not like to dance."
+	},
+	{
+		"armenian": "սառույցը սպիտակ է:",
+		"english": "Snow is white."
+	},
+	{
+		"armenian": "արեւը դեղին է:",
+		"english": "The sun is yellow."
+	},
+	{
+		"armenian": "նարինջը նարնջագույն է:",
+		"english": "The orange is orange."
+	},
+	{
+		"armenian": "բալը կարմիր է:",
+		"english": "The cherry is red."
+	},
+	{
+		"armenian": "երկինքը կապույտ է:",
+		"english": "The sky is blue."
+	},
+	{
+		"armenian": "խոտը կանաչ է:",
+		"english": "The grass is green."
+	},
+	{
+		"armenian": "երկրագունդը շագանակագույն է:",
+		"english": "The earth is brown."
+	},
+	{
+		"armenian": "ամպը մոխրագույն է:",
+		"english": "The cloud is grey / gray (am.)."
+	},
+	{
+		"armenian": "անվադողերը սեւ են:",
+		"english": "The tyres / tires (am.) are black."
+	},
+	{
+		"armenian": "ի՞նչ գույնի է ձյունը: սպիտակ:",
+		"english": "What colour / color (am.) is the snow? White."
+	},
+	{
+		"armenian": "ի՞նչ գույնի է արեւը: դեղին:",
+		"english": "What colour / color (am.) is the sun? Yellow."
+	},
+	{
+		"armenian": "ի՞նչ գույնի է նարինջը: նարնջագույն:",
+		"english": "What colour / color (am.) is the orange? Orange."
+	},
+	{
+		"armenian": "ի՞նչ գույնի է բալը: կարմիր:",
+		"english": "What colour / color (am.) is the cherry? Red."
+	},
+	{
+		"armenian": "ի՞նչ գույնի է երկինքը: կապույտ:",
+		"english": "What colour / color (am.) is the sky? Blue."
+	},
+	{
+		"armenian": "ի՞նչ գույնի է խոտը: կանաչ:",
+		"english": "What colour / color (am.) is the grass? Green."
+	},
+	{
+		"armenian": "ի՞նչ գույնի է երկրագունդը: շագանակագույն:",
+		"english": "What colour / color (am.) is the earth? Brown."
+	},
+	{
+		"armenian": "ի՞նչ գույնի է ամպը: մոխրագույն:",
+		"english": "What colour / color (am.) is the cloud? Grey / Gray (am.)."
+	},
+	{
+		"armenian": "ի՞նչ գույնի են անվադողերը: սեւ:",
+		"english": "What colour / color (am.) are the tyres / tires (am.)? Black."
+	},
+	{
+		"armenian": "ես մի ելակ ունեմ:",
+		"english": "I have a strawberry."
+	},
+	{
+		"armenian": "ես ունեմ մի կիվի եւ մի սեխ:",
+		"english": "I have a kiwi and a melon."
+	},
+	{
+		"armenian": "ես ունեմ մի նարինջ եւ մի գրեպֆրութ:",
+		"english": "I have an orange and a grapefruit."
+	},
+	{
+		"armenian": "ես ունեմ մի խնձոր եւ մի մանգո:",
+		"english": "I have an apple and a mango."
+	},
+	{
+		"armenian": "ես ունեմ մի բանան եւ մի արքայախնձոր:",
+		"english": "I have a banana and a pineapple."
+	},
+	{
+		"armenian": "ես մրգային սալաթ եմ պատրաստում:",
+		"english": "I am making a fruit salad."
+	},
+	{
+		"armenian": "ես մի տոստ եմ ուտում:",
+		"english": "I am eating toast."
+	},
+	{
+		"armenian": "ես ուտում եմ տոստը կարագով:",
+		"english": "I am eating toast with butter."
+	},
+	{
+		"armenian": "ես ուտում եմ տոստը կարագով եւ ջեմով:",
+		"english": "I am eating toast with butter and jam."
+	},
+	{
+		"armenian": "ես ուտում եմ սենդվիչ:",
+		"english": "I am eating a sandwich."
+	},
+	{
+		"armenian": "ես ուտում եմ մի սենդվիչ մարգարինով:",
+		"english": "I am eating a sandwich with margarine."
+	},
+	{
+		"armenian": "ես ուտում եմ մի սենդվիչ մարգարինով եւ պոմիդորով:",
+		"english": "I am eating a sandwich with margarine and tomatoes."
+	},
+	{
+		"armenian": "մեզ պետք է հաց եւ բրինձ:",
+		"english": "We need bread and rice."
+	},
+	{
+		"armenian": "մեզ պետք է ձուկ եւ բիֆշտեքս:",
+		"english": "We need fish and steaks."
+	},
+	{
+		"armenian": "մեզ պետք է պիցցա եւ սպագետտի:",
+		"english": "We need pizza and spaghetti."
+	},
+	{
+		"armenian": "ուրիշ ի՞նչ է մեզ հարկավոր:",
+		"english": "What else do we need?"
+	},
+	{
+		"armenian": "մեզ ապուրի համար գազար եւ պոմիդոր է պետք:",
+		"english": "We need carrots and tomatoes for the soup."
+	},
+	{
+		"armenian": "ո՞րտեղ կա սուպերմարկետ (խանութ):",
+		"english": "Where is the supermarket?"
+	},
+	{
+		"armenian": "սրանք տարվա եղանականերն են;",
+		"english": "These are the seasons:"
+	},
+	{
+		"armenian": "գարուն, ամառ,",
+		"english": "Spring, summer,"
+	},
+	{
+		"armenian": "աշուն եւ ձմեռ:",
+		"english": "autumn / fall (am.) and winter."
+	},
+	{
+		"armenian": "ամռանը շոգ է:",
+		"english": "The summer is warm."
+	},
+	{
+		"armenian": "ամռանը շողում է արեւը:",
+		"english": "The sun shines in summer."
+	},
+	{
+		"armenian": "ամռանը հաճույքով ենք գնում զբոսանքի:",
+		"english": "We like to go for a walk in summer."
+	},
+	{
+		"armenian": "ձմռանը ցուրտ է:",
+		"english": "The winter is cold."
+	},
+	{
+		"armenian": "ձմռանը ձյուն կամ անձրեւ է գալիս:",
+		"english": "It snows or rains in winter."
+	},
+	{
+		"armenian": "ձմռանը հաճույքով տանն ենք մնում:",
+		"english": "We like to stay home in winter."
+	},
+	{
+		"armenian": "ցուրտ է:",
+		"english": "It is cold."
+	},
+	{
+		"armenian": "անձրեւ է գալիս:",
+		"english": "It is raining."
+	},
+	{
+		"armenian": "քամոտ է:",
+		"english": "It is windy."
+	},
+	{
+		"armenian": "տաք է:",
+		"english": "It is warm."
+	},
+	{
+		"armenian": "արեւոտ է:",
+		"english": "It is sunny."
+	},
+	{
+		"armenian": "արեւոտ է:",
+		"english": "It is pleasant."
+	},
+	{
+		"armenian": "եղանակն ինչպե՞ս է այսօր:",
+		"english": "What is the weather like today?"
+	},
+	{
+		"armenian": "այսօր ցուրտ է:",
+		"english": "It is cold today."
+	},
+	{
+		"armenian": "այսօր տաք է:",
+		"english": "It is warm today."
+	},
+	{
+		"armenian": "սա մեր տունն է:",
+		"english": "Our house is here."
+	},
+	{
+		"armenian": "վերեւում տանիքն է:",
+		"english": "The roof is on top."
+	},
+	{
+		"armenian": "ներքեւում նկուղն է:",
+		"english": "The basement is below."
+	},
+	{
+		"armenian": "տան հետեւում պարտեզն է:",
+		"english": "There is a garden behind the house."
+	},
+	{
+		"armenian": "տան դիմաց փողոց չկա:",
+		"english": "There is no street in front of the house."
+	},
+	{
+		"armenian": "տան կողքին ծառեր են:",
+		"english": "There are trees next to the house."
+	},
+	{
+		"armenian": "սա իմ բնակարանն է:",
+		"english": "My apartment is here."
+	},
+	{
+		"armenian": "սա խոհանոցն է ու լոգարանը:",
+		"english": "The kitchen and bathroom are here."
+	},
+	{
+		"armenian": "այնտեղ հյուրասենյակն է ու ննջարանը:",
+		"english": "The living room and bedroom are there."
+	},
+	{
+		"armenian": "տան դուռը փակ է:",
+		"english": "The front door is closed."
+	},
+	{
+		"armenian": "բայց պատուհանները բաց են:",
+		"english": "But the windows are open."
+	},
+	{
+		"armenian": "այսօր շոգ է:",
+		"english": "It is hot today."
+	},
+	{
+		"armenian": "մենք գնում ենք հյուրասենյակ:",
+		"english": "We are going to the living room."
+	},
+	{
+		"armenian": "այնտեղ բազմոցն ու բազկաթոռն են:",
+		"english": "There is a sofa and an armchair there."
+	},
+	{
+		"armenian": "նստեք!",
+		"english": "Please, sit down!"
+	},
+	{
+		"armenian": "այնտեղ իմ համակարգիչն է:",
+		"english": "My computer is there."
+	},
+	{
+		"armenian": "այնտեղ իմ ձայնարկիչն է:",
+		"english": "My stereo is there."
+	},
+	{
+		"armenian": "հեռուստացույցը շատ նոր է:",
+		"english": "The TV set is brand new."
+	},
+	{
+		"armenian": "այսօր շաբաթ է:",
+		"english": "Today is Saturday."
+	},
+	{
+		"armenian": "այսօր մենք ժամանակ ունենք:",
+		"english": "We have time today."
+	},
+	{
+		"armenian": "այսօր մենք բնակարանն ենք մաքրում:",
+		"english": "We are cleaning the apartment today."
+	},
+	{
+		"armenian": "ես մաքրում եմ լոգարանը:",
+		"english": "I am cleaning the bathroom."
+	},
+	{
+		"armenian": "ամուսինս ավտոմեքենան է լվանում:",
+		"english": "My husband is washing the car."
+	},
+	{
+		"armenian": "երեխաները մաքրում են հեծանիվները:",
+		"english": "The children are cleaning the bicycles."
+	},
+	{
+		"armenian": "տատիկը ջրում է ծաղիկները:",
+		"english": "Grandma is watering the flowers."
+	},
+	{
+		"armenian": "երեխաները հավաքում են մանկական սենյակը:",
+		"english": "The children are cleaning up the children’s room."
+	},
+	{
+		"armenian": "ամուսինս հավաքում է իր գրասեղանը:",
+		"english": "My husband is tidying up his desk."
+	},
+	{
+		"armenian": "ես դնում եմ հագուստը լվացքի մեքենայի մեջ:",
+		"english": "I am putting the laundry in the washing machine."
+	},
+	{
+		"armenian": "ես կախում եմ լվացքը:",
+		"english": "I am hanging up the laundry."
+	},
+	{
+		"armenian": "ես արդուկում եմ հագուստը:",
+		"english": "I am ironing the clothes."
+	},
+	{
+		"armenian": "լուսամուտները կեղտոտ են:",
+		"english": "The windows are dirty."
+	},
+	{
+		"armenian": "հատակը կեղտոտ է:",
+		"english": "The floor is dirty."
+	},
+	{
+		"armenian": "սպասքը կեղտոտ է:",
+		"english": "The dishes are dirty."
+	},
+	{
+		"armenian": "ո՞վ է մաքրում լուսամուտները:",
+		"english": "Who washes the windows?"
+	},
+	{
+		"armenian": "ո՞վ է մաքրում փոշեծծիչով:",
+		"english": "Who does the vacuuming?"
+	},
+	{
+		"armenian": "ո՞վ է լվանում սպասքը:",
+		"english": "Who does the dishes?"
+	},
+	{
+		"armenian": "դու նոր խոհանոց ունե՞ս:",
+		"english": "Do you have a new kitchen?"
+	},
+	{
+		"armenian": "ի՞նչ ես ուզում այսօր եփել:",
+		"english": "What do you want to cook today?"
+	},
+	{
+		"armenian": "եփում ես ելեկտրական թե՞ գազի ջեռոցի վրա:",
+		"english": "Do you cook on an electric or a gas stove?"
+	},
+	{
+		"armenian": "սոխը կտրտե՞մ:",
+		"english": "Shall I cut the onions?"
+	},
+	{
+		"armenian": "կարտոֆիլը կլպե՞մ:",
+		"english": "Shall I peel the potatoes?"
+	},
+	{
+		"armenian": "սալաթը լվանա՞մ:",
+		"english": "Shall I rinse the lettuce?"
+	},
+	{
+		"armenian": "ո՞րտեղ են բաժակները:",
+		"english": "Where are the glasses?"
+	},
+	{
+		"armenian": "ո՞րտեղ է սպասքը:",
+		"english": "Where are the dishes?"
+	},
+	{
+		"armenian": "ո՞րտեղ է դանակ-պատառաքաղը:",
+		"english": "Where is the cutlery / silverware (am.)?"
+	},
+	{
+		"armenian": "բացիչ ունե՞ս:",
+		"english": "Do you have a tin opener / can opener (am.)?"
+	},
+	{
+		"armenian": "բացիչ ունե՞ս:",
+		"english": "Do you have a bottle opener?"
+	},
+	{
+		"armenian": "խցանահան ունե՞ս:",
+		"english": "Do you have a corkscrew?"
+	},
+	{
+		"armenian": "ապուրն այս կաթսայի մեջ ես եփու՞մ:",
+		"english": "Are you cooking the soup in this pot?"
+	},
+	{
+		"armenian": "ձուկն այս թավայի մեջ ես տապակու՞մ:",
+		"english": "Are you frying the fish in this pan?"
+	},
+	{
+		"armenian": "բանջարեղենը այս ջեռոցի մեջ ես խորովու՞մ:",
+		"english": "Are you grilling the vegetables on this grill?"
+	},
+	{
+		"armenian": "ես սեղանն եմ պատրաստում:",
+		"english": "I am setting the table."
+	},
+	{
+		"armenian": "այստեղ գտնվում են դանակները, պատառաքաղները եւ գդալները:",
+		"english": "Here are the knives, the forks and the spoons."
+	},
+	{
+		"armenian": "այստեղ գտնվում են բաժակները, ափսեները եւ անձեռոցիկները:",
+		"english": "Here are the glasses, the plates and the napkins."
+	},
+	{
+		"armenian": "զգացեք ձեզ հարմար:",
+		"english": "Make yourself comfortable!"
+	},
+	{
+		"armenian": "զգացեք ձեզ ինչպես ձեր տանը:",
+		"english": "Please, feel right at home!"
+	},
+	{
+		"armenian": "ի՞նչ եք ուզում խմել:",
+		"english": "What would you like to drink?"
+	},
+	{
+		"armenian": "երաժշտություն սիրու՞մ եք:",
+		"english": "Do you like music?"
+	},
+	{
+		"armenian": "ես սիրում եմ դասական երաժշտություն:",
+		"english": "I like classical music."
+	},
+	{
+		"armenian": "այստեղ իմ cd-ներն են:",
+		"english": "These are my CD’s."
+	},
+	{
+		"armenian": "երաժշտական գործիք նվագու՞մ եք:",
+		"english": "Do you play a musical instrument?"
+	},
+	{
+		"armenian": "սա իմ կիթառն է:",
+		"english": "This is my guitar."
+	},
+	{
+		"armenian": "հաճույքո՞վ եք երգում:",
+		"english": "Do you like to sing?"
+	},
+	{
+		"armenian": "երեխաներ ունե՞ք:",
+		"english": "Do you have children?"
+	},
+	{
+		"armenian": "շուն ունե՞ք:",
+		"english": "Do you have a dog?"
+	},
+	{
+		"armenian": "կատու ունե՞ք:",
+		"english": "Do you have a cat?"
+	},
+	{
+		"armenian": "այստեղ իմ գրքերն են:",
+		"english": "These are my books."
+	},
+	{
+		"armenian": "այս պահին այս գիրքն եմ կարդում:",
+		"english": "I am currently reading this book."
+	},
+	{
+		"armenian": "ի՞նչ գիրք եք հաճույքով կարդում:",
+		"english": "What do you like to read?"
+	},
+	{
+		"armenian": "հաճույքո՞վ եք համերգ հաճախում:",
+		"english": "Do you like to go to concerts?"
+	},
+	{
+		"armenian": "հաճույքո՞վ եք թատրոն հաճախում:",
+		"english": "Do you like to go to the theatre / theater (am.)?"
+	},
+	{
+		"armenian": "հաճույքո՞վ եք օպերա հաճախում:",
+		"english": "Do you like to go to the opera?"
+	},
+	{
+		"armenian": "որտեղի՞ց եք դուք:",
+		"english": "Where do you come from?"
+	},
+	{
+		"armenian": "բազելից:",
+		"english": "From Basel."
+	},
+	{
+		"armenian": "բազելը գտնվում է շվեցարիայում:",
+		"english": "Basel is in Switzerland."
+	},
+	{
+		"armenian": "կարո՞ղ եմ պարոն միլլերին ձեզ ներկայացնել:",
+		"english": "May I introduce Mr. Miller?"
+	},
+	{
+		"armenian": "նա օտարերկրացի է:",
+		"english": "He is a foreigner."
+	},
+	{
+		"armenian": "նա խոսում է մի քանի լեզուներով:",
+		"english": "He speaks several languages."
+	},
+	{
+		"armenian": "դուք առաջին անգա՞մն եք այստեղ:",
+		"english": "Are you here for the first time?"
+	},
+	{
+		"armenian": "ոչ, ես անցյալ տարի էլ եմ եղել այստեղ:",
+		"english": "No, I was here once last year."
+	},
+	{
+		"armenian": "բայց միայն մի շաբաթ:",
+		"english": "Only for a week, though."
+	},
+	{
+		"armenian": "դու՞ր է գալիս ձեզ մեզ մոտ:",
+		"english": "How do you like it here?"
+	},
+	{
+		"armenian": "շատ: մարդիկ շատ սիրալիր են:",
+		"english": "A lot. The people are nice."
+	},
+	{
+		"armenian": "եվ բնությունն էլ է ինձ դուր գալիս:",
+		"english": "And I like the scenery, too."
+	},
+	{
+		"armenian": "ի՞նչ մասնագիտություն ունեք:",
+		"english": "What is your profession?"
+	},
+	{
+		"armenian": "ես թարգմանիչ եմ:",
+		"english": "I am a translator."
+	},
+	{
+		"armenian": "ես թարգմանում եմ գրքեր:",
+		"english": "I translate books."
+	},
+	{
+		"armenian": "դուք մենա՞կ եք այստեղ:",
+		"english": "Are you alone here?"
+	},
+	{
+		"armenian": "ոչ, իմ կինը/իմ ամուսինն էլ է այստեղ:",
+		"english": "No, my wife / my husband is also here."
+	},
+	{
+		"armenian": "եվ այնտեղ իմ երկու երեխաներն են:",
+		"english": "And those are my two children."
+	},
+	{
+		"armenian": "դուք ծխու՞մ եք:",
+		"english": "Do you smoke?"
+	},
+	{
+		"armenian": "առաջ` այո:",
+		"english": "I used to."
+	},
+	{
+		"armenian": "բայց հիմա ես այլեւս չեմ ծխում:",
+		"english": "But I don’t smoke anymore."
+	},
+	{
+		"armenian": "դուք դեմ կլինե՞ք, եթե ես ծխեմ:",
+		"english": "Does it disturb you if I smoke?"
+	},
+	{
+		"armenian": "ոչ, բացարձակապես ոչ:",
+		"english": "No, absolutely not."
+	},
+	{
+		"armenian": "դա ինձ չի խանգարում:",
+		"english": "It doesn’t disturb me."
+	},
+	{
+		"armenian": "կխմեի՞ք ինչ որ բան:",
+		"english": "Will you drink something?"
+	},
+	{
+		"armenian": "կոնյա՞կ:",
+		"english": "A brandy?"
+	},
+	{
+		"armenian": "ոչ, բայց գարեջուր` սիրով:",
+		"english": "No, preferably a beer."
+	},
+	{
+		"armenian": "դուք հաճա՞խ եք ճամփորդում:",
+		"english": "Do you travel a lot?"
+	},
+	{
+		"armenian": "այո, բայց դրանք հիմնականում աշխատանքային բնույթի են:",
+		"english": "Yes, mostly on business trips."
+	},
+	{
+		"armenian": "բայց հիմա մեր արձակուրդն ենք անցկացնում:",
+		"english": "But now we’re on holiday."
+	},
+	{
+		"armenian": "ինչ շո ́գ է:",
+		"english": "It’s so hot!"
+	},
+	{
+		"armenian": "այո, այսօր իսկապես շոգ է:",
+		"english": "Yes, today it’s really hot."
+	},
+	{
+		"armenian": "գնանք պատշգամբ:",
+		"english": "Let’s go to the balcony."
+	},
+	{
+		"armenian": "այստեղ վաղը խնջույք է:",
+		"english": "There’s a party here tomorrow."
+	},
+	{
+		"armenian": "դուք էլ կգա՞ք:",
+		"english": "Are you also coming?"
+	},
+	{
+		"armenian": "այո, մենք նույնպես հրավիրված ենք:",
+		"english": "Yes, we’ve also been invited."
+	},
+	{
+		"armenian": "որտե՞ղ եք իսպաներեն սովորել:",
+		"english": "Where did you learn Spanish?"
+	},
+	{
+		"armenian": "պորտուգալերեն էլ եք կարողանու՞մ:",
+		"english": "Can you also speak Portuguese?"
+	},
+	{
+		"armenian": "այո, կարողանում եմ նաեւ մի քիչ իտալերեն:",
+		"english": "Yes, and I also speak some Italian."
+	},
+	{
+		"armenian": "ես գտնում եմ, որ դուք շատ լավ եք խոսում:",
+		"english": "I think you speak very well."
+	},
+	{
+		"armenian": "լեզուները բավականին նման են իրար:",
+		"english": "The languages are quite similar."
+	},
+	{
+		"armenian": "ես ձեզ լավ եմ հասկանում:",
+		"english": "I can understand them well."
+	},
+	{
+		"armenian": "բայց խոսելն ու գրելը դժվար է:",
+		"english": "But speaking and writing is difficult."
+	},
+	{
+		"armenian": "ես դեռ սխալներ եմ անում:",
+		"english": "I still make many mistakes."
+	},
+	{
+		"armenian": "խնդրում եմ ինձ միշտ ուղղեք:",
+		"english": "Please correct me each time."
+	},
+	{
+		"armenian": "ձեր առոգանությունը շատ լավ է:",
+		"english": "Your pronunciation is very good."
+	},
+	{
+		"armenian": "դուք մի փոքր առոգանություն ունեք:",
+		"english": "You only have a slight accent."
+	},
+	{
+		"armenian": "ձգացվում է, թե որտեղից եք գալիս:",
+		"english": "One can tell where you come from."
+	},
+	{
+		"armenian": "ո՞րն է ձեր մայրենի լեզուն:",
+		"english": "What is your mother tongue / native language (am.)?"
+	},
+	{
+		"armenian": "դուք լեզվի դասընթացի՞ եք գնում:",
+		"english": "Are you taking a language course?"
+	},
+	{
+		"armenian": "դուք ո՞ր դասագիրքն եք օգտագործում:",
+		"english": "Which textbook are you using?"
+	},
+	{
+		"armenian": "այս պահին ես չգիտեմ, թե դա ինչպես է կոչվում:",
+		"english": "I don’t remember the name right now."
+	},
+	{
+		"armenian": "ես վերնագիրը չեմ հիշում:",
+		"english": "The title is not coming to me."
+	},
+	{
+		"armenian": "ես դա մոռացել եմ:",
+		"english": "I’ve forgotten it."
+	},
+	{
+		"armenian": "ավտոբուսից ուշացա՞ր:",
+		"english": "Did you miss the bus?"
+	},
+	{
+		"armenian": "ես կես ժամ քեզ սպասեցի:",
+		"english": "I waited for you for half an hour."
+	},
+	{
+		"armenian": "շարժական հեռախոս չունե՞ս:",
+		"english": "Don’t you have a mobile / cell phone (am.) with you?"
+	},
+	{
+		"armenian": "մյուս անգամ ճշտապահ եղիր:",
+		"english": "Be punctual next time!"
+	},
+	{
+		"armenian": "մյուս անգամ տաքսի վերցրու:",
+		"english": "Take a taxi next time!"
+	},
+	{
+		"armenian": "մյուս անգամ անձրեւանոց վերցրու:",
+		"english": "Take an umbrella with you next time!"
+	},
+	{
+		"armenian": "վաղը ես ազատ եմ:",
+		"english": "I have the day off tomorrow."
+	},
+	{
+		"armenian": "վաղը հանդիպե՞նք:",
+		"english": "Shall we meet tomorrow?"
+	},
+	{
+		"armenian": "ներիր, ցավոք վաղը չեմ կարող:",
+		"english": "I’m sorry, I can’t make it tomorrow."
+	},
+	{
+		"armenian": "իսկ այս շաբաթ-կիրակի ինչ որ պլաններ ունե՞ս:",
+		"english": "Do you already have plans for this weekend?"
+	},
+	{
+		"armenian": "թե՞ արդեն պայմանավորված ես:",
+		"english": "Or do you already have an appointment?"
+	},
+	{
+		"armenian": "ես առաջարկում եմ այս շաբաթ-կիրակի հանդիպել:",
+		"english": "I suggest that we meet on the weekend."
+	},
+	{
+		"armenian": "զբոսախնջույք անե՞նք:",
+		"english": "Shall we have a picnic?"
+	},
+	{
+		"armenian": "ծովափ գնա՞նք:",
+		"english": "Shall we go to the beach?"
+	},
+	{
+		"armenian": "գնա՞նք դեպի լեռները:",
+		"english": "Shall we go to the mountains?"
+	},
+	{
+		"armenian": "ես կվերցնեմ քեզ գրասենյակից:",
+		"english": "I will pick you up at the office."
+	},
+	{
+		"armenian": "ես կվերցնեմ քեզ տնից:",
+		"english": "I will pick you up at home."
+	},
+	{
+		"armenian": "ես կվերցնեմ քեզ ավտոբուսի կանգառից:",
+		"english": "I will pick you up at the bus stop."
+	},
+	{
+		"armenian": "ես ուզում եմ գնալ երկաթուղային կայարան:",
+		"english": "I would like to go to the station."
+	},
+	{
+		"armenian": "ես ուզում եմ գնալ օդանավակայան:",
+		"english": "I would like to go to the airport."
+	},
+	{
+		"armenian": "ես ուզում եմ գնալ քաղաքի կենտրոն:",
+		"english": "I would like to go to the city centre / center (am.)."
+	},
+	{
+		"armenian": "ինչպե՞ս գնամ երկաթուղային կայարան:",
+		"english": "How do I get to the station?"
+	},
+	{
+		"armenian": "ինչպե՞ս գնամ օդանավակայան:",
+		"english": "How do I get to the airport?"
+	},
+	{
+		"armenian": "ինչպե՞ս գնամ քաղաքի կենտրոն:",
+		"english": "How do I get to the city centre / center (am.)?"
+	},
+	{
+		"armenian": "ինձ տաքսի է հարկավոր:",
+		"english": "I need a taxi."
+	},
+	{
+		"armenian": "ինձ քաղաքի քարտեզ է հարկավոր:",
+		"english": "I need a city map."
+	},
+	{
+		"armenian": "ինձ հյուրանոց է հարկավոր:",
+		"english": "I need a hotel."
+	},
+	{
+		"armenian": "ես ուզում եմ ավտոմեքենա վարձել:",
+		"english": "I would like to rent a car."
+	},
+	{
+		"armenian": "սա իմ վարկային քարտն է:",
+		"english": "Here is my credit card."
+	},
+	{
+		"armenian": "սա իմ վարորդական իրավունքն է:",
+		"english": "Here is my licence / license (am.)."
+	},
+	{
+		"armenian": "ի՞նչ կա քաղաքում տեսնելու:",
+		"english": "What is there to see in the city?"
+	},
+	{
+		"armenian": "գնացեք դեպի հին քաղաք:",
+		"english": "Go to the old city."
+	},
+	{
+		"armenian": "քաղաքում շրջայց արեք:",
+		"english": "Go on a city tour."
+	},
+	{
+		"armenian": "գնացեք դեպի նավահանգիստ:",
+		"english": "Go to the harbour / harbor (am.)."
+	},
+	{
+		"armenian": "նավահանգստում շրջայց կատարեք:",
+		"english": "Go on a harbour / harbor (am.) tour."
+	},
+	{
+		"armenian": "էլ ի՞նչ տեսարժան վայրեր կան:",
+		"english": "Are there any other places of interest?"
+	},
+	{
+		"armenian": "տեսնու՞մ ես այնտեղ այն աշտարակը:",
+		"english": "Do you see the tower there?"
+	},
+	{
+		"armenian": "տեսնու՞մ ես այնտեղ այն սարը:",
+		"english": "Do you see the mountain there?"
+	},
+	{
+		"armenian": "տեսնու՞մ ես այնտեղ այն գյուղը:",
+		"english": "Do you see the village there?"
+	},
+	{
+		"armenian": "տեսնու՞մ ես այնտեղ այն գետը:",
+		"english": "Do you see the river there?"
+	},
+	{
+		"armenian": "տեսնու՞մ ես այնտեղ այն կամուրջը:",
+		"english": "Do you see the bridge there?"
+	},
+	{
+		"armenian": "տեսնու՞մ ես այնտեղ այն լիճը:",
+		"english": "Do you see the lake there?"
+	},
+	{
+		"armenian": "այս թռչունն ինձ դուր է գալիս:",
+		"english": "I like that bird."
+	},
+	{
+		"armenian": "այն ծառն ինձ դուր է գալիս:",
+		"english": "I like that tree."
+	},
+	{
+		"armenian": "այս քարն այստեղ ինձ դուր է գալիս:",
+		"english": "I like this stone."
+	},
+	{
+		"armenian": "այդ այգին այնտեղ ինձ դուր է գալիս:",
+		"english": "I like that park."
+	},
+	{
+		"armenian": "այդ պարտեզն այնտեղ ինձ դուր է գալիս:",
+		"english": "I like that garden."
+	},
+	{
+		"armenian": "այս ծաղիկն այստեղ ինձ դուր է գալիս:",
+		"english": "I like this flower."
+	},
+	{
+		"armenian": "ես դա սիրուն եմ համարում:",
+		"english": "I find that pretty."
+	},
+	{
+		"armenian": "ես դա հետաքրքիր եմ համարում:",
+		"english": "I find that interesting."
+	},
+	{
+		"armenian": "ես դա հիասքանչ եմ համարում:",
+		"english": "I find that gorgeous."
+	},
+	{
+		"armenian": "ես դա տգեղ եմ գտնում:",
+		"english": "I find that ugly."
+	},
+	{
+		"armenian": "ես դա ձանձրալի եմ գտնում:",
+		"english": "I find that boring."
+	},
+	{
+		"armenian": "ես դա սարսափելի եմ գտնում:",
+		"english": "I find that terrible."
+	},
+	{
+		"armenian": "ազատ սենյակ ունե՞ք:",
+		"english": "Do you have a vacant room?"
+	},
+	{
+		"armenian": "ես սենյակ եմ պատվիրել:",
+		"english": "I have booked a room."
+	},
+	{
+		"armenian": "իմ անունը մյուլլեր է:",
+		"english": "My name is Miller."
+	},
+	{
+		"armenian": "ինձ մեկտեղանոց սենյակ է հարկավոր:",
+		"english": "I need a single room."
+	},
+	{
+		"armenian": "ինձ երկու տեղանոց սենյակ է հարկավոր:",
+		"english": "I need a double room."
+	},
+	{
+		"armenian": "ի՞նչ արժե սենյակը մեկ գիշերվա համար:",
+		"english": "What does the room cost per night?"
+	},
+	{
+		"armenian": "ես ուզում եմ լոգարանով սենյակ:",
+		"english": "I would like a room with a bathroom."
+	},
+	{
+		"armenian": "ես ուզում եմ ցնցուղով սենյակ:",
+		"english": "I would like a room with a shower."
+	},
+	{
+		"armenian": "կարո՞ղ եմ սենյակը տեսնել:",
+		"english": "Can I see the room?"
+	},
+	{
+		"armenian": "այստեղ ավտոտնակ կա՞:",
+		"english": "Is there a garage here?"
+	},
+	{
+		"armenian": "այստեղ կա՞ գաղտնարան:",
+		"english": "Is there a safe here?"
+	},
+	{
+		"armenian": "այստեղ կա՞ ֆաքս:",
+		"english": "Is there a fax machine here?"
+	},
+	{
+		"armenian": "լավ, ես վերցնում եմ այս սենյակը:",
+		"english": "Fine, I’ll take the room."
+	},
+	{
+		"armenian": "այստեղ բանալիններն են:",
+		"english": "Here are the keys."
+	},
+	{
+		"armenian": "այստեղ իմ ճամպրուկներն են:",
+		"english": "Here is my luggage."
+	},
+	{
+		"armenian": "ժամը քանիսի՞ն է նախաճաշը:",
+		"english": "What time do you serve breakfast?"
+	},
+	{
+		"armenian": "ժամը քանիսի՞ն է ճաշը:",
+		"english": "What time do you serve lunch?"
+	},
+	{
+		"armenian": "ժամը քանիսի՞ն է ընթրիքը:",
+		"english": "What time do you serve dinner?"
+	},
+	{
+		"armenian": "ցնցուղը չի աշխատում:",
+		"english": "The shower isn’t working."
+	},
+	{
+		"armenian": "տաք ջուր չի գալիս:",
+		"english": "There is no warm water."
+	},
+	{
+		"armenian": "կարո՞ղ եք նորոգել:",
+		"english": "Can you get it repaired?"
+	},
+	{
+		"armenian": "հեռախոս չկա սենյակում:",
+		"english": "There is no telephone in the room."
+	},
+	{
+		"armenian": "հեռուստացույց չկա սենյակում:",
+		"english": "There is no TV in the room."
+	},
+	{
+		"armenian": "սենյակը չունի պատշգամբ:",
+		"english": "The room has no balcony."
+	},
+	{
+		"armenian": "սենյակը աղմկոտ է:",
+		"english": "The room is too noisy."
+	},
+	{
+		"armenian": "սենյակը փոքր է:",
+		"english": "The room is too small."
+	},
+	{
+		"armenian": "սենյակը մութ է:",
+		"english": "The room is too dark."
+	},
+	{
+		"armenian": "ջեռուցումը չի աշխատում:",
+		"english": "The heater isn’t working."
+	},
+	{
+		"armenian": "օդակարգավորիչը չի աշխատում:",
+		"english": "The air-conditioning isn’t working."
+	},
+	{
+		"armenian": "հեռուստացույցը չի աշխատում:",
+		"english": "The TV isn’t working."
+	},
+	{
+		"armenian": "դա ինձ դուր չի գալիս:",
+		"english": "I don’t like that."
+	},
+	{
+		"armenian": "իմ համար դա թանկ է:",
+		"english": "That’s too expensive."
+	},
+	{
+		"armenian": "ավելի էժան չունե՞ք:",
+		"english": "Do you have anything cheaper?"
+	},
+	{
+		"armenian": "այստեղ մոտակայքում երիտասարդական հանրակացարան կա՞:",
+		"english": "Is there a youth hostel nearby?"
+	},
+	{
+		"armenian": "այստեղ մոտակայքում հյուրանոց կա՞:",
+		"english": "Is there a boarding house / a bed and breakfast nearby?"
+	},
+	{
+		"armenian": "այստեղ մոտակայքում ռեստորան կա՞:",
+		"english": "Is there a restaurant nearby?"
+	},
+	{
+		"armenian": "այս սեղանը ազատ է:",
+		"english": "Is this table taken?"
+	},
+	{
+		"armenian": "կարելի՞ է ճաշացուցակը խնդրեմ:",
+		"english": "I would like the menu, please."
+	},
+	{
+		"armenian": "ի՞նչ կարող եք խորհուրդ տալ:",
+		"english": "What would you recommend?"
+	},
+	{
+		"armenian": "ես սիրով գարեջուր կցանկանայի:",
+		"english": "I’d like a beer."
+	},
+	{
+		"armenian": "ես կցանկանայի ջուր:",
+		"english": "I’d like a mineral water."
+	},
+	{
+		"armenian": "ես կցանկանայի նարնջի հյութ:",
+		"english": "I’d like an orange juice."
+	},
+	{
+		"armenian": "ես կցանկանայի սուրճ:",
+		"english": "I’d like a coffee."
+	},
+	{
+		"armenian": "ես կցանկանայի սուրճը կաթով:",
+		"english": "I’d like a coffee with milk."
+	},
+	{
+		"armenian": "խնդրում եմ շաքարավազով:",
+		"english": "With sugar, please."
+	},
+	{
+		"armenian": "ես կցանկանայի թեյ:",
+		"english": "I’d like a tea."
+	},
+	{
+		"armenian": "ես կցանկանայի թեյը կիտրոնով:",
+		"english": "I’d like a tea with lemon."
+	},
+	{
+		"armenian": "ես կցանկանայի թեյը կաթով:",
+		"english": "I’d like a tea with milk."
+	},
+	{
+		"armenian": "ծխախոտ ունե՞ք:",
+		"english": "Do you have cigarettes?"
+	},
+	{
+		"armenian": "մոխրաման ունե՞ք:",
+		"english": "Do you have an ashtray?"
+	},
+	{
+		"armenian": "կրակվառիչ ունե՞ք:",
+		"english": "Do you have a light?"
+	},
+	{
+		"armenian": "ես պատարաքաղ չունեմ:",
+		"english": "I’m missing a fork."
+	},
+	{
+		"armenian": "ես դանակ չունեմ:",
+		"english": "I’m missing a knife."
+	},
+	{
+		"armenian": "ես գդալ չունեմ:",
+		"english": "I’m missing a spoon."
+	},
+	{
+		"armenian": "խնձորի հյութ, խնդրում եմ:",
+		"english": "An apple juice, please."
+	},
+	{
+		"armenian": "լիմոնադ, խնդրում եմ:",
+		"english": "A lemonade, please."
+	},
+	{
+		"armenian": "պոմիդորի հյութ, խնդրում եմ:",
+		"english": "A tomato juice, please."
+	},
+	{
+		"armenian": "ես կցանկանայի մեկ գավաթ կարմիր գինի:",
+		"english": "I’d like a glass of red wine."
+	},
+	{
+		"armenian": "ես կցանկանայի մեկ գավաթ սպիտակ գինի:",
+		"english": "I’d like a glass of white wine."
+	},
+	{
+		"armenian": "ես կցանկանայի մեկ շիշ շամպայն:",
+		"english": "I’d like a bottle of champagne."
+	},
+	{
+		"armenian": "ձուկ կուզեի՞ր:",
+		"english": "Do you like fish?"
+	},
+	{
+		"armenian": "տավարի միս կուզեի՞ր:",
+		"english": "Do you like beef?"
+	},
+	{
+		"armenian": "խոզի միս կուզեի՞ր:",
+		"english": "Do you like pork?"
+	},
+	{
+		"armenian": "ես կցանկանայի ինչ որ բան առանց մսի:",
+		"english": "I’d like something without meat."
+	},
+	{
+		"armenian": "ես կցանկանայի բանջարեղենով:",
+		"english": "I’d like some mixed vegetables."
+	},
+	{
+		"armenian": "ես կցանկանայի ինչ որ բան, որ երկար չտեւի:",
+		"english": "I’d like something that won’t take much time."
+	},
+	{
+		"armenian": "կցանկանայիք բրնձո՞վ:",
+		"english": "Would you like that with rice?"
+	},
+	{
+		"armenian": "կցանկանայիք արիշտայո՞վ:",
+		"english": "Would you like that with pasta?"
+	},
+	{
+		"armenian": "կցանկանայիք կարտոֆիլո՞վ:",
+		"english": "Would you like that with potatoes?"
+	},
+	{
+		"armenian": "համեղ չէ:",
+		"english": "That doesn’t taste good."
+	},
+	{
+		"armenian": "ուտելիքը սառն է:",
+		"english": "The food is cold."
+	},
+	{
+		"armenian": "ես դա չեմ պատվիրել:",
+		"english": "I didn’t order this."
+	},
+	{
+		"armenian": "ես կցանկանայի նախուտեստ:",
+		"english": "I would like a starter."
+	},
+	{
+		"armenian": "ես կցանկանայի սալաթ եմ:",
+		"english": "I would like a salad."
+	},
+	{
+		"armenian": "ես կցանկանայի ապուր:",
+		"english": "I would like a soup."
+	},
+	{
+		"armenian": "ես կցանկանայի աղանդեր:",
+		"english": "I would like a dessert."
+	},
+	{
+		"armenian": "ես կցանկանայի սերուցքով պաղպաղակ:",
+		"english": "I would like an ice cream with whipped cream."
+	},
+	{
+		"armenian": "ես կցանկանայի միրգ կամ պանիր:",
+		"english": "I would like some fruit or cheese."
+	},
+	{
+		"armenian": "մենք ցանկանում ենք նախաճաշել:",
+		"english": "We would like to have breakfast."
+	},
+	{
+		"armenian": "մենք ցանկանում ենք ճաշել:",
+		"english": "We would like to have lunch."
+	},
+	{
+		"armenian": "մենք ցանկանում ենք ընթրել:",
+		"english": "We would like to have dinner."
+	},
+	{
+		"armenian": "ի՞նչ կցանկանայիք նախաճաշին:",
+		"english": "What would you like for breakfast?"
+	},
+	{
+		"armenian": "հաց ջեմով եւ մեղրո՞վ:",
+		"english": "Rolls with jam and honey?"
+	},
+	{
+		"armenian": "տոստ երշիկով եւ պանիրո՞վ:",
+		"english": "Toast with sausage and cheese?"
+	},
+	{
+		"armenian": "եփած ձու՞:",
+		"english": "A boiled egg?"
+	},
+	{
+		"armenian": "տապակած ձու՞:",
+		"english": "A fried egg?"
+	},
+	{
+		"armenian": "ձվածեղ՞:",
+		"english": "An omelette?"
+	},
+	{
+		"armenian": "խնդրում եմ նաեւ մածուն:",
+		"english": "Another yoghurt, please."
+	},
+	{
+		"armenian": "խնդրում եմ նաեւ աղ եւ պղպեղ:",
+		"english": "Some salt and pepper also, please."
+	},
+	{
+		"armenian": "խնդրում եմ նաեւ մեկ բաժակ ջուր:",
+		"english": "Another glass of water, please."
+	},
+	{
+		"armenian": "մեկ բաժին կարտոֆիլի ֆրի կետչուպով:",
+		"english": "I’d like chips / French fries (am.) with ketchup."
+	},
+	{
+		"armenian": "եվ երկու բաժին մայոնեզով:",
+		"english": "And two with mayonnaise."
+	},
+	{
+		"armenian": "եվ երեք հատ տապակած նրբերշիկ մանանեխով:",
+		"english": "And three sausages with mustard."
+	},
+	{
+		"armenian": "ի՞նչ բանջարեղեն ունեք:",
+		"english": "What vegetables do you have?"
+	},
+	{
+		"armenian": "լոբի ունե՞ք:",
+		"english": "Do you have beans?"
+	},
+	{
+		"armenian": "ծաղկակաղամբ ունե՞ք:",
+		"english": "Do you have cauliflower?"
+	},
+	{
+		"armenian": "ես հաճույքով եմ եգիպտացորեն ուտում:",
+		"english": "I like to eat (sweet) corn."
+	},
+	{
+		"armenian": "ես հաճույքով եմ վարունգ ուտում:",
+		"english": "I like to eat cucumber."
+	},
+	{
+		"armenian": "ես հաճույքով եմ պոմիդոր ուտում:",
+		"english": "I like to eat tomatoes."
+	},
+	{
+		"armenian": "հաճույքո՞վ եք նաեւ պրաս ուտում:",
+		"english": "Do you also like to eat leek?"
+	},
+	{
+		"armenian": "հաճույքո՞վ եք նաեւ թթու դրած կաղամբ ուտում:",
+		"english": "Do you also like to eat sauerkraut?"
+	},
+	{
+		"armenian": "հաճույքո՞վ եք նաեւ ոսպ ուտում:",
+		"english": "Do you also like to eat lentils?"
+	},
+	{
+		"armenian": "հաճույքո՞վ եք նաեւ գազար ուտում:",
+		"english": "Do you also like to eat carrots?"
+	},
+	{
+		"armenian": "հաճույքո՞վ եք նաեւ բրոկկոլի ուտում:",
+		"english": "Do you also like to eat broccoli?"
+	},
+	{
+		"armenian": "հաճույքո՞վ եք նաեւ պղպեղ ուտում:",
+		"english": "Do you also like to eat peppers?"
+	},
+	{
+		"armenian": "ես սոխ չեմ սիրում:",
+		"english": "I don’t like onions."
+	},
+	{
+		"armenian": "ես ձիթապտուղ չեմ սիրում:",
+		"english": "I don’t like olives."
+	},
+	{
+		"armenian": "ես սունկ չեմ սիրում:",
+		"english": "I don’t like mushrooms."
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ գնացքը դեպի բեռլին:",
+		"english": "When is the next train to Berlin?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ գնացքը դեպի փարիզ:",
+		"english": "When is the next train to Paris?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ գնացքը դեպի լոնդոն:",
+		"english": "When is the next train to London?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ գնացքը դեպի վարշավա:",
+		"english": "When does the train for Warsaw leave?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ գնացքը դեպի ստոկհոլմ:",
+		"english": "When does the train for Stockholm leave?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ գնացքը դեպի բուդապեշտ:",
+		"english": "When does the train for Budapest leave?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ գնացքը դեպի մադրիդ:",
+		"english": "I’d like a ticket to Madrid."
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ գնացքը դեպի պրագա:",
+		"english": "I’d like a ticket to Prague."
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ գնացքը դեպի բեռն:",
+		"english": "I’d like a ticket to Bern."
+	},
+	{
+		"armenian": "ե՞րբ է ժամանում գնացքը վիեննա:",
+		"english": "When does the train arrive in Vienna?"
+	},
+	{
+		"armenian": "ե՞րբ է ժամանում գնացքը մոսկվա:",
+		"english": "When does the train arrive in Moscow?"
+	},
+	{
+		"armenian": "ե՞րբ է ժամանում գնացքը ամստերդամ:",
+		"english": "When does the train arrive in Amsterdam?"
+	},
+	{
+		"armenian": "պետք է փոխե՞մ գնացքը:",
+		"english": "Do I have to change trains?"
+	},
+	{
+		"armenian": "ո՞ր շավիղից է մեկնում գնացքը:",
+		"english": "From which platform does the train leave?"
+	},
+	{
+		"armenian": "վագոն–ննջարան կա՞ գնացքի մեջ:",
+		"english": "Does the train have sleepers?"
+	},
+	{
+		"armenian": "ես ուզում եմ միայն միակողմանի տոմս դեպի բրյուսել:",
+		"english": "I’d like a one-way ticket to Brussels."
+	},
+	{
+		"armenian": "ես ուզում եմ միայն հետադարձ դեպի կոպենհագեն:",
+		"english": "I’d like a return ticket to Copenhagen."
+	},
+	{
+		"armenian": "ի՞նչ արժե տոմսը մեկ անձի համար վագոն-ննջարանում:",
+		"english": "What does a berth in the sleeper cost?"
+	},
+	{
+		"armenian": "սա բեռլին մեկնող գնա՞ցքն է:",
+		"english": "Is that the train to Berlin?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում այս գնացքը:",
+		"english": "When does the train leave?"
+	},
+	{
+		"armenian": "ե՞րբ է ժամանում գնացքը բեռլին:",
+		"english": "When does the train arrive in Berlin?"
+	},
+	{
+		"armenian": "կներեք կարելի՞ է անցնել:",
+		"english": "Excuse me, may I pass?"
+	},
+	{
+		"armenian": "ես կարծում եմ, որ սա իմ տեղն է:",
+		"english": "I think this is my seat."
+	},
+	{
+		"armenian": "ես կարծում եմ, որ դուք իմ տեղն եք զբաղեցրել:",
+		"english": "I think you’re sitting in my seat."
+	},
+	{
+		"armenian": "որտեղ է վագոն-ննջարանը:",
+		"english": "Where is the sleeper?"
+	},
+	{
+		"armenian": "վագոն-ննջարանվագոնը գտնվում է գնացքի վերջում:",
+		"english": "The sleeper is at the end of the train."
+	},
+	{
+		"armenian": "իսկ որտե՞ղ է վագոն-ռեստորանը - առաջնամասում:",
+		"english": "And where is the dining car? – At the front."
+	},
+	{
+		"armenian": "կարելի՞ է ես ներքեւում քնեմ:",
+		"english": "Can I sleep below?"
+	},
+	{
+		"armenian": "կարելի՞ է ես միջին հարկում քնեմ:",
+		"english": "Can I sleep in the middle?"
+	},
+	{
+		"armenian": "կարելի՞ է ես վերեւում քնեմ:",
+		"english": "Can I sleep at the top?"
+	},
+	{
+		"armenian": "ե՞րբ ենք հասնում սահմանին:",
+		"english": "When will we get to the border?"
+	},
+	{
+		"armenian": "որքա՞ն է տեւում ճանապարհը դեպի բեռլին:",
+		"english": "How long does the journey to Berlin take?"
+	},
+	{
+		"armenian": "գնացքը ուշանու՞մ է:",
+		"english": "Is the train delayed?"
+	},
+	{
+		"armenian": "կարդալու ինչ որ բան ունե՞ք:",
+		"english": "Do you have something to read?"
+	},
+	{
+		"armenian": "կարելի՞ է այստեղ ինչ-որ ուտելու եւ խմելու բան ստանալ:",
+		"english": "Can one get something to eat and to drink here?"
+	},
+	{
+		"armenian": "կարո՞ղ եք ինձ ժամը 7-ին արթնացնել:",
+		"english": "Could you please wake me up at 7 o’clock?"
+	},
+	{
+		"armenian": "ես ուզում եմ թռիչք դեպի աթենք գնել:",
+		"english": "I’d like to book a flight to Athens."
+	},
+	{
+		"armenian": "դա ուղի՞ղ թռիչք է:",
+		"english": "Is it a direct flight?"
+	},
+	{
+		"armenian": "խնդրում եմ մի տոմս պատուհանի մոտ:",
+		"english": "A window seat, non-smoking, please."
+	},
+	{
+		"armenian": "ես ուզում եմ իմ պատվերը հաստատել:",
+		"english": "I would like to confirm my reservation."
+	},
+	{
+		"armenian": "ես ուզում եմ իմ պատվերը չեղարկել:",
+		"english": "I would like to cancel my reservation."
+	},
+	{
+		"armenian": "ես ուզում եմ իմ պատվերը փոխել:",
+		"english": "I would like to change my reservation."
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում հաջորդ օդանավը դեպի հռոմ:",
+		"english": "When is the next flight to Rome?"
+	},
+	{
+		"armenian": "երկու ազատ տեղեր դեռ կա՞ն:",
+		"english": "Are there two seats available?"
+	},
+	{
+		"armenian": "ոչ, ունենք միայն մեկ ազատ տեղ:",
+		"english": "No, we have only one seat available."
+	},
+	{
+		"armenian": "ե՞րբ ենք վայրէջք կատարում:",
+		"english": "When do we land?"
+	},
+	{
+		"armenian": "ե՞րբ ենք հասնում:",
+		"english": "When will we be there?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում ավտոբուսը դեպի քաղաքի կենտրոն:",
+		"english": "When does a bus go to the city centre / center (am.)?"
+	},
+	{
+		"armenian": "սա ձե՞ր ճամպրուկն է:",
+		"english": "Is that your suitcase?"
+	},
+	{
+		"armenian": "սա ձե՞ր պայուսակն է:",
+		"english": "Is that your bag?"
+	},
+	{
+		"armenian": "սա ձե՞ր ճամպրուկն է:",
+		"english": "Is that your luggage?"
+	},
+	{
+		"armenian": "քանի՞ ճամպրուկ կարող եմ վերցնել:",
+		"english": "How much luggage can I take?"
+	},
+	{
+		"armenian": "քսան կիլոգրամ",
+		"english": "Twenty kilos."
+	},
+	{
+		"armenian": "ինչպե՞ս; միայն քսան կիլոգրա՞մ:",
+		"english": "What? Only twenty kilos?"
+	},
+	{
+		"armenian": "որտե՞ղ է կանգառը:",
+		"english": "Where is the bus stop?"
+	},
+	{
+		"armenian": "ո՞ր ավտոբուսն է մեկնում դեպի քաղաքի կենտրոն:",
+		"english": "Which bus goes to the city centre / center (am.)?"
+	},
+	{
+		"armenian": "ո՞ր համարի ավտոբուսն է հարկավոր վերցնել:",
+		"english": "Which bus do I have to take?"
+	},
+	{
+		"armenian": "պե՞տք է փոխել ավտոբուսը:",
+		"english": "Do I have to change?"
+	},
+	{
+		"armenian": "որտե՞ ղ է պետք ավտոբուսը փոխել:",
+		"english": "Where do I have to change?"
+	},
+	{
+		"armenian": "ի՞նչ արժե մեկ տոմսը:",
+		"english": "How much does a ticket cost?"
+	},
+	{
+		"armenian": "քանի՞ կանգառ է մինչեւ քաղաքի կենտրոն:",
+		"english": "How many stops are there before downtown / the city centre?"
+	},
+	{
+		"armenian": "դուք պետք է այստեղ իջնեք:",
+		"english": "You have to get off here."
+	},
+	{
+		"armenian": "դուք պետք է հետեւի դռնից իջնեք:",
+		"english": "You have to get off at the back."
+	},
+	{
+		"armenian": "հաջորդ մետրոն կգա հինգ րոպեից:",
+		"english": "The next train is in 5 minutes."
+	},
+	{
+		"armenian": "հաջորդ տրամվայը կգա տասը րոպեից:",
+		"english": "The next tram is in 10 minutes."
+	},
+	{
+		"armenian": "հաջորդ ավտոբուսը կգա տասնհինգ րոպեից:",
+		"english": "The next bus is in 15 minutes."
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում վերջին մետրոյի գնացքը:",
+		"english": "When is the last train?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում վերջին տրամվայը:",
+		"english": "When is the last tram?"
+	},
+	{
+		"armenian": "ե՞րբ է մեկնում վերջին ավտոբուսը:",
+		"english": "When is the last bus?"
+	},
+	{
+		"armenian": "վարորդական իրավունք ունե՞ք:",
+		"english": "Do you have a ticket?"
+	},
+	{
+		"armenian": "տո՞մս, ոչ չունեմ:",
+		"english": "A ticket? – No, I don’t have one."
+	},
+	{
+		"armenian": "այդ դեպքում տուգանք եք վճարելու:",
+		"english": "Then you have to pay a fine."
+	},
+	{
+		"armenian": "նա մոտոցիկլ է քշում:",
+		"english": "e drives a motorbike."
+	},
+	{
+		"armenian": "նա հեծանիվ է քշում:",
+		"english": "He rides a bicycle."
+	},
+	{
+		"armenian": "նա ոտքով է գնում:",
+		"english": "He walks."
+	},
+	{
+		"armenian": "նա նավով է գնում:",
+		"english": "He goes by ship."
+	},
+	{
+		"armenian": "նա նավակով է գնում:",
+		"english": "He goes by boat."
+	},
+	{
+		"armenian": "նա լողում է:",
+		"english": "He swims."
+	},
+	{
+		"armenian": "վտանգավո՞ր է այստեղ:",
+		"english": "Is it dangerous here?"
+	},
+	{
+		"armenian": "վտանգավո՞ր է այստեղ մեքենա կանգնեցնել:",
+		"english": "Is it dangerous to hitchhike alone?"
+	},
+	{
+		"armenian": "վտանգավո՞ր է այստեղ գիշերով զբոսնել:",
+		"english": "Is it dangerous to go for a walk at night?"
+	},
+	{
+		"armenian": "մենք սխալ ենք եկել:",
+		"english": "We got lost."
+	},
+	{
+		"armenian": "մենք սխալ ճանապարհի վրա ենք:",
+		"english": "We’re on the wrong road."
+	},
+	{
+		"armenian": "մենք պետք է հետ դառնանք:",
+		"english": "We must turn around."
+	},
+	{
+		"armenian": "որտե՞ղ կարող ենք մեքենան այստեղ կանգնեցնել:",
+		"english": "Where can one park here?"
+	},
+	{
+		"armenian": "այստեղ մեքենայի կայանատեղի կա՞:",
+		"english": "Is there a parking lot here?"
+	},
+	{
+		"armenian": "ինչքա՞ն ժամանակով կարելի է այստեղ մեքենան կանգնեցնել:",
+		"english": "How long can one park here?"
+	},
+	{
+		"armenian": "դահուկ քշու՞մ եք:",
+		"english": "Do you ski?"
+	},
+	{
+		"armenian": "դահուկային վերելակով ե՞ք գնում դեպի վերեւ:",
+		"english": "Do you take the ski lift to the top?"
+	},
+	{
+		"armenian": "կարելի՞ է այստեղ դահուկներ վարձել:",
+		"english": "Can one rent skis here?"
+	},
+	{
+		"armenian": "տաքսի կկանչե՞ ք:",
+		"english": "Please call a taxi."
+	},
+	{
+		"armenian": "ի՞ նչ արժե մինչեւ կայարան:",
+		"english": "What does it cost to go to the station?"
+	},
+	{
+		"armenian": "ի՞ նչ արժե մինչեւ օդանավակայան:",
+		"english": "What does it cost to go to the airport?"
+	},
+	{
+		"armenian": "խնդրում եմ ուղիղ գնացեք:",
+		"english": "Please go straight ahead."
+	},
+	{
+		"armenian": "այստեղից խնդրում եմ դեպի աջ:",
+		"english": "Please turn right here."
+	},
+	{
+		"armenian": "այն անկյունում խնդրում եմ դեպի ձախ:",
+		"english": "Please turn left at the corner."
+	},
+	{
+		"armenian": "ես շտապում եմ:",
+		"english": "I’m in a hurry."
+	},
+	{
+		"armenian": "ես ժամանակ ունեմ:",
+		"english": "I have time."
+	},
+	{
+		"armenian": "խնդրում եմ դանդաղ քշեք:",
+		"english": "Please drive slowly."
+	},
+	{
+		"armenian": "կանգնեք այստեղ, խնդրում եմ:",
+		"english": "Please stop here."
+	},
+	{
+		"armenian": "խնդրում եմ մի ակնթարթ սպասեք:",
+		"english": "Please wait a moment."
+	},
+	{
+		"armenian": "ես շուտով կվերադառնամ:",
+		"english": "I’ll be back immediately."
+	},
+	{
+		"armenian": "խնդրում եմ կտրոն տվեք:",
+		"english": "Please give me a receipt."
+	},
+	{
+		"armenian": "ես մանր փող չունեմ:",
+		"english": "I have no change."
+	},
+	{
+		"armenian": "այսպես ճիշտ է, մնացածը ձեզ համար է:",
+		"english": "That is okay, please keep the change."
+	},
+	{
+		"armenian": "տարեք ինձ այս հասցեով:",
+		"english": "Drive me to this address."
+	},
+	{
+		"armenian": "տարեք ինձ իմ հյուրանոց:",
+		"english": "Drive me to my hotel."
+	},
+	{
+		"armenian": "տարեք ինձ ծովափ:",
+		"english": "Drive me to the beach."
+	},
+	{
+		"armenian": "որտե՞ղ է մոտակա բենզալցակայանը:",
+		"english": "Where is the next gas station?"
+	},
+	{
+		"armenian": "մեքենայի անվադողը նստել է:",
+		"english": "I have a flat tyre / tire (am.)."
+	},
+	{
+		"armenian": "կարո՞ղ եք անվադողը փոխել:",
+		"english": "Can you change the tyre / tire (am.)?"
+	},
+	{
+		"armenian": "ինձ հարկավոր է մի քանի լիտր դիզել:",
+		"english": "I need a few litres / liters (am.) of diesel."
+	},
+	{
+		"armenian": "ես այլեւս բենզին չունեմ:",
+		"english": "I have no more petrol / gas (am.)."
+	},
+	{
+		"armenian": "պահեստային տակառ ունե՞ք:",
+		"english": "Do you have a petrol can / jerry can / gas can (am.)?"
+	},
+	{
+		"armenian": "որտեղի՞ց կարող եմ զանգահարել:",
+		"english": "Where can I make a call?"
+	},
+	{
+		"armenian": "ինձ տարահանման ծառայություն է պետք:",
+		"english": "I need a towing service."
+	},
+	{
+		"armenian": "ես ավտոմեքենայի վերանորոգման սրահ եմ փնտրում:",
+		"english": "I’m looking for a garage."
+	},
+	{
+		"armenian": "պատահար է տեղի ունեցել:",
+		"english": "An accident has occurred."
+	},
+	{
+		"armenian": "որտե՞ղ է մոտակա հեռախոսը:",
+		"english": "Where is the nearest telephone?"
+	},
+	{
+		"armenian": "բջջային հեռախոս ունե՞ք ձեր մոտ:",
+		"english": "Do you have a mobile / cell phone (am.) with you?"
+	},
+	{
+		"armenian": "մեզ օգնություն է հարկավոր:",
+		"english": "We need help."
+	},
+	{
+		"armenian": "բժիշկ կանչեք!",
+		"english": "Call a doctor!"
+	},
+	{
+		"armenian": "ոստիկանություն կանչեք!",
+		"english": "Call the police!"
+	},
+	{
+		"armenian": "ձեր փաստաթղթերը, խնդրում եմ:",
+		"english": "Your papers, please."
+	},
+	{
+		"armenian": "ձեր վարորդական իրավունքը, խնդրում եմ:",
+		"english": "Your licence / license (am.), please."
+	},
+	{
+		"armenian": "ձեր ավտոմեքենայի փաստաթղթերը խնդրում եմ:",
+		"english": "Your registration, please."
+	},
+	{
+		"armenian": "ներեցեք!",
+		"english": "Excuse me!"
+	},
+	{
+		"armenian": "կարո՞ղ եք ինձ օգնել:",
+		"english": "Can you help me?"
+	},
+	{
+		"armenian": "այստեղ որտե՞ղ կա լավ ռեստորան:",
+		"english": "Is there a good restaurant around here?"
+	},
+	{
+		"armenian": "գնացեք ձախ անկյունով:",
+		"english": "Take a left at the corner."
+	},
+	{
+		"armenian": "գնացեք մի որոշ ժամանակ ուղիղ:",
+		"english": "Then go straight for a while."
+	},
+	{
+		"armenian": "ապա գնացեք հարյուր մետր դեպի աջ:",
+		"english": "Then go right for a hundred metres / meters (am.)."
+	},
+	{
+		"armenian": "դուք կարող եք նաեւ ավտոբուսով գնալ:",
+		"english": "You can also take the bus."
+	},
+	{
+		"armenian": "դուք կարող եք նաեւ տրամվայով գնալ:",
+		"english": "You can also take the tram."
+	},
+	{
+		"armenian": "դուք կարող եք պարզապես իմ հետեւից վարել:",
+		"english": "You can also follow me with your car."
+	},
+	{
+		"armenian": "ինչպե՞ս գնամ ֆուտբոլի ստադիոն:",
+		"english": "How do I get to the football / soccer (am.) stadium?"
+	},
+	{
+		"armenian": "անցեք կամուրջը!",
+		"english": "Cross the bridge!"
+	},
+	{
+		"armenian": "վարեք թունելի միջով:",
+		"english": "Go through the tunnel!"
+	},
+	{
+		"armenian": "վարեք մինչեւ երրորդ լուսակիրը:",
+		"english": "Drive until you reach the third traffic light."
+	},
+	{
+		"armenian": "ապա թեքվեք առաջին փողոցից դեպի աջ:",
+		"english": "Then turn into the first street on your right."
+	},
+	{
+		"armenian": "շարունակեք ու անցեք հաջորդ խաչմերուկի միջով:",
+		"english": "Then drive straight through the next intersection."
+	},
+	{
+		"armenian": "ներեցեք, ինչպե՞ս կարող եմ գնալ օդանավակայան:",
+		"english": "Excuse me, how do I get to the airport?"
+	},
+	{
+		"armenian": "ավելի լավ է, որ դուք մետրոյով գնաք:",
+		"english": "It is best if you take the underground / subway (am.)."
+	},
+	{
+		"armenian": "գնացեք մինչեւ վերջին կանգառ:",
+		"english": "Simply get out at the last stop."
+	},
+	{
+		"armenian": "որտե՞ղ է գտնվում տուրիստական գրասենյակը:",
+		"english": "Where is the tourist information office?"
+	},
+	{
+		"armenian": "քաղաքի քարտեզ ունե՞ք ինձ համար:",
+		"english": "Do you have a city map for me?"
+	},
+	{
+		"armenian": "կարո՞ղ եմ այստեղ հյուրանոցի սենյակ պատվիրել:",
+		"english": "Can one reserve a room here?"
+	},
+	{
+		"armenian": "որտե՞ղ է քաղաքի հին մասը:",
+		"english": "Where is the old city?"
+	},
+	{
+		"armenian": "որտե՞ղ է մայր տաճարը:",
+		"english": "Where is the cathedral?"
+	},
+	{
+		"armenian": "որտե՞ղ է թանգարանը:",
+		"english": "Where is the museum?"
+	},
+	{
+		"armenian": "որտեղի՞ց կարող եմ դրոշմանիշներ գնել:",
+		"english": "Where can one buy stamps?"
+	},
+	{
+		"armenian": "որտեղի՞ց կարող եմ ծաղիկներ գնել:",
+		"english": "Where can one buy flowers?"
+	},
+	{
+		"armenian": "որտեղի՞ց կարող եմ տոմսեր գնել:",
+		"english": "Where can one buy tickets?"
+	},
+	{
+		"armenian": "որտե՞ղ է նավահանգիստը:",
+		"english": "Where is the harbour / harbor (am.)?"
+	},
+	{
+		"armenian": "որտե՞ղ է շուկան:",
+		"english": "Where is the market?"
+	},
+	{
+		"armenian": "որտե՞ղ է ամրոցը:",
+		"english": "Where is the castle?"
+	},
+	{
+		"armenian": "ե՞րբ է սկսվում էքսկուրսիան:",
+		"english": "When does the tour begin?"
+	},
+	{
+		"armenian": "ե՞րբ է վերջանում էքսկուրսիան:",
+		"english": "When does the tour end?"
+	},
+	{
+		"armenian": "ի՞նչքան է տեւում էքսկուրսիան:",
+		"english": "How long is the tour?"
+	},
+	{
+		"armenian": "ես ուզում եմ էքսկուրսավար, որը խոսում է գերմաներեն:",
+		"english": "I would like a guide who speaks German."
+	},
+	{
+		"armenian": "ես ուզում եմ էքսկուրսավար, որը խոսում է իտալերեն:",
+		"english": "I would like a guide who speaks Italian."
+	},
+	{
+		"armenian": "ես ուզում եմ էքսկուրսավար, որը խոսում է ֆրանսերեն:",
+		"english": "I would like a guide who speaks French."
+	},
+	{
+		"armenian": "շուկան կիրակի օրերը բաց է:",
+		"english": "Is the market open on Sundays?"
+	},
+	{
+		"armenian": "տոնավաճառը կիրակի օրերը բաց է:",
+		"english": "Is the fair open on Mondays?"
+	},
+	{
+		"armenian": "ցուցահանդեսը երեքշաբթի օրը բաց է:",
+		"english": "Is the exhibition open on Tuesdays?"
+	},
+	{
+		"armenian": "կենդանաբանական այգին չորեքշաբթի օրը բաց է:",
+		"english": "Is the zoo open on Wednesdays?"
+	},
+	{
+		"armenian": "թանգարանը հինգշաբթի օրը բաց է:",
+		"english": "Is the museum open on Thursdays?"
+	},
+	{
+		"armenian": "պատկերասրահը ուրբաթ օրը բաց է:",
+		"english": "Is the gallery open on Fridays?"
+	},
+	{
+		"armenian": "թույլատրվու՞մ է լուսանկարել:",
+		"english": "Can one take photographs?"
+	},
+	{
+		"armenian": "մուտքը վճարովի՞ է:",
+		"english": "Does one have to pay an entrance fee?"
+	},
+	{
+		"armenian": "որքա՞ն է տոմսի արժեքը:",
+		"english": "How much is the entrance fee?"
+	},
+	{
+		"armenian": "զեղչ կա՞ խմբերի համար:",
+		"english": "Is there a discount for groups?"
+	},
+	{
+		"armenian": "զեղչ կա՞ երեխաների համար:",
+		"english": "Is there a discount for children?"
+	},
+	{
+		"armenian": "զեղչ կա՞ ուսանողների համար:",
+		"english": "Is there a discount for students?"
+	},
+	{
+		"armenian": "սա ի՞նչ կառույց է:",
+		"english": "What building is that?"
+	},
+	{
+		"armenian": "քանի՞ տարեկան է այս շենքը:",
+		"english": "How old is the building?"
+	},
+	{
+		"armenian": "ո՞վ է կառուցել այս շենքը:",
+		"english": "Who built the building?"
+	},
+	{
+		"armenian": "ես հետաքրքրվում եմ ճարտարապետությամբ:",
+		"english": "I’m interested in architecture."
+	},
+	{
+		"armenian": "ես հետաքրքրվում եմ արվեստով:",
+		"english": "I’m interested in art."
+	},
+	{
+		"armenian": "ես հետաքրքրվում եմ նկարչությամբ:",
+		"english": "I’m interested in paintings."
+	},
+	{
+		"armenian": "այնտեղ կենդանաբանական այգի է:",
+		"english": "The zoo is there."
+	},
+	{
+		"armenian": "այնտեղ ընձուղտներն են:",
+		"english": "The giraffes are there."
+	},
+	{
+		"armenian": "որտե՞ղ են արջերը:",
+		"english": "Where are the bears?"
+	},
+	{
+		"armenian": "որտե՞ղ են փղերը:",
+		"english": "Where are the elephants?"
+	},
+	{
+		"armenian": "որտե՞ղ են օձերը:",
+		"english": "Where are the snakes?"
+	},
+	{
+		"armenian": "որտե՞ղ են առյուծները:",
+		"english": "Where are the lions?"
+	},
+	{
+		"armenian": "ես ունեմ ֆոտոխցիկ:",
+		"english": "I have a camera."
+	},
+	{
+		"armenian": "ես ունեմ տեսախցիկ:",
+		"english": "I also have a video camera."
+	},
+	{
+		"armenian": "որտե՞ղ է լիցքավորման գլանակը:",
+		"english": "Where can I find a battery?"
+	},
+	{
+		"armenian": "որտե՞ղ են պինգվինները:",
+		"english": "Where are the penguins?"
+	},
+	{
+		"armenian": "որտե՞ղ են կենգուրուները:",
+		"english": "Where are the kangaroos?"
+	},
+	{
+		"armenian": "որտե՞ղ են ռնգեղջյուները:",
+		"english": "Where are the rhinos?"
+	},
+	{
+		"armenian": "որտե՞ղ է զուգարանը:",
+		"english": "Where is the toilet / restroom (am.)?"
+	},
+	{
+		"armenian": "այնտե՞ղ մի սրճարան է:",
+		"english": "There is a café over there."
+	},
+	{
+		"armenian": "այնտե՞ղ մի ռեստորան է:",
+		"english": "There is a restaurant over there."
+	},
+	{
+		"armenian": "որտե՞ղ են ուղտերը:",
+		"english": "Where are the camels?"
+	},
+	{
+		"armenian": "որտե՞ղ են գորիլլաները եւ զեբրերը:",
+		"english": "Where are the gorillas and the zebras?"
+	},
+	{
+		"armenian": "որտե՞ղ են վագրերը եւ կոկորդիլոսները:",
+		"english": "Where are the tigers and the crocodiles?"
+	},
+	{
+		"armenian": "այստեղ դիսկոտեկ կա՞:",
+		"english": "Is there a disco here?"
+	},
+	{
+		"armenian": "այստեղ գիշերային ակումբ կա՞:",
+		"english": "Is there a nightclub here?"
+	},
+	{
+		"armenian": "այստեղ բար կա՞:",
+		"english": "Is there a pub here?"
+	},
+	{
+		"armenian": "ի՞նչ ներկայացում կա այսօր երեկոյան թատրոնում:",
+		"english": "What’s playing at the theatre / theater (am.) this evening?"
+	},
+	{
+		"armenian": "ի՞նչ ներկայացում կա այսօր երեկոյան կինո թատրոնում:",
+		"english": "What’s playing at the cinema / movies (am.) this evening?"
+	},
+	{
+		"armenian": "ի՞նչ կա այսօր երեկոյան հեռուստացույցով:",
+		"english": "What’s on TV this evening?"
+	},
+	{
+		"armenian": "թատրոնի տոմսեր կա՞ն:",
+		"english": "Are tickets for the theatre / theater (am.) still available?"
+	},
+	{
+		"armenian": "կինոյի տոմսեր կա՞ն:",
+		"english": "Are tickets for the cinema / movies (am.) still available?"
+	},
+	{
+		"armenian": "ֆուտբոլային խաղի տոմսե՞ր կան:",
+		"english": "Are tickets for the football / soccer am. game still available?"
+	},
+	{
+		"armenian": "ես ցանկանում եմ վերջում նստել:",
+		"english": "I want to sit in the back."
+	},
+	{
+		"armenian": "ես ցանկանում եմ միջին մասում նստել:",
+		"english": "I want to sit somewhere in the middle."
+	},
+	{
+		"armenian": "ես ցանկանում եմ առջեւում նստել:",
+		"english": "I want to sit at the front."
+	},
+	{
+		"armenian": "կարո՞ղ եք ինձ ինչ որ բան խորհուրդ տալ:",
+		"english": "Could you recommend something?"
+	},
+	{
+		"armenian": "ե՞րբ է սկսվում ներկայացումը:",
+		"english": "When does the show begin?"
+	},
+	{
+		"armenian": "կարո՞ղ եք ինձ համար մի տոմս ձեռք բերել:",
+		"english": "Can you get me a ticket?"
+	},
+	{
+		"armenian": "այստեղ մոտակայքում գոլֆի դաշտ կա՞:",
+		"english": "Is there a golf course nearby?"
+	},
+	{
+		"armenian": "այստեղ մոտակայքում թենիսի դաշտ կա՞:",
+		"english": "Is there a tennis court nearby?"
+	},
+	{
+		"armenian": "այստեղ մոտակայքում լողավազան կա՞:",
+		"english": "Is there an indoor swimming pool nearby?"
+	},
+	{
+		"armenian": "մենք ուզում ենք կինո գնալ:",
+		"english": "We want to go to the cinema."
+	},
+	{
+		"armenian": "այսոր լավ ֆիլմ է լինելու:",
+		"english": "A good film is playing today."
+	},
+	{
+		"armenian": "ֆիլմը նոր է:",
+		"english": "The film is brand new."
+	},
+	{
+		"armenian": "որտե՞ղ է տոմսարկղը:",
+		"english": "Where is the cash register?"
+	},
+	{
+		"armenian": "ազատ տեղեր կա՞ն:",
+		"english": "Are seats still available?"
+	},
+	{
+		"armenian": "ի՞նչ արժեն մուտքի տոմսերը:",
+		"english": "How much are the admission tickets?"
+	},
+	{
+		"armenian": "ե՞րբ է սկսվում ներկայացումը:",
+		"english": "When does the show begin?"
+	},
+	{
+		"armenian": "որքա՞ն է ֆիլմի տեւողությունը:",
+		"english": "How long is the film?"
+	},
+	{
+		"armenian": "հնարավո՞ր է տոմսեր պատվիրել:",
+		"english": "Can one reserve tickets?"
+	},
+	{
+		"armenian": "ես ցանկանում եմ վերջում նստել:",
+		"english": "I want to sit at the back."
+	},
+	{
+		"armenian": "ես ցանկանում եմ առջեւում նստել:",
+		"english": "I want to sit at the front."
+	},
+	{
+		"armenian": "ես ցանկանում եմ միջին մասում նստել:",
+		"english": "I want to sit in the middle."
+	},
+	{
+		"armenian": "ֆիլմը հետաքրքիր էր:",
+		"english": "The film was exciting."
+	},
+	{
+		"armenian": "ֆիլմը ձանձրալի չէր:",
+		"english": "The film was not boring."
+	},
+	{
+		"armenian": "բայց գիրքը ավելի լավն էր, քան ֆիլմը:",
+		"english": "But the book on which the film was based was better."
+	},
+	{
+		"armenian": "ինչպե՞ս էր երաժշտությունը:",
+		"english": "How was the music?"
+	},
+	{
+		"armenian": "ինչպե՞ս էին խաղում դերասանները:",
+		"english": "How were the actors?"
+	},
+	{
+		"armenian": "անգլերեն լեզվով ենթավերնագիր կա՞ր:",
+		"english": "Were there English subtitles?"
+	},
+	{
+		"armenian": "այս տեղն ազա՞տ է:",
+		"english": "Is this seat taken?"
+	},
+	{
+		"armenian": "կարելի՞ է ձեր մոտ նստել:",
+		"english": "May I sit with you?"
+	},
+	{
+		"armenian": "հաճույքով:",
+		"english": "Sure."
+	},
+	{
+		"armenian": "ինչպե՞ս եք գտնում երաժշտությունը:",
+		"english": "How do you like the music?"
+	},
+	{
+		"armenian": "մի քիչ բարձր է:",
+		"english": "A little too loud."
+	},
+	{
+		"armenian": "բայց խումբը լավ է նվագում:",
+		"english": "But the band plays very well."
+	},
+	{
+		"armenian": "հաճա՞խ եք այստեղ լինում:",
+		"english": "Do you come here often?"
+	},
+	{
+		"armenian": "ոչ, սա առաջին անգամն է:",
+		"english": "No, this is the first time."
+	},
+	{
+		"armenian": "ես այստեղ երբեք չեմ եղել:",
+		"english": "I’ve never been here before."
+	},
+	{
+		"armenian": "պարու՞մ եք:",
+		"english": "Would you like to dance?"
+	},
+	{
+		"armenian": "միգուցե ավելի ուշ:",
+		"english": "Maybe later."
+	},
+	{
+		"armenian": "ես լավ չեմ պարում:",
+		"english": "I can’t dance very well."
+	},
+	{
+		"armenian": "դա շատ հասարակ բան է:",
+		"english": "It’s very easy."
+	},
+	{
+		"armenian": "ես ձեզ ցույց կտամ:",
+		"english": "I’ll show you."
+	},
+	{
+		"armenian": "ոչ, ավելի լավ է հաջորդ անգամ:",
+		"english": "No, maybe some other time."
+	},
+	{
+		"armenian": "սպասու՞մ եք ինչ որ մեկին:",
+		"english": "Are you waiting for someone?"
+	},
+	{
+		"armenian": "այո, իմ ընկերոջը:",
+		"english": "Yes, for my boyfriend."
+	},
+	{
+		"armenian": "ահա նա գալիս է:",
+		"english": "There he is!"
+	},
+	{
+		"armenian": "դու պետք է մեր ճամպրուկը փակես:",
+		"english": "You have to pack our suitcase!"
+	},
+	{
+		"armenian": "դու չպետք է ոչինչ մոռանաս:",
+		"english": "Don’t forget anything!"
+	},
+	{
+		"armenian": "քեզ մեծ ճամպրուկ է հարկավոր:",
+		"english": "You need a big suitcase!"
+	},
+	{
+		"armenian": "չմոռանաս անձնագիրդ!",
+		"english": "Don’t forget your passport!"
+	},
+	{
+		"armenian": "չմոռանաս ինքնաթիռի տոմսդ!",
+		"english": "Don’t forget your ticket!"
+	},
+	{
+		"armenian": "չմոռանաս ճամփորդական տոմսերը!",
+		"english": "Don’t forget your traveller’s cheques / traveler’s checks (am.)!"
+	},
+	{
+		"armenian": "արեւայրուքի քսուք վերցրու հետդ:",
+		"english": "Take some suntan lotion with you."
+	},
+	{
+		"armenian": "արեւի ակնոցներ վերցրու հետդ:",
+		"english": "Take the sun-glasses with you."
+	},
+	{
+		"armenian": "գլխարկ վերցրու հետդ:",
+		"english": "Take the sun hat with you."
+	},
+	{
+		"armenian": "քարտեզ ուզու՞մ ես վերցնել քեզ հետ:",
+		"english": "Do you want to take a road map?"
+	},
+	{
+		"armenian": "ուղեցույց ուզու՞մ ես վերցնել քեզ հետ:",
+		"english": "Do you want to take a travel guide?"
+	},
+	{
+		"armenian": "անձրեւանոց ուզու՞մ ես վերցնել քեզ հետ:",
+		"english": "Do you want to take an umbrella?"
+	},
+	{
+		"armenian": "հիշիր տաբատի, վերնաշապիկների եւ գուլպաների մասին:",
+		"english": "Remember to take pants, shirts and socks."
+	},
+	{
+		"armenian": "հիշիր փողկապի, գոտու եւ բաճկոնի մասին:",
+		"english": "Remember to take ties, belts and sports jackets."
+	},
+	{
+		"armenian": "հիշիր շապիկի եւ գիշերաշապիկի մասին:",
+		"english": "Remember to take pyjamas, nightgowns and t-shirts."
+	},
+	{
+		"armenian": "քեզ հարկավոր են կոշիկներ, սանդալներ եւ երկարաճիտ կոշիկներ:",
+		"english": "You need shoes, sandals and boots."
+	},
+	{
+		"armenian": "քեզ հարկավոր են թաշկինակներ, օճառ եւ եղունգների մկրատ:",
+		"english": "You need handkerchiefs, soap and a nail clipper."
+	},
+	{
+		"armenian": "քեզ հարկավոր են սանր, ատամի խոզանակ եւ ատամի մածուկ:",
+		"english": "You need a comb, a toothbrush and toothpaste."
+	},
+	{
+		"armenian": "լողափը մաքուր է:",
+		"english": "Is the beach clean?"
+	},
+	{
+		"armenian": "կարո՞ղ ենք այնտեղ լողալ:",
+		"english": "Can one swim there?"
+	},
+	{
+		"armenian": "վտանգավոր է այնտեղ լողալը:",
+		"english": "Isn’t it dangerous to swim there?"
+	},
+	{
+		"armenian": "կարելի՞ է այստեղ հովանոց վարձել:",
+		"english": "Can one rent a sun umbrella / parasol here?"
+	},
+	{
+		"armenian": "կարելի՞ է այստեղ պառկելաթոռ վարձել:",
+		"english": "Can one rent a deck chair here?"
+	},
+	{
+		"armenian": "հնարավո՞ր է այստեղ նավակ վարձել:",
+		"english": "Can one rent a boat here?"
+	},
+	{
+		"armenian": "ես կցանկանայի սերֆինգով զբաղվել:",
+		"english": "I would like to surf."
+	},
+	{
+		"armenian": "ես կցանկանայի սուզվել:",
+		"english": "I would like to dive."
+	},
+	{
+		"armenian": "ես կցանկանայի ջրադահուկներով զբաղվել:",
+		"english": "I would like to water ski."
+	},
+	{
+		"armenian": "կարելի՞ է սերֆինգի տախտակ վարձել:",
+		"english": "Can one rent a surfboard?"
+	},
+	{
+		"armenian": "կարելի՞ է ջրասուզակի հագուստ վարձել:",
+		"english": "Can one rent diving equipment?"
+	},
+	{
+		"armenian": "կարելի՞ է ջրադահուկ վարձել:",
+		"english": "Can one rent water skis?"
+	},
+	{
+		"armenian": "ես սկսնակ եմ:",
+		"english": "I’m only a beginner."
+	},
+	{
+		"armenian": "ես միջին կարգի ընդունակություններ ունեմ:",
+		"english": "I’m moderately good."
+	},
+	{
+		"armenian": "ես դա լավ գիտեմ:",
+		"english": "I’m pretty good at it."
+	},
+	{
+		"armenian": "որտե՞ղ է դահուկային ճոպանուղին:",
+		"english": "Where is the ski lift?"
+	},
+	{
+		"armenian": "դահուկները մո՞տդ են:",
+		"english": "Do you have skis?"
+	},
+	{
+		"armenian": "դահուկի կոշիկները մո՞տդ են:",
+		"english": "Do you have ski boots?"
+	},
+	{
+		"armenian": "սպորտով զբաղվու՞մ ես:",
+		"english": "Do you exercise?"
+	},
+	{
+		"armenian": "այո, ինձ շարժվել է պետք:",
+		"english": "Yes, I need some exercise."
+	},
+	{
+		"armenian": "ես գնում եմ սպորտի ակումբ:",
+		"english": "I am a member of a sports club."
+	},
+	{
+		"armenian": "մենք ֆուտբոլ ենք խաղում:",
+		"english": "We play football / soccer (am.)."
+	},
+	{
+		"armenian": "մեկ մեկ լողում ենք:",
+		"english": "We swim sometimes."
+	},
+	{
+		"armenian": "կամ հեծանիվ ենք քշում:",
+		"english": "Or we cycle."
+	},
+	{
+		"armenian": "մեր քաղաքում ֆուտբոլի ստադիոն կա:",
+		"english": "There is a football / soccer (am.) stadium in our city."
+	},
+	{
+		"armenian": "կա մի լողավազան շոգեբաղնիքով:",
+		"english": "There is also a swimming pool with a sauna."
+	},
+	{
+		"armenian": "եվ մի գոլֆի դաշտ կա:",
+		"english": "And there is a golf course."
+	},
+	{
+		"armenian": "ի՞նչ կա հեռուստացույցով:",
+		"english": "What is on TV?"
+	},
+	{
+		"armenian": "հիմա ֆուտբոլի խաղ է:",
+		"english": "There is a football / soccer (am.) match on now."
+	},
+	{
+		"armenian": "գերմանական թիմը խաղում է անգլիական թիմի դեմ:",
+		"english": "The German team is playing against the English one."
+	},
+	{
+		"armenian": "ո՞վ է հաղթում:",
+		"english": "Who is winning?"
+	},
+	{
+		"armenian": "ես չգիտեմ:",
+		"english": "I have no idea."
+	},
+	{
+		"armenian": "այս պահին ոչ ոքի է:",
+		"english": "It is currently a tie."
+	},
+	{
+		"armenian": "մրցավարը բելգիացի է:",
+		"english": "The referee is from Belgium."
+	},
+	{
+		"armenian": "հիմա տուգանային տասնմեկ մետրանոց է:",
+		"english": "Now there is a penalty."
+	},
+	{
+		"armenian": "գոլ!մեկ-զրո:",
+		"english": "Goal! One – zero!"
+	},
+	{
+		"armenian": "այսոր շոգ է:",
+		"english": "It is hot today."
+	},
+	{
+		"armenian": "գնա՞նք լողավազան:",
+		"english": "Shall we go to the swimming pool?"
+	},
+	{
+		"armenian": "ուզու՞մ ես գնանք լողավազան:",
+		"english": "Do you feel like swimming?"
+	},
+	{
+		"armenian": "սրբիչ ունե՞ս:",
+		"english": "Do you have a towel?"
+	},
+	{
+		"armenian": "լողավարտիք ունե՞ս:",
+		"english": "Do you have swimming trunks?"
+	},
+	{
+		"armenian": "լողազգեստ ունե՞ս:",
+		"english": "Do you have a bathing suit?"
+	},
+	{
+		"armenian": "լողալ գիտե՞ս:",
+		"english": "Can you swim?"
+	},
+	{
+		"armenian": "սուզվել գիտե՞ս:",
+		"english": "Can you dive?"
+	},
+	{
+		"armenian": "կարո՞ղ ես ջրի մեջ ցատկել:",
+		"english": "Can you jump in the water?"
+	},
+	{
+		"armenian": "որտե՞ղ է ցնցուղը:",
+		"english": "Where is the shower?"
+	},
+	{
+		"armenian": "որտե՞ղ է փոխվելու խցիկը:",
+		"english": "Where is the changing room?"
+	},
+	{
+		"armenian": "որտե՞ղ է լողի ակնոցը:",
+		"english": "Where are the swimming goggles?"
+	},
+	{
+		"armenian": "ջուրը խո՞րն է:",
+		"english": "Is the water deep?"
+	},
+	{
+		"armenian": "ջուրը մաքու՞ր է:",
+		"english": "Is the water clean?"
+	},
+	{
+		"armenian": "ջուրը տա՞ք է:",
+		"english": "Is the water warm?"
+	},
+	{
+		"armenian": "ես մրսում եմ:",
+		"english": "I am freezing."
+	},
+	{
+		"armenian": "ջուրը սառն է:",
+		"english": "The water is too cold."
+	},
+	{
+		"armenian": "ես հիմա ջրից դուրս եմ գալիս:",
+		"english": "I am getting out of the water now."
+	},
+	{
+		"armenian": "ես ուզում եմ գրադարան գնալ:",
+		"english": "I want to go to the library."
+	},
+	{
+		"armenian": "ես ուզում եմ գրախանութ գնալ:",
+		"english": "I want to go to the bookstore."
+	},
+	{
+		"armenian": "ես ուզում եմ կրպակ գնալ:",
+		"english": "I want to go to the newspaper stand."
+	},
+	{
+		"armenian": "ես ուզում եմ մի գիրք վերցնել:",
+		"english": "I want to borrow a book."
+	},
+	{
+		"armenian": "ես ուզում եմ մի գիրք գնել:",
+		"english": "I want to buy a book."
+	},
+	{
+		"armenian": "ես ուզում եմ մի թերթ գնել:",
+		"english": "I want to buy a newspaper."
+	},
+	{
+		"armenian": "ես ուզում եմ գրադարան գնալ, որպեսզի մի գիրք վերցնեմ:",
+		"english": "I want to go to the library to borrow a book."
+	},
+	{
+		"armenian": "ես ուզում եմ գրախանութ գնալ, որպեսզի մի գիրք գնեմ:",
+		"english": "I want to go to the bookstore to buy a book."
+	},
+	{
+		"armenian": "ես ուզում եմ կրպակ գնալ, որպեսզի մի թերթ գնեմ:",
+		"english": "I want to go to the kiosk / newspaper stand to buy a newspaper."
+	},
+	{
+		"armenian": "ես ուզում եմ օպտիկա գնամ:",
+		"english": "I want to go to the optician."
+	},
+	{
+		"armenian": "ես ուզում սուպերմարկետ գնամ:",
+		"english": "I want to go to the supermarket."
+	},
+	{
+		"armenian": "ես ուզում եմ հացի խանութ գնամ:",
+		"english": "I want to go to the bakery."
+	},
+	{
+		"armenian": "ես ուզում եմ մի ակնոց գնեմ:",
+		"english": "I want to buy some glasses."
+	},
+	{
+		"armenian": "ես ուզում եմ միրգ եւ բանջարեղեն գնեմ:",
+		"english": "I want to buy fruit and vegetables."
+	},
+	{
+		"armenian": "ես ուզում եմ հաց գնեմ:",
+		"english": "I want to buy rolls and bread."
+	},
+	{
+		"armenian": "ես ուզում եմ օպտիկա գնամ, որպեսզի ակնոց գնեմ:",
+		"english": "I want to go to the optician to buy glasses."
+	},
+	{
+		"armenian": "ես ուզում սուպերմարկետ գնամ, որպեսզի միրգ եւ բանջարեղեն գնեմ:",
+		"english": "I want to go to the supermarket to buy fruit and vegetables."
+	},
+	{
+		"armenian": "ես ուզում եմ հացի խանութ գնամ, որպեսզի հաց գնեմ:",
+		"english": "I want to go to the baker to buy rolls and bread."
+	},
+	{
+		"armenian": "գնա՞նք հանրախանութ:",
+		"english": "Shall we go to the department store?"
+	},
+	{
+		"armenian": "ես պետք է գնումներ անեմ:",
+		"english": "I have to go shopping."
+	},
+	{
+		"armenian": "ես շատ գնումներ ունեմ անելու:",
+		"english": "I want to do a lot of shopping."
+	},
+	{
+		"armenian": "որտե՞ղ են գրենական պիտույքները:",
+		"english": "Where are the office supplies?"
+	},
+	{
+		"armenian": "ինձ ծրարներ եվ թղթեր են անհրաժեշտ:",
+		"english": "I need envelopes and stationery."
+	},
+	{
+		"armenian": "ինձ գրիչներ եւ ֆլոմաստերներ են անհրաժեշտ:",
+		"english": "I need pens and markers."
+	},
+	{
+		"armenian": "որտե՞ղ է կահույքը:",
+		"english": "Where is the furniture?"
+	},
+	{
+		"armenian": "ինձ պահարան եւ զարդասեղան է անհրաժեշտ:",
+		"english": "I need a cupboard and a chest of drawers."
+	},
+	{
+		"armenian": "ինձ գրասեղան եւ դարակներ է անհրաժեշտ:",
+		"english": "I need a desk and a bookshelf."
+	},
+	{
+		"armenian": "որտե՞ղ են խաղալիքները:",
+		"english": "Where are the toys?"
+	},
+	{
+		"armenian": "ինձ անհրաժեշտ է տիկնիկ եւ արջուկ:",
+		"english": "I need a doll and a teddy bear."
+	},
+	{
+		"armenian": "ինձ անհրաժեշտ է ֆուտբոլի գնդակ եւ շախմատ:",
+		"english": "I need a football and a chess board."
+	},
+	{
+		"armenian": "որտե՞ղ են գործիքները:",
+		"english": "Where are the tools?"
+	},
+	{
+		"armenian": "ինձ հարկավոր է մուրճ եւ աքցան:",
+		"english": "I need a hammer and a pair of pliers."
+	},
+	{
+		"armenian": "ինձ հարկավոր է եւ պտուտակահան:",
+		"english": "I need a drill and a screwdriver."
+	},
+	{
+		"armenian": "որտե՞ղ են զարդերը:",
+		"english": "Where is the jewellery / jewelry (am.) department?"
+	},
+	{
+		"armenian": "ինձ հարկավոր են շղթա եւ ապարանջան:",
+		"english": "I need a chain and a bracelet."
+	},
+	{
+		"armenian": "ինձ հարկավոր են մատանի եւ ականջողեր:",
+		"english": "I need a ring and earrings."
+	},
+	{
+		"armenian": "մենք սպորտային խանութ ենք փնտրում:",
+		"english": "We’re looking for a sports shop."
+	},
+	{
+		"armenian": "մենք մսագործի խանութ ենք փնտրում:",
+		"english": "We’re looking for a butcher shop."
+	},
+	{
+		"armenian": "մենք դեղատուն ենք փնտրում:",
+		"english": "We’re looking for a pharmacy / drugstore (am.)."
+	},
+	{
+		"armenian": "մենք ուզում ենք մի գնդակ գնել:",
+		"english": "We want to buy a football."
+	},
+	{
+		"armenian": "մենք ուզում ենք երշիկ գնել:",
+		"english": "We want to buy salami."
+	},
+	{
+		"armenian": "մենք ուզում ենք դեղ գնել:",
+		"english": "We want to buy medicine."
+	},
+	{
+		"armenian": "մենք սպորտային խանութ ենք փնտրում, որ մի գնդակ գնենք:",
+		"english": "We’re looking for a sports shop to buy a football."
+	},
+	{
+		"armenian": "մենք մսագործի խանութ ենք փնտրում, որ երշիկ գնենք:",
+		"english": "We’re looking for a butcher shop to buy salami."
+	},
+	{
+		"armenian": "մենք դեղատուն ենք փնտրում, որ դեղ գնենք:",
+		"english": "We’re looking for a drugstore to buy medicine."
+	},
+	{
+		"armenian": "մենք ոսկերիչ ենք փնտրում:",
+		"english": "I’m looking for a jeweller / jeweler (am.)."
+	},
+	{
+		"armenian": "մենք լուսանկարչական խանութ ենք փնտրում:",
+		"english": "I’m looking for a photo equipment store."
+	},
+	{
+		"armenian": "մենք հրուշակագործական խանութ ենք փնտրում:",
+		"english": "I’m looking for a confectionery."
+	},
+	{
+		"armenian": "ես մտադիր եմ մի մատանի գնեմ:",
+		"english": "I actually plan to buy a ring."
+	},
+	{
+		"armenian": "ես մտադիր եմ մի ֆիլմ գնեմ:",
+		"english": "I actually plan to buy a roll of film."
+	},
+	{
+		"armenian": "ես մտադիր եմ մի տորթ գնեմ:",
+		"english": "I actually plan to buy a cake."
+	},
+	{
+		"armenian": "ես ոսկերիչ եմ փնտրում, որ մի մատանի գնեմ:",
+		"english": "I’m looking for a jeweler to buy a ring."
+	},
+	{
+		"armenian": "ես լուսանկարչական խանութ եմ փնտրում, որ մի ֆիլմ գնեմ:",
+		"english": "I’m looking for a photo shop to buy a roll of film."
+	},
+	{
+		"armenian": "ես հրուշակագործական խանութ եմ փնտրում, որ մի տորթ գնեմ:",
+		"english": "I’m looking for a confectionery to buy a cake."
+	},
+	{
+		"armenian": "ես ուզում եմ մի նվեր գնել:",
+		"english": "I want to buy a present."
+	},
+	{
+		"armenian": "բայց ոչ թանկ:",
+		"english": "But nothing too expensive."
+	},
+	{
+		"armenian": "միգուցե մի պայուսա՞կ:",
+		"english": "Maybe a handbag?"
+	},
+	{
+		"armenian": "ո՞ր գույնն եք ուզում:",
+		"english": "Which color would you like?"
+	},
+	{
+		"armenian": "սեւ՞, մոխրագու՞յն, թե՞ սպիտակ:",
+		"english": "Black, brown or white?"
+	},
+	{
+		"armenian": "փո՞քր թե մե՞ծ:",
+		"english": "A large one or a small one?"
+	},
+	{
+		"armenian": "կարելի՞ է սա տեսնեմ:",
+		"english": "May I see this one, please?"
+	},
+	{
+		"armenian": "սա կաշվի՞ց է:",
+		"english": "Is it made of leather?"
+	},
+	{
+		"armenian": "թե՞ արհեստական կաշվից:",
+		"english": "Or is it made of plastic?"
+	},
+	{
+		"armenian": "կաշվե իհարկե:",
+		"english": "Of leather, of course."
+	},
+	{
+		"armenian": "սա հատկապես լավ որակի է:",
+		"english": "This is very good quality."
+	},
+	{
+		"armenian": "եվ պայուսակը իսկապես շատ էժան է:",
+		"english": "And the bag is really very reasonable."
+	},
+	{
+		"armenian": "սա ինձ դուր է գալիս:",
+		"english": "I like it."
+	},
+	{
+		"armenian": "սա վերցնում եմ:",
+		"english": "I’ll take it."
+	},
+	{
+		"armenian": "կարո՞ղ եմ փոխանակել:",
+		"english": "Can I exchange it if needed?"
+	},
+	{
+		"armenian": "իհարկե:",
+		"english": "Of course."
+	},
+	{
+		"armenian": "մենք որպես նվեր կփաթեթավորենք:",
+		"english": "We’ll gift wrap it."
+	},
+	{
+		"armenian": "այնտեղ դրամարկղն է:",
+		"english": "The cashier is over there."
+	},
+	{
+		"armenian": "ի՞նչ եք մասնագիտությամբ:",
+		"english": "What do you do for a living?"
+	},
+	{
+		"armenian": "ամուսինս բժիշկ է մասնագիտությամբ:",
+		"english": "My husband is a doctor."
+	},
+	{
+		"armenian": "ես կես օրով բուժքույր եմ աշխատում:",
+		"english": "I work as a nurse part-time."
+	},
+	{
+		"armenian": "շուտով կենսաթոշակ ենք ստանալու:",
+		"english": "We will soon receive our pension."
+	},
+	{
+		"armenian": "բայց հարկերը բարձր են:",
+		"english": "But taxes are high."
+	},
+	{
+		"armenian": "եվ բժշկական ապահովագրությունը բարձր է:",
+		"english": "And health insurance is expensive."
+	},
+	{
+		"armenian": "ի՞նչ ես ուզում դառնալ:",
+		"english": "What would you like to become some day?"
+	},
+	{
+		"armenian": "ես ինժեներ եմ ուզում դառնալ:",
+		"english": "I would like to become an engineer."
+	},
+	{
+		"armenian": "ես ուզում համալսարանում սովորել:",
+		"english": "I want to go to college."
+	},
+	{
+		"armenian": "ես պրակտիկանտ եմ:",
+		"english": "I am an intern."
+	},
+	{
+		"armenian": "ես շատ չեմ վաստակում:",
+		"english": "I do not earn much."
+	},
+	{
+		"armenian": "ես արտասահմանում պրակտիկա եմ անցկացնում:",
+		"english": "I am doing an internship abroad."
+	},
+	{
+		"armenian": "սա իմ դիրեկտորն է:",
+		"english": "That is my boss."
+	},
+	{
+		"armenian": "ես հաճելի գործընկերներ ունեմ:",
+		"english": "I have nice colleagues."
+	},
+	{
+		"armenian": "կեսօրին մենք միշտ միասին ճաշարան գնում ենք:",
+		"english": "We always go to the cafeteria at noon."
+	},
+	{
+		"armenian": "ես աշխատանքի տեղ եմ փնտրում:",
+		"english": "I am looking for a job."
+	},
+	{
+		"armenian": "արդեն մի տարի է, որ գործազուրկ եմ:",
+		"english": "I have already been unemployed for a year."
+	},
+	{
+		"armenian": "այս երկրում շատ են գործազուրկները:",
+		"english": "There are too many unemployed people in this country."
+	},
+	{
+		"armenian": "հաճույք ունենալ:",
+		"english": "to feel like / want to"
+	},
+	{
+		"armenian": "մենք հաճույք ունենք:",
+		"english": "We feel like. / We want to."
+	},
+	{
+		"armenian": "մենք տրամադրություն չունենք:",
+		"english": "We don’t feel like. / We do’t want to."
+	},
+	{
+		"armenian": "վախ ունենալ",
+		"english": "to be afraid"
+	},
+	{
+		"armenian": "ես վախենում եմ:",
+		"english": "I’m afraid."
+	},
+	{
+		"armenian": "ես չեմ վախենում:",
+		"english": "I am not afraid."
+	},
+	{
+		"armenian": "ժամանակ ունենալ",
+		"english": "to have time"
+	},
+	{
+		"armenian": "նա ժամանակ ունի:",
+		"english": "He has time."
+	},
+	{
+		"armenian": "նա ժամանակ չունի:",
+		"english": "He has no time."
+	},
+	{
+		"armenian": "ձանձրույթ ունենալ",
+		"english": "to be bored"
+	},
+	{
+		"armenian": "նրա համար ձանձրալի է :",
+		"english": "She is bored."
+	},
+	{
+		"armenian": "նրա համար ձանձրալի չէ:",
+		"english": "She is not bored."
+	},
+	{
+		"armenian": "քաղցած լինել",
+		"english": "to be hungry"
+	},
+	{
+		"armenian": "քաղցա՞ծ եք:",
+		"english": "Are you hungry?"
+	},
+	{
+		"armenian": "քաղցա՞ծ չեք:",
+		"english": "Aren’t you hungry?"
+	},
+	{
+		"armenian": "ծարավել",
+		"english": "to be thirsty"
+	},
+	{
+		"armenian": "նա ծարավ է:",
+		"english": "They are thirsty."
+	},
+	{
+		"armenian": "նա ծարավ չէ:",
+		"english": "They are not thirsty."
+	},
+	{
+		"armenian": "ես ժամադրված եմ բժշկի հետ:",
+		"english": "I have a doctor’s appointment."
+	},
+	{
+		"armenian": "ես ժամադրված եմ ժամը տասին:",
+		"english": "I have the appointment at ten o’clock."
+	},
+	{
+		"armenian": "ինչպե՞ս է ձեր անունը:",
+		"english": "What is your name?"
+	},
+	{
+		"armenian": "խնդրում եմ սպասեք սպասասրահում:",
+		"english": "Please take a seat in the waiting room."
+	},
+	{
+		"armenian": "բժիշկը կգա հիմա:",
+		"english": "The doctor is on his way."
+	},
+	{
+		"armenian": "որտե՞ղ եք ապահովագրված:",
+		"english": "What insurance company do you belong to?"
+	},
+	{
+		"armenian": "ի՞նչ կարող եմ անել ձեզ համար:",
+		"english": "What can I do for you?"
+	},
+	{
+		"armenian": "ցավեր ունե՞ք:",
+		"english": "Do you have any pain?"
+	},
+	{
+		"armenian": "որտե՞ղ է ցավում:",
+		"english": "Where does it hurt?"
+	},
+	{
+		"armenian": "ես միշտ մեջքի ցավեր ունեմ:",
+		"english": "I always have back pain."
+	},
+	{
+		"armenian": "ես գլխացավեր ունեմ:",
+		"english": "I often have headaches."
+	},
+	{
+		"armenian": "ես որովայնի ցավեր ունեմ:",
+		"english": "I sometimes have stomach aches."
+	},
+	{
+		"armenian": "խնդրում եմ ազատեք մարմնի վերին մասը:",
+		"english": "Remove your top!"
+	},
+	{
+		"armenian": "պառկեք անկողնու վրա:",
+		"english": "Lie down on the examining table."
+	},
+	{
+		"armenian": "արյան ճնշումը նորմալ է:",
+		"english": "Your blood pressure is okay."
+	},
+	{
+		"armenian": "ես ձեզ ներարկում եմ:",
+		"english": "I will give you an injection."
+	},
+	{
+		"armenian": "ես ձեզ հաբեր եմ նշանակում:",
+		"english": "I will give you some pills."
+	},
+	{
+		"armenian": "ես ձեզ դեղատոմս եմ գրում դեղատան համար:",
+		"english": "I am giving you a prescription for the pharmacy."
+	},
+	{
+		"armenian": "ես մի մարդ եմ նկարում:",
+		"english": "I am drawing a man."
+	},
+	{
+		"armenian": "սկզբում գլուխը:",
+		"english": "First the head."
+	},
+	{
+		"armenian": "այդ մարդը գլխարկ է դրել:",
+		"english": "The man is wearing a hat."
+	},
+	{
+		"armenian": "մազերը չեն երեւում:",
+		"english": "One cannot see the hair."
+	},
+	{
+		"armenian": "ականջները նույնպես չեն երեւում:",
+		"english": "One cannot see the ears either."
+	},
+	{
+		"armenian": "մեջքը նույնպես չի երեւում:",
+		"english": "One cannot see his back either."
+	},
+	{
+		"armenian": "ես նկարում եմ աչքերը եւ բերանը:",
+		"english": "I am drawing the eyes and the mouth."
+	},
+	{
+		"armenian": "մարդը պարում է եւ ծիծաղում:",
+		"english": "The man is dancing and laughing."
+	},
+	{
+		"armenian": "մարդը երկար քիթ ունի:",
+		"english": "The man has a long nose."
+	},
+	{
+		"armenian": "նրա ձեռքին մի փայտ կա:",
+		"english": "He is carrying a cane in his hands."
+	},
+	{
+		"armenian": "նրա պարանոցին մի շարֆ է փաթաթած:",
+		"english": "He is also wearing a scarf around his neck."
+	},
+	{
+		"armenian": "ձմեռ է եւ ցուրտ:",
+		"english": "It is winter and it is cold."
+	},
+	{
+		"armenian": "ձեռքերը ամրակազմ են:",
+		"english": "The arms are athletic."
+	},
+	{
+		"armenian": "ոտքերը նույնպես ամրակազմ են:",
+		"english": "The legs are also athletic."
+	},
+	{
+		"armenian": "մարդը ձյունից է պատրաստված:",
+		"english": "The man is made of snow."
+	},
+	{
+		"armenian": "նա վարտիք եւ վերարկու չի կրում:",
+		"english": "He is neither wearing pants nor a coat."
+	},
+	{
+		"armenian": "բայց մարդը չի մրսում:",
+		"english": "But the man is not freezing."
+	},
+	{
+		"armenian": "նա ձնեմարդ է:",
+		"english": "He is a snowman."
+	},
+	{
+		"armenian": "որտե՞ղ է մոտակա փոստը:",
+		"english": "Where is the nearest post office?"
+	},
+	{
+		"armenian": "մոտակա փոստը հեռու է այստեղից:",
+		"english": "Is the post office far from here?"
+	},
+	{
+		"armenian": "որտե՞ղ է մոտակա փոստարկղը:",
+		"english": "Where is the nearest mail box?"
+	},
+	{
+		"armenian": "ինձ մի քանի նամականիշ է հարկավոր:",
+		"english": "I need a couple of stamps."
+	},
+	{
+		"armenian": "մի բացիկի եւ նամակի համար:",
+		"english": "For a card and a letter."
+	},
+	{
+		"armenian": "ի՞նչ արժե փոստային արժեքը մինչեւ ամերիկա:",
+		"english": "How much is the postage to America?"
+	},
+	{
+		"armenian": "ծանրոցը ի՞նչ ծանրություն ունի:",
+		"english": "How heavy is the package?"
+	},
+	{
+		"armenian": "կարո՞ղ եմ օդային ճանապարհով ուղարկել:",
+		"english": "Can I send it by air mail?"
+	},
+	{
+		"armenian": "ինչքա՞ն կտեւի մինչեւ հասնի:",
+		"english": "How long will it take to get there?"
+	},
+	{
+		"armenian": "որտեղի՞ց կարող եմ զանգահարել:",
+		"english": "Where can I make a call?"
+	},
+	{
+		"armenian": "որտե՞ղ է մոտակա հեռախոսախցիկը:",
+		"english": "Where is the nearest telephone booth?"
+	},
+	{
+		"armenian": "հեռախոսի քարտեր ունե՞ք:",
+		"english": "Do you have calling cards?"
+	},
+	{
+		"armenian": "հեռախոսի համարների գիրք ունե՞ք:",
+		"english": "Do you have a telephone directory?"
+	},
+	{
+		"armenian": "ավստրիայի միջքաղաքային կոդը գիտե՞ք:",
+		"english": "Do you know the area code for Austria?"
+	},
+	{
+		"armenian": "մեկ վայրկյան, ես նայեմ:",
+		"english": "One moment, I’ll look it up."
+	},
+	{
+		"armenian": "գիծը միշտ զբաղված է:",
+		"english": "The line is always busy."
+	},
+	{
+		"armenian": "ո՞ր հեռախոսահամարն եք զանգահարել:",
+		"english": "Which number did you dial?"
+	},
+	{
+		"armenian": "դուք պետք է սկզբում զրո հավաքեք:",
+		"english": "You have to dial a zero first!"
+	},
+	{
+		"armenian": "ես ուզում եմ հաշվեհամար բացել:",
+		"english": "I would like to open an account."
+	},
+	{
+		"armenian": "այստեղ իմ անձնագիրն է:",
+		"english": "Here is my passport."
+	},
+	{
+		"armenian": "եվ ահա իմ հասցեն:",
+		"english": "And here is my address."
+	},
+	{
+		"armenian": "ես ուզում եմ իմ հաշվեհամարին գումար փոխանցել:",
+		"english": "I want to deposit money in my account."
+	},
+	{
+		"armenian": "ես ուզում եմ իմ հաշվի համարից գումար հանել:",
+		"english": "I want to withdraw money from my account."
+	},
+	{
+		"armenian": "ես ուզում եմ իմ հաշվի համարից անդորրագիր հանել:",
+		"english": "I want to pick up the bank statements."
+	},
+	{
+		"armenian": "ես ուզում եմ ճամփորդական տոմս հանձնել:",
+		"english": "I want to cash a traveller’s cheque / traveler’s check (am.)."
+	},
+	{
+		"armenian": "որքա՞ն են վարձավճարները:",
+		"english": "What are the fees?"
+	},
+	{
+		"armenian": "որտե՞ղ ստորագրեմ:",
+		"english": "Where should I sign?"
+	},
+	{
+		"armenian": "ես սպասում եմ գումարի փոխանցում գերմանիայից:",
+		"english": "I’m expecting a transfer from Germany."
+	},
+	{
+		"armenian": "սա իմ հաշվի համարն է:",
+		"english": "Here is my account number."
+	},
+	{
+		"armenian": "գումարը փոխանցումը կատարվել է:",
+		"english": "Has the money arrived?"
+	},
+	{
+		"armenian": "ես ուզում եմ այս գումարը փոխանակել:",
+		"english": "I want to change money."
+	},
+	{
+		"armenian": "ինձ ամերիկյան դոլլար է հարկավոր:",
+		"english": "I need US-Dollars."
+	},
+	{
+		"armenian": "խնդրում եմ ինձ մանր դրամանիշներ տվեք:",
+		"english": "Could you please give me small notes / bills (am.)?"
+	},
+	{
+		"armenian": "այստեղ բանկոմատ կա՞:",
+		"english": "Is there a cashpoint / an ATM (am.)?"
+	},
+	{
+		"armenian": "ինչքա՞ն գումար կարելի է հանել բանկոմատից:",
+		"english": "How much money can one withdraw?"
+	},
+	{
+		"armenian": "ո՞ր վարկային քարտերը կարելի է այստեղ օգտագործել:",
+		"english": "Which credit cards can one use?"
+	},
+	{
+		"armenian": "առաջին ամիսը հունվարն է:",
+		"english": "The first month is January."
+	},
+	{
+		"armenian": "երկրորդ ամիսը փետրվարն է:",
+		"english": "The second month is February."
+	},
+	{
+		"armenian": "երրորդ ամիսը մարտն է:",
+		"english": "The third month is March."
+	},
+	{
+		"armenian": "չորրորդ ամիսը ապրիլն է:",
+		"english": "The fourth month is April."
+	},
+	{
+		"armenian": "հինգերորդ ամիսը մայիսն է:",
+		"english": "The fifth month is May."
+	},
+	{
+		"armenian": "վեցերորդ ամիսը հունիսն է:",
+		"english": "The sixth month is June."
+	},
+	{
+		"armenian": "վեց ամիսները միասին կես տարի է:",
+		"english": "Six months make half a year."
+	},
+	{
+		"armenian": "հունվար, փետրվար, մարտ,",
+		"english": "January, February, March,"
+	},
+	{
+		"armenian": "ապրիլ, մայիս, հունիս",
+		"english": "April, May and June."
+	},
+	{
+		"armenian": "յոթերորդ ամիսը հուլիսն է:",
+		"english": "The seventh month is July."
+	},
+	{
+		"armenian": "ութերորդ ամիսը օգոստոսն է:",
+		"english": "The eighth month is August."
+	},
+	{
+		"armenian": "իներորդ ամիսը սեպտեմբերն է:",
+		"english": "The ninth month is September."
+	},
+	{
+		"armenian": "տասներորդ ամիսը հոկտեմբերն է:",
+		"english": "The tenth month is October."
+	},
+	{
+		"armenian": "տասնմեկերորդ ամիսը նոյեմբերն է:",
+		"english": "The eleventh month is November."
+	},
+	{
+		"armenian": "տասներկուերրորդ ամիսը դեկտեմբերն է:",
+		"english": "The twelfth month is December."
+	},
+	{
+		"armenian": "տասներկու ամիսները միասին մեկ տարի է:",
+		"english": "Twelve months make a year."
+	},
+	{
+		"armenian": "հուլիս, օգոստոս, սեպտեմբեր",
+		"english": "July, August, September,"
+	},
+	{
+		"armenian": "հոկտեմբեր, նոյեմբեր, դեկտեմբեր",
+		"english": "October, November and December."
+	},
+	{
+		"armenian": "սովորել",
+		"english": "to learn"
+	},
+	{
+		"armenian": "աշակերտները շատ են սովորում:",
+		"english": "Do the students learn a lot?"
+	},
+	{
+		"armenian": "ոչ , քիչ են սովորում:",
+		"english": "No, they learn a little."
+	},
+	{
+		"armenian": "հարցնել",
+		"english": "to ask"
+	},
+	{
+		"armenian": "ուսուցչին հաճա՞խ ես հարցնում:",
+		"english": "Do you often ask the teacher questions?"
+	},
+	{
+		"armenian": "ոչ, ես նրան հաճախ չեմ հարցնում:",
+		"english": "No, I don’t ask him questions often."
+	},
+	{
+		"armenian": "պատասխանել",
+		"english": "to reply"
+	},
+	{
+		"armenian": "պատասխանեք, խնդրում եմ:",
+		"english": "Please reply."
+	},
+	{
+		"armenian": "ես պատասխանում եմ:",
+		"english": "I reply."
+	},
+	{
+		"armenian": "աշխատել",
+		"english": "to work"
+	},
+	{
+		"armenian": "այս պահին նա աշխատում է:",
+		"english": "Is he working right now?"
+	},
+	{
+		"armenian": "այո, նա այս պահին աշխատում է:",
+		"english": "Yes, he is working right now."
+	},
+	{
+		"armenian": "գալ",
+		"english": "to come"
+	},
+	{
+		"armenian": "գալի՞ս եք:",
+		"english": "Are you coming?"
+	},
+	{
+		"armenian": "այո, մենք գալիս ենք շուտով:",
+		"english": "Yes, we are coming soon."
+	},
+	{
+		"armenian": "ապրել",
+		"english": "to live"
+	},
+	{
+		"armenian": "բեռլինու՞մ եք ապրում:",
+		"english": "Do you live in Berlin?"
+	},
+	{
+		"armenian": "այո, ես ապրում եմ բեռլինում:",
+		"english": "Yes, I live in Berlin."
+	},
+	{
+		"armenian": "ես մի հոբբի ունեմ:",
+		"english": "I have a hobby."
+	},
+	{
+		"armenian": "ես թենիս եմ խաղում:",
+		"english": "I play tennis."
+	},
+	{
+		"armenian": "որտե՞ղ կա այստեղ թենիսի դաշտ:",
+		"english": "Where is the tennis court?"
+	},
+	{
+		"armenian": "դու հոբբի ունե՞ս:",
+		"english": "Do you have a hobby?"
+	},
+	{
+		"armenian": "ես ֆուտբոլ եմ խաղում:",
+		"english": "I play football / soccer (am.)."
+	},
+	{
+		"armenian": "որտե՞ղ կա այստեղ ֆուտբոլի դաշտ:",
+		"english": "Where is the football / soccer (am.) field?"
+	},
+	{
+		"armenian": "իմ ձեռքը ցավում է:",
+		"english": "My arm hurts."
+	},
+	{
+		"armenian": "իմ ոտքն ու ձեռքն էլ է ցավում:",
+		"english": "My foot and hand also hurt."
+	},
+	{
+		"armenian": "որտե՞ղ կա այստեղ բժիշկ:",
+		"english": "Is there a doctor?"
+	},
+	{
+		"armenian": "ես մեքենա ունեմ:",
+		"english": "I have a car / an automobile."
+	},
+	{
+		"armenian": "ես էլ մոտոցիկլ ունեմ:",
+		"english": "I also have a motorcycle."
+	},
+	{
+		"armenian": "որտե՞ղ կա այստեղ մեքենայի կանգնեցման տեղ:",
+		"english": "Where could I park?"
+	},
+	{
+		"armenian": "ես սվիտեր ունեմ:",
+		"english": "I have a sweater."
+	},
+	{
+		"armenian": "ես ունեմ նաեւ բաճկոն եւ ջինս:",
+		"english": "I also have a jacket and a pair of jeans."
+	},
+	{
+		"armenian": "որտե՞ղ է լվացքի մեքենան:",
+		"english": "Where is the washing machine?"
+	},
+	{
+		"armenian": "ես ափսե ունեմ:",
+		"english": "I have a plate."
+	},
+	{
+		"armenian": "ես ունեմ մի դանակ, պատառաքաղ եւ մի գդալ:",
+		"english": "I have a knife, a fork and a spoon."
+	},
+	{
+		"armenian": "որտե՞ղ է աղն ու պղպեղը:",
+		"english": "Where is the salt and pepper?"
+	},
+	{
+		"armenian": "ես բառը չեմ հասկանում:",
+		"english": "I don’t understand the word."
+	},
+	{
+		"armenian": "ես նախադասությունը չեմ հասկանում:",
+		"english": "I don’t understand the sentence."
+	},
+	{
+		"armenian": "ես իմաստը չեմ հասկանում:",
+		"english": "I don’t understand the meaning."
+	},
+	{
+		"armenian": "ուսուցիչ",
+		"english": "the teacher"
+	},
+	{
+		"armenian": "ուսուցչին հասկանու՞մ եք:",
+		"english": "Do you understand the teacher?"
+	},
+	{
+		"armenian": "այո, ես նրան լավ եմ հասկանում:",
+		"english": "Yes, I understand him well."
+	},
+	{
+		"armenian": "ուսուցչուհի",
+		"english": "the teacher"
+	},
+	{
+		"armenian": "ուսուցչուհուն հասկանու՞մ եք:",
+		"english": "Do you understand the teacher?"
+	},
+	{
+		"armenian": "այո, ես նրան լավ եմ հասկանում:",
+		"english": "Yes, I understand her well."
+	},
+	{
+		"armenian": "մարդիկ",
+		"english": "the people"
+	},
+	{
+		"armenian": "այս մարդկանց հասկանու՞մ եք:",
+		"english": "Do you understand the people?"
+	},
+	{
+		"armenian": "ոչ, ես նրանց լավ չեմ հասկանում:",
+		"english": "No, I don’t understand them so well."
+	},
+	{
+		"armenian": "ընկերուհի",
+		"english": "the girlfriend"
+	},
+	{
+		"armenian": "ընկերուհի ունե՞ս:",
+		"english": "Do you have a girlfriend?"
+	},
+	{
+		"armenian": "այո, ես մի ընկերուհի ունեմ:",
+		"english": "Yes, I do."
+	},
+	{
+		"armenian": "դուստր",
+		"english": "the daughter"
+	},
+	{
+		"armenian": "դուստր ունե՞ս:",
+		"english": "Do you have a daughter?"
+	},
+	{
+		"armenian": "ոչ, ես դուստր չունեմ:",
+		"english": "No, I don’t."
+	},
+	{
+		"armenian": "այս մատանին թա՞նկ է:",
+		"english": "Is the ring expensive?"
+	},
+	{
+		"armenian": "ոչ, դա արժե միայն հարյուր եվրո:",
+		"english": "No, it costs only one hundred Euros."
+	},
+	{
+		"armenian": "բայց ես միայն հիսուն ունեմ:",
+		"english": "But I have only fifty."
+	},
+	{
+		"armenian": "արդեն պատրա՞ստ ես:",
+		"english": "Are you finished?"
+	},
+	{
+		"armenian": "ոչ, դեռ ոչ:",
+		"english": "No, not yet."
+	},
+	{
+		"armenian": "բայց շոտով պատրաստ կլինեմ:",
+		"english": "But I’ll be finished soon."
+	},
+	{
+		"armenian": "ապուր ուզու՞մ ես:",
+		"english": "Do you want some more soup?"
+	},
+	{
+		"armenian": "ոչ, ես էլ չեմ ուզում:",
+		"english": "No, I don’t want anymore."
+	},
+	{
+		"armenian": "բայց մեկ պաղպաղակ:",
+		"english": "But another ice cream."
+	},
+	{
+		"armenian": "այստեղ արդեն երկա՞ր ես ապրում:",
+		"english": "Have you lived here long?"
+	},
+	{
+		"armenian": "ոչ, դեռ մեկ ամիս է:",
+		"english": "No, only for a month."
+	},
+	{
+		"armenian": "բայց ես արդեն շատ մարդկանց եմ ճանաչում:",
+		"english": "But I already know a lot of people."
+	},
+	{
+		"armenian": "վաղը տու՞ն ես գնում:",
+		"english": "Are you driving home tomorrow?"
+	},
+	{
+		"armenian": "ոչ, շաբաթավերջին:",
+		"english": "No, only on the weekend."
+	},
+	{
+		"armenian": "բայց ես կիրակի օրը արդեն հետ եմ գալիս:",
+		"english": "But I will be back on Sunday."
+	},
+	{
+		"armenian": "քո դուստրը արդեն չափահա՞ս է:",
+		"english": "Is your daughter an adult?"
+	},
+	{
+		"armenian": "ոչ, նա դեռ տասնյոթ տարեկան է:",
+		"english": "No, she is only seventeen."
+	},
+	{
+		"armenian": "բայց նա արդեն ընկեր ունի:",
+		"english": "But she already has a boyfriend."
+	},
+	{
+		"armenian": "ես - իմ",
+		"english": "I – my"
+	},
+	{
+		"armenian": "ես իմ բանալին չեմ գտնում:",
+		"english": "I can’t find my key."
+	},
+	{
+		"armenian": "ես իմ տոմսը չեմ գտնում:",
+		"english": "I can’t find my ticket."
+	},
+	{
+		"armenian": "դու - քո",
+		"english": "you – your"
+	},
+	{
+		"armenian": "դու քո բանալին գտե՞լ ես:",
+		"english": "Have you found your key?"
+	},
+	{
+		"armenian": "դու քո տոմսը գտե՞լ ես:",
+		"english": "Have you found your ticket?"
+	},
+	{
+		"armenian": "նա - նրա",
+		"english": "he – his"
+	},
+	{
+		"armenian": "դու գիտե՞ս նրա բանալին որտեղ է:",
+		"english": "Do you know where his key is?"
+	},
+	{
+		"armenian": "դու գիտե՞ս նրա տոմսը որտեղ է:",
+		"english": "Do you know where his ticket is?"
+	},
+	{
+		"armenian": "նա - իր",
+		"english": "she – her"
+	},
+	{
+		"armenian": "նրա գումարը չկա:",
+		"english": "Her money is gone."
+	},
+	{
+		"armenian": "եվ իր վարկային քարտն էլ չկա:",
+		"english": "And her credit card is also gone."
+	},
+	{
+		"armenian": "մենք - մեր",
+		"english": "we – our"
+	},
+	{
+		"armenian": "մեր պապիկը հիվանդ է:",
+		"english": "Our grandfather is ill."
+	},
+	{
+		"armenian": "մեր տատիկը առողջ է:",
+		"english": "Our grandmother is healthy."
+	},
+	{
+		"armenian": "դուք - ձեր",
+		"english": "you – your"
+	},
+	{
+		"armenian": "որտե՞ղ է ձեր հայրիկը:",
+		"english": "Children, where is your father?"
+	},
+	{
+		"armenian": "որտե՞ղ է ձեր մայրիկը:",
+		"english": "Children, where is your mother?"
+	},
+	{
+		"armenian": "ակնոց",
+		"english": "the glasses"
+	},
+	{
+		"armenian": "նա իր ակնոցը մոռացել է:",
+		"english": "He has forgotten his glasses."
+	},
+	{
+		"armenian": "որտե՞ղ է նրա ակնոցը:",
+		"english": "Where has he left his glasses?"
+	},
+	{
+		"armenian": "ժամացույց",
+		"english": "the clock"
+	},
+	{
+		"armenian": "նրա ժամացույց փչացել է:",
+		"english": "His clock isn’t working."
+	},
+	{
+		"armenian": "ժամացույցը կախված է պատից:",
+		"english": "The clock hangs on the wall."
+	},
+	{
+		"armenian": "անձնագիր",
+		"english": "the passport"
+	},
+	{
+		"armenian": "նա կորցրել է իր անձնագիրը:",
+		"english": "He has lost his passport."
+	},
+	{
+		"armenian": "որտե՞ղ է նրա անձնագիրը:",
+		"english": "Where is his passport then?"
+	},
+	{
+		"armenian": "նա - իր",
+		"english": "they – their"
+	},
+	{
+		"armenian": "երեխաները չեն կարողանում գտնել իրենց ծնողներին:",
+		"english": "The children cannot find their parents."
+	},
+	{
+		"armenian": "ահա գալիս են նրանց ծնողները:",
+		"english": "Here come their parents!"
+	},
+	{
+		"armenian": "դուք - ձեր",
+		"english": "you – your"
+	},
+	{
+		"armenian": "ինչպես էր ձեր ճամբորդությունը, պարոն մյուլլեր:",
+		"english": "How was your trip, Mr. Miller?"
+	},
+	{
+		"armenian": "որտե՞ղ է ձեր կինը, պարոն մյուլլեր:",
+		"english": "Where is your wife, Mr. Miller?"
+	},
+	{
+		"armenian": "ինչպե՞ս էր ձեր ճամբորդությունը, տիկին շմիդ:",
+		"english": "How was your trip, Mrs. Smith?"
+	},
+	{
+		"armenian": "որտե՞ղ է ձեր ամուսինը, տիկին շմիդ:",
+		"english": "Where is your husband, Mrs. Smith?"
+	},
+	{
+		"armenian": "մեծ եւ փոքր",
+		"english": "big and small"
+	},
+	{
+		"armenian": "փիղը մեծ է:",
+		"english": "The elephant is big."
+	},
+	{
+		"armenian": "մուկը փոքր է:",
+		"english": "The mouse is small."
+	},
+	{
+		"armenian": "մութ եւ լուսավոր",
+		"english": "dark and bright"
+	},
+	{
+		"armenian": "գիշերը մութ է:",
+		"english": "The night is dark."
+	},
+	{
+		"armenian": "օրը պայծառ է:",
+		"english": "The day is bright."
+	},
+	{
+		"armenian": "ծեր եւ երիտասարդ",
+		"english": "old and young"
+	},
+	{
+		"armenian": "մեր պապիկը շատ ծեր է:",
+		"english": "Our grandfather is very old."
+	},
+	{
+		"armenian": "յոթանասուն տարի առաջ նա երիտասարդ էր:",
+		"english": "70 years ago he was still young."
+	},
+	{
+		"armenian": "գեղեցիկ եւ տգեղ",
+		"english": "beautiful and ugly"
+	},
+	{
+		"armenian": "թիթեռը գեղեցիկ է:",
+		"english": "The butterfly is beautiful."
+	},
+	{
+		"armenian": "սարդը տգեղ է:",
+		"english": "The spider is ugly."
+	},
+	{
+		"armenian": "գեր եւ նիհար",
+		"english": "fat and thin"
+	},
+	{
+		"armenian": "կինը հարյուր կիլոգրամով գեր է:",
+		"english": "A woman who weighs a hundred kilos is fat."
+	},
+	{
+		"armenian": "տղամարդը հիսուն կիլոգրամով նիհար է:",
+		"english": "A man who weighs fifty kilos is thin."
+	},
+	{
+		"armenian": "թանկ եւ էժան",
+		"english": "expensive and cheap"
+	},
+	{
+		"armenian": "մեքենան թանկ է:",
+		"english": "The car is expensive."
+	},
+	{
+		"armenian": "թերթը էժան է:",
+		"english": "The newspaper is cheap."
+	},
+	{
+		"armenian": "ես անկողնու կարիք ունեմ:",
+		"english": "I need a bed."
+	},
+	{
+		"armenian": "ես ուզում եմ քնել:",
+		"english": "I want to sleep."
+	},
+	{
+		"armenian": "այստեղ մահճակալ կա՞:",
+		"english": "Is there a bed here?"
+	},
+	{
+		"armenian": "ես ճրագի կարիք ունեմ:",
+		"english": "I need a lamp."
+	},
+	{
+		"armenian": "ես ուզում եմ կարդալ:",
+		"english": "I want to read."
+	},
+	{
+		"armenian": "այստեղ ճրագ կա՞:",
+		"english": "Is there a lamp here?"
+	},
+	{
+		"armenian": "ես հեռախոսի կարիք ունեմ:",
+		"english": "I need a telephone."
+	},
+	{
+		"armenian": "ես ուզում եմ զանգահարել:",
+		"english": "I want to make a call."
+	},
+	{
+		"armenian": "այստեղ հեռախոս կա՞:",
+		"english": "Is there a telephone here?"
+	},
+	{
+		"armenian": "ինձ ֆոտոխցիկ է հարկավոր:",
+		"english": "I need a camera."
+	},
+	{
+		"armenian": "ես ուզում եմ լուսանկարել:",
+		"english": "I want to take photographs."
+	},
+	{
+		"armenian": "այստեղ ֆոտոխցիկ կա՞:",
+		"english": "Is there a camera here?"
+	},
+	{
+		"armenian": "ինձ համակարգիչ է անհրաժեշտ:",
+		"english": "I need a computer."
+	},
+	{
+		"armenian": "ես ուզում եմ e-mail ուղարկել:",
+		"english": "I want to send an email."
+	},
+	{
+		"armenian": "այստեղ համակարգիչ կա՞:",
+		"english": "Is there a computer here?"
+	},
+	{
+		"armenian": "ինձ գրիչ է հարկավոր:",
+		"english": "I need a pen."
+	},
+	{
+		"armenian": "ես ուզում եմ ինչ որ բան գրել:",
+		"english": "I want to write something."
+	},
+	{
+		"armenian": "այստեղ թուղթ եւ գրիչ կա՞:",
+		"english": "Is there a sheet of paper and a pen here?"
+	},
+	{
+		"armenian": "ուզու՞մ եք ծխել:",
+		"english": "Would you like to smoke?"
+	},
+	{
+		"armenian": "ուզու՞մ եք պարել:",
+		"english": "Would you like to dance?"
+	},
+	{
+		"armenian": "ուզու՞մ եք զբոսնել:",
+		"english": "Would you like to go for a walk?"
+	},
+	{
+		"armenian": "ես ուզում եմ ծխել:",
+		"english": "I would like to smoke."
+	},
+	{
+		"armenian": "ծխախոտ ուզու՞մ ես:",
+		"english": "Would you like a cigarette?"
+	},
+	{
+		"armenian": "նա վառիչ է ուզում:",
+		"english": "He wants a light."
+	},
+	{
+		"armenian": "նա ինչ որ բան է ուզում խմել:",
+		"english": "I want to drink something."
+	},
+	{
+		"armenian": "ես ուզում եմ ինչ որ բան ուտել:",
+		"english": "I want to eat something."
+	},
+	{
+		"armenian": "ես ուզում եմ մի քիչ հանգստանալ:",
+		"english": "I want to relax a little."
+	},
+	{
+		"armenian": "ես ուզում եմ ձեզ ինչ որ բան հարցնել:",
+		"english": "I want to ask you something."
+	},
+	{
+		"armenian": "ես ուզում եմ ձեզ ինչ որ բան խնդրել:",
+		"english": "I want to ask you for something."
+	},
+	{
+		"armenian": "ես ուզում եմ ձեզ հրավիրել:",
+		"english": "I want to treat you to something."
+	},
+	{
+		"armenian": "ներեցեք, ի՞նչ եք ուզում:",
+		"english": "What would you like?"
+	},
+	{
+		"armenian": "սուրճ ուզու՞մ եք:",
+		"english": "Would you like a coffee?"
+	},
+	{
+		"armenian": "թե՞ ավելի լավ է թեյ:",
+		"english": "Or do you prefer a tea?"
+	},
+	{
+		"armenian": "մենք ուզում ենք տուն գնալ:",
+		"english": "We want to drive home."
+	},
+	{
+		"armenian": "տաքսի ուզու՞մ եք:",
+		"english": "Do you want a taxi?"
+	},
+	{
+		"armenian": "նրանք ուզում են զանգահարել:",
+		"english": "They want to make a call."
+	},
+	{
+		"armenian": "դուք ի՞նչ եք ուզում:",
+		"english": "What do you want to do?"
+	},
+	{
+		"armenian": "ուզու՞մ եք ֆուտբոլ խաղալ:",
+		"english": "Do you want to play football / soccer (am.)?"
+	},
+	{
+		"armenian": "ուզու՞ք եք ընկերների այցելել:",
+		"english": "Do you want to visit friends?"
+	},
+	{
+		"armenian": "ուզենալ, ցանկանալ",
+		"english": "to want"
+	},
+	{
+		"armenian": "ես չեմ ուզում ուշ գալ:",
+		"english": "I don’t want to arrive late."
+	},
+	{
+		"armenian": "ես չեմ ուզում այնտեղ գնալ:",
+		"english": "I don’t want to go there."
+	},
+	{
+		"armenian": "ես ուզում եմ տուն գնալ:",
+		"english": "I want to go home."
+	},
+	{
+		"armenian": "ես ուզում եմ տանը մնալ:",
+		"english": "I want to stay at home."
+	},
+	{
+		"armenian": "ես ուզում եմ միայնակ լինել:",
+		"english": "I want to be alone."
+	},
+	{
+		"armenian": "ուզո՞մ ես այստեղ մնալ:",
+		"english": "Do you want to stay here?"
+	},
+	{
+		"armenian": "ուզու՞մ ես այստեղ ուտել:",
+		"english": "Do you want to eat here?"
+	},
+	{
+		"armenian": "ուզու՞մ ես այստեղ քնել:",
+		"english": "Do you want to sleep here?"
+	},
+	{
+		"armenian": "ուզու՞մ եք վաղը մեկնել:",
+		"english": "Do you want to leave tomorrow?"
+	},
+	{
+		"armenian": "ուզու՞մ եք մինչեւ վաղը մնալ:",
+		"english": "Do you want to stay till tomorrow?"
+	},
+	{
+		"armenian": "ուզու՞մ եք վաղը հաշիվը փակել:",
+		"english": "Do you want to pay the bill only tomorrow?"
+	},
+	{
+		"armenian": "ուզու՞մ եք դիսկոտեկ գնալ:",
+		"english": "Do you want to go to the disco?"
+	},
+	{
+		"armenian": "ուզու՞մ եք կինո գնալ:",
+		"english": "Do you want to go to the cinema?"
+	},
+	{
+		"armenian": "ուզու՞մ եք սրճարան գնալ:",
+		"english": "Do you want to go to a café?"
+	},
+	{
+		"armenian": "պետք է",
+		"english": "must"
+	},
+	{
+		"armenian": "ես պիտի նամակ ուղարկեմ:",
+		"english": "I must post the letter."
+	},
+	{
+		"armenian": "ես պիտի հյուրանոցը վճարեմ:",
+		"english": "I must pay the hotel."
+	},
+	{
+		"armenian": "դու պետք է առավոտը շուտ արթնանաս:",
+		"english": "You must get up early."
+	},
+	{
+		"armenian": "դու պետք է շատ աշխատես:",
+		"english": "You must work a lot."
+	},
+	{
+		"armenian": "դու պետք է ճշտապահ լինես:",
+		"english": "You must be punctual."
+	},
+	{
+		"armenian": "նա պիտի մեքենան լիցքավորի:",
+		"english": "He must fuel / get petrol / get gas (am.)."
+	},
+	{
+		"armenian": "նա պետք է մեքենան նորոգի:",
+		"english": "He must repair the car."
+	},
+	{
+		"armenian": "նա պետք է մեքենան լվանա:",
+		"english": "He must wash the car."
+	},
+	{
+		"armenian": "նա պետք է գնումներ կատարի:",
+		"english": "She must shop."
+	},
+	{
+		"armenian": "նա պետք է բնակարանը հավաքի:",
+		"english": "She must clean the apartment."
+	},
+	{
+		"armenian": "նա պետք է լվացքը լվանա:",
+		"english": "She must wash the clothes."
+	},
+	{
+		"armenian": "մենք պետք է շուտով դպրոց գնանք:",
+		"english": "We must go to school at once."
+	},
+	{
+		"armenian": "մենք պետք է շուտով աշխատանքի գնանք:",
+		"english": "We must go to work at once."
+	},
+	{
+		"armenian": "մենք պետք է շուտով բժշկի գնանք:",
+		"english": "We must go to the doctor at once."
+	},
+	{
+		"armenian": "դուք պետք է ավտոբուսին սպասեք:",
+		"english": "You must wait for the bus."
+	},
+	{
+		"armenian": "դուք պետք է գնացքին սպասեք:",
+		"english": "You must wait for the train."
+	},
+	{
+		"armenian": "դուք պետք է տաքսիին սպասեք:",
+		"english": "You must wait for the taxi."
+	},
+	{
+		"armenian": "քեզ արդեն թույլատրվու՞մ է մեքենա վարել:",
+		"english": "Are you already allowed to drive?"
+	},
+	{
+		"armenian": "քեզ արդեն թույլատրվու՞մ է ալկոհոլ խմել:",
+		"english": "Are you already allowed to drink alcohol?"
+	},
+	{
+		"armenian": "քեզ արդեն թույլատրվու՞մ է մենակ արտասահման գնալ:",
+		"english": "Are you already allowed to travel abroad alone?"
+	},
+	{
+		"armenian": "թույլատրել, կարելի է",
+		"english": "may / to be allowed"
+	},
+	{
+		"armenian": "կարո՞ղ ենք այստեղ ծխել:",
+		"english": "May we smoke here?"
+	},
+	{
+		"armenian": "կարելի՞ է այստեղ ծխել:",
+		"english": "Is smoking allowed here?"
+	},
+	{
+		"armenian": "կարելի՞ է վարկային քարտով վճարել:",
+		"english": "May one pay by credit card?"
+	},
+	{
+		"armenian": "կարելի՞ է չեկերով վճարել:",
+		"english": "May one pay by cheque / check (am.)?"
+	},
+	{
+		"armenian": "կարելի՞ է միայն կանխիկ վճարել:",
+		"english": "May one only pay in cash?"
+	},
+	{
+		"armenian": "կարելի՞ է զանգահարել:",
+		"english": "May I just make a call?"
+	},
+	{
+		"armenian": "կարելի՞ է ինչ որ բան հարցնել:",
+		"english": "May I just ask something?"
+	},
+	{
+		"armenian": "կարելի՞ է ինչ որ բան ասել:",
+		"english": "May I just say something?"
+	},
+	{
+		"armenian": "նրան չի կարելի քնել այգում:",
+		"english": "He is not allowed to sleep in the park."
+	},
+	{
+		"armenian": "նրան չի կարելի քնել մեքենայում:",
+		"english": "He is not allowed to sleep in the car."
+	},
+	{
+		"armenian": "նրան չի կարելի քնել կայարանում:",
+		"english": "He is not allowed to sleep at the train station."
+	},
+	{
+		"armenian": "կարելի՞ է նստել:",
+		"english": "May we take a seat?"
+	},
+	{
+		"armenian": "կարելի՞ է մենյուն ստանանք:",
+		"english": "May we have the menu?"
+	},
+	{
+		"armenian": "կարելի՞ է առանձին վճարենք:",
+		"english": "May we pay separately?"
+	},
+	{
+		"armenian": "կարո՞ղ եք մազերս կտրել:",
+		"english": "Can you cut my hair?"
+	},
+	{
+		"armenian": "շատ կարճ չէ, խնդրում եմ:",
+		"english": "Not too short, please."
+	},
+	{
+		"armenian": "մի քիչ կարճ, խնդրում եմ:",
+		"english": "A bit shorter, please."
+	},
+	{
+		"armenian": "կարո՞ղ եք նկարները մշակել:",
+		"english": "Can you develop the pictures?"
+	},
+	{
+		"armenian": "նկարները cd-ի մեջ են:",
+		"english": "The pictures are on the CD."
+	},
+	{
+		"armenian": "նկարները ֆոտոխցիկի մեջ են:",
+		"english": "The pictures are in the camera."
+	},
+	{
+		"armenian": "կարո՞ղ եք ճամացույցը վերանորոգել:",
+		"english": "Can you fix the clock?"
+	},
+	{
+		"armenian": "ապակին կոտրված է:",
+		"english": "The glass is broken."
+	},
+	{
+		"armenian": "մարտկոցը նստել է:",
+		"english": "The battery is dead / empty."
+	},
+	{
+		"armenian": "կարո՞ղ եք վերնաշապիկը արդուկել:",
+		"english": "Can you iron the shirt?"
+	},
+	{
+		"armenian": "կարո՞ղ եք շալվարը մաքրել:",
+		"english": "Can you clean the pants / trousers?"
+	},
+	{
+		"armenian": "կարո՞ղ եք կոշիկները վերանորոգել:",
+		"english": "Can you fix the shoes?"
+	},
+	{
+		"armenian": "կարո՞ղ եք ինձ վառիչ տալ:",
+		"english": "Do you have a light?"
+	},
+	{
+		"armenian": "լուցկու հատիկներ կամ վառիչ ունեք:",
+		"english": "Do you have a match or a lighter?"
+	},
+	{
+		"armenian": "մոխրաման ունե՞ք:",
+		"english": "Do you have an ashtray?"
+	},
+	{
+		"armenian": "սիգար ծխու՞մ եք:",
+		"english": "Do you smoke cigars?"
+	},
+	{
+		"armenian": "ծխախոտ ծխու՞մ եք:",
+		"english": "Do you smoke cigarettes?"
+	},
+	{
+		"armenian": "ծխախոտ ծխու՞մ եք:",
+		"english": "Do you smoke a pipe?"
+	},
+	{
+		"armenian": "ինչու՞ չեք գալիս:",
+		"english": "Why aren’t you coming?"
+	},
+	{
+		"armenian": "եղանակը վատն է:",
+		"english": "The weather is so bad."
+	},
+	{
+		"armenian": "ես չեմ գալիս, որովհետեւ եղանակը վատն է:",
+		"english": "I am not coming because the weather is so bad."
+	},
+	{
+		"armenian": "ինչու՞ չէ նա գալիս:",
+		"english": "Why isn’t he coming?"
+	},
+	{
+		"armenian": "նա հրավիրված չէ:",
+		"english": "He isn’t invited."
+	},
+	{
+		"armenian": "նա չի գալիս, որովհետեւ նա հրավիրված չէ:",
+		"english": "He isn’t coming because he isn’t invited."
+	},
+	{
+		"armenian": "ինչու՞ չես գալիս:",
+		"english": "Why aren’t you coming?"
+	},
+	{
+		"armenian": "ես ժամանակ չունեմ:",
+		"english": "I have no time."
+	},
+	{
+		"armenian": "ես չեմ գալիս, որովհետեւ ժամանակ չունեմ:",
+		"english": "I am not coming because I have no time."
+	},
+	{
+		"armenian": "ինչու՞ չես մնում:",
+		"english": "Why don’t you stay?"
+	},
+	{
+		"armenian": "ես պետք է դեռ աշխատեմ:",
+		"english": "I still have to work."
+	},
+	{
+		"armenian": "ես չեմ մնում, որովհետեւ ես պետք է դեռ աշխատեմ:",
+		"english": "I am not staying because I still have to work."
+	},
+	{
+		"armenian": "ինչու՞ եք արդեն գնում:",
+		"english": "Why are you going already?"
+	},
+	{
+		"armenian": "ես հոգնած եմ:",
+		"english": "I am tired."
+	},
+	{
+		"armenian": "ես գնում եմ, որովհետեւ հոգնած եմ:",
+		"english": "I’m going because I’m tired."
+	},
+	{
+		"armenian": "արդեն ուշ է:",
+		"english": "It is already late."
+	},
+	{
+		"armenian": "ես գնում եմ, որովհետեւ արդեն ուշ է:",
+		"english": "I’m going because it is already late."
+	},
+	{
+		"armenian": "ինչու՞ չեիր եկել:",
+		"english": "Why didn’t you come?"
+	},
+	{
+		"armenian": "ես հիվանդ էի:",
+		"english": "I was ill."
+	},
+	{
+		"armenian": "ես չեի եկել, որովհետեւ ես հիվանդ էի:",
+		"english": "I didn’t come because I was ill."
+	},
+	{
+		"armenian": "ինչու՞ չէր նա եկել:",
+		"english": "Why didn’t she come?"
+	},
+	{
+		"armenian": "նա հոգնած էր:",
+		"english": "She was tired."
+	},
+	{
+		"armenian": "նա չէր եկել, որովհետեւ նա հոգնած էր:",
+		"english": "She didn’t come because she was tired."
+	},
+	{
+		"armenian": "ինչու՞ չէր նա եկել:",
+		"english": "Why didn’t he come?"
+	},
+	{
+		"armenian": "նա հաճույք չուներ:",
+		"english": "He wasn’t interested."
+	},
+	{
+		"armenian": "նա չէր եկել, որովեհետեւ նա հաճույք չուներ:",
+		"english": "He didn’t come because he wasn’t interested."
+	},
+	{
+		"armenian": "ինչու՞ չեիք եկել:",
+		"english": "Why didn’t you come?"
+	},
+	{
+		"armenian": "մեր մեքենան փչացել էր:",
+		"english": "Our car is damaged."
+	},
+	{
+		"armenian": "մենք չէինք եկել, որովհետեւ մեր մեքենան փչացել էր:",
+		"english": "We didn’t come because our car is damaged."
+	},
+	{
+		"armenian": "ինչու՞ չէին մարդիկ եկել:",
+		"english": "Why didn’t the people come?"
+	},
+	{
+		"armenian": "նրանք գնացքից էին ուշացել:",
+		"english": "They missed the train."
+	},
+	{
+		"armenian": "նրանք չէին եկել, որովհետեւ գնացքից էին ուշացել:",
+		"english": "They didn’t come because they missed the train."
+	},
+	{
+		"armenian": "ինչու՞ չէիր եկել:",
+		"english": "Why didn’t you come?"
+	},
+	{
+		"armenian": "ինձ չէր կարելի:",
+		"english": "I was not allowed to."
+	},
+	{
+		"armenian": "ես չէի եկել, որովհետեւ ինձ չէր կարելի:",
+		"english": "I didn’t come because I was not allowed to."
+	},
+	{
+		"armenian": "ինչու՞ չէք տորթը ուտում:",
+		"english": "Why aren’t you eating the cake?"
+	},
+	{
+		"armenian": "ես պետք է նիհարեմ:",
+		"english": "I must lose weight."
+	},
+	{
+		"armenian": "ես դա չէմ ուտում, որովհետեւ պետք է նիհարեմ:",
+		"english": "I’m not eating it because I must lose weight."
+	},
+	{
+		"armenian": "ինչու՞ չէք գարեջուրը խմում:",
+		"english": "Why aren’t you drinking the beer?"
+	},
+	{
+		"armenian": "ես պետք է դեռ մեքենա վարեմ:",
+		"english": "I have to drive."
+	},
+	{
+		"armenian": "ես չեմ խմում, որովհետեւ դեռ պետք է մեքենա վարեմ:",
+		"english": "I’m not drinking it because I have to drive."
+	},
+	{
+		"armenian": "ինչու՞ չես սուրճը խմում:",
+		"english": "Why aren’t you drinking the coffee?"
+	},
+	{
+		"armenian": "սառն է:",
+		"english": "It is cold."
+	},
+	{
+		"armenian": "ես չեմ խմում, որովհետեւ սառն է:",
+		"english": "I’m not drinking it because it is cold."
+	},
+	{
+		"armenian": "ինչու՞ չես թեյը խմում:",
+		"english": "Why aren’t you drinking the tea?"
+	},
+	{
+		"armenian": "ես շաքարավազ չունեմ:",
+		"english": "I have no sugar."
+	},
+	{
+		"armenian": "ես չեմ խմում, որովհետեւ շաքարավազ չունեմ:",
+		"english": "I’m not drinking it because I don’t have any sugar."
+	},
+	{
+		"armenian": "ինչու՞ չեք ապուրը ուտում:",
+		"english": "Why aren’t you eating the soup?"
+	},
+	{
+		"armenian": "ես դա չեմ պատվիրել:",
+		"english": "I didn’t order it."
+	},
+	{
+		"armenian": "ես չեմ ուտում, որովհետեւ ես դա չեմ պատվիրել:",
+		"english": "I’m not eating it because I didn’t order it."
+	},
+	{
+		"armenian": "ինչու՞ չեք միսը ուտում:",
+		"english": "Why don’t you eat the meat?"
+	},
+	{
+		"armenian": "ես բուսակեր եմ:",
+		"english": "I am a vegetarian."
+	},
+	{
+		"armenian": "ես միսը չեմ ուտում, որովհետեւ ես բուսակեր չեմ:",
+		"english": "I’m not eating it because I am a vegetarian."
+	},
+	{
+		"armenian": "մի ծեր կին",
+		"english": "an old lady"
+	},
+	{
+		"armenian": "մի գեր կին",
+		"english": "a fat lady"
+	},
+	{
+		"armenian": "մի հետաքրքրասեր կին",
+		"english": "a curious lady"
+	},
+	{
+		"armenian": "մի նոր մեքենա",
+		"english": "a new car"
+	},
+	{
+		"armenian": "մի արագ մեքենա",
+		"english": "a fast car"
+	},
+	{
+		"armenian": "մի հարմարավետ մեքենա",
+		"english": "a comfortable car"
+	},
+	{
+		"armenian": "կապույտ զգեստ",
+		"english": "a blue dress"
+	},
+	{
+		"armenian": "կարմիր զգեստ",
+		"english": "a red dress"
+	},
+	{
+		"armenian": "կանաչ զգեստ",
+		"english": "a green dress"
+	},
+	{
+		"armenian": "սեւ պայուսակ",
+		"english": "a black bag"
+	},
+	{
+		"armenian": "մոխրագույն պայուսակ",
+		"english": "a brown bag"
+	},
+	{
+		"armenian": "սպիտակ պայուսակ",
+		"english": "a white bag"
+	},
+	{
+		"armenian": "հաճելի մարդիկ",
+		"english": "nice people"
+	},
+	{
+		"armenian": "բարեհամբույր մարդիկ",
+		"english": "polite people"
+	},
+	{
+		"armenian": "հետաքրքիր մարդիկ",
+		"english": "interesting people"
+	},
+	{
+		"armenian": "լավ երեխաներ",
+		"english": "loving children"
+	},
+	{
+		"armenian": "անհնազանդ երեխաներ",
+		"english": "cheeky children"
+	},
+	{
+		"armenian": "խիզախ երեխաներ",
+		"english": "well behaved children"
+	},
+	{
+		"armenian": "ես կապույտ զգեստ եմ հագել:",
+		"english": "I am wearing a blue dress."
+	},
+	{
+		"armenian": "ես կարմիր զգեստ եմ հագել:",
+		"english": "I am wearing a red dress."
+	},
+	{
+		"armenian": "ես կանաչ զգեստ եմ հագել:",
+		"english": "I am wearing a green dress."
+	},
+	{
+		"armenian": "ես սեւ պայուսակ եմ գնում:",
+		"english": "I’m buying a black bag."
+	},
+	{
+		"armenian": "ես մոխրագույն պայուսակ եմ գնում:",
+		"english": "I’m buying a brown bag."
+	},
+	{
+		"armenian": "ես սպիտակ պայուսակ եմ գնում:",
+		"english": "I’m buying a white bag."
+	},
+	{
+		"armenian": "ինձ նոր մեքենա է հարկավոր:",
+		"english": "I need a new car."
+	},
+	{
+		"armenian": "ինձ արագ մեքենա է հարկավոր:",
+		"english": "I need a fast car."
+	},
+	{
+		"armenian": "ինձ հարմարավետ մեքենա է հարկավոր:",
+		"english": "I need a comfortable car."
+	},
+	{
+		"armenian": "վերեւում մի ծեր կին է ապրում:",
+		"english": "An old lady lives at the top."
+	},
+	{
+		"armenian": "վերեւում մի գեր կին է ապրում:",
+		"english": "A fat lady lives at the top."
+	},
+	{
+		"armenian": "վերեւում մի հետաքրքրասեր կին է ապրում:",
+		"english": "A curious lady lives below."
+	},
+	{
+		"armenian": "մեր հյուրերը հաճելի մարդիկ են:",
+		"english": "Our guests were nice people."
+	},
+	{
+		"armenian": "մեր հյուրերը բարեհամբույր մարդիկ են:",
+		"english": "Our guests were polite people."
+	},
+	{
+		"armenian": "մեր հյուրերը հետաքրքիր մարդիկ են:",
+		"english": "Our guests were interesting people."
+	},
+	{
+		"armenian": "ես լավ երեխաներ ունեմ:",
+		"english": "I have lovely children."
+	},
+	{
+		"armenian": "բայց հարեւանները անհնազանդ երեխաներ ունեն:",
+		"english": "But the neighbours have naughty children."
+	},
+	{
+		"armenian": "ձեր երեխաները խիզա՞խ են:",
+		"english": "Are your children well behaved?"
+	},
+	{
+		"armenian": "նա շուն ունի:",
+		"english": "She has a dog."
+	},
+	{
+		"armenian": "շունը մեծ է:",
+		"english": "The dog is big."
+	},
+	{
+		"armenian": "նա մեծ շուն ունի:",
+		"english": "She has a big dog."
+	},
+	{
+		"armenian": "նա տուն ունի:",
+		"english": "She has a house."
+	},
+	{
+		"armenian": "տունը փոքր է:",
+		"english": "The house is small."
+	},
+	{
+		"armenian": "նա փոքր տուն ունի:",
+		"english": "She has a small house."
+	},
+	{
+		"armenian": "նա հյուրանոցում է ապրում:",
+		"english": "He is staying in a hotel."
+	},
+	{
+		"armenian": "հյուրանոցը էժան է:",
+		"english": "The hotel is cheap."
+	},
+	{
+		"armenian": "նա ապրում է էժան հյուրանոցում:",
+		"english": "He is staying in a cheap hotel."
+	},
+	{
+		"armenian": "նա մեքենա ունի:",
+		"english": "He has a car."
+	},
+	{
+		"armenian": "մեքենան թանկ է:",
+		"english": "The car is expensive."
+	},
+	{
+		"armenian": "նա թանկ մեքենա ունի:",
+		"english": "He has an expensive car."
+	},
+	{
+		"armenian": "նա վեպ է կարդում:",
+		"english": "He reads a novel."
+	},
+	{
+		"armenian": "վեպը ձանձրալի է:",
+		"english": "The novel is boring."
+	},
+	{
+		"armenian": "նա մի ձանձրալի վեպ է կարդում:",
+		"english": "He is reading a boring novel."
+	},
+	{
+		"armenian": "նա ֆիլմ է նայում:",
+		"english": "She is watching a movie."
+	},
+	{
+		"armenian": "ֆիլմը հետաքրքիր է:",
+		"english": "The movie is exciting."
+	},
+	{
+		"armenian": "նա մի հետաքրքիր ֆիլմ է նայում:",
+		"english": "She is watching an exciting movie."
+	},
+	{
+		"armenian": "գրել",
+		"english": "to write"
+	},
+	{
+		"armenian": "նա նամակ գրեց:",
+		"english": "He wrote a letter."
+	},
+	{
+		"armenian": "եվ նա բացիկ գրեց:",
+		"english": "And she wrote a card."
+	},
+	{
+		"armenian": "կարդալ",
+		"english": "to read"
+	},
+	{
+		"armenian": "նա կարդում էր ամսագիրը:",
+		"english": "He read a magazine."
+	},
+	{
+		"armenian": "եվ նա կարդում էր մի գիրք:",
+		"english": "And she read a book."
+	},
+	{
+		"armenian": "վերցնել",
+		"english": "to take"
+	},
+	{
+		"armenian": "նա մի սիգարետ վերցրեց:",
+		"english": "He took a cigarette."
+	},
+	{
+		"armenian": "նա մի կտոր շոկոլադ վերցրեց:",
+		"english": "She took a piece of chocolate."
+	},
+	{
+		"armenian": "նա անհավատարիմ էր եղել, իսկ նա հավատարիմ:",
+		"english": "He was disloyal, but she was loyal."
+	},
+	{
+		"armenian": "նա ծույլ էր եղել, իսկ նա ջանասեր էր:",
+		"english": "He was lazy, but she was hard-working."
+	},
+	{
+		"armenian": "նա աղքատ էր, իսկ նա հարուստ:",
+		"english": "He was poor, but she was rich."
+	},
+	{
+		"armenian": "նա փող չուներ, այլ պարտքեր:",
+		"english": "He had no money, only debts."
+	},
+	{
+		"armenian": "նա հաջողություն չուներ, այլ ձախորդություն:",
+		"english": "He had no luck, only bad luck."
+	},
+	{
+		"armenian": "նա չուներ հաջողություն, այլ անհաջողություն:",
+		"english": "He had no success, only failure."
+	},
+	{
+		"armenian": "նա գոհ չէր, այլ դժգոհ:",
+		"english": "He was not satisfied, but dissatisfied."
+	},
+	{
+		"armenian": "նա երջանիկ չէր, այլ դժբախտ:",
+		"english": "He was not happy, but sad."
+	},
+	{
+		"armenian": "նա համակրելի չէր, այլ հակակրելի:",
+		"english": "He was not friendly, but unfriendly."
+	},
+	{
+		"armenian": "պետք էր շտապոգնություն կանչեի՞ր:",
+		"english": "Did you have to call an ambulance?"
+	},
+	{
+		"armenian": "պետք էր բժիշկին կանչեի՞ր:",
+		"english": "Did you have to call the doctor?"
+	},
+	{
+		"armenian": "պետք էր ոստիկանությանը կանչեի՞ր:",
+		"english": "Did you have to call the police?"
+	},
+	{
+		"armenian": "հեռախոսահամարը ունե՞ք: մի քիչ առաջ ունեի:",
+		"english": "Do you have the telephone number? I had it just now."
+	},
+	{
+		"armenian": "հասցեն ունե՞ք: մի քիչ առաջ ունեի:",
+		"english": "Do you have the address? I had it just now."
+	},
+	{
+		"armenian": "քաղաքի քարտեզը ունե՞ք: մի քիչ առաջ ունեի:",
+		"english": "Do you have the city map? I had it just now."
+	},
+	{
+		"armenian": "նա ճշտապահ եկա՞վ: նա չէր կարող ճշտապահ գալ:",
+		"english": "Did he come on time? He could not come on time."
+	},
+	{
+		"armenian": "նա ճանապարհը գտա՞վ: նա չէր կարող ճանապարհը գտնել:",
+		"english": "Did he find the way? He could not find the way."
+	},
+	{
+		"armenian": "նա քեզ հասկացա՞վ: նա չէր կարող ինձ հասկանալ:",
+		"english": "Did he understand you? He could not understand me."
+	},
+	{
+		"armenian": "ինչու՞ չես կարողացել ժամանակին գալ:",
+		"english": "Why could you not come on time?"
+	},
+	{
+		"armenian": "ինչու՞ չես կարողացել ճանապարհը գտնել:",
+		"english": "Why could you not find the way?"
+	},
+	{
+		"armenian": "ինչու՞ չես կարողացել նրան հասկանալ:",
+		"english": "Why could you not understand him?"
+	},
+	{
+		"armenian": "ես չեմ կարողացել ժամանակին գալ, որովհետեւ ավտուբուս չկար:",
+		"english": "I could not come on time because there were no buses."
+	},
+	{
+		"armenian": "ես չեմ կարողացել ճանապարհը գտնել, որովհետեւ քաղաքի քարտեզ չունեի:",
+		"english": "I could not find the way because I had no city map."
+	},
+	{
+		"armenian": "ես նրան չեմ կարող հասկանալ, որովհետեւ երաժշտությունը շատ բարձր էր:",
+		"english": "I could not understand him because the music was so loud."
+	},
+	{
+		"armenian": "ես պետք է տաքսի վերցնեի:",
+		"english": "I had to take a taxi."
+	},
+	{
+		"armenian": "ես պետք է քաղաքի քարտեզ գնեի:",
+		"english": "I had to buy a city map."
+	},
+	{
+		"armenian": "ես պետք է ռադիոն անջատեի:",
+		"english": "I had to switch off the radio."
+	},
+	{
+		"armenian": "զանգահարել",
+		"english": "to make a call"
+	},
+	{
+		"armenian": "ես զանգահարել էի:",
+		"english": "I made a call."
+	},
+	{
+		"armenian": "ես մի ամբողջ ժամանակ զանգահարում էի:",
+		"english": "I was talking on the phone all the time."
+	},
+	{
+		"armenian": "հարցնել",
+		"english": "to ask"
+	},
+	{
+		"armenian": "ես հարցրել էի:",
+		"english": "I asked."
+	},
+	{
+		"armenian": "ես միշտ հարցրել էի:",
+		"english": "I always asked."
+	},
+	{
+		"armenian": "պատմել",
+		"english": "to narrate"
+	},
+	{
+		"armenian": "ես պատմել էի:",
+		"english": "I narrated."
+	},
+	{
+		"armenian": "ես ամբողջ պատմությունը պատմել էի:",
+		"english": "I narrated the whole story."
+	},
+	{
+		"armenian": "սովորել",
+		"english": "to study"
+	},
+	{
+		"armenian": "ես սովորել էի:",
+		"english": "I studied."
+	},
+	{
+		"armenian": "ես ամբողջ երեկո սովորել էի:",
+		"english": "I studied the whole evening."
+	},
+	{
+		"armenian": "աշխատել",
+		"english": "to work"
+	},
+	{
+		"armenian": "ես աշխատել էի:",
+		"english": "I worked."
+	},
+	{
+		"armenian": "ես ամբողջ օրը աշխատել էի:",
+		"english": "I worked all day long."
+	},
+	{
+		"armenian": "ուտել",
+		"english": "to eat"
+	},
+	{
+		"armenian": "ես կերել եմ:",
+		"english": "I ate."
+	},
+	{
+		"armenian": "ես ամբողջ ուտելիքը կերել եմ:",
+		"english": "I ate all the food."
+	},
+	{
+		"armenian": "կարդալ",
+		"english": "to read"
+	},
+	{
+		"armenian": "ես կարդացել եմ:",
+		"english": "I read."
+	},
+	{
+		"armenian": "ես ամբողջ վեպը կարդացել եմ:",
+		"english": "I read the whole novel."
+	},
+	{
+		"armenian": "հասկանալ",
+		"english": "to understand"
+	},
+	{
+		"armenian": "ես հասկացել եմ:",
+		"english": "I understood."
+	},
+	{
+		"armenian": "ես ամբոջ տեքստը հասկացել եմ:",
+		"english": "I understood the whole text."
+	},
+	{
+		"armenian": "պատասխանել",
+		"english": "to answer"
+	},
+	{
+		"armenian": "ես պատասխանել եմ:",
+		"english": "I answered."
+	},
+	{
+		"armenian": "ես բոլոր հարցերին պատասխանել եմ:",
+		"english": "I answered all the questions."
+	},
+	{
+		"armenian": "ես դա գիտեմ- ես դա գիտեի:",
+		"english": "I know that – I knew that."
+	},
+	{
+		"armenian": "ես դա գրում եմ- ես դա գրել էի:",
+		"english": "I write that – I wrote that."
+	},
+	{
+		"armenian": "ես դա լսում եմ- ես դա լսել էի:",
+		"english": "I hear that – I heard that."
+	},
+	{
+		"armenian": "ես դա բերում եմ- ես դա բերել էի:",
+		"english": "I’ll get it – I got it."
+	},
+	{
+		"armenian": "ես դա տանում եմ- ես դա տարել էի:",
+		"english": "I’ll bring that – I brought that."
+	},
+	{
+		"armenian": "ես դա գնում եմ- ես դա գնել էի:",
+		"english": "I’ll buy that – I bought that."
+	},
+	{
+		"armenian": "ես դրան սպասում եմ- ես դրան սպասում էի:",
+		"english": "I expect that – I expected that."
+	},
+	{
+		"armenian": "ես դա բացատրում եմ- ես դա բացատրել էի:",
+		"english": "I’ll explain that – I explained that."
+	},
+	{
+		"armenian": "ես դա լավ գիտեմ:",
+		"english": "I’m pretty good at it."
+	},
+	{
+		"armenian": "ես դա գիտեմ- ես դա գիտեի:",
+		"english": "I know that – I knew that."
+	},
+	{
+		"armenian": "ինչքա՞ն եք խմել:",
+		"english": "How much did you drink?"
+	},
+	{
+		"armenian": "ինչքա՞ն եք աշխատել:",
+		"english": "How much did you work?"
+	},
+	{
+		"armenian": "ինչքա՞ն եք գրել:",
+		"english": "How much did you write?"
+	},
+	{
+		"armenian": "ինչպե՞ս եք քնել:",
+		"english": "How did you sleep?"
+	},
+	{
+		"armenian": "ինչպե՞ս եք քննությունը ստացել:",
+		"english": "How did you pass the exam?"
+	},
+	{
+		"armenian": "ինչպե՞ս եք ճանապարհը գտել:",
+		"english": "How did you find the way?"
+	},
+	{
+		"armenian": "ու՞մ հետ եք խոսել:",
+		"english": "Who did you speak to?"
+	},
+	{
+		"armenian": "ու՞մ հետ եք պայմանավորվել:",
+		"english": "With whom did you make an appointment?"
+	},
+	{
+		"armenian": "ու՞մ հետ եք ծննդյան տոնը տոնել:",
+		"english": "With whom did you celebrate your birthday?"
+	},
+	{
+		"armenian": "որտե՞ղ եք եղել:",
+		"english": "Where were you?"
+	},
+	{
+		"armenian": "որտե՞ղ եք ապրել:",
+		"english": "Where did you live?"
+	},
+	{
+		"armenian": "որտե՞ղ եք աշխատել:",
+		"english": "Where did you work?"
+	},
+	{
+		"armenian": "ի՞նչ եք առաջարկել:",
+		"english": "What did you suggest?"
+	},
+	{
+		"armenian": "ի՞նչ եք կերել:",
+		"english": "What did you eat?"
+	},
+	{
+		"armenian": "ի՞նչ եք իմացել:",
+		"english": "What did you come to know?"
+	},
+	{
+		"armenian": "ի՞նչ արագությամբ եք վարել:",
+		"english": "How fast did you drive?"
+	},
+	{
+		"armenian": "ի՞նչքան ժամանակ եք թռել:",
+		"english": "How long did you fly?"
+	},
+	{
+		"armenian": "ի՞նչ բարձրությամբ եք թռել:",
+		"english": "How high did you jump?"
+	},
+	{
+		"armenian": "ո՞ր փողկապն էիր կրել:",
+		"english": "Which tie did you wear?"
+	},
+	{
+		"armenian": "ո՞ր մեքենան ես գնել:",
+		"english": "Which car did you buy?"
+	},
+	{
+		"armenian": "ո՞ր թերթն ես բաժանորդագրվել:",
+		"english": "Which newspaper did you subscribe to?"
+	},
+	{
+		"armenian": "ու՞մ եք տեսել:",
+		"english": "Who did you see?"
+	},
+	{
+		"armenian": "ու՞մ եք հանդիպել:",
+		"english": "Who did you meet?"
+	},
+	{
+		"armenian": "ու՞մ եք ճանաչել:",
+		"english": "Who did you recognize?"
+	},
+	{
+		"armenian": "քանիսի՞ն եք վերկացել:",
+		"english": "When did you get up?"
+	},
+	{
+		"armenian": "ե՞րբ եք սկսել:",
+		"english": "When did you start?"
+	},
+	{
+		"armenian": "ե՞րբ եք վերջացրել:",
+		"english": "When did you finish?"
+	},
+	{
+		"armenian": "ինչու՞ եք արթնացել:",
+		"english": "Why did you wake up?"
+	},
+	{
+		"armenian": "ինչու՞ եք ուսուցիչ դարձել:",
+		"english": "Why did you become a teacher?"
+	},
+	{
+		"armenian": "ինչու՞ եք տաքսի վարձել:",
+		"english": "Why did you take a taxi?"
+	},
+	{
+		"armenian": "որտեղի՞ց եք եկել:",
+		"english": "Where did you come from?"
+	},
+	{
+		"armenian": "ու՞ր եք գնացել:",
+		"english": "Where did you go?"
+	},
+	{
+		"armenian": "որտե՞ղ եք եղել:",
+		"english": "Where were you?"
+	},
+	{
+		"armenian": "ու՞մ եք օգնել:",
+		"english": "Who did you help?"
+	},
+	{
+		"armenian": "ու՞մ եք գրել:",
+		"english": "Who did you write to?"
+	},
+	{
+		"armenian": "ու՞մ եք պատասխանել:",
+		"english": "Who did you reply to?"
+	},
+	{
+		"armenian": "մենք պետք է ծաղիկները ջրեինք:",
+		"english": "We had to water the flowers."
+	},
+	{
+		"armenian": "մենք պետք է բնակարանը հավաքեինք:",
+		"english": "We had to clean the apartment."
+	},
+	{
+		"armenian": "մենք պետք է սպասքը լվանայինք:",
+		"english": "We had to wash the dishes."
+	},
+	{
+		"armenian": "հաշիվը պիտի վճարեի՞ք:",
+		"english": "Did you have to pay the bill?"
+	},
+	{
+		"armenian": "մուտքի տոմսը պիտի վճարեի՞ք:",
+		"english": "Did you have to pay an entrance fee?"
+	},
+	{
+		"armenian": "տուգանք պիտի վճարեի՞ք:",
+		"english": "Did you have to pay a fine?"
+	},
+	{
+		"armenian": "ո՞վ էր ստիպված եղել հրաժեշտ տալ:",
+		"english": "Who had to say goodbye?"
+	},
+	{
+		"armenian": "ո՞վ էր ստիպված եղել շուտ տուն գնալ:",
+		"english": "Who had to go home early?"
+	},
+	{
+		"armenian": "ո՞վ էր ստիպված եղել գնացքով գնալ:",
+		"english": "Who had to take the train?"
+	},
+	{
+		"armenian": "մենք չէինք ուզում երկար մնալ:",
+		"english": "We did not want to stay long."
+	},
+	{
+		"armenian": "մենք չէինք ուզում ինչ որ բան խմել:",
+		"english": "We did not want to drink anything."
+	},
+	{
+		"armenian": "մենք չէինք ուզում խանգարել:",
+		"english": "We did not want to disturb you."
+	},
+	{
+		"armenian": "ես ուզում էի զանգահարել:",
+		"english": "I just wanted to make a call."
+	},
+	{
+		"armenian": "ես ուզում էի տաքսի կանչել:",
+		"english": "I just wanted to call a taxi."
+	},
+	{
+		"armenian": "ես ուզում էի տուն գնալ:",
+		"english": "Actually I wanted to drive home."
+	},
+	{
+		"armenian": "ես կարծում էի, թե դու կնոջդ էիր զանգում:",
+		"english": "I thought you wanted to call your wife."
+	},
+	{
+		"armenian": "ես կարծում էի, թե դու տեղեկատու էիր զանգում:",
+		"english": "I thought you wanted to call information."
+	},
+	{
+		"armenian": "ես կարծում էի, թե դու պիցցա էիր պատվիրում:",
+		"english": "I thought you wanted to order a pizza."
+	},
+	{
+		"armenian": "իմ տղան չէր ուզում տիկնիկի հետ խաղալ:",
+		"english": "My son did not want to play with the doll."
+	},
+	{
+		"armenian": "իմ աղջիկը չէր ուզում ֆուտբոլ խաղալ:",
+		"english": "My daughter did not want to play football / soccer (am.)."
+	},
+	{
+		"armenian": "իմ կինը չէր ուզում իմ հետ շախմատ խաղալ:",
+		"english": "My wife did not want to play chess with me."
+	},
+	{
+		"armenian": "իմ երեխաները չէին ուզում զբոսանքի գնալ:",
+		"english": "My children did not want to go for a walk."
+	},
+	{
+		"armenian": "նրանք չէին ուզում սենյակը հավաքել:",
+		"english": "They did not want to tidy the room."
+	},
+	{
+		"armenian": "նրանք չէին ուզում անկողին գնալ:",
+		"english": "They did not want to go to bed."
+	},
+	{
+		"armenian": "նրան չէր թույլատրվում պաղպաղակ ուտել:",
+		"english": "He was not allowed to eat ice cream."
+	},
+	{
+		"armenian": "նրան չէր թույլատրվում շոկոլադ ուտել:",
+		"english": "He was not allowed to eat chocolate."
+	},
+	{
+		"armenian": "նրան չէր թույլատրվում կոնֆետ ուտել:",
+		"english": "He was not allowed to eat sweets."
+	},
+	{
+		"armenian": "ես կարող էի ինչ որ բան ցանկանալ:",
+		"english": "I was allowed to make a wish."
+	},
+	{
+		"armenian": "ես կարող էի ինչ որ զգեստ գնել:",
+		"english": "I was allowed to buy myself a dress."
+	},
+	{
+		"armenian": "ինձ թույլ էր տրվել շոկոլադ վերցնել:",
+		"english": "I was allowed to take a chocolate."
+	},
+	{
+		"armenian": "թույլատրվու՞մ էր ինքնաթիռում ծխել:",
+		"english": "Were you allowed to smoke in the airplane?"
+	},
+	{
+		"armenian": "թույլատրվու՞մ էր հիվանդանոցում խմել:",
+		"english": "Were you allowed to drink beer in the hospital?"
+	},
+	{
+		"armenian": "թույլատրվու՞մ էր շանը հյուրանոց տանել:",
+		"english": "Were you allowed to take the dog into the hotel?"
+	},
+	{
+		"armenian": "արձակուրդներին երեխաներին կարելի էր երկար դրսում մնալ:",
+		"english": "During the holidays the children were allowed to remain outside late."
+	},
+	{
+		"armenian": "նրանց կարելի էր երկար բակում խաղալ:",
+		"english": "They were allowed to play in the yard for a long time."
+	},
+	{
+		"armenian": "նրանց կարելի էր երկար արթուն մնալ:",
+		"english": "They were allowed to stay up late."
+	},
+	{
+		"armenian": "դու շատ ծույլ ես-մի ́ եղիր այդքան ծույլ:",
+		"english": "You are so lazy – don’t be so lazy!"
+	},
+	{
+		"armenian": "դու երկար ես քնում-մի ́ քնիր այդքան երկար:",
+		"english": "You sleep for so long – don’t sleep so late!"
+	},
+	{
+		"armenian": "դու ուշ ես գալիս-այդքան ուշ մի ́ արի:",
+		"english": "You come home so late – don’t come home so late!"
+	},
+	{
+		"armenian": "դու շատ բարձր ես ծիծաղում-այդքան բարձր մի ́ ծիծաղիր:",
+		"english": "You laugh so loudly – don’t laugh so loudly!"
+	},
+	{
+		"armenian": "դու շատ ցածր ես խոսում-այդքան ցածր մի ́ խոսիր:",
+		"english": "You speak so softly – don’t speak so softly!"
+	},
+	{
+		"armenian": "դու շատ ես խմում-այդքան շատ մի ́ խմիր:",
+		"english": "You drink too much – don’t drink so much!"
+	},
+	{
+		"armenian": "դու շատ ես ծխում-այդքան շատ մի ́ ծխիր:",
+		"english": "You smoke too much – don’t smoke so much!"
+	},
+	{
+		"armenian": "դու շատ ես աշխատում-այդքան շատ մի ́ աշխատիր:",
+		"english": "You work too much – don’t work so much!"
+	},
+	{
+		"armenian": "դու արագ ես քշում-այդքան արագ մի ́ քշիր:",
+		"english": "You drive too fast – don’t drive so fast!"
+	},
+	{
+		"armenian": "կանգնե ́ք պարոն մյուլլեր:",
+		"english": "Get up, Mr. Miller!"
+	},
+	{
+		"armenian": "նստե ́ք պարոն մյուլլեր:",
+		"english": "Sit down, Mr. Miller!"
+	},
+	{
+		"armenian": "մնացե ́ք նստած պարոն մյուլլեր:",
+		"english": "Remain seated, Mr. Miller!"
+	},
+	{
+		"armenian": "համբերություն ունեցե ́ք:",
+		"english": "Be patient!"
+	},
+	{
+		"armenian": "վերցրե ́ք ձեր ժամանակը:",
+		"english": "Take your time!"
+	},
+	{
+		"armenian": "սպասե ́ք մի ակնթարթ:",
+		"english": "Wait a moment!"
+	},
+	{
+		"armenian": "զգույշ եղե ́ք:",
+		"english": "Be careful!"
+	},
+	{
+		"armenian": "պարտաճանաչ եղե ́ք:",
+		"english": "Be punctual!"
+	},
+	{
+		"armenian": "հիմար մի եղե ́ք:",
+		"english": "Don’t be stupid!"
+	},
+	{
+		"armenian": "սափրվի ́ր:",
+		"english": "Shave!"
+	},
+	{
+		"armenian": "լվացվի ́ր:",
+		"english": "Wash yourself!"
+	},
+	{
+		"armenian": "սանրվի ́ր:",
+		"english": "Comb your hair!"
+	},
+	{
+		"armenian": "զանգի ́ր: զանգե ́ք:",
+		"english": "Call!"
+	},
+	{
+		"armenian": "բռնի ́ր: բռնե ́ք:",
+		"english": "Begin!"
+	},
+	{
+		"armenian": "վերջացրու ́: վերջացրե ́ք:",
+		"english": "Stop!"
+	},
+	{
+		"armenian": "թո ́ղ: թողե ́ք:",
+		"english": "Leave it!"
+	},
+	{
+		"armenian": "ասա ́: ասե ́ք:",
+		"english": "Say it!"
+	},
+	{
+		"armenian": "գնի ́ր: գնե ́ք:",
+		"english": "Buy it!"
+	},
+	{
+		"armenian": "մի ́ եղիր անազնիվ:",
+		"english": "Never be dishonest!"
+	},
+	{
+		"armenian": "մի ́ եղիր անվայել:",
+		"english": "Never be naughty!"
+	},
+	{
+		"armenian": "մի ́ եղիր անհարգալի:",
+		"english": "Never be impolite!"
+	},
+	{
+		"armenian": "եղի ́ր միշտ ազնիվ:",
+		"english": "Always be honest!"
+	},
+	{
+		"armenian": "եղի ́ր միշտ ազնիվ:",
+		"english": "Always be nice!"
+	},
+	{
+		"armenian": "եղի ́ր միշտ քաղաքավարի:",
+		"english": "Always be polite!"
+	},
+	{
+		"armenian": "ապահով տուն հասե ́ք:",
+		"english": "Hope you arrive home safely!"
+	},
+	{
+		"armenian": "հոգ տար ինքդ քեզ համար:",
+		"english": "Take care of yourself!"
+	},
+	{
+		"armenian": "այցելե ́ք մեզ եւս մեկ անգամ:",
+		"english": "Do visit us again soon!"
+	},
+	{
+		"armenian": "վաղը եղանակը երեւի կլավանա:",
+		"english": "Perhaps the weather will get better tomorrow."
+	},
+	{
+		"armenian": "դուք որտեղից դա գիտեք:",
+		"english": "How do you know that?"
+	},
+	{
+		"armenian": "ես հույս ունեմ, որ կլավանա:",
+		"english": "I hope that it gets better."
+	},
+	{
+		"armenian": "նա գալիս է անպայման:",
+		"english": "He will definitely come."
+	},
+	{
+		"armenian": "դա հաստա՞տ է:",
+		"english": "Are you sure?"
+	},
+	{
+		"armenian": "ես գիտեմ, որ նա գալիս է:",
+		"english": "I know that he’ll come."
+	},
+	{
+		"armenian": "նա զանգահարում է անպայման:",
+		"english": "He’ll definitely call."
+	},
+	{
+		"armenian": "իսկապե՞ս:",
+		"english": "Really?"
+	},
+	{
+		"armenian": "ես կարծում եմ, որ նա զանգահարում է:",
+		"english": "I believe that he’ll call."
+	},
+	{
+		"armenian": "գինին իսկապես հին է:",
+		"english": "The wine is definitely old."
+	},
+	{
+		"armenian": "դա հաստատ գիտե՞ք:",
+		"english": "Do you know that for sure?"
+	},
+	{
+		"armenian": "ես կասկածում եմ, որ դա հին է:",
+		"english": "I think that it is old."
+	},
+	{
+		"armenian": "մեր դիրեկտորը շատ լավ տեսք ունի:",
+		"english": "Our boss is good-looking."
+	},
+	{
+		"armenian": "կարծու՞մ եք:",
+		"english": "Do you think so?"
+	},
+	{
+		"armenian": "ես գտնում եմ, որ նա իսկապես լավ տեսք ունի:",
+		"english": "I find him very handsome."
+	},
+	{
+		"armenian": "դիրեկտորը հաստատ ընկերուհի ունի:",
+		"english": "The boss definitely has a girlfriend."
+	},
+	{
+		"armenian": "դուք իսկապես կարծու՞մ եք:",
+		"english": "Do you really think so?"
+	},
+	{
+		"armenian": "դա շատ հնարավոր է, որ նա ընկերուհի ունի:",
+		"english": "It is very possible that he has a girlfriend."
+	},
+	{
+		"armenian": "դա ինձ բարկացնում է, որ դու խռմփացնում ես:",
+		"english": "I’m angry that you snore."
+	},
+	{
+		"armenian": "դա ինձ բարկացնում է, որ դու այդքան շատ գարեջուր ես խմում:",
+		"english": "I’m angry that you drink so much beer."
+	},
+	{
+		"armenian": "դա ինձ բարկացնում է, որ դու այդքան ուշ ես գալիս:",
+		"english": "I’m angry that you come so late."
+	},
+	{
+		"armenian": "ես կարծում եմ, որ նրան բժիշկ է հարկավոր:",
+		"english": "I think he needs a doctor."
+	},
+	{
+		"armenian": "ես կարծում եմ, որ նա հիվանդ է:",
+		"english": "I think he is ill."
+	},
+	{
+		"armenian": "ես կարծում եմ, որ նա այժմ քնում է:",
+		"english": "I think he is sleeping now."
+	},
+	{
+		"armenian": "մենք հուսով էնք, որ նա մեր աղջկա հետ կամուսնանա:",
+		"english": "We hope that he marries our daughter."
+	},
+	{
+		"armenian": "մենք հուսով էնք, որ նա շատ փող ունի:",
+		"english": "We hope that he has a lot of money."
+	},
+	{
+		"armenian": "մենք հուսով էնք, որ նա միլլիոնատեր է:",
+		"english": "We hope that he is a millionaire."
+	},
+	{
+		"armenian": "ես լսել եմ, որ նրա կինը վթարի է ենթարկվել:",
+		"english": "I heard that your wife had an accident."
+	},
+	{
+		"armenian": "ես լսել եմ, որ նա հիվանդանոցում է:",
+		"english": "I heard that she is in the hospital."
+	},
+	{
+		"armenian": "ես լսել եմ, որ քո մեքենան լիովին փչացել է:",
+		"english": "I heard that your car is completely wrecked."
+	},
+	{
+		"armenian": "ես ուրախ եմ, որ դուք եկել եք:",
+		"english": "I’m happy that you came."
+	},
+	{
+		"armenian": "ես ուրախ եմ, որ դուք հետաքրքրություն ունեք:",
+		"english": "I’m happy that you are interested."
+	},
+	{
+		"armenian": "ես ուրախ եմ, որ դուք այդ տունը գնել եք ցանկանում:",
+		"english": "I’m happy that you want to buy the house."
+	},
+	{
+		"armenian": "ես մտավախություն ունեմ, որ վերջին ավտոբուսը արդեն մեկնել է:",
+		"english": "I’m afraid the last bus has already gone."
+	},
+	{
+		"armenian": "ես մտավախություն ունեմ, որ մենք տաքսի պետք է վերցնենք:",
+		"english": "I’m afraid we will have to take a taxi."
+	},
+	{
+		"armenian": "ես մտավախություն ունեմ, որ իմ մոտ ոչ մի փող չկա:",
+		"english": "I’m afraid I have no more money."
+	},
+	{
+		"armenian": "ես չգիտեմ, թե նա ինձ սիրում է:",
+		"english": "I don’t know if he loves me."
+	},
+	{
+		"armenian": "ես չգիտեմ, թե նա կվերադառնա:",
+		"english": "I don’t know if he’ll come back."
+	},
+	{
+		"armenian": "ես չգիտեմ, թե նա ինձ կզանգահարի:",
+		"english": "I don’t know if he’ll call me."
+	},
+	{
+		"armenian": "թե նա ինձ սիրու՞մ է:",
+		"english": "Maybe he doesn’t love me?"
+	},
+	{
+		"armenian": "թե նա կվերադառնա՞:",
+		"english": "Maybe he won’t come back?"
+	},
+	{
+		"armenian": "թե նա ինձ կզանգահարի՞:",
+		"english": "Maybe he won’t call me?"
+	},
+	{
+		"armenian": "ես ինքս ինձ հարցնում եմ, թե նա իմ մասին մտածում է:",
+		"english": "I wonder if he thinks about me."
+	},
+	{
+		"armenian": "ես ինքս ինձ հարցնում եմ, թե նա մեկ ուրիշին ունի:",
+		"english": "I wonder if he has someone else."
+	},
+	{
+		"armenian": "ես ինքս ինձ հարցնում եմ, թե նա ստում է:",
+		"english": "I wonder if he lies."
+	},
+	{
+		"armenian": "թե նա իմ մասին մտածու՞մ է:",
+		"english": "Maybe he thinks of me?"
+	},
+	{
+		"armenian": "թե նա նա մեկ ուրիշին ունի՞:",
+		"english": "Maybe he has someone else?"
+	},
+	{
+		"armenian": "թե նա ճշմարտությու՞նն է ասում:",
+		"english": "Maybe he tells me the truth?"
+	},
+	{
+		"armenian": "ես կասկածում եմ, թե նա ինձ իսկապես համակրում է:",
+		"english": "I doubt whether he really likes me."
+	},
+	{
+		"armenian": "ես կասկածում եմ, թե նա է ինձ գրում:",
+		"english": "I doubt whether he’ll write to me."
+	},
+	{
+		"armenian": "ես կասկածում եմ, թե նա է իմ հետ կամուսնանա:",
+		"english": "I doubt whether he’ll marry me."
+	},
+	{
+		"armenian": "միգուցե նա ինձ իսկապես համակրու՞մ է:",
+		"english": "Does he really like me?"
+	},
+	{
+		"armenian": "միգուցե նա ինձ գրու՞մ է:",
+		"english": "Will he write to me?"
+	},
+	{
+		"armenian": "միգուցե նա է իմ հետ կամուսնանա՞:",
+		"english": "Will he marry me?"
+	},
+	{
+		"armenian": "սպասիր, մինչեւ անձրեւը դադարի:",
+		"english": "Wait until the rain stops."
+	},
+	{
+		"armenian": "սպասիր, մինչեւ ես պատրաստ լինեմ:",
+		"english": "Wait until I’m finished."
+	},
+	{
+		"armenian": "սպասիր, մինչեւ ես հետ վերադառնամ:",
+		"english": "Wait until he comes back."
+	},
+	{
+		"armenian": "ես սպասում եմ, մինչեւ մազերս չորանան:",
+		"english": "I’ll wait until my hair is dry."
+	},
+	{
+		"armenian": "ես սպասում եմ, մինչեւ ֆիլմը ավարտվի:",
+		"english": "I’ll wait until the film is over."
+	},
+	{
+		"armenian": "ես սպասում եմ, մինչեւ լուսանշանը կանաչ լինի:",
+		"english": "I’ll wait until the traffic light is green."
+	},
+	{
+		"armenian": "ե՞րբ ես արձակուրդի գնում:",
+		"english": "When do you go on holiday?"
+	},
+	{
+		"armenian": "ամառային արձակուրդներից առա՞ջ:",
+		"english": "Before the summer holidays?"
+	},
+	{
+		"armenian": "այո, մինչեւ ամառային արձակուրդների սկսվելը:",
+		"english": "Yes, before the summer holidays begin."
+	},
+	{
+		"armenian": "վերանորոգիր տանիքը, մինչեւ ձմռան սկիզբը:",
+		"english": "Repair the roof before the winter begins."
+	},
+	{
+		"armenian": "լվա ձեռքերդ, մինչ դու սեղան նստես:",
+		"english": "Wash your hands before you sit at the table."
+	},
+	{
+		"armenian": "փակիր լուսամուտը, մինչեւ դու գնաս:",
+		"english": "Close the window before you go out."
+	},
+	{
+		"armenian": "ե՞րբ ես տուն գալիս:",
+		"english": "When will you come home?"
+	},
+	{
+		"armenian": "դասից հետո՞:",
+		"english": "After class?"
+	},
+	{
+		"armenian": "այո, դասից հետո:",
+		"english": "Yes, after the class is over."
+	},
+	{
+		"armenian": "վթարից հետո նա այլեւս չկարողացավ աշխատել:",
+		"english": "After he had an accident, he could not work anymore."
+	},
+	{
+		"armenian": "աշխատանքը կորցնելուց հետո նա մեկնեց ամերիկա:",
+		"english": "After he had lost his job, he went to America."
+	},
+	{
+		"armenian": "ամերիկա մեկնելուց հետո նա հարստացավ:",
+		"english": "After he went to America, he became rich."
+	},
+	{
+		"armenian": "ինչքա՞ն ժամանակ է, որ նա չի աշխատում:",
+		"english": "Since when is she no longer working?"
+	},
+	{
+		"armenian": "ամուսնությունից սկսա՞ծ:",
+		"english": "Since her marriage?"
+	},
+	{
+		"armenian": "այո, նա ամուսնությունից հետո այւեւս չի աշխատում:",
+		"english": "Yes, she is no longer working since she got married."
+	},
+	{
+		"armenian": "ամուսնանալուց սկսած նա այլեւս չի աշխատում:",
+		"english": "Since she got married, she’s no longer working."
+	},
+	{
+		"armenian": "ծանոթանալուց սկսած նրանք երջանիկ են:",
+		"english": "Since they have met each other, they are happy."
+	},
+	{
+		"armenian": "երեխաներ ունենալուց սկսաց նրանք հազվադեպ են երեկոյան դուրս գնում:",
+		"english": "Since they have had children, they rarely go out."
+	},
+	{
+		"armenian": "ե՞րբ է նա հեռախոսով խոսում:",
+		"english": "When does she call?"
+	},
+	{
+		"armenian": "վարելու ընթացքու՞մ:",
+		"english": "When driving?"
+	},
+	{
+		"armenian": "այո, վարելու ընթացքում:",
+		"english": "Yes, when she is driving."
+	},
+	{
+		"armenian": "նա հեռախոսով խոսում է վարելու ընթացքում:",
+		"english": "She calls while she drives."
+	},
+	{
+		"armenian": "նա հեռուստացույց է նայում հարդուկելու ընթացքում:",
+		"english": "She watches TV while she irons."
+	},
+	{
+		"armenian": "նա երաժշտություն է լսում հանձնարարությունները կատարելու ընթացքում:",
+		"english": "She listens to music while she does her work."
+	},
+	{
+		"armenian": "ես ոչինչ չեմ տեսնում, եթե ես ակնոց չունեմ:",
+		"english": "I can’t see anything when I don’t have glasses."
+	},
+	{
+		"armenian": "ես ոչինչ չեմ հասկանում, եթե երաժշտությունը բարձր է:",
+		"english": "I can’t understand anything when the music is so loud."
+	},
+	{
+		"armenian": "ես ոչ մի հոտ չեմ զգում, եթե հարբուխով հիվանդ եմ:",
+		"english": "I can’t smell anything when I have a cold."
+	},
+	{
+		"armenian": "մենք տաքսի ենք վերցնում, եթե անձրեւ է գալիս:",
+		"english": "We’ll take a taxi if it rains."
+	},
+	{
+		"armenian": "մենք աշխարհով կշրջագայենք, եթե լոտոյով գումար շահենք:",
+		"english": "We’ll travel around the world if we win the lottery."
+	},
+	{
+		"armenian": "մենք կսկսենք ճաշը, եթե նա շուտով չգա:",
+		"english": "We’ll start eating if he doesn’t come soon."
+	},
+	{
+		"armenian": "ես վեր եմ կենում, երբ զարդուցիչը զնգում է:",
+		"english": "I get up as soon as the alarm rings."
+	},
+	{
+		"armenian": "ես հոգնում եմ, երբ պետք է սովորեմ:",
+		"english": "I become tired as soon as I have to study."
+	},
+	{
+		"armenian": "ես կդադարեմ աշխատել, երբ ես վաթսուն տարեկան դառնամ:",
+		"english": "I will stop working as soon as I am 60."
+	},
+	{
+		"armenian": "ե՞րբ դուք կզանգահարեք:",
+		"english": "When will you call?"
+	},
+	{
+		"armenian": "երբ ես ժամանակ ունենամ:",
+		"english": "As soon as I have a moment."
+	},
+	{
+		"armenian": "նա կզանգահարի, երբ նա ժամանակ ունենա:",
+		"english": "He’ll call, as soon as he has a little time."
+	},
+	{
+		"armenian": "ինչքա՞ն եք աշխատելու:",
+		"english": "How long will you work?"
+	},
+	{
+		"armenian": "ես կաշխատեմ, ինչքան որ կարողանամ:",
+		"english": "I’ll work as long as I can."
+	},
+	{
+		"armenian": "ես կաշխատեմ, ինչքան որ առողջ լինեմ:",
+		"english": "I’ll work as long as I am healthy."
+	},
+	{
+		"armenian": "նա անկողնում պառկած է աշխատելու փոխարեն:",
+		"english": "He lies in bed instead of working."
+	},
+	{
+		"armenian": "նա թերթ է կարդում եփելու փոխարեն:",
+		"english": "She reads the newspaper instead of cooking."
+	},
+	{
+		"armenian": "նա պանդոկում նստած է տուն գնալու փոխարեն:",
+		"english": "He is at the bar instead of going home."
+	},
+	{
+		"armenian": "ինչքան գիտեմ նա այստեղ է ապրում:",
+		"english": "As far as I know, he lives here."
+	},
+	{
+		"armenian": "ինչքան գիտեմ նրա կինը հիվանդ է:",
+		"english": "As far as I know, his wife is ill."
+	},
+	{
+		"armenian": "ինչքան գիտեմ նա գործազուրկ է:",
+		"english": "As far as I know, he is unemployed."
+	},
+	{
+		"armenian": "ես քնած էի մնացել, թե չէ ճշտապահ կլինեի:",
+		"english": "I overslept; otherwise I’d have been on time."
+	},
+	{
+		"armenian": "ես ավտոբուսից ուշացա, թե չէ ճշտապահ կլինեի:",
+		"english": "I missed the bus; otherwise I’d have been on time."
+	},
+	{
+		"armenian": "ես ճանապարհը չեմ գտել, թե չէ ճշտապահ կլինեի:",
+		"english": "I didn’t find the way / I got lost; otherwise I’d have been on time."
+	},
+	{
+		"armenian": "նա քնել էր, չնայած որ հեռուստացույցը միացրած էր:",
+		"english": "He fell asleep although the TV was on."
+	},
+	{
+		"armenian": "նա դեռ մնացել էր, չնայած որ արդեն ուշ էր:",
+		"english": "He stayed a while although it was late."
+	},
+	{
+		"armenian": "նա չէր եկել, չնայած որ պայմանավորված էինք:",
+		"english": "He didn’t come although we had made an appointment."
+	},
+	{
+		"armenian": "հեռուստացույցը միացրած էր: այնուամենայնիվ նա քնել էր:",
+		"english": "The TV was on. Nevertheless, he fell asleep."
+	},
+	{
+		"armenian": "արդեն ուշ էր: այնուամենայնիվ նա դեռ մնացել էր:",
+		"english": "It was already late. Nevertheless, he stayed a while."
+	},
+	{
+		"armenian": "մենք պայմանավորված էինք: այնուամենայնիվ նա չէր եկել:",
+		"english": "We had made an appointment. Nevertheless, he didn’t come."
+	},
+	{
+		"armenian": "չնայած որ նա վարորդական իրավունք չունի, նա մեքենա է վարում:",
+		"english": "Although he has no license, he drives the car."
+	},
+	{
+		"armenian": "չնայած որ փողոցը սահուն է, նա արագ է վարում:",
+		"english": "Although the road is slippery, he drives so fast."
+	},
+	{
+		"armenian": "չնայած որ նա խմած է, նա հեծանիվ է քշում:",
+		"english": "Although he is drunk, he rides his bicycle."
+	},
+	{
+		"armenian": "նա վարորդական իրավունք չունի: այնուամենայնիվ նա մեքենա է վարում:",
+		"english": "Despite having no licence / license (am.), he drives the car."
+	},
+	{
+		"armenian": "փողոցը սահուն է: այնուամենայնիվ նա արագ է վարում:",
+		"english": "Despite the road being slippery, he drives fast."
+	},
+	{
+		"armenian": "նա խմած է: այնուամենայնիվ նա հեծանիվ է քշում:",
+		"english": "Despite being drunk, he rides the bike."
+	},
+	{
+		"armenian": "նա աշխատանքի տեղ չի գտնում, չնայած որ բարձրագույն կրթություն ունի:",
+		"english": "Although she went to college, she can’t find a job."
+	},
+	{
+		"armenian": "նա բժշկի չի գնում, չնայած որ ցավեր ունի:",
+		"english": "Although she is in pain, she doesn’t go to the doctor."
+	},
+	{
+		"armenian": "նա մեքենա է գնում, չնայած որ փող չունի:",
+		"english": "Although she has no money, she buys a car."
+	},
+	{
+		"armenian": "նա ուսանել է: բայց նա աշխատանք չի գտնում:",
+		"english": "She went to college. Nevertheless, she can’t find a job."
+	},
+	{
+		"armenian": "նա ցավեր ունի: այնուամենայնիվ նա բժշկի չի գնում:",
+		"english": "She is in pain. Nevertheless, she doesn’t go to the doctor."
+	},
+	{
+		"armenian": "նա փող չունի: այնուամենայնիվ նա մեքենա է գնում:",
+		"english": "She has no money. Nevertheless, she buys a car."
+	},
+	{
+		"armenian": "ճամբորդությունը թեեւ գեղեցիկ էր, բայց նաեւ հոգնեցուցիչ:",
+		"english": "The journey was beautiful, but too tiring."
+	},
+	{
+		"armenian": "գնացքը թեեւ ճշտապահ էր, բայց նաեւ լեցուն:",
+		"english": "The train was on time, but too full."
+	},
+	{
+		"armenian": "հյուրանոցը թեեւ հարմարավետ էր, բայց նաեւ թանկ:",
+		"english": "The hotel was comfortable, but too expensive."
+	},
+	{
+		"armenian": "նա կամ ավտոբուսն է վերցնում, կամ էլ գնացքը:",
+		"english": "He’ll take either the bus or the train."
+	},
+	{
+		"armenian": "նա կամ այսօր երեկոյան կգա, կամ վաղը շուտ:",
+		"english": "He’ll come either this evening or tomorrow morning."
+	},
+	{
+		"armenian": "նա կամ մեզ մոտ կապրի, կամ հյուրանոցում:",
+		"english": "He’s going to stay either with us or in the hotel."
+	},
+	{
+		"armenian": "նա թե ́ իսպաներեն է խոսում թե ́ անգլերեն:",
+		"english": "She speaks Spanish as well as English."
+	},
+	{
+		"armenian": "նա թե ́ մադրիդում է ապրել եւ թե  ́լոնդոնում:",
+		"english": "She has lived in Madrid as well as in London."
+	},
+	{
+		"armenian": "նա ճանաչում է թե ́ իսպանիան եւ թե ́անգլիան:",
+		"english": "She knows Spain as well as England."
+	},
+	{
+		"armenian": "նա ոչ միայն հիմար է, այլ նաեւ ծույլ:",
+		"english": "He is not only stupid, but also lazy."
+	},
+	{
+		"armenian": "նա ոչ միայն գեղեցիկ է, այլ նաեւ խելացի:",
+		"english": "She is not only pretty, but also intelligent."
+	},
+	{
+		"armenian": "նա խոսում է ոչ միայն գերմաներեն, այլ նաեւ ֆրանսերեն:",
+		"english": "She speaks not only German, but also French."
+	},
+	{
+		"armenian": "ես ոչ դաշնամուր եմ նվագում, ոչ էլ կիթառ:",
+		"english": "I can neither play the piano nor the guitar."
+	},
+	{
+		"armenian": "ես ոչ վալս եմ պարում, ոչ էլ սամբա:",
+		"english": "I can neither waltz nor do the samba."
+	},
+	{
+		"armenian": "ես ոչ օպերա եմ սիրում, ոչ էլ բալետ:",
+		"english": "I like neither opera nor ballet."
+	},
+	{
+		"armenian": "ինչքան արագ դու աշխատես, այնքան շուտ կվերջացնես:",
+		"english": "The faster you work, the earlier you will be finished."
+	},
+	{
+		"armenian": "ինչքան շուտ գաս, այնքան շուտ կգնաս:",
+		"english": "The earlier you come, the earlier you can go."
+	},
+	{
+		"armenian": "ինչքան ծերանում ես, այնքան հարմարավետ ես դառնում:",
+		"english": "The older one gets, the more complacent one gets."
+	},
+	{
+		"armenian": "իմ ընկերուհու կատուն",
+		"english": "my girlfriend’s cat"
+	},
+	{
+		"armenian": "իմ ընկերոջ շունը",
+		"english": "my boyfriend’s dog"
+	},
+	{
+		"armenian": "իմ երեխաների խաղալիքները",
+		"english": "my children’s toys"
+	},
+	{
+		"armenian": "սա իմ աշխատակցի վերարկուն է:",
+		"english": "This is my colleague’s overcoat."
+	},
+	{
+		"armenian": "սա իմ աշխատակցուհու մեքենան է:",
+		"english": "That is my colleague’s car."
+	},
+	{
+		"armenian": "սա իմ աշխատակցուհու աշխատանքն է:",
+		"english": "That is my colleagues’ work."
+	},
+	{
+		"armenian": "վերնաշապիկի կոճակը պոկված է:",
+		"english": "The button from the shirt is gone."
+	},
+	{
+		"armenian": "ավտոտնակի բանալին կորել է:",
+		"english": "The garage key is gone."
+	},
+	{
+		"armenian": "դիրեկտորի համակարգիչը փչացել է:",
+		"english": "The boss’ computer is not working."
+	},
+	{
+		"armenian": "աղջկա ծնողները ովքե՞ր են:",
+		"english": "Who are the girl’s parents?"
+	},
+	{
+		"armenian": "ի՞նչպես կարող եմ ձեր ծնողների տուն գնալ:",
+		"english": "How do I get to her parents’ house?"
+	},
+	{
+		"armenian": "տունը գտնվում է փողոցի վերջում:",
+		"english": "The house is at the end of the road."
+	},
+	{
+		"armenian": "ի՞նչպես է կոչվում շվեցարիայի մայրաքաղաքը:",
+		"english": "What is the name of the capital city of Switzerland?"
+	},
+	{
+		"armenian": "ի՞նչպես է գրքի վերնագիրը:",
+		"english": "What is the title of the book?"
+	},
+	{
+		"armenian": "ի՞նչպես են հարեւանների երեխաների անունները:",
+		"english": "What are the names of the neighbour’s / neighbor’s (am.) children?"
+	},
+	{
+		"armenian": "ե՞րբ են երեխաների դպրոցական արձակուրդները:",
+		"english": "When are the children’s holidays?"
+	},
+	{
+		"armenian": "ե՞րբ են բժշկի բացման ժամերը:",
+		"english": "What are the doctor’s consultation times?"
+	},
+	{
+		"armenian": "ե՞րբ են թանգարանի բացման ժամերը:",
+		"english": "What time is the museum open?"
+	},
+	{
+		"armenian": "երբեւէ - երբեք",
+		"english": "already – not yet"
+	},
+	{
+		"armenian": "երբեւէ մի անգամ բեռլինում եղե՞լ եք:",
+		"english": "Have you already been to Berlin?"
+	},
+	{
+		"armenian": "ոչ, ոչ մի անգամ:",
+		"english": "No, not yet."
+	},
+	{
+		"armenian": "ինչ որ մեկը - ոչ մեկը",
+		"english": "someone – no one"
+	},
+	{
+		"armenian": "ինչ որ մեկին (ոչ ոքի)այստեղ ճանաչու՞մ եք:",
+		"english": "Do you know someone here?"
+	},
+	{
+		"armenian": "ոչ, ես այստեղ ոչ մեկի(ոչ ոքի) չեմ ճանաչում:",
+		"english": "No, I don’t know anyone here."
+	},
+	{
+		"armenian": "դեռ - այլեւս",
+		"english": "a little longer – not much longer"
+	},
+	{
+		"armenian": "այստեղ դեռ երկա՞ր եք մնալու:",
+		"english": "Will you stay here a little longer?"
+	},
+	{
+		"armenian": "ոչ, ես այստեղ այլեւս չեմ մնալու:",
+		"english": "No, I won’t stay here much longer."
+	},
+	{
+		"armenian": "դեռ ինչ որ բան- ոչինչ",
+		"english": "something else – nothing else"
+	},
+	{
+		"armenian": "դեռ ինչ որ բան ուզու՞մ եք խմել:",
+		"english": "Would you like to drink something else?"
+	},
+	{
+		"armenian": "ոչ, ես ոչինչ չեմ ուզում:",
+		"english": "No, I don’t want anything else."
+	},
+	{
+		"armenian": "արդեն ինչ որ բան - դեռ ոչինչ",
+		"english": "something already – nothing yet"
+	},
+	{
+		"armenian": "արդեն ինչ որ բան կերե՞լ եք:",
+		"english": "Have you already eaten something?"
+	},
+	{
+		"armenian": "ոչ, դեռ ես ոչինչ չեմ կերել:",
+		"english": "No, I haven’t eaten anything yet."
+	},
+	{
+		"armenian": "ինչ որ մեկը - ոչ մեկը",
+		"english": "someone else – no one else"
+	},
+	{
+		"armenian": "ինչ որ մեկը սուրճ ցանկանու՞մ է:",
+		"english": "Does anyone else want a coffee?"
+	},
+	{
+		"armenian": "ոչ, ոչ ոք:",
+		"english": "No, no one else."
+	}
+]

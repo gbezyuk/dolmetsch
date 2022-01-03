@@ -1,8 +1,12 @@
 import { existsSync, createWriteStream, readFileSync } from 'fs'
 import https from 'https'
 
+const sourceId = '432232'
+const min = 1
+const max = 16
+
 const outputFilePath = (i) => {
-	return `../raw/${i}.json`
+	return `../raw/${sourceId}/${i}.json`
 }
 
 const headers = {
@@ -11,7 +15,7 @@ const headers = {
 
 const downloadStaticFile = (i) => {
 
-	const url = `https://app.memrise.com/v1.17/learning_sessions/preview/?session_source_id=2071225&session_source_sub_index=${i}&session_source_type=course_id_and_level_index`
+	const url = `https://app.memrise.com/v1.17/learning_sessions/preview/?session_source_id=${sourceId}&session_source_sub_index=${i}&session_source_type=course_id_and_level_index`
 
 	const ofp = outputFilePath(i)
 	// if (existsSync(ofp)) {
@@ -21,12 +25,12 @@ const downloadStaticFile = (i) => {
 
 	return new Promise((resolve) => {
 		const file = createWriteStream(ofp)
-		console.log('START', url)
+		// console.log('START', url)
 		https.get(url, { headers, }, response => {
 			response.pipe(file)
 
 			response.on('end', () => {
-				console.log('FINISH', url)
+				// console.log('FINISH', url)
 				file.close()
 				resolve(true)
 			})
@@ -34,7 +38,7 @@ const downloadStaticFile = (i) => {
 	})
 }
 
-for (let i = 1; i <= 36; i++) {
+for (let i = min; i <= max; i++) {
 	console.log(i)
 	await downloadStaticFile(i)
 }

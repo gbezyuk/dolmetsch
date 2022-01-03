@@ -1,0 +1,534 @@
+[
+	{
+		"georgian": "ი",
+		"english": "i"
+	},
+	{
+		"georgian": "ე",
+		"english": "e"
+	},
+	{
+		"georgian": "ა",
+		"english": "a"
+	},
+	{
+		"georgian": "ო",
+		"english": "o"
+	},
+	{
+		"georgian": "უ",
+		"english": "u"
+	},
+	{
+		"georgian": "ფ",
+		"english": "p"
+	},
+	{
+		"georgian": "თ",
+		"english": "t"
+	},
+	{
+		"georgian": "ც",
+		"english": "ts"
+	},
+	{
+		"georgian": "ჩ",
+		"english": "č"
+	},
+	{
+		"georgian": "ქ",
+		"english": "k"
+	},
+	{
+		"georgian": "ბ",
+		"english": "b"
+	},
+	{
+		"georgian": "დ",
+		"english": "d"
+	},
+	{
+		"georgian": "ძ",
+		"english": "dz"
+	},
+	{
+		"georgian": "ჯ",
+		"english": "ǰ"
+	},
+	{
+		"georgian": "გ",
+		"english": "g"
+	},
+	{
+		"georgian": "პ",
+		"english": "p'"
+	},
+	{
+		"georgian": "ტ",
+		"english": "t'"
+	},
+	{
+		"georgian": "წ",
+		"english": "ts'"
+	},
+	{
+		"georgian": "ჭ",
+		"english": "č'"
+	},
+	{
+		"georgian": "კ",
+		"english": "k'"
+	},
+	{
+		"georgian": "ყ",
+		"english": "q'"
+	},
+	{
+		"georgian": "ს",
+		"english": "s"
+	},
+	{
+		"georgian": "შ",
+		"english": "š"
+	},
+	{
+		"georgian": "ხ",
+		"english": "x"
+	},
+	{
+		"georgian": "ჰ",
+		"english": "h"
+	},
+	{
+		"georgian": "ვ",
+		"english": "v"
+	},
+	{
+		"georgian": "ზ",
+		"english": "z"
+	},
+	{
+		"georgian": "ჟ",
+		"english": "ž"
+	},
+	{
+		"georgian": "ღ",
+		"english": "ğ"
+	},
+	{
+		"georgian": "მ",
+		"english": "m"
+	},
+	{
+		"georgian": "ნ",
+		"english": "n"
+	},
+	{
+		"georgian": "ლ",
+		"english": "l"
+	},
+	{
+		"georgian": "რ",
+		"english": "r"
+	},
+	{
+		"georgian": "ფი",
+		"english": "pi"
+	},
+	{
+		"georgian": "ფე",
+		"english": "pe"
+	},
+	{
+		"georgian": "ფა",
+		"english": "pa"
+	},
+	{
+		"georgian": "ფო",
+		"english": "po"
+	},
+	{
+		"georgian": "ფუ",
+		"english": "pu"
+	},
+	{
+		"georgian": "თი",
+		"english": "ti"
+	},
+	{
+		"georgian": "თე",
+		"english": "te"
+	},
+	{
+		"georgian": "თა",
+		"english": "ta"
+	},
+	{
+		"georgian": "თო",
+		"english": "to"
+	},
+	{
+		"georgian": "თუ",
+		"english": "tu"
+	},
+	{
+		"georgian": "ცი",
+		"english": "tsi"
+	},
+	{
+		"georgian": "ცე",
+		"english": "tse"
+	},
+	{
+		"georgian": "ცა",
+		"english": "tsa"
+	},
+	{
+		"georgian": "ცო",
+		"english": "tso"
+	},
+	{
+		"georgian": "ცუ",
+		"english": "tsu"
+	},
+	{
+		"georgian": "ჩი",
+		"english": "či"
+	},
+	{
+		"georgian": "ჩე",
+		"english": "če"
+	},
+	{
+		"georgian": "ჩა",
+		"english": "ča"
+	},
+	{
+		"georgian": "ჩო",
+		"english": "čo"
+	},
+	{
+		"georgian": "ჩუ",
+		"english": "ču"
+	},
+	{
+		"georgian": "ქი",
+		"english": "ki"
+	},
+	{
+		"georgian": "ქე",
+		"english": "ke"
+	},
+	{
+		"georgian": "ქა",
+		"english": "ka"
+	},
+	{
+		"georgian": "ქო",
+		"english": "ko"
+	},
+	{
+		"georgian": "ქუ",
+		"english": "ku"
+	},
+	{
+		"georgian": "ბი",
+		"english": "bi"
+	},
+	{
+		"georgian": "ბე",
+		"english": "be"
+	},
+	{
+		"georgian": "ბა",
+		"english": "ba"
+	},
+	{
+		"georgian": "ბო",
+		"english": "bo"
+	},
+	{
+		"georgian": "ბუ",
+		"english": "bu"
+	},
+	{
+		"georgian": "დი",
+		"english": "di"
+	},
+	{
+		"georgian": "დე",
+		"english": "de"
+	},
+	{
+		"georgian": "და",
+		"english": "da"
+	},
+	{
+		"georgian": "დო",
+		"english": "do"
+	},
+	{
+		"georgian": "დუ",
+		"english": "du"
+	},
+	{
+		"georgian": "ძი",
+		"english": "dzi"
+	},
+	{
+		"georgian": "ძე",
+		"english": "dze"
+	},
+	{
+		"georgian": "ძა",
+		"english": "dza"
+	},
+	{
+		"georgian": "ძო",
+		"english": "dzo"
+	},
+	{
+		"georgian": "ძუ",
+		"english": "dzu"
+	},
+	{
+		"georgian": "ჯი",
+		"english": "ǰi"
+	},
+	{
+		"georgian": "ჯე",
+		"english": "ǰe"
+	},
+	{
+		"georgian": "ჯა",
+		"english": "ǰa"
+	},
+	{
+		"georgian": "ჯო",
+		"english": "ǰo"
+	},
+	{
+		"georgian": "ჯუ",
+		"english": "ǰu"
+	},
+	{
+		"georgian": "გი",
+		"english": "gi"
+	},
+	{
+		"georgian": "გე",
+		"english": "ge"
+	},
+	{
+		"georgian": "გა",
+		"english": "ga"
+	},
+	{
+		"georgian": "გო",
+		"english": "go"
+	},
+	{
+		"georgian": "გუ",
+		"english": "gu"
+	},
+	{
+		"georgian": "პი",
+		"english": "p'i"
+	},
+	{
+		"georgian": "პე",
+		"english": "p'e"
+	},
+	{
+		"georgian": "პა",
+		"english": "p'a"
+	},
+	{
+		"georgian": "პო",
+		"english": "p'o"
+	},
+	{
+		"georgian": "პუ",
+		"english": "p'u"
+	},
+	{
+		"georgian": "ტი",
+		"english": "t'i"
+	},
+	{
+		"georgian": "ტე",
+		"english": "t'e"
+	},
+	{
+		"georgian": "ტა",
+		"english": "t'a"
+	},
+	{
+		"georgian": "ტო",
+		"english": "t'o"
+	},
+	{
+		"georgian": "ტუ",
+		"english": "t'u"
+	},
+	{
+		"georgian": "წი",
+		"english": "ts'i"
+	},
+	{
+		"georgian": "წე",
+		"english": "ts'e"
+	},
+	{
+		"georgian": "წა",
+		"english": "ts'a"
+	},
+	{
+		"georgian": "წო",
+		"english": "ts'o"
+	},
+	{
+		"georgian": "წუ",
+		"english": "ts'u"
+	},
+	{
+		"georgian": "ჭი",
+		"english": "č'i"
+	},
+	{
+		"georgian": "ჭე",
+		"english": "č'e"
+	},
+	{
+		"georgian": "ჭა",
+		"english": "č'a"
+	},
+	{
+		"georgian": "ჭო",
+		"english": "č'o"
+	},
+	{
+		"georgian": "ჭუ",
+		"english": "č'u"
+	},
+	{
+		"georgian": "კი",
+		"english": "k'i"
+	},
+	{
+		"georgian": "კე",
+		"english": "k'e"
+	},
+	{
+		"georgian": "კა",
+		"english": "k'a"
+	},
+	{
+		"georgian": "კო",
+		"english": "k'o"
+	},
+	{
+		"georgian": "კუ",
+		"english": "k'u"
+	},
+	{
+		"georgian": "ყი",
+		"english": "q'i"
+	},
+	{
+		"georgian": "ყე",
+		"english": "q'e"
+	},
+	{
+		"georgian": "ყა",
+		"english": "q'a"
+	},
+	{
+		"georgian": "ყო",
+		"english": "q'o"
+	},
+	{
+		"georgian": "ყუ",
+		"english": "q'u"
+	},
+	{
+		"georgian": "სი",
+		"english": "si"
+	},
+	{
+		"georgian": "სე",
+		"english": "se"
+	},
+	{
+		"georgian": "სა",
+		"english": "sa"
+	},
+	{
+		"georgian": "სო",
+		"english": "so"
+	},
+	{
+		"georgian": "სუ",
+		"english": "su"
+	},
+	{
+		"georgian": "ში",
+		"english": "ši"
+	},
+	{
+		"georgian": "შე",
+		"english": "še"
+	},
+	{
+		"georgian": "შა",
+		"english": "ša"
+	},
+	{
+		"georgian": "შო",
+		"english": "šo"
+	},
+	{
+		"georgian": "შუ",
+		"english": "šu"
+	},
+	{
+		"georgian": "ხი",
+		"english": "xi"
+	},
+	{
+		"georgian": "ხე",
+		"english": "xe"
+	},
+	{
+		"georgian": "ხა",
+		"english": "xa"
+	},
+	{
+		"georgian": "ხო",
+		"english": "xo"
+	},
+	{
+		"georgian": "ხუ",
+		"english": "xu"
+	},
+	{
+		"georgian": "ჰი",
+		"english": "hi"
+	},
+	{
+		"georgian": "ჰე",
+		"english": "he"
+	},
+	{
+		"georgian": "ჰა",
+		"english": "ha"
+	},
+	{
+		"georgian": "ჰო",
+		"english": "ho"
+	},
+	{
+		"georgian": "ჰუ",
+		"english": "hu"
+	}
+]

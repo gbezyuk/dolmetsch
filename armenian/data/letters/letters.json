@@ -1,0 +1,418 @@
+[
+	{
+		"small": "ա",
+		"capital": "Ա",
+		"name": "ajb",
+		"transcription": "ɑ",
+		"handwriting": "ա.png",
+		"audios": [
+			"ա_1.mp3",
+			"ա_2.mp3"
+		]
+	},
+	{
+		"small": "բ",
+		"capital": "Բ",
+		"name": "bɛn",
+		"transcription": "b",
+		"handwriting": "բ.png",
+		"audios": [
+			"բ_1.mp3",
+			"բ_2.mp3"
+		]
+	},
+	{
+		"small": "գ",
+		"capital": "Գ",
+		"name": "ɡim",
+		"transcription": "ɡ",
+		"handwriting": "գ.png",
+		"audios": [
+			"գ_1.mp3",
+			"գ_2.mp3"
+		]
+	},
+	{
+		"small": "դ",
+		"capital": "Դ",
+		"name": "dɑ",
+		"transcription": "d",
+		"handwriting": "դ.png",
+		"audios": [
+			"դ_1.mp3",
+			"դ_2.mp3"
+		]
+	},
+	{
+		"small": "ե",
+		"capital": "Ե",
+		"name": "jɛtʃʰ",
+		"transcription": "ɛ] [jɛ",
+		"handwriting": "ե.png",
+		"audios": [
+			"ե_1.mp3",
+			"ե_2.mp3"
+		]
+	},
+	{
+		"small": "զ",
+		"capital": "Զ",
+		"name": "zɑ",
+		"transcription": "z",
+		"handwriting": "զ.png",
+		"audios": [
+			"զ_1.mp3",
+			"զ_2.mp3"
+		]
+	},
+	{
+		"small": "է",
+		"capital": "Է",
+		"name": "ɛ",
+		"transcription": "ɛ",
+		"handwriting": "է.png",
+		"audios": [
+			"է_1.mp3",
+			"է_2.mp3"
+		]
+	},
+	{
+		"small": "ը",
+		"capital": "Ը",
+		"name": "ətʰ",
+		"transcription": "ə",
+		"handwriting": "ը.png",
+		"audios": [
+			"ը_1.mp3",
+			"ը_2.mp3"
+		]
+	},
+	{
+		"small": "թ",
+		"capital": "Թ",
+		"name": "tʰo",
+		"transcription": "tʰ",
+		"handwriting": "թ.png",
+		"audios": [
+			"թ_1.mp3"
+		]
+	},
+	{
+		"small": "ժ",
+		"capital": "Ժ",
+		"name": "ʒɛ",
+		"transcription": "ʒ",
+		"handwriting": "ժ.png",
+		"audios": [
+			"ժ_1.mp3",
+			"ժ_2.mp3"
+		]
+	},
+	{
+		"small": "ի",
+		"capital": "Ի",
+		"name": "ini",
+		"transcription": "i",
+		"handwriting": "ի.png",
+		"audios": [
+			"ի_1.mp3",
+			"ի_2.mp3"
+		]
+	},
+	{
+		"small": "լ",
+		"capital": "Լ",
+		"name": "ljun",
+		"transcription": "l",
+		"handwriting": "լ.png",
+		"audios": [
+			"լ_1.mp3",
+			"լ_2.mp3"
+		]
+	},
+	{
+		"small": "խ",
+		"capital": "Խ",
+		"name": "χɛ",
+		"transcription": "χ",
+		"handwriting": "խ.png",
+		"audios": [
+			"խ_1.mp3",
+			"խ_2.mp3"
+		]
+	},
+	{
+		"small": "ծ",
+		"capital": "Ծ",
+		"name": "tsɑ",
+		"transcription": "ts",
+		"handwriting": "ծ.png",
+		"audios": [
+			"ծ_1.mp3"
+		]
+	},
+	{
+		"small": "կ",
+		"capital": "Կ",
+		"name": "kɛn",
+		"transcription": "k",
+		"handwriting": "կ.png",
+		"audios": [
+			"կ_1.mp3"
+		]
+	},
+	{
+		"small": "հ",
+		"capital": "Հ",
+		"name": "ho",
+		"transcription": "h",
+		"handwriting": "հ.png",
+		"audios": [
+			"հ_1.mp3"
+		]
+	},
+	{
+		"small": "ձ",
+		"capital": "Ձ",
+		"name": "dzɑ",
+		"transcription": "dz",
+		"handwriting": "ձ.png",
+		"audios": [
+			"ձ_1.mp3",
+			"ձ_2.mp3"
+		]
+	},
+	{
+		"small": "ղ",
+		"capital": "Ղ",
+		"name": "ʁɑt",
+		"transcription": "ʁ",
+		"handwriting": "ղ.png",
+		"audios": [
+			"ղ_1.mp3",
+			"ղ_2.mp3"
+		]
+	},
+	{
+		"small": "ճ",
+		"capital": "Ճ",
+		"name": "tʃɛ",
+		"transcription": "tʃ",
+		"handwriting": "ճ.png",
+		"audios": [
+			"ճ_1.mp3",
+			"ճ_2.mp3"
+		]
+	},
+	{
+		"small": "մ",
+		"capital": "Մ",
+		"name": "mɛn",
+		"transcription": "m",
+		"handwriting": "մ.png",
+		"audios": [
+			"մ_1.mp3"
+		]
+	},
+	{
+		"small": "յ",
+		"capital": "Յ",
+		"name": "hi",
+		"transcription": "h], [j",
+		"handwriting": "յ.png",
+		"audios": [
+			"յ_1.mp3"
+		]
+	},
+	{
+		"small": "ն",
+		"capital": "Ն",
+		"name": "nu",
+		"transcription": "n",
+		"handwriting": "ն.png",
+		"audios": [
+			"ն_1.mp3"
+		]
+	},
+	{
+		"small": "շ",
+		"capital": "Շ",
+		"name": "ʃɑ",
+		"transcription": "ʃ",
+		"handwriting": "շ.png",
+		"audios": [
+			"շ_1.mp3"
+		]
+	},
+	{
+		"small": "ո",
+		"capital": "Ո",
+		"name": "vo",
+		"transcription": "o], [vo",
+		"handwriting": "ո.png",
+		"audios": [
+			"ո_1.mp3"
+		]
+	},
+	{
+		"small": "չ",
+		"capital": "Չ",
+		"name": "tʃʰɑ",
+		"transcription": "tʃʰ",
+		"handwriting": "չ.png",
+		"audios": [
+			"չ_1.mp3",
+			"չ_2.mp3"
+		]
+	},
+	{
+		"small": "պ",
+		"capital": "Պ",
+		"name": "pɛ",
+		"transcription": "p",
+		"handwriting": "պ.png",
+		"audios": [
+			"պ_1.mp3"
+		]
+	},
+	{
+		"small": "ջ",
+		"capital": "Ջ",
+		"name": "dʒɛ",
+		"transcription": "dʒ",
+		"handwriting": "ջ.png",
+		"audios": [
+			"ջ_1.mp3"
+		]
+	},
+	{
+		"small": "ռ",
+		"capital": "Ռ",
+		"name": "rɑ",
+		"transcription": "r",
+		"handwriting": "ռ.png",
+		"audios": [
+			"ռ_1.mp3",
+			"ռ_2.mp3"
+		]
+	},
+	{
+		"small": "ս",
+		"capital": "Ս",
+		"name": "sɛ",
+		"transcription": "s",
+		"handwriting": "ս.png",
+		"audios": [
+			"ս_1.mp3"
+		]
+	},
+	{
+		"small": "վ",
+		"capital": "Վ",
+		"name": "vɛv",
+		"transcription": "v",
+		"handwriting": "վ.png",
+		"audios": [
+			"վ_1.mp3"
+		]
+	},
+	{
+		"small": "տ",
+		"capital": "Տ",
+		"name": "tjun",
+		"transcription": "t",
+		"handwriting": "տ.png",
+		"audios": [
+			"տ_1.mp3"
+		]
+	},
+	{
+		"small": "ր",
+		"capital": "Ր",
+		"name": "ɾɛ",
+		"transcription": "ɾ",
+		"handwriting": "ր.png",
+		"audios": [
+			"ր_1.mp3",
+			"ր_2.mp3"
+		]
+	},
+	{
+		"small": "ց",
+		"capital": "Ց",
+		"name": "tsʰo",
+		"transcription": "tsʰ",
+		"handwriting": "ց.png",
+		"audios": [
+			"ց_1.mp3"
+		]
+	},
+	{
+		"small": "ւ",
+		"capital": "Ւ",
+		"name": "hʏn",
+		"transcription": "v",
+		"handwriting": "ւ.png",
+		"audios": [
+			"ւ_1.mp3"
+		]
+	},
+	{
+		"small": "փ",
+		"capital": "Փ",
+		"name": "pʰjuɾ",
+		"transcription": "pʰ",
+		"handwriting": "փ.png",
+		"audios": [
+			"փ_1.mp3"
+		]
+	},
+	{
+		"small": "ք",
+		"capital": "Ք",
+		"name": "kʰɛ",
+		"transcription": "kʰ",
+		"handwriting": "ք.png",
+		"audios": [
+			"ք_1.mp3"
+		]
+	},
+	{
+		"small": "և",
+		"name": "jev",
+		"transcription": "ev], [jev",
+		"handwriting": "և.png",
+		"audios": [
+			"և_1.mp3"
+		]
+	},
+	{
+		"small": "օ",
+		"capital": "Օ",
+		"name": "o",
+		"transcription": "o",
+		"handwriting": "օ.png",
+		"audios": [
+			"օ_1.mp3"
+		]
+	},
+	{
+		"small": "ֆ",
+		"capital": "Ֆ",
+		"name": "fɛ",
+		"transcription": "f",
+		"handwriting": "ֆ.png",
+		"audios": [
+			"ֆ_1.mp3"
+		]
+	},
+	{
+		"small": "ու",
+		"capital": "Ու",
+		"transcription": "u",
+		"handwriting": "ու.png",
+		"audios": [
+			"ու_1.mp3"
+		]
+	}
+]

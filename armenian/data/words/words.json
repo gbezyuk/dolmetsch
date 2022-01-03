@@ -1,0 +1,9447 @@
+[
+	{
+		"armenian": "բարև",
+		"english": "Hello (less formal greeting)",
+		"audio": "բարև.mp3"
+	},
+	{
+		"armenian": "բարև ձեզ",
+		"english": "Hello (formal)",
+		"audio": "բարև ձեզ.mp3"
+	},
+	{
+		"armenian": "բարի լույս",
+		"english": "Good morning",
+		"audio": "բարի լույս.mp3"
+	},
+	{
+		"armenian": "բարի օր",
+		"english": "Good afternoon",
+		"audio": "բարի օր.mp3"
+	},
+	{
+		"armenian": "բարի երեկո",
+		"english": "Good evening",
+		"audio": "բարի երեկո.mp3"
+	},
+	{
+		"armenian": "բարի գիշեր",
+		"english": "Good night",
+		"audio": "բարի գիշեր.mp3"
+	},
+	{
+		"armenian": "բարի գալուստ",
+		"english": "Welcome",
+		"audio": "բարի գալուստ.mp3"
+	},
+	{
+		"armenian": "բարի ճանապարհ",
+		"english": "Have a nice journey",
+		"audio": "բարի ճանապարհ.mp3"
+	},
+	{
+		"armenian": "բարի ախորժակ",
+		"english": "Bon appetite",
+		"audio": "բարի ախորժակ.mp3"
+	},
+	{
+		"armenian": "ցտեսություն",
+		"english": "Goodbye",
+		"audio": "ցտեսություն.mp3"
+	},
+	{
+		"armenian": "հաջողություն",
+		"english": "Good luck/Goodbye",
+		"audio": "հաջողություն.mp3"
+	},
+	{
+		"armenian": "շնորհակալություն",
+		"english": "Thank you",
+		"audio": "շնորհակալություն.mp3"
+	},
+	{
+		"armenian": "շատ շնորհակալ եմ",
+		"english": "Thank you very much",
+		"audio": "շատ շնորհակալ եմ.mp3"
+	},
+	{
+		"armenian": "խնդրեմ",
+		"english": "You are welcome",
+		"audio": "խնդրեմ.mp3"
+	},
+	{
+		"armenian": "խնդրում եմ",
+		"english": "Please",
+		"audio": "խնդրում եմ.mp3"
+	},
+	{
+		"armenian": "կհանդիպենք",
+		"english": "See you soon",
+		"audio": "կհանդիպենք.mp3"
+	},
+	{
+		"armenian": "մինչ վաղը",
+		"english": "See you tomorrow",
+		"audio": "մինչ վաղը.mp3"
+	},
+	{
+		"armenian": "խնդիր չկա",
+		"english": "No problem",
+		"audio": "խնդիր չկա.mp3"
+	},
+	{
+		"armenian": "կներեք / ներեցեք",
+		"english": "Sorry / Excuse me",
+		"audio": "կներեք.mp3"
+	},
+	{
+		"armenian": "ինչպես ես / եք",
+		"english": "How are you? (formal)",
+		"audio": "ինչպես ես.mp3"
+	},
+	{
+		"armenian": "ո՞նց ես / եք",
+		"english": "How are you? (informal)",
+		"audio": "ո՞նց ես.mp3"
+	},
+	{
+		"armenian": "լավ եմ",
+		"english": "I am well",
+		"audio": "լավ եմ.mp3"
+	},
+	{
+		"armenian": "վատ եմ",
+		"english": "I am bad",
+		"audio": "վատ եմ.mp3"
+	},
+	{
+		"armenian": "ոչինչ",
+		"english": "So so",
+		"audio": "ոչինչ.mp3"
+	},
+	{
+		"armenian": "ինչպես են գործերդ",
+		"english": "How are things going?",
+		"audio": "ինչպես են գործերդ.mp3"
+	},
+	{
+		"armenian": "ամեն ինչ լավ է",
+		"english": "All is well",
+		"audio": "ամեն ինչ լավ է.mp3"
+	},
+	{
+		"armenian": "սովորական",
+		"english": "Nothing special",
+		"audio": "սովորական.mp3"
+	},
+	{
+		"armenian": "ինչ կա չկա",
+		"english": "What's up?",
+		"audio": "ինչ կա չկա.mp3"
+	},
+	{
+		"armenian": "ուրախ եմ / հաճելի է",
+		"english": "Nice to meet you / My pleasure",
+		"audio": "ուրախ եմ.mp3"
+	},
+	{
+		"armenian": "անպայման",
+		"english": "Certainly",
+		"audio": "անպայման.mp3"
+	},
+	{
+		"armenian": "այո / հա",
+		"english": "Yes",
+		"audio": "այո.mp3"
+	},
+	{
+		"armenian": "ոչ / չէ",
+		"english": "No",
+		"audio": "ոչ.mp3"
+	},
+	{
+		"armenian": "ընկեր",
+		"english": "friend",
+		"audio": "ընկեր.mp3"
+	},
+	{
+		"armenian": "ընտանիք",
+		"english": "family",
+		"audio": "ընտանիք.mp3"
+	},
+	{
+		"armenian": "աղջիկ",
+		"english": "girl",
+		"audio": "աղջիկ.mp3"
+	},
+	{
+		"armenian": "տղա",
+		"english": "boy",
+		"audio": "տղա.mp3"
+	},
+	{
+		"armenian": "ուսուցիչ",
+		"english": "teacher",
+		"audio": "ուսուցիչ.mp3"
+	},
+	{
+		"armenian": "ուսանող",
+		"english": "student",
+		"audio": "ուսանող.mp3"
+	},
+	{
+		"armenian": "հայ",
+		"english": "Armenian",
+		"audio": "հայ.mp3"
+	},
+	{
+		"armenian": "արտասահմանցի",
+		"english": "foreigner",
+		"audio": "արտասահմանցի.mp3"
+	},
+	{
+		"armenian": "սփյուռքահայ",
+		"english": "diasporan",
+		"audio": "սփյուռքահայ.mp3"
+	},
+	{
+		"armenian": "անուն",
+		"english": "name",
+		"audio": "անուն.mp3"
+	},
+	{
+		"armenian": "նորություն",
+		"english": "news",
+		"audio": "նորություն.mp3"
+	},
+	{
+		"armenian": "լավ",
+		"english": "good, well",
+		"audio": "լավ.mp3"
+	},
+	{
+		"armenian": "վատ",
+		"english": "bad",
+		"audio": "վատ.mp3"
+	},
+	{
+		"armenian": "սոված",
+		"english": "hungry",
+		"audio": "սոված.mp3"
+	},
+	{
+		"armenian": "ծարավ",
+		"english": "thirsty",
+		"audio": "ծարավ.mp3"
+	},
+	{
+		"armenian": "կուշտ",
+		"english": "full, not hungry",
+		"audio": "կուշտ.mp3"
+	},
+	{
+		"armenian": "հոգնած",
+		"english": "tired",
+		"audio": "հոգնած.mp3"
+	},
+	{
+		"armenian": "հարբած",
+		"english": "drunk",
+		"audio": "հարբած.mp3"
+	},
+	{
+		"armenian": "ազատ",
+		"english": "free",
+		"audio": "ազատ.mp3"
+	},
+	{
+		"armenian": "զբաղված",
+		"english": "busy",
+		"audio": "զբաղված.mp3"
+	},
+	{
+		"armenian": "ուրախ",
+		"english": "cheerful, happy",
+		"audio": "ուրախ.mp3"
+	},
+	{
+		"armenian": "տխուր",
+		"english": "sad",
+		"audio": "տխուր.mp3"
+	},
+	{
+		"armenian": "սիրուն",
+		"english": "pretty, nice",
+		"audio": "սիրուն.mp3"
+	},
+	{
+		"armenian": "սենյակ",
+		"english": "room",
+		"audio": "սենյակ.mp3"
+	},
+	{
+		"armenian": "պատուհան",
+		"english": "window",
+		"audio": "պատուհան.mp3"
+	},
+	{
+		"armenian": "դուռ",
+		"english": "door",
+		"audio": "դուռ.mp3"
+	},
+	{
+		"armenian": "աթոռ",
+		"english": "chair",
+		"audio": "աթոռ.mp3"
+	},
+	{
+		"armenian": "շենք",
+		"english": "building",
+		"audio": "շենք.mp3"
+	},
+	{
+		"armenian": "սեղան",
+		"english": "table",
+		"audio": "սեղան.mp3"
+	},
+	{
+		"armenian": "փողոց",
+		"english": "street",
+		"audio": "փողոց.mp3"
+	},
+	{
+		"armenian": "խանութ",
+		"english": "shop",
+		"audio": "խանութ.mp3"
+	},
+	{
+		"armenian": "այգի",
+		"english": "park",
+		"audio": "այգի.mp3"
+	},
+	{
+		"armenian": "տուն",
+		"english": "house",
+		"audio": "տուն.mp3"
+	},
+	{
+		"armenian": "բանկ",
+		"english": "bank",
+		"audio": "բանկ.mp3"
+	},
+	{
+		"armenian": "սրճարան",
+		"english": "café",
+		"audio": "սրճարան.mp3"
+	},
+	{
+		"armenian": "աշխատանք",
+		"english": "job",
+		"audio": "աշխատանք.mp3"
+	},
+	{
+		"armenian": "հյուրանոց",
+		"english": "hotel",
+		"audio": "հյուրանոց.mp3"
+	},
+	{
+		"armenian": "քաղաք",
+		"english": "city",
+		"audio": "քաղաք.mp3"
+	},
+	{
+		"armenian": "հին",
+		"english": "old",
+		"audio": "հին.mp3"
+	},
+	{
+		"armenian": "նոր",
+		"english": "new",
+		"audio": "նոր.mp3"
+	},
+	{
+		"armenian": "բաց",
+		"english": "open",
+		"audio": "բաց.mp3"
+	},
+	{
+		"armenian": "փակ",
+		"english": "closed",
+		"audio": "փակ.mp3"
+	},
+	{
+		"armenian": "հարմար",
+		"english": "comfortable",
+		"audio": "հարմար.mp3"
+	},
+	{
+		"armenian": "և / ու",
+		"english": "and",
+		"audio": "և.mp3"
+	},
+	{
+		"armenian": "բայց",
+		"english": "but",
+		"audio": "բայց.mp3"
+	},
+	{
+		"armenian": "իսկ",
+		"english": "and / while / but",
+		"audio": "իսկ.mp3"
+	},
+	{
+		"armenian": "կամ",
+		"english": "or",
+		"audio": "կամ.mp3"
+	},
+	{
+		"armenian": "որովհետև",
+		"english": "because",
+		"audio": "որովհետև.mp3"
+	},
+	{
+		"armenian": "ձուկ",
+		"english": "fish",
+		"audio": "ձուկ.mp3"
+	},
+	{
+		"armenian": "ձկներ",
+		"english": "fishes",
+		"audio": "ձկներ.mp3"
+	},
+	{
+		"armenian": "մուկ",
+		"english": "mouse",
+		"audio": "մուկ.mp3"
+	},
+	{
+		"armenian": "մկներ",
+		"english": "mice",
+		"audio": "մկներ.mp3"
+	},
+	{
+		"armenian": "լեռ",
+		"english": "mountain",
+		"audio": "լեռ.mp3"
+	},
+	{
+		"armenian": "լեռներ",
+		"english": "mountains",
+		"audio": "լեռներ.mp3"
+	},
+	{
+		"armenian": "մատ",
+		"english": "finger",
+		"audio": "մատ.mp3"
+	},
+	{
+		"armenian": "մատներ",
+		"english": "fingers",
+		"audio": "մատներ.mp3"
+	},
+	{
+		"armenian": "թոռ",
+		"english": "grandchild",
+		"audio": "թոռ.mp3"
+	},
+	{
+		"armenian": "թոռներ",
+		"english": "grandchildren",
+		"audio": "թոռներ.mp3"
+	},
+	{
+		"armenian": "նուռ",
+		"english": "pomegranate",
+		"audio": "նուռ.mp3"
+	},
+	{
+		"armenian": "նռներ",
+		"english": "pomegranates",
+		"audio": "նռներ.mp3"
+	},
+	{
+		"armenian": "ռուս",
+		"english": "Russian",
+		"audio": "ռուս.mp3"
+	},
+	{
+		"armenian": "ռուսներ",
+		"english": "Russians",
+		"audio": "ռուսներ.mp3"
+	},
+	{
+		"armenian": "կին",
+		"english": "woman",
+		"audio": "կին.mp3"
+	},
+	{
+		"armenian": "կանայք",
+		"english": "women",
+		"audio": "կանայք.mp3"
+	},
+	{
+		"armenian": "մարդ",
+		"english": "person",
+		"audio": "մարդ.mp3"
+	},
+	{
+		"armenian": "մարդիկ",
+		"english": "people",
+		"audio": "մարդիկ.mp3"
+	},
+	{
+		"armenian": "տղամարդ",
+		"english": "man",
+		"audio": "տղամարդ.mp3"
+	},
+	{
+		"armenian": "տղամարդիկ",
+		"english": "men",
+		"audio": "տղամարդիկ.mp3"
+	},
+	{
+		"armenian": "օդանավակայան",
+		"english": "airport",
+		"audio": "օդանավակայան.mp3"
+	},
+	{
+		"armenian": "ռեստորան",
+		"english": "restaurant",
+		"audio": "ռեստորան.mp3"
+	},
+	{
+		"armenian": "դեսպանատուն",
+		"english": "embassy",
+		"audio": "դեսպանատուն.mp3"
+	},
+	{
+		"armenian": "դեղատուն",
+		"english": "pharmacy",
+		"audio": "դեղատուն.mp3"
+	},
+	{
+		"armenian": "հիվանդանոց",
+		"english": "hospital",
+		"audio": "հիվանդանոց.mp3"
+	},
+	{
+		"armenian": "եկեղեցի",
+		"english": "church",
+		"audio": "եկեղեցի.mp3"
+	},
+	{
+		"armenian": "շուկա",
+		"english": "market",
+		"audio": "շուկա.mp3"
+	},
+	{
+		"armenian": "թատրոն",
+		"english": "theatre",
+		"audio": "թատրոն.mp3"
+	},
+	{
+		"armenian": "պայուսակ",
+		"english": "bag",
+		"audio": "պայուսակ.mp3"
+	},
+	{
+		"armenian": "դպրոց",
+		"english": "school",
+		"audio": "դպրոց.mp3"
+	},
+	{
+		"armenian": "հրապարակ",
+		"english": "square",
+		"audio": "հրապարակ.mp3"
+	},
+	{
+		"armenian": "կինոթատրոն",
+		"english": "cinema",
+		"audio": "կինոթատրոն.mp3"
+	},
+	{
+		"armenian": "թանգարան",
+		"english": "museum",
+		"audio": "թանգարան.mp3"
+	},
+	{
+		"armenian": "տաքսի",
+		"english": "taxi",
+		"audio": "տաքսի.mp3"
+	},
+	{
+		"armenian": "ավտոբուս",
+		"english": "bus",
+		"audio": "ավտոբուս.mp3"
+	},
+	{
+		"armenian": "ինքնաթիռ",
+		"english": "airplane",
+		"audio": "ինքնաթիռ.mp3"
+	},
+	{
+		"armenian": "մետրո",
+		"english": "metro",
+		"audio": "մետրո.mp3"
+	},
+	{
+		"armenian": "մեքենա",
+		"english": "car",
+		"audio": "մեքենա.mp3"
+	},
+	{
+		"armenian": "ի՞նչ",
+		"english": "What? Sg.",
+		"audio": "ի՞նչ.mp3"
+	},
+	{
+		"armenian": "ինչե՞ր",
+		"english": "What? Pl.",
+		"audio": "ինչե՞ր.mp3"
+	},
+	{
+		"armenian": "ո՞վ",
+		"english": "Who? Sg.",
+		"audio": "ո՞վ.mp3"
+	},
+	{
+		"armenian": "ովքե՞ր",
+		"english": "Who? Pl.",
+		"audio": "ովքե՞ր.mp3"
+	},
+	{
+		"armenian": "որտե՞ղ",
+		"english": "Where? (location)",
+		"audio": "որտե՞ղ.mp3"
+	},
+	{
+		"armenian": "ու՞ր",
+		"english": "Where? (direction)",
+		"audio": "ու՞ր.mp3"
+	},
+	{
+		"armenian": "ե՞րբ",
+		"english": "When?",
+		"audio": "ե՞րբ.mp3"
+	},
+	{
+		"armenian": "ինչու՞",
+		"english": "Why?",
+		"audio": "ինչու՞.mp3"
+	},
+	{
+		"armenian": "ո՞ր",
+		"english": "Which?",
+		"audio": "ո՞ր.mp3"
+	},
+	{
+		"armenian": "ու՞մ",
+		"english": "Whose? / Whom?",
+		"audio": "ու՞մ.mp3"
+	},
+	{
+		"armenian": "ինչպիսի՞",
+		"english": "What kind of?",
+		"audio": "ինչպիսի՞.mp3"
+	},
+	{
+		"armenian": "քանի՞",
+		"english": "How many?",
+		"audio": "քանի՞.mp3"
+	},
+	{
+		"armenian": "ինչքա՞ն",
+		"english": "How much?",
+		"audio": "ինչքա՞ն.mp3"
+	},
+	{
+		"armenian": "առողջ",
+		"english": "healthy",
+		"audio": "առողջ.mp3"
+	},
+	{
+		"armenian": "հիվանդ",
+		"english": "sick",
+		"audio": "հիվանդ.mp3"
+	},
+	{
+		"armenian": "անհանգիստ",
+		"english": "worried",
+		"audio": "անհանգիստ.mp3"
+	},
+	{
+		"armenian": "հանգիստ",
+		"english": "calm",
+		"audio": "հանգիստ.mp3"
+	},
+	{
+		"armenian": "զարմացած",
+		"english": "surprised",
+		"audio": "զարմացած.mp3"
+	},
+	{
+		"armenian": "բարկացած",
+		"english": "angry",
+		"audio": "բարկացած.mp3"
+	},
+	{
+		"armenian": "հիասթափված",
+		"english": "disappointed",
+		"audio": "հիասթափված.mp3"
+	},
+	{
+		"armenian": "դժգոհ",
+		"english": "displeased",
+		"audio": "դժգոհ.mp3"
+	},
+	{
+		"armenian": "գոհ",
+		"english": "pleased",
+		"audio": "գոհ.mp3"
+	},
+	{
+		"armenian": "հուզված",
+		"english": "touched",
+		"audio": "հուզված.mp3"
+	},
+	{
+		"armenian": "երջանիկ",
+		"english": "happy",
+		"audio": "երջանիկ.mp3"
+	},
+	{
+		"armenian": "վիրավորված",
+		"english": "insulted, wounded",
+		"audio": "վիրավորված.mp3"
+	},
+	{
+		"armenian": "բժիշկ",
+		"english": "doctor",
+		"audio": "բժիշկ.mp3"
+	},
+	{
+		"armenian": "իրավաբան",
+		"english": "lawyer",
+		"audio": "իրավաբան.mp3"
+	},
+	{
+		"armenian": "երաժիշտ",
+		"english": "musician",
+		"audio": "երաժիշտ.mp3"
+	},
+	{
+		"armenian": "դերասան",
+		"english": "actor",
+		"audio": "դերասան.mp3"
+	},
+	{
+		"armenian": "նկարիչ",
+		"english": "painter",
+		"audio": "նկարիչ.mp3"
+	},
+	{
+		"armenian": "լրագրող",
+		"english": "journalist",
+		"audio": "լրագրող.mp3"
+	},
+	{
+		"armenian": "գործարար",
+		"english": "businessman",
+		"audio": "գործարար.mp3"
+	},
+	{
+		"armenian": "դիվանագետ",
+		"english": "diplomat",
+		"audio": "դիվանագետ.mp3"
+	},
+	{
+		"armenian": "ինժեներ",
+		"english": "engineer",
+		"audio": "ինժեներ.mp3"
+	},
+	{
+		"armenian": "վարորդ",
+		"english": "driver",
+		"audio": "վարորդ.mp3"
+	},
+	{
+		"armenian": "ճարտարապետ",
+		"english": "architect",
+		"audio": "ճարտարապետ.mp3"
+	},
+	{
+		"armenian": "երգիչ",
+		"english": "singer",
+		"audio": "երգիչ.mp3"
+	},
+	{
+		"armenian": "սա",
+		"english": "this one",
+		"audio": "սա.mp3"
+	},
+	{
+		"armenian": "դա",
+		"english": "that one / it",
+		"audio": "դա.mp3"
+	},
+	{
+		"armenian": "սրանք",
+		"english": "these ones",
+		"audio": "սրանք.mp3"
+	},
+	{
+		"armenian": "դրանք",
+		"english": "those ones",
+		"audio": "դրանք.mp3"
+	},
+	{
+		"armenian": "այս",
+		"english": "this",
+		"audio": "այս.mp3"
+	},
+	{
+		"armenian": "այդ",
+		"english": "that",
+		"audio": "այդ.mp3"
+	},
+	{
+		"armenian": "այն",
+		"english": "that one over there",
+		"audio": "այն.mp3"
+	},
+	{
+		"armenian": "ուզել",
+		"english": "to want",
+		"audio": "ուզել.mp3"
+	},
+	{
+		"armenian": "խոսել",
+		"english": "to speak",
+		"audio": "խոսել.mp3"
+	},
+	{
+		"armenian": "ապրել",
+		"english": "to live",
+		"audio": "ապրել.mp3"
+	},
+	{
+		"armenian": "գնալ",
+		"english": "to go",
+		"audio": "գնալ.mp3"
+	},
+	{
+		"armenian": "գալ",
+		"english": "to come",
+		"audio": "գալ.mp3"
+	},
+	{
+		"armenian": "ուտել",
+		"english": "to eat",
+		"audio": "ուտել.mp3"
+	},
+	{
+		"armenian": "խմել",
+		"english": "to drink",
+		"audio": "խմել.mp3"
+	},
+	{
+		"armenian": "ծխել",
+		"english": "to smoke",
+		"audio": "ծխել.mp3"
+	},
+	{
+		"armenian": "արթնանալ",
+		"english": "to wake up",
+		"audio": "արթնանալ.mp3"
+	},
+	{
+		"armenian": "ուշանալ",
+		"english": "to be late",
+		"audio": "ուշանալ.mp3"
+	},
+	{
+		"armenian": "անել",
+		"english": "to do",
+		"audio": "անել.mp3"
+	},
+	{
+		"armenian": "քայլել",
+		"english": "to walk",
+		"audio": "քայլել.mp3"
+	},
+	{
+		"armenian": "ասել",
+		"english": "to say",
+		"audio": "ասել.mp3"
+	},
+	{
+		"armenian": "մնալ",
+		"english": "to stay",
+		"audio": "մնալ.mp3"
+	},
+	{
+		"armenian": "սիրել",
+		"english": "to love/like",
+		"audio": "սիրել.mp3"
+	},
+	{
+		"armenian": "պարել",
+		"english": "to dance",
+		"audio": "պարել.mp3"
+	},
+	{
+		"armenian": "երգել",
+		"english": "to sing",
+		"audio": "երգել.mp3"
+	},
+	{
+		"armenian": "մրսել",
+		"english": "to be/feel cold",
+		"audio": "մրսել.mp3"
+	},
+	{
+		"armenian": "տալ",
+		"english": "to give",
+		"audio": "տալ.mp3"
+	},
+	{
+		"armenian": "խաղալ",
+		"english": "to play (games)",
+		"audio": "խաղալ.mp3"
+	},
+	{
+		"armenian": "սովորել",
+		"english": "to study",
+		"audio": "սովորել.mp3"
+	},
+	{
+		"armenian": "աշխատել",
+		"english": "to work",
+		"audio": "աշխատել.mp3"
+	},
+	{
+		"armenian": "միշտ",
+		"english": "always",
+		"audio": "միշտ.mp3"
+	},
+	{
+		"armenian": "երբեմն",
+		"english": "sometimes",
+		"audio": "երբեմն.mp3"
+	},
+	{
+		"armenian": "սովորաբար",
+		"english": "usually",
+		"audio": "սովորաբար.mp3"
+	},
+	{
+		"armenian": "հաճախ",
+		"english": "often",
+		"audio": "հաճախ.mp3"
+	},
+	{
+		"armenian": "երբեք",
+		"english": "never",
+		"audio": "երբեք.mp3"
+	},
+	{
+		"armenian": "հիմա",
+		"english": "now",
+		"audio": "հիմա.mp3"
+	},
+	{
+		"armenian": "առավոտյան",
+		"english": "in the morning",
+		"audio": "առավոտյան.mp3"
+	},
+	{
+		"armenian": "կեսօրին",
+		"english": "in the afternoon",
+		"audio": "կեսօրին.mp3"
+	},
+	{
+		"armenian": "երեկոյան",
+		"english": "in the evening",
+		"audio": "երեկոյան.mp3"
+	},
+	{
+		"armenian": "գիշերը",
+		"english": "at night",
+		"audio": "գիշերը.mp3"
+	},
+	{
+		"armenian": "այսօր",
+		"english": "today",
+		"audio": "այսօր.mp3"
+	},
+	{
+		"armenian": "իմ",
+		"english": "my",
+		"audio": "իմ.mp3"
+	},
+	{
+		"armenian": "քո",
+		"english": "your (sg)",
+		"audio": "քո.mp3"
+	},
+	{
+		"armenian": "նրա / իր",
+		"english": "his, her",
+		"audio": "նրա.mp3"
+	},
+	{
+		"armenian": "մեր",
+		"english": "our",
+		"audio": "մեր.mp3"
+	},
+	{
+		"armenian": "ձեր",
+		"english": "your (pl)",
+		"audio": "ձեր.mp3"
+	},
+	{
+		"armenian": "նրանց / իրենց",
+		"english": "their",
+		"audio": "նրանց.mp3"
+	},
+	{
+		"armenian": "ես գալիս եմ",
+		"english": "I come / I am coming",
+		"audio": "ես գալիս եմ.mp3"
+	},
+	{
+		"armenian": "դու գալիս ես",
+		"english": "you come / you are coming",
+		"audio": "դու գալիս ես.mp3"
+	},
+	{
+		"armenian": "ես չեմ գալիս",
+		"english": "I don't come / I am not coming",
+		"audio": "ես չեմ գալիս.mp3"
+	},
+	{
+		"armenian": "մեկ",
+		"english": "one",
+		"audio": "մեկ.mp3"
+	},
+	{
+		"armenian": "երկու",
+		"english": "two",
+		"audio": "երկու.mp3"
+	},
+	{
+		"armenian": "երեք",
+		"english": "three",
+		"audio": "երեք.mp3"
+	},
+	{
+		"armenian": "չորս",
+		"english": "four",
+		"audio": "չորս.mp3"
+	},
+	{
+		"armenian": "հինգ",
+		"english": "five",
+		"audio": "հինգ.mp3"
+	},
+	{
+		"armenian": "վեց",
+		"english": "six",
+		"audio": "վեց.mp3"
+	},
+	{
+		"armenian": "յոթ",
+		"english": "seven",
+		"audio": "յոթ.mp3"
+	},
+	{
+		"armenian": "ութ",
+		"english": "eight",
+		"audio": "ութ.mp3"
+	},
+	{
+		"armenian": "ինը",
+		"english": "nine",
+		"audio": "ինը.mp3"
+	},
+	{
+		"armenian": "տասը",
+		"english": "ten",
+		"audio": "տասը.mp3"
+	},
+	{
+		"armenian": "տասնմեկ",
+		"english": "eleven",
+		"audio": "տասնմեկ.mp3"
+	},
+	{
+		"armenian": "տասներկու",
+		"english": "twelve",
+		"audio": "տասներկու.mp3"
+	},
+	{
+		"armenian": "տասներեք",
+		"english": "thirteen",
+		"audio": "տասներեք.mp3"
+	},
+	{
+		"armenian": "տասնչորս",
+		"english": "fourteen",
+		"audio": "տասնչորս.mp3"
+	},
+	{
+		"armenian": "տասնհինգ",
+		"english": "fifteen",
+		"audio": "տասնհինգ.mp3"
+	},
+	{
+		"armenian": "տասնվեց",
+		"english": "sixteen",
+		"audio": "տասնվեց.mp3"
+	},
+	{
+		"armenian": "տասնյոթ",
+		"english": "seventeen",
+		"audio": "տասնյոթ.mp3"
+	},
+	{
+		"armenian": "տասնութ",
+		"english": "eighteen",
+		"audio": "տասնութ.mp3"
+	},
+	{
+		"armenian": "տասնինը",
+		"english": "nineteen",
+		"audio": "տասնինը.mp3"
+	},
+	{
+		"armenian": "քսան",
+		"english": "twenty",
+		"audio": "քսան.mp3"
+	},
+	{
+		"armenian": "երեսուն",
+		"english": "thirty",
+		"audio": "երեսուն.mp3"
+	},
+	{
+		"armenian": "քառասուն",
+		"english": "fourty",
+		"audio": "քառասուն.mp3"
+	},
+	{
+		"armenian": "հիսուն",
+		"english": "fifty",
+		"audio": "հիսուն.mp3"
+	},
+	{
+		"armenian": "վաթսուն",
+		"english": "sixty",
+		"audio": "վաթսուն.mp3"
+	},
+	{
+		"armenian": "յոթանասուն",
+		"english": "seventy",
+		"audio": "յոթանասուն.mp3"
+	},
+	{
+		"armenian": "ութսուն",
+		"english": "eighty",
+		"audio": "ութսուն.mp3"
+	},
+	{
+		"armenian": "իննսուն",
+		"english": "ninety",
+		"audio": "իննսուն.mp3"
+	},
+	{
+		"armenian": "հարյուր",
+		"english": "hundred",
+		"audio": "հարյուր.mp3"
+	},
+	{
+		"armenian": "հազար",
+		"english": "thousand",
+		"audio": "հազար.mp3"
+	},
+	{
+		"armenian": "միլիոն",
+		"english": "million",
+		"audio": "միլիոն.mp3"
+	},
+	{
+		"armenian": "քսանմեկ",
+		"english": "twenty one",
+		"audio": "քսանմեկ.mp3"
+	},
+	{
+		"armenian": "քառասուներեք",
+		"english": "fourty three",
+		"audio": "քառասուներեք.mp3"
+	},
+	{
+		"armenian": "վաթսունյոթ",
+		"english": "sixty seven",
+		"audio": "վաթսունյոթ.mp3"
+	},
+	{
+		"armenian": "իննսունինը",
+		"english": "ninety nine",
+		"audio": "իննսունինը.mp3"
+	},
+	{
+		"armenian": "հարյուր հինգ",
+		"english": "one hundred five",
+		"audio": "հարյուր հինգ.mp3"
+	},
+	{
+		"armenian": "չորս հարյուր յոթ",
+		"english": "four hundred seven",
+		"audio": "չորս հարյուր յոթ.mp3"
+	},
+	{
+		"armenian": "զրո յոթանասունյոթ",
+		"english": "zero seventy seven",
+		"audio": "զրո յոթանասունյոթ.mp3"
+	},
+	{
+		"armenian": "ո՞րն է քո հեռախոսի համարը։",
+		"english": "What is your telephone number?",
+		"audio": "ո՞րն է քո հեռախոսի համարը։.mp3"
+	},
+	{
+		"armenian": "քանի՞ տարեկան ես։",
+		"english": "How old are you?",
+		"audio": "քանի՞ տարեկան ես։.mp3"
+	},
+	{
+		"armenian": "ե՞րբ ես ծնվել։",
+		"english": "When were you born?",
+		"audio": "ե՞րբ ես ծնվել։.mp3"
+	},
+	{
+		"armenian": "ես ծնվել եմ 1988 թվականին։",
+		"english": "I was born in 1988.",
+		"audio": "ես ծնվել եմ 1988 թվականին։.mp3"
+	},
+	{
+		"armenian": "ես ունեմ",
+		"english": "I have",
+		"audio": "ես ունեմ.mp3"
+	},
+	{
+		"armenian": "դու ունես",
+		"english": "you have",
+		"audio": "դու ունես.mp3"
+	},
+	{
+		"armenian": "նա ունի",
+		"english": "he / she has",
+		"audio": "նա ունի.mp3"
+	},
+	{
+		"armenian": "ես չունեմ",
+		"english": "I don't have",
+		"audio": "ես չունեմ.mp3"
+	},
+	{
+		"armenian": "ես գիտեմ",
+		"english": "I know",
+		"audio": "ես գիտեմ.mp3"
+	},
+	{
+		"armenian": "նա գիտի",
+		"english": "he / she knows",
+		"audio": "նա գիտի.mp3"
+	},
+	{
+		"armenian": "ես չգիտեմ",
+		"english": "I don't know",
+		"audio": "ես չգիտեմ.mp3"
+	},
+	{
+		"armenian": "դար",
+		"english": "century",
+		"audio": "դար.mp3"
+	},
+	{
+		"armenian": "տարի",
+		"english": "year",
+		"audio": "տարի.mp3"
+	},
+	{
+		"armenian": "ամիս",
+		"english": "month",
+		"audio": "ամիս.mp3"
+	},
+	{
+		"armenian": "շաբաթ",
+		"english": "week",
+		"audio": "շաբաթ.mp3"
+	},
+	{
+		"armenian": "օր",
+		"english": "day",
+		"audio": "օր.mp3"
+	},
+	{
+		"armenian": "ժամ",
+		"english": "hour",
+		"audio": "ժամ.mp3"
+	},
+	{
+		"armenian": "րոպե",
+		"english": "minute",
+		"audio": "րոպե.mp3"
+	},
+	{
+		"armenian": "վայրկյան",
+		"english": "second",
+		"audio": "վայրկյան.mp3"
+	},
+	{
+		"armenian": "երկուշաբթի",
+		"english": "Monday",
+		"audio": "երկուշաբթի.mp3"
+	},
+	{
+		"armenian": "երեքշաբթի",
+		"english": "Tuesday",
+		"audio": "երեքշաբթի.mp3"
+	},
+	{
+		"armenian": "չորեքշաբթի",
+		"english": "Wednesday",
+		"audio": "չորեքշաբթի.mp3"
+	},
+	{
+		"armenian": "հինգշաբթի",
+		"english": "Thursday",
+		"audio": "հինգշաբթի.mp3"
+	},
+	{
+		"armenian": "ուրբաթ",
+		"english": "Friday",
+		"audio": "ուրբաթ.mp3"
+	},
+	{
+		"armenian": "շաբաթ",
+		"english": "Saturday",
+		"audio": "շաբաթ.mp3"
+	},
+	{
+		"armenian": "կիրակի",
+		"english": "Sunday",
+		"audio": "կիրակի.mp3"
+	},
+	{
+		"armenian": "հունվար",
+		"english": "January",
+		"audio": "հունվար.mp3"
+	},
+	{
+		"armenian": "փետրվար",
+		"english": "February",
+		"audio": "փետրվար.mp3"
+	},
+	{
+		"armenian": "մարտ",
+		"english": "March",
+		"audio": "մարտ.mp3"
+	},
+	{
+		"armenian": "ապրիլ",
+		"english": "April",
+		"audio": "ապրիլ.mp3"
+	},
+	{
+		"armenian": "մայիս",
+		"english": "May",
+		"audio": "մայիս.mp3"
+	},
+	{
+		"armenian": "հունիս",
+		"english": "June",
+		"audio": "հունիս.mp3"
+	},
+	{
+		"armenian": "հուլիս",
+		"english": "July",
+		"audio": "հուլիս.mp3"
+	},
+	{
+		"armenian": "օգոստոս",
+		"english": "August",
+		"audio": "օգոստոս.mp3"
+	},
+	{
+		"armenian": "սեպտեմբեր",
+		"english": "September",
+		"audio": "սեպտեմբեր.mp3"
+	},
+	{
+		"armenian": "հոկտեմբեր",
+		"english": "October",
+		"audio": "հոկտեմբեր.mp3"
+	},
+	{
+		"armenian": "նոյեմբեր",
+		"english": "November",
+		"audio": "նոյեմբեր.mp3"
+	},
+	{
+		"armenian": "դեկտեմբեր",
+		"english": "December",
+		"audio": "դեկտեմբեր.mp3"
+	},
+	{
+		"armenian": "անց",
+		"english": "past (telling the time)",
+		"audio": "անց.mp3"
+	},
+	{
+		"armenian": "պակաս",
+		"english": "to / until (telling the time)",
+		"audio": "պակաս.mp3"
+	},
+	{
+		"armenian": "կես",
+		"english": "half",
+		"audio": "կես.mp3"
+	},
+	{
+		"armenian": "քառորդ",
+		"english": "quarter",
+		"audio": "քառորդ.mp3"
+	},
+	{
+		"armenian": "ժամացույց",
+		"english": "clock",
+		"audio": "ժամացույց.mp3"
+	},
+	{
+		"armenian": "ժամը քանի՞սն է։",
+		"english": "What time is it?",
+		"audio": "ժամը քանի՞սն է։.mp3"
+	},
+	{
+		"armenian": "ժամը մեկն է։",
+		"english": "It's one o'clock.",
+		"audio": "ժամը մեկն է։.mp3"
+	},
+	{
+		"armenian": "ժամը երեքն անց հինգ է։",
+		"english": "It's five past three.",
+		"audio": "ժամը երեքն անց հինգ է։.mp3"
+	},
+	{
+		"armenian": "ժամը յոթն անց կես է։",
+		"english": "It's half past seven.",
+		"audio": "ժամը յոթն անց կես է։.mp3"
+	},
+	{
+		"armenian": "ժամը ութին քսան է պակաս։",
+		"english": "It's twenty minutes to eight.",
+		"audio": "ժամը ութին քսան է պակաս։.mp3"
+	},
+	{
+		"armenian": "ժամը քանիսի՞ն։",
+		"english": "At what time?",
+		"audio": "ժամը քանիսի՞ն։.mp3"
+	},
+	{
+		"armenian": "ժամը մեկին։",
+		"english": "At one o'clock.",
+		"audio": "ժամը մեկին։.mp3"
+	},
+	{
+		"armenian": "ժամը հինգից վեցը։",
+		"english": "From five to six o'clock.",
+		"audio": "ժամը հինգից վեցը։.mp3"
+	},
+	{
+		"armenian": "կարողանալ",
+		"english": "can / to be able to",
+		"audio": "կարողանալ.mp3"
+	},
+	{
+		"armenian": "ես կարող եմ",
+		"english": "I can",
+		"audio": "ես կարող եմ.mp3"
+	},
+	{
+		"armenian": "ես չեմ կարող",
+		"english": "I cannot",
+		"audio": "ես չեմ կարող.mp3"
+	},
+	{
+		"armenian": "հայր(իկ)",
+		"english": "father",
+		"audio": "հայր(իկ).mp3"
+	},
+	{
+		"armenian": "մայր(իկ)",
+		"english": "mother",
+		"audio": "մայր(իկ).mp3"
+	},
+	{
+		"armenian": "քույր(իկ)",
+		"english": "sister",
+		"audio": "քույր(իկ).mp3"
+	},
+	{
+		"armenian": "եղբայր",
+		"english": "brother",
+		"audio": "եղբայր.mp3"
+	},
+	{
+		"armenian": "զարմիկ",
+		"english": "cousin",
+		"audio": "զարմիկ.mp3"
+	},
+	{
+		"armenian": "պապիկ",
+		"english": "grandfather",
+		"audio": "պապիկ.mp3"
+	},
+	{
+		"armenian": "տատիկ",
+		"english": "grandmother",
+		"audio": "տատիկ.mp3"
+	},
+	{
+		"armenian": "հորաքույր",
+		"english": "aunt (paternal)",
+		"audio": "հորաքույր.mp3"
+	},
+	{
+		"armenian": "մորաքույր",
+		"english": "aunt (maternal)",
+		"audio": "մորաքույր.mp3"
+	},
+	{
+		"armenian": "քեռի",
+		"english": "uncle (maternal)",
+		"audio": "քեռի.mp3"
+	},
+	{
+		"armenian": "հորեղբայր",
+		"english": "uncle (paternal)",
+		"audio": "հորեղբայր.mp3"
+	},
+	{
+		"armenian": "բարեկամ",
+		"english": "relative",
+		"audio": "բարեկամ.mp3"
+	},
+	{
+		"armenian": "վստահել",
+		"english": "to trust",
+		"audio": "վստահել.mp3"
+	},
+	{
+		"armenian": "ամուսնանալ",
+		"english": "to get married",
+		"audio": "ամուսնանալ.mp3"
+	},
+	{
+		"armenian": "բաժանվել",
+		"english": "to get divorced",
+		"audio": "բաժանվել.mp3"
+	},
+	{
+		"armenian": "տեղափոխվել",
+		"english": "to move (to a place)",
+		"audio": "տեղափոխվել.mp3"
+	},
+	{
+		"armenian": "տանել",
+		"english": "to carry, take",
+		"audio": "տանել.mp3"
+	},
+	{
+		"armenian": "գրել",
+		"english": "to write",
+		"audio": "գրել.mp3"
+	},
+	{
+		"armenian": "ավարտել",
+		"english": "to finish",
+		"audio": "ավարտել.mp3"
+	},
+	{
+		"armenian": "վերադառնալ",
+		"english": "to return",
+		"audio": "վերադառնալ.mp3"
+	},
+	{
+		"armenian": "մտնել",
+		"english": "to enter",
+		"audio": "մտնել.mp3"
+	},
+	{
+		"armenian": "տեսնել",
+		"english": "to see",
+		"audio": "տեսնել.mp3"
+	},
+	{
+		"armenian": "հիշել",
+		"english": "to remember",
+		"audio": "հիշել.mp3"
+	},
+	{
+		"armenian": "սկսել",
+		"english": "to start",
+		"audio": "սկսել.mp3"
+	},
+	{
+		"armenian": "զանգել",
+		"english": "to call",
+		"audio": "զանգել.mp3"
+	},
+	{
+		"armenian": "կարոտել",
+		"english": "to miss",
+		"audio": "կարոտել.mp3"
+	},
+	{
+		"armenian": "հետո",
+		"english": "then, after",
+		"audio": "հետո.mp3"
+	},
+	{
+		"armenian": "մեկ ամիս հետո",
+		"english": "after one month",
+		"audio": "մեկ ամիս հետո.mp3"
+	},
+	{
+		"armenian": "հաջորդ",
+		"english": "next",
+		"audio": "հաջորդ.mp3"
+	},
+	{
+		"armenian": "հաջորդ տարի",
+		"english": "next year",
+		"audio": "հաջորդ տարի.mp3"
+	},
+	{
+		"armenian": "վաղը",
+		"english": "tomorrow",
+		"audio": "վաղը.mp3"
+	},
+	{
+		"armenian": "հինգ րոպեից",
+		"english": "in five minutes",
+		"audio": "հինգ րոպեից.mp3"
+	},
+	{
+		"armenian": "կես ժամից",
+		"english": "in half an hour",
+		"audio": "կես ժամից.mp3"
+	},
+	{
+		"armenian": "վաղը չէ մյուս օրը",
+		"english": "the day after tomorrow",
+		"audio": "վաղը չէ մյուս օրը.mp3"
+	},
+	{
+		"armenian": "ինձ",
+		"english": "me",
+		"audio": "ինձ.mp3"
+	},
+	{
+		"armenian": "քեզ",
+		"english": "you (Sg. Acc./Dat.)",
+		"audio": "քեզ.mp3"
+	},
+	{
+		"armenian": "նրան / իրեն",
+		"english": "him / her",
+		"audio": "նրան.mp3"
+	},
+	{
+		"armenian": "մեզ",
+		"english": "us",
+		"audio": "մեզ.mp3"
+	},
+	{
+		"armenian": "ձեզ",
+		"english": "you (Pl. Acc./Dat.)",
+		"audio": "ձեզ.mp3"
+	},
+	{
+		"armenian": "նրանց / իրենց",
+		"english": "them",
+		"audio": "նրանց.mp3"
+	},
+	{
+		"armenian": "միրգ",
+		"english": "fruit",
+		"audio": "միրգ.mp3"
+	},
+	{
+		"armenian": "դեղձ",
+		"english": "peach",
+		"audio": "դեղձ.mp3"
+	},
+	{
+		"armenian": "խնձոր",
+		"english": "apple",
+		"audio": "խնձոր.mp3"
+	},
+	{
+		"armenian": "ծիրան",
+		"english": "apricot",
+		"audio": "ծիրան.mp3"
+	},
+	{
+		"armenian": "պանիր",
+		"english": "cheese",
+		"audio": "պանիր.mp3"
+	},
+	{
+		"armenian": "կարագ",
+		"english": "butter",
+		"audio": "կարագ.mp3"
+	},
+	{
+		"armenian": "ձու",
+		"english": "egg",
+		"audio": "ձու.mp3"
+	},
+	{
+		"armenian": "հաց",
+		"english": "bread",
+		"audio": "հաց.mp3"
+	},
+	{
+		"armenian": "շաքար",
+		"english": "sugar",
+		"audio": "շաքար.mp3"
+	},
+	{
+		"armenian": "միս",
+		"english": "meat",
+		"audio": "միս.mp3"
+	},
+	{
+		"armenian": "բանջարեղեն",
+		"english": "vegetables",
+		"audio": "բանջարեղեն.mp3"
+	},
+	{
+		"armenian": "կարտոֆիլ",
+		"english": "potato",
+		"audio": "կարտոֆիլ.mp3"
+	},
+	{
+		"armenian": "լոլիկ",
+		"english": "tomato",
+		"audio": "լոլիկ.mp3"
+	},
+	{
+		"armenian": "վարունգ",
+		"english": "cucumber",
+		"audio": "վարունգ.mp3"
+	},
+	{
+		"armenian": "ապուր",
+		"english": "soup",
+		"audio": "ապուր.mp3"
+	},
+	{
+		"armenian": "ձվածեղ",
+		"english": "scrambled eggs",
+		"audio": "ձվածեղ.mp3"
+	},
+	{
+		"armenian": "հյութ",
+		"english": "juice",
+		"audio": "հյութ.mp3"
+	},
+	{
+		"armenian": "ջուր",
+		"english": "water",
+		"audio": "ջուր.mp3"
+	},
+	{
+		"armenian": "սուրճ",
+		"english": "coffee",
+		"audio": "սուրճ.mp3"
+	},
+	{
+		"armenian": "թեյ",
+		"english": "tea",
+		"audio": "թեյ.mp3"
+	},
+	{
+		"armenian": "հարցնել",
+		"english": "to ask (a question)",
+		"audio": "հարցնել.mp3"
+	},
+	{
+		"armenian": "լացել",
+		"english": "to cry",
+		"audio": "լացել.mp3"
+	},
+	{
+		"armenian": "նայել",
+		"english": "to look (at)",
+		"audio": "նայել.mp3"
+	},
+	{
+		"armenian": "բացել",
+		"english": "to open",
+		"audio": "բացել.mp3"
+	},
+	{
+		"armenian": "քնել",
+		"english": "to sleep",
+		"audio": "քնել.mp3"
+	},
+	{
+		"armenian": "պատրաստել",
+		"english": "to prepare",
+		"audio": "պատրաստել.mp3"
+	},
+	{
+		"armenian": "լսել",
+		"english": "to listen",
+		"audio": "լսել.mp3"
+	},
+	{
+		"armenian": "հասկանալ",
+		"english": "to understand",
+		"audio": "հասկանալ.mp3"
+	},
+	{
+		"armenian": "պատասխանել",
+		"english": "to answer",
+		"audio": "պատասխանել.mp3"
+	},
+	{
+		"armenian": "կարդալ",
+		"english": "to read",
+		"audio": "կարդալ.mp3"
+	},
+	{
+		"armenian": "երեկ չէ առաջին օրը",
+		"english": "the day before yesterday",
+		"audio": "երեկ չէ առաջին օրը.mp3"
+	},
+	{
+		"armenian": "անցյալ",
+		"english": "last",
+		"audio": "անցյալ.mp3"
+	},
+	{
+		"armenian": "անցյալ տարի",
+		"english": "last year",
+		"audio": "անցյալ տարի.mp3"
+	},
+	{
+		"armenian": "անցյալ անգամ",
+		"english": "last time",
+		"audio": "անցյալ անգամ.mp3"
+	},
+	{
+		"armenian": "առաջ",
+		"english": "before, ago; in front of",
+		"audio": "առաջ.mp3"
+	},
+	{
+		"armenian": "հինգ րոպե առաջ",
+		"english": "five minutes ago",
+		"audio": "հինգ րոպե առաջ.mp3"
+	},
+	{
+		"armenian": "տարիներ առաջ",
+		"english": "years ago",
+		"audio": "տարիներ առաջ.mp3"
+	},
+	{
+		"armenian": "երկու օր առաջ",
+		"english": "two days ago",
+		"audio": "երկու օր առաջ.mp3"
+	},
+	{
+		"armenian": "երեկ",
+		"english": "yesterday",
+		"audio": "երեկ.mp3"
+	},
+	{
+		"armenian": "բոլոր",
+		"english": "all",
+		"audio": "բոլոր.mp3"
+	},
+	{
+		"armenian": "ամեն",
+		"english": "every",
+		"audio": "ամեն.mp3"
+	},
+	{
+		"armenian": "յուրաքանչյուր",
+		"english": "each",
+		"audio": "յուրաքանչյուր.mp3"
+	},
+	{
+		"armenian": "ամբողջ",
+		"english": "whole",
+		"audio": "ամբողջ.mp3"
+	},
+	{
+		"armenian": "ինչպիսի՞ եղանակ է այսօր։",
+		"english": "What is the weather like today?",
+		"audio": "ինչպիսի՞ եղանակ է այսօր։.mp3"
+	},
+	{
+		"armenian": "շոգ / շոգ է",
+		"english": "hot / it is hot",
+		"audio": "շոգ.mp3"
+	},
+	{
+		"armenian": "ցուրտ / ցուրտ է",
+		"english": "cold / it is cold",
+		"audio": "ցուրտ.mp3"
+	},
+	{
+		"armenian": "արեւ / արեւոտ է",
+		"english": "sun / it is sunny",
+		"audio": "արեւ.mp3"
+	},
+	{
+		"armenian": "ամպ / ամպամած է",
+		"english": "cloud / it is cloudy",
+		"audio": "ամպ.mp3"
+	},
+	{
+		"armenian": "քամի / քամոտ է",
+		"english": "wind / it is windy",
+		"audio": "քամի.mp3"
+	},
+	{
+		"armenian": "ձյուն / ձյուն է գալիս",
+		"english": "snow / it is snowing",
+		"audio": "ձյուն.mp3"
+	},
+	{
+		"armenian": "անձրև / անձրև է գալիս",
+		"english": "rain / it is raining",
+		"audio": "անձրև.mp3"
+	},
+	{
+		"armenian": "եղանակ",
+		"english": "weather",
+		"audio": "եղանակ.mp3"
+	},
+	{
+		"armenian": "օդ",
+		"english": "air",
+		"audio": "օդ.mp3"
+	},
+	{
+		"armenian": "չոր",
+		"english": "dry",
+		"audio": "չոր.mp3"
+	},
+	{
+		"armenian": "խոնավ",
+		"english": "humid",
+		"audio": "խոնավ.mp3"
+	},
+	{
+		"armenian": "ցրտել",
+		"english": "to become cold",
+		"audio": "ցրտել.mp3"
+	},
+	{
+		"armenian": "տաքանալ",
+		"english": "to become warm",
+		"audio": "տաքանալ.mp3"
+	},
+	{
+		"armenian": "ամառ",
+		"english": "summer",
+		"audio": "ամառ.mp3"
+	},
+	{
+		"armenian": "աշուն",
+		"english": "autumn / fall",
+		"audio": "աշուն.mp3"
+	},
+	{
+		"armenian": "ձմեռ",
+		"english": "winter",
+		"audio": "ձմեռ.mp3"
+	},
+	{
+		"armenian": "գարուն",
+		"english": "spring",
+		"audio": "գարուն.mp3"
+	},
+	{
+		"armenian": "ես ունեի",
+		"english": "I had",
+		"audio": "ես ունեի.mp3"
+	},
+	{
+		"armenian": "ես չունեի",
+		"english": "I didn't have",
+		"audio": "ես չունեի.mp3"
+	},
+	{
+		"armenian": "կար",
+		"english": "there was",
+		"audio": "կար.mp3"
+	},
+	{
+		"armenian": "կային",
+		"english": "there were",
+		"audio": "կային.mp3"
+	},
+	{
+		"armenian": "չկար",
+		"english": "there was not",
+		"audio": "չկար.mp3"
+	},
+	{
+		"armenian": "չկային",
+		"english": "there were not",
+		"audio": "չկային.mp3"
+	},
+	{
+		"armenian": "առօրյա",
+		"english": "daily routine",
+		"audio": "առօրյա.mp3"
+	},
+	{
+		"armenian": "սափրվել",
+		"english": "to shave one's face",
+		"audio": "սափրվել.mp3"
+	},
+	{
+		"armenian": "ատամները մաքրել",
+		"english": "to clean one's teeth",
+		"audio": "ատամները մաքրել.mp3"
+	},
+	{
+		"armenian": "մազերը սանրել",
+		"english": "to comb one's hair",
+		"audio": "մազերը սանրել.mp3"
+	},
+	{
+		"armenian": "մարզվել",
+		"english": "to work out",
+		"audio": "մարզվել.mp3"
+	},
+	{
+		"armenian": "հագուստ հագնել",
+		"english": "to put on one's clothes",
+		"audio": "հագուստ հագնել.mp3"
+	},
+	{
+		"armenian": "հագուստ հանել",
+		"english": "to take off one's clothes",
+		"audio": "հագուստ հանել.mp3"
+	},
+	{
+		"armenian": "ճաշ եփել",
+		"english": "to cook dinner",
+		"audio": "ճաշ եփել.mp3"
+	},
+	{
+		"armenian": "լողանալ",
+		"english": "to have a shower",
+		"audio": "լողանալ.mp3"
+	},
+	{
+		"armenian": "լվացք անել",
+		"english": "to do laundry",
+		"audio": "լվացք անել.mp3"
+	},
+	{
+		"armenian": "ամանները լվանալ",
+		"english": "to wash the dishes",
+		"audio": "ամանները լվանալ.mp3"
+	},
+	{
+		"armenian": "հագուստը արդուկել",
+		"english": "to iron the clothes",
+		"audio": "հագուստը արդուկել.mp3"
+	},
+	{
+		"armenian": "փոշին մաքրել",
+		"english": "to clean the dust",
+		"audio": "փոշին մաքրել.mp3"
+	},
+	{
+		"armenian": "հեռուստացույց նայել",
+		"english": "to watch TV",
+		"audio": "հեռուստացույց նայել.mp3"
+	},
+	{
+		"armenian": "գնալ գնումների",
+		"english": "to go shopping",
+		"audio": "գնալ գնումների.mp3"
+	},
+	{
+		"armenian": "հագնվել",
+		"english": "to get dressed",
+		"audio": "հագնվել.mp3"
+	},
+	{
+		"armenian": "կազմակերպություն",
+		"english": "organization",
+		"audio": "կազմակերպություն.mp3"
+	},
+	{
+		"armenian": "գտնվել",
+		"english": "to be located",
+		"audio": "գտնվել.mp3"
+	},
+	{
+		"armenian": "խաշած ձու",
+		"english": "boiled egg",
+		"audio": "խաշած ձու.mp3"
+	},
+	{
+		"armenian": "հանգստանալ",
+		"english": "to have a rest",
+		"audio": "հանգստանալ.mp3"
+	},
+	{
+		"armenian": "բաժակ",
+		"english": "a glass",
+		"audio": "բաժակ.mp3"
+	},
+	{
+		"armenian": "քանի որ",
+		"english": "as (condition)",
+		"audio": "քանի որ.mp3"
+	},
+	{
+		"armenian": "մի խոսքով",
+		"english": "in a word / in short",
+		"audio": "մի խոսքով.mp3"
+	},
+	{
+		"armenian": "գործընկեր",
+		"english": "colleague",
+		"audio": "գործընկեր.mp3"
+	},
+	{
+		"armenian": "ընդմիջում",
+		"english": "a break",
+		"audio": "ընդմիջում.mp3"
+	},
+	{
+		"armenian": "ընթրել",
+		"english": "to have supper",
+		"audio": "ընթրել.mp3"
+	},
+	{
+		"armenian": "ակումբ",
+		"english": "a club",
+		"audio": "ակումբ.mp3"
+	},
+	{
+		"armenian": "գարեջուր",
+		"english": "beer",
+		"audio": "գարեջուր.mp3"
+	},
+	{
+		"armenian": "հագուստ",
+		"english": "clothes",
+		"audio": "հագուստ.mp3"
+	},
+	{
+		"armenian": "լվանալ",
+		"english": "to wash sth.",
+		"audio": "լվանալ.mp3"
+	},
+	{
+		"armenian": "մաքրել",
+		"english": "to clean",
+		"audio": "մաքրել.mp3"
+	},
+	{
+		"armenian": "մեծ",
+		"english": "big",
+		"audio": "մեծ.mp3"
+	},
+	{
+		"armenian": "փոքր",
+		"english": "small",
+		"audio": "փոքր.mp3"
+	},
+	{
+		"armenian": "վերջ",
+		"english": "the end",
+		"audio": "վերջ.mp3"
+	},
+	{
+		"armenian": "ճանապարհ",
+		"english": "way, road",
+		"audio": "ճանապարհ.mp3"
+	},
+	{
+		"armenian": "հոտ գալ",
+		"english": "to smell",
+		"audio": "հոտ գալ.mp3"
+	},
+	{
+		"armenian": "ուրեմն",
+		"english": "so",
+		"audio": "ուրեմն.mp3"
+	},
+	{
+		"armenian": "էլ",
+		"english": "also, too",
+		"audio": "էլ.mp3"
+	},
+	{
+		"armenian": "հասնել",
+		"english": "to reach",
+		"audio": "հասնել.mp3"
+	},
+	{
+		"armenian": "սիրտը խառնել",
+		"english": "to feel nauseous",
+		"audio": "սիրտը խառնել.mp3"
+	},
+	{
+		"armenian": "ինստիտուտ",
+		"english": "institute",
+		"audio": "ինստիտուտ.mp3"
+	},
+	{
+		"armenian": "դերասանուհի",
+		"english": "actress",
+		"audio": "դերասանուհի.mp3"
+	},
+	{
+		"armenian": "դառնալ",
+		"english": "to become",
+		"audio": "դառնալ.mp3"
+	},
+	{
+		"armenian": "հաստատ",
+		"english": "definitely",
+		"audio": "հաստատ.mp3"
+	},
+	{
+		"armenian": "այստեղ",
+		"english": "here",
+		"audio": "այստեղ.mp3"
+	},
+	{
+		"armenian": "թաղամաս",
+		"english": "district",
+		"audio": "թաղամաս.mp3"
+	},
+	{
+		"armenian": "պետական",
+		"english": "state",
+		"audio": "պետական.mp3"
+	},
+	{
+		"armenian": "մարդու",
+		"english": "man, person GEN",
+		"audio": "մարդու.mp3"
+	},
+	{
+		"armenian": "ամուսնու",
+		"english": "husband GEN",
+		"audio": "ամուսնու.mp3"
+	},
+	{
+		"armenian": "անկողին",
+		"english": "bed",
+		"audio": "անկողին.mp3"
+	},
+	{
+		"armenian": "անկողնու",
+		"english": "bed GEN",
+		"audio": "անկողնու.mp3"
+	},
+	{
+		"armenian": "ձիու",
+		"english": "horse GEN",
+		"audio": "ձիու.mp3"
+	},
+	{
+		"armenian": "աստված",
+		"english": "God",
+		"audio": "աստված.mp3"
+	},
+	{
+		"armenian": "աստծու",
+		"english": "God GEN",
+		"audio": "աստծու.mp3"
+	},
+	{
+		"armenian": "կնոջ",
+		"english": "woman GEN",
+		"audio": "կնոջ.mp3"
+	},
+	{
+		"armenian": "քրոջ",
+		"english": "sister GEN",
+		"audio": "քրոջ.mp3"
+	},
+	{
+		"armenian": "ընկերոջ",
+		"english": "friend GEN",
+		"audio": "ընկերոջ.mp3"
+	},
+	{
+		"armenian": "տեր",
+		"english": "owner",
+		"audio": "տեր.mp3"
+	},
+	{
+		"armenian": "տիրոջ",
+		"english": "owner GEN",
+		"audio": "տիրոջ.mp3"
+	},
+	{
+		"armenian": "տան",
+		"english": "house, home GEN",
+		"audio": "տան.mp3"
+	},
+	{
+		"armenian": "շան",
+		"english": "dog GEN",
+		"audio": "շան.mp3"
+	},
+	{
+		"armenian": "անվան",
+		"english": "name GEN",
+		"audio": "անվան.mp3"
+	},
+	{
+		"armenian": "ձյան",
+		"english": "snow GEN",
+		"audio": "ձյան.mp3"
+	},
+	{
+		"armenian": "արյուն",
+		"english": "blood",
+		"audio": "արյուն.mp3"
+	},
+	{
+		"armenian": "արյան",
+		"english": "blood GEN",
+		"audio": "արյան.mp3"
+	},
+	{
+		"armenian": "անկյուն",
+		"english": "corner",
+		"audio": "անկյուն.mp3"
+	},
+	{
+		"armenian": "անկյան",
+		"english": "corner GEN",
+		"audio": "անկյան.mp3"
+	},
+	{
+		"armenian": "սյուն",
+		"english": "column",
+		"audio": "սյուն.mp3"
+	},
+	{
+		"armenian": "սյան",
+		"english": "column GEN",
+		"audio": "սյան.mp3"
+	},
+	{
+		"armenian": "ժամանց",
+		"english": "entertainment",
+		"audio": "ժամանց.mp3"
+	},
+	{
+		"armenian": "ներկայացում նայել",
+		"english": "to watch a theatrical performance",
+		"audio": "ներկայացում նայել.mp3"
+	},
+	{
+		"armenian": "ժողովրդական երգեր",
+		"english": "folk songs",
+		"audio": "ժողովրդական երգեր.mp3"
+	},
+	{
+		"armenian": "դաշնամուր նվագել",
+		"english": "to play the piano",
+		"audio": "դաշնամուր նվագել.mp3"
+	},
+	{
+		"armenian": "ջութակ նվագել",
+		"english": "to play the violin",
+		"audio": "ջութակ նվագել.mp3"
+	},
+	{
+		"armenian": "կիթառ նվագել",
+		"english": "to play the guitar",
+		"audio": "կիթառ նվագել.mp3"
+	},
+	{
+		"armenian": "տոմս առնել",
+		"english": "to buy a ticket",
+		"audio": "տոմս առնել.mp3"
+	},
+	{
+		"armenian": "հաղորդում դիտել",
+		"english": "to watch a TV program",
+		"audio": "հաղորդում դիտել.mp3"
+	},
+	{
+		"armenian": "լավ ժամանակ անցկացնել",
+		"english": "to spend a good time",
+		"audio": "լավ ժամանակ անցկացնել.mp3"
+	},
+	{
+		"armenian": "գնալ քաղաքից դուրս",
+		"english": "to go to the countryside",
+		"audio": "գնալ քաղաքից դուրս.mp3"
+	},
+	{
+		"armenian": "դասական երաժշտություն լսել",
+		"english": "to listen to classical music",
+		"audio": "դասական երաժշտություն լսել.mp3"
+	},
+	{
+		"armenian": "թանգարան գնալ",
+		"english": "to go to the museum",
+		"audio": "թանգարան գնալ.mp3"
+	},
+	{
+		"armenian": "թատրոն գնալ",
+		"english": "to go to the theater",
+		"audio": "թատրոն գնալ.mp3"
+	},
+	{
+		"armenian": "կինո գնալ",
+		"english": "to go to the cinema",
+		"audio": "կինո գնալ.mp3"
+	},
+	{
+		"armenian": "մարզադաշտ գնալ",
+		"english": "to go to the stadium",
+		"audio": "մարզադաշտ գնալ.mp3"
+	},
+	{
+		"armenian": "գնալ արշավի",
+		"english": "to go hiking",
+		"audio": "գնալ արշավի.mp3"
+	},
+	{
+		"armenian": "ամռանը",
+		"english": "in summer",
+		"audio": "ամռանը.mp3"
+	},
+	{
+		"armenian": "դուրս",
+		"english": "outside",
+		"audio": "դուրս.mp3"
+	},
+	{
+		"armenian": "ուտելիք",
+		"english": "food",
+		"audio": "ուտելիք.mp3"
+	},
+	{
+		"armenian": "հուսով եմ",
+		"english": "I hope",
+		"audio": "հուսով եմ.mp3"
+	},
+	{
+		"armenian": "շուն",
+		"english": "dog",
+		"audio": "շուն.mp3"
+	},
+	{
+		"armenian": "հավատարիմ",
+		"english": "devoted",
+		"audio": "հավատարիմ.mp3"
+	},
+	{
+		"armenian": "զվարճացնել",
+		"english": "to amuse, entertain sb.",
+		"audio": "զվարճացնել.mp3"
+	},
+	{
+		"armenian": "վերցնել",
+		"english": "to take",
+		"audio": "վերցնել.mp3"
+	},
+	{
+		"armenian": "լողազգեստ",
+		"english": "swimsuit",
+		"audio": "լողազգեստ.mp3"
+	},
+	{
+		"armenian": "ֆոտոխցիկ",
+		"english": "camera",
+		"audio": "ֆոտոխցիկ.mp3"
+	},
+	{
+		"armenian": "բնություն",
+		"english": "nature",
+		"audio": "բնություն.mp3"
+	},
+	{
+		"armenian": "պատրաստել",
+		"english": "to make",
+		"audio": "պատրաստել.mp3"
+	},
+	{
+		"armenian": "խոզի միս",
+		"english": "pork",
+		"audio": "խոզի միս.mp3"
+	},
+	{
+		"armenian": "լողալ",
+		"english": "to swim",
+		"audio": "լողալ.mp3"
+	},
+	{
+		"armenian": "սառը",
+		"english": "cold",
+		"audio": "սառը.mp3"
+	},
+	{
+		"armenian": "հաճելի",
+		"english": "pleasant",
+		"audio": "հաճելի.mp3"
+	},
+	{
+		"armenian": "այնտեղ",
+		"english": "there",
+		"audio": "այնտեղ.mp3"
+	},
+	{
+		"armenian": "վերևից",
+		"english": "from above",
+		"audio": "վերևից.mp3"
+	},
+	{
+		"armenian": "անպայման",
+		"english": "definitely",
+		"audio": "անպայման.mp3"
+	},
+	{
+		"armenian": "խորոված",
+		"english": "barbecue",
+		"audio": "խորոված.mp3"
+	},
+	{
+		"armenian": "լուսանկարել",
+		"english": "to take photos",
+		"audio": "լուսանկարել.mp3"
+	},
+	{
+		"armenian": "նույնպես",
+		"english": "also, as well",
+		"audio": "նույնպես.mp3"
+	},
+	{
+		"armenian": "նախաճաշ պատրաստել",
+		"english": "to prepare breakfast",
+		"audio": "նախաճաշ պատրաստել.mp3"
+	},
+	{
+		"armenian": "ներկայացում",
+		"english": "performance",
+		"audio": "ներկայացում.mp3"
+	},
+	{
+		"armenian": "զանգում է հեռախոսը։",
+		"english": "The telephone is ringing.",
+		"audio": "զանգում է հեռախոսը։.mp3"
+	},
+	{
+		"armenian": "մի քիչ",
+		"english": "a little",
+		"audio": "մի քիչ.mp3"
+	},
+	{
+		"armenian": "ալարել",
+		"english": "to be lazy",
+		"audio": "ալարել.mp3"
+	},
+	{
+		"armenian": "այնպես որ",
+		"english": "so",
+		"audio": "այնպես որ.mp3"
+	},
+	{
+		"armenian": "շփոթված",
+		"english": "perplexed, confused",
+		"audio": "շփոթված.mp3"
+	},
+	{
+		"armenian": "տիկին",
+		"english": "Mrs.",
+		"audio": "տիկին.mp3"
+	},
+	{
+		"armenian": "դուրս գալ",
+		"english": "to go out",
+		"audio": "դուրս գալ.mp3"
+	},
+	{
+		"armenian": "մտածել",
+		"english": "to think",
+		"audio": "մտածել.mp3"
+	},
+	{
+		"armenian": "քննություն",
+		"english": "examination",
+		"audio": "քննություն.mp3"
+	},
+	{
+		"armenian": "միասին",
+		"english": "together",
+		"audio": "միասին.mp3"
+	},
+	{
+		"armenian": "հրավիրել",
+		"english": "to invite",
+		"audio": "հրավիրել.mp3"
+	},
+	{
+		"armenian": "սպասել",
+		"english": "to wait",
+		"audio": "սպասել.mp3"
+	},
+	{
+		"armenian": "կարծում եմ",
+		"english": "I think",
+		"audio": "կարծում եմ.mp3"
+	},
+	{
+		"armenian": "հավանել",
+		"english": "to like to fancy",
+		"audio": "հավանել.mp3"
+	},
+	{
+		"armenian": "ձեռք առնել",
+		"english": "to mock",
+		"audio": "ձեռք առնել.mp3"
+	},
+	{
+		"armenian": "ափսոս",
+		"english": "It's a pity",
+		"audio": "ափսոս.mp3"
+	},
+	{
+		"armenian": "ճիշտն ասած",
+		"english": "to tell the truth",
+		"audio": "ճիշտն ասած.mp3"
+	},
+	{
+		"armenian": "մոր",
+		"english": "mother GEN",
+		"audio": "մոր.mp3"
+	},
+	{
+		"armenian": "հոր",
+		"english": "father GEN",
+		"audio": "հոր.mp3"
+	},
+	{
+		"armenian": "եղբոր",
+		"english": "brother GEN",
+		"audio": "եղբոր.mp3"
+	},
+	{
+		"armenian": "ամռան",
+		"english": "summer GEN",
+		"audio": "ամռան.mp3"
+	},
+	{
+		"armenian": "աշնան",
+		"english": "autumn GEN",
+		"audio": "աշնան.mp3"
+	},
+	{
+		"armenian": "ձմռան",
+		"english": "winter GEN",
+		"audio": "ձմռան.mp3"
+	},
+	{
+		"armenian": "գարնան",
+		"english": "spring GEN",
+		"audio": "գարնան.mp3"
+	},
+	{
+		"armenian": "դռան",
+		"english": "door GEN",
+		"audio": "դռան.mp3"
+	},
+	{
+		"armenian": "լեռան",
+		"english": "mountain GEN",
+		"audio": "լեռան.mp3"
+	},
+	{
+		"armenian": "ձկան",
+		"english": "fish GEN",
+		"audio": "ձկան.mp3"
+	},
+	{
+		"armenian": "մկան",
+		"english": "mouse GEN",
+		"audio": "մկան.mp3"
+	},
+	{
+		"armenian": "նռան",
+		"english": "pomegranate GEN",
+		"audio": "նռան.mp3"
+	},
+	{
+		"armenian": "թոռան",
+		"english": "grandchild GEN",
+		"audio": "թոռան.mp3"
+	},
+	{
+		"armenian": "օրվա",
+		"english": "day GEN",
+		"audio": "օրվա.mp3"
+	},
+	{
+		"armenian": "ամսվա",
+		"english": "month GEN",
+		"audio": "ամսվա.mp3"
+	},
+	{
+		"armenian": "առավոտվա",
+		"english": "morning GEN",
+		"audio": "առավոտվա.mp3"
+	},
+	{
+		"armenian": "երեկվա",
+		"english": "yesterday GEN",
+		"audio": "երեկվա.mp3"
+	},
+	{
+		"armenian": "վաղվա",
+		"english": "tomorrow GEN",
+		"audio": "վաղվա.mp3"
+	},
+	{
+		"armenian": "ցերեկ",
+		"english": "daytime",
+		"audio": "ցերեկ.mp3"
+	},
+	{
+		"armenian": "ցերեկվա",
+		"english": "daytime GEN",
+		"audio": "ցերեկվա.mp3"
+	},
+	{
+		"armenian": "աղջկա",
+		"english": "girl GEN",
+		"audio": "աղջկա.mp3"
+	},
+	{
+		"armenian": "սեր",
+		"english": "love",
+		"audio": "սեր.mp3"
+	},
+	{
+		"armenian": "սիրո",
+		"english": "love GEN",
+		"audio": "սիրո.mp3"
+	},
+	{
+		"armenian": "դուստր",
+		"english": "daughter",
+		"audio": "դուստր.mp3"
+	},
+	{
+		"armenian": "դստեր",
+		"english": "daughter GEN",
+		"audio": "դստեր.mp3"
+	},
+	{
+		"armenian": "մարդկանց",
+		"english": "people GEN",
+		"audio": "մարդկանց.mp3"
+	},
+	{
+		"armenian": "կանանց",
+		"english": "women GEN",
+		"audio": "կանանց.mp3"
+	},
+	{
+		"armenian": "կայսր",
+		"english": "emperor",
+		"audio": "կայսր.mp3"
+	},
+	{
+		"armenian": "կայսեր",
+		"english": "emperor GEN",
+		"audio": "կայսեր.mp3"
+	},
+	{
+		"armenian": "հանդիպում",
+		"english": "meeting",
+		"audio": "հանդիպում.mp3"
+	},
+	{
+		"armenian": "հանդիպման",
+		"english": "meeting GEN",
+		"audio": "հանդիպման.mp3"
+	},
+	{
+		"armenian": "հայր(իկ)",
+		"english": "father",
+		"audio": "հայր(իկ).mp3"
+	},
+	{
+		"armenian": "մայր(իկ)",
+		"english": "mother",
+		"audio": "մայր(իկ).mp3"
+	},
+	{
+		"armenian": "քույր(իկ)",
+		"english": "sister",
+		"audio": "քույր(իկ).mp3"
+	},
+	{
+		"armenian": "եղբայր",
+		"english": "brother",
+		"audio": "եղբայր.mp3"
+	},
+	{
+		"armenian": "զարմիկ",
+		"english": "cousin",
+		"audio": "զարմիկ.mp3"
+	},
+	{
+		"armenian": "պապիկ",
+		"english": "grandfather",
+		"audio": "պապիկ.mp3"
+	},
+	{
+		"armenian": "երեխա",
+		"english": "child",
+		"audio": "երեխա.mp3"
+	},
+	{
+		"armenian": "կին",
+		"english": "wife",
+		"audio": "կին.mp3"
+	},
+	{
+		"armenian": "տատիկ",
+		"english": "grandmother",
+		"audio": "տատիկ.mp3"
+	},
+	{
+		"armenian": "հորաքույր",
+		"english": "aunt (paternal)",
+		"audio": "հորաքույր.mp3"
+	},
+	{
+		"armenian": "մորաքույր",
+		"english": "aunt (maternal)",
+		"audio": "մորաքույր.mp3"
+	},
+	{
+		"armenian": "քեռի",
+		"english": "uncle (maternal)",
+		"audio": "քեռի.mp3"
+	},
+	{
+		"armenian": "հորեղբայր",
+		"english": "uncle (paternal)",
+		"audio": "հորեղբայր.mp3"
+	},
+	{
+		"armenian": "բարեկամ",
+		"english": "relative",
+		"audio": "բարեկամ.mp3"
+	},
+	{
+		"armenian": "ծնողներ",
+		"english": "parents",
+		"audio": "ծնողներ.mp3"
+	},
+	{
+		"armenian": "թոռ",
+		"english": "grandchild",
+		"audio": "թոռ.mp3"
+	},
+	{
+		"armenian": "կնքահայր",
+		"english": "Godfather",
+		"audio": "կնքահայր.mp3"
+	},
+	{
+		"armenian": "կնքամայր",
+		"english": "Godmother",
+		"audio": "կնքամայր.mp3"
+	},
+	{
+		"armenian": "խորթ հայր",
+		"english": "stepfather",
+		"audio": "խորթ հայր.mp3"
+	},
+	{
+		"armenian": "խորթ մայր",
+		"english": "stepmother",
+		"audio": "խորթ մայր.mp3"
+	},
+	{
+		"armenian": "հարեւան",
+		"english": "neighbor",
+		"audio": "հարեւան.mp3"
+	},
+	{
+		"armenian": "ամուսին",
+		"english": "husband",
+		"audio": "ամուսին.mp3"
+	},
+	{
+		"armenian": "ամուսնանալ (հետ)",
+		"english": "to marry",
+		"audio": "ամուսնանալ (հետ).mp3"
+	},
+	{
+		"armenian": "ամուսնացած (հետ)",
+		"english": "married (to)",
+		"audio": "ամուսնացած (հետ).mp3"
+	},
+	{
+		"armenian": "բաժանվել",
+		"english": "to divorce",
+		"audio": "բաժանվել.mp3"
+	},
+	{
+		"armenian": "բաժանված",
+		"english": "divorced",
+		"audio": "բաժանված.mp3"
+	},
+	{
+		"armenian": "սիրահարվել",
+		"english": "to fall in love",
+		"audio": "սիրահարվել.mp3"
+	},
+	{
+		"armenian": "սիրահարված",
+		"english": "in love",
+		"audio": "սիրահարված.mp3"
+	},
+	{
+		"armenian": "մահանալ",
+		"english": "to die, to pass away",
+		"audio": "մահանալ.mp3"
+	},
+	{
+		"armenian": "մահացած",
+		"english": "dead",
+		"audio": "մահացած.mp3"
+	},
+	{
+		"armenian": "մաթեմատիկա",
+		"english": "mathematics",
+		"audio": "մաթեմատիկա.mp3"
+	},
+	{
+		"armenian": "ուսուցչուհի",
+		"english": "teacher (female)",
+		"audio": "ուսուցչուհի.mp3"
+	},
+	{
+		"armenian": "ոստիկանություն",
+		"english": "police",
+		"audio": "ոստիկանություն.mp3"
+	},
+	{
+		"armenian": "նվագել",
+		"english": "to play (a musical intstrument)",
+		"audio": "նվագել.mp3"
+	},
+	{
+		"armenian": "հայտնի",
+		"english": "famous",
+		"audio": "հայտնի.mp3"
+	},
+	{
+		"armenian": "նվագախումբ",
+		"english": "a musical band",
+		"audio": "նվագախումբ.mp3"
+	},
+	{
+		"armenian": "բակ",
+		"english": "a yard",
+		"audio": "բակ.mp3"
+	},
+	{
+		"armenian": "բարձրանալ",
+		"english": "to climb, go up",
+		"audio": "բարձրանալ.mp3"
+	},
+	{
+		"armenian": "մանկապարտեզ",
+		"english": "kindergarten",
+		"audio": "մանկապարտեզ.mp3"
+	},
+	{
+		"armenian": "համալսարան",
+		"english": "university",
+		"audio": "համալսարան.mp3"
+	},
+	{
+		"armenian": "թոշակառու",
+		"english": "retired, pensioner",
+		"audio": "թոշակառու.mp3"
+	},
+	{
+		"armenian": "գյուղ",
+		"english": "village",
+		"audio": "գյուղ.mp3"
+	},
+	{
+		"armenian": "այգի",
+		"english": "garden",
+		"audio": "այգի.mp3"
+	},
+	{
+		"armenian": "համով",
+		"english": "tasty",
+		"audio": "համով.mp3"
+	},
+	{
+		"armenian": "գեղեցիկ",
+		"english": "pretty",
+		"audio": "գեղեցիկ.mp3"
+	},
+	{
+		"armenian": "հետ (+d)",
+		"english": "with",
+		"audio": "հետ (+d).mp3"
+	},
+	{
+		"armenian": "համար (+d)",
+		"english": "for",
+		"audio": "համար (+d).mp3"
+	},
+	{
+		"armenian": "մոտ (+d)",
+		"english": "near",
+		"audio": "մոտ (+d).mp3"
+	},
+	{
+		"armenian": "վրա (+g)",
+		"english": "on",
+		"audio": "վրա (+g).mp3"
+	},
+	{
+		"armenian": "պես (+d)",
+		"english": "like",
+		"audio": "պես (+d).mp3"
+	},
+	{
+		"armenian": "նման (+d)",
+		"english": "like",
+		"audio": "նման (+d).mp3"
+	},
+	{
+		"armenian": "առանց (+d)",
+		"english": "without (preposition)",
+		"audio": "առանց (+d).mp3"
+	},
+	{
+		"armenian": "մասին (+g)",
+		"english": "about",
+		"audio": "մասին (+g).mp3"
+	},
+	{
+		"armenian": "փոխարեն (+g)",
+		"english": "instead",
+		"audio": "փոխարեն (+g).mp3"
+	},
+	{
+		"armenian": "տակ (+g)",
+		"english": "under",
+		"audio": "տակ (+g).mp3"
+	},
+	{
+		"armenian": "մեջ (+g)",
+		"english": "in",
+		"audio": "մեջ (+g).mp3"
+	},
+	{
+		"armenian": "միջև (+g)",
+		"english": "between",
+		"audio": "միջև (+g).mp3"
+	},
+	{
+		"armenian": "բոլորը",
+		"english": "all, everybody",
+		"audio": "բոլորը.mp3"
+	},
+	{
+		"armenian": "ծանոթացնել",
+		"english": "to introduce",
+		"audio": "ծանոթացնել.mp3"
+	},
+	{
+		"armenian": "բժշկուհի",
+		"english": "doctor (female)",
+		"audio": "բժշկուհի.mp3"
+	},
+	{
+		"armenian": "տարօրինակ",
+		"english": "strange",
+		"audio": "տարօրինակ.mp3"
+	},
+	{
+		"armenian": "խելացի",
+		"english": "smart",
+		"audio": "խելացի.mp3"
+	},
+	{
+		"armenian": "խենթ",
+		"english": "crazy",
+		"audio": "խենթ.mp3"
+	},
+	{
+		"armenian": "մազեր",
+		"english": "hair",
+		"audio": "մազեր.mp3"
+	},
+	{
+		"armenian": "սանրվածք",
+		"english": "haircut",
+		"audio": "սանրվածք.mp3"
+	},
+	{
+		"armenian": "ցավոք սրտի",
+		"english": "unfortunately",
+		"audio": "ցավոք սրտի.mp3"
+	},
+	{
+		"armenian": "հայաստան",
+		"english": "Armenia",
+		"audio": "հայաստան.mp3"
+	},
+	{
+		"armenian": "հայ",
+		"english": "Armenian (nationality)",
+		"audio": "հայ.mp3"
+	},
+	{
+		"armenian": "հայերեն",
+		"english": "Armenian (language)",
+		"audio": "հայերեն.mp3"
+	},
+	{
+		"armenian": "հայկական կոնյակ",
+		"english": "Armenian cognac",
+		"audio": "հայկական կոնյակ.mp3"
+	},
+	{
+		"armenian": "ռուսաստան",
+		"english": "Russia",
+		"audio": "ռուսաստան.mp3"
+	},
+	{
+		"armenian": "ռուս",
+		"english": "Russian (nationality)",
+		"audio": "ռուս.mp3"
+	},
+	{
+		"armenian": "ռուսերեն",
+		"english": "Russian (language)",
+		"audio": "ռուսերեն.mp3"
+	},
+	{
+		"armenian": "ռուսական օղի",
+		"english": "Russian vodka",
+		"audio": "ռուսական օղի.mp3"
+	},
+	{
+		"armenian": "անգլիա",
+		"english": "England",
+		"audio": "անգլիա.mp3"
+	},
+	{
+		"armenian": "անգլիացի",
+		"english": "English (nationality)",
+		"audio": "անգլիացի.mp3"
+	},
+	{
+		"armenian": "անգլերեն",
+		"english": "English (language)",
+		"audio": "անգլերեն.mp3"
+	},
+	{
+		"armenian": "անգլիական եղանակ",
+		"english": "English weather",
+		"audio": "անգլիական եղանակ.mp3"
+	},
+	{
+		"armenian": "ֆրանսիա",
+		"english": "France",
+		"audio": "ֆրանսիա.mp3"
+	},
+	{
+		"armenian": "ֆրանսիացի",
+		"english": "French (nationality)",
+		"audio": "ֆրանսիացի.mp3"
+	},
+	{
+		"armenian": "ֆրանսերեն",
+		"english": "French (language)",
+		"audio": "ֆրանսերեն.mp3"
+	},
+	{
+		"armenian": "ֆրանսիական պանիր",
+		"english": "French cheese",
+		"audio": "ֆրանսիական պանիր.mp3"
+	},
+	{
+		"armenian": "թուրքիա",
+		"english": "Turkey",
+		"audio": "թուրքիա.mp3"
+	},
+	{
+		"armenian": "թուրք",
+		"english": "Turkish (nationality)",
+		"audio": "թուրք.mp3"
+	},
+	{
+		"armenian": "թուրքերեն",
+		"english": "Turkish (language)",
+		"audio": "թուրքերեն.mp3"
+	},
+	{
+		"armenian": "թուրքական սուրճ",
+		"english": "Turkish coffee",
+		"audio": "թուրքական սուրճ.mp3"
+	},
+	{
+		"armenian": "չինաստան",
+		"english": "China",
+		"audio": "չինաստան.mp3"
+	},
+	{
+		"armenian": "չինացի",
+		"english": "Chinese (nationality)",
+		"audio": "չինացի.mp3"
+	},
+	{
+		"armenian": "չինարեն",
+		"english": "Chinese (language)",
+		"audio": "չինարեն.mp3"
+	},
+	{
+		"armenian": "չինական մետաքս",
+		"english": "Chinese silk",
+		"audio": "չինական մետաքս.mp3"
+	},
+	{
+		"armenian": "հնդկաստան",
+		"english": "India",
+		"audio": "հնդկաստան.mp3"
+	},
+	{
+		"armenian": "հնդիկ",
+		"english": "Indian (nationality)",
+		"audio": "հնդիկ.mp3"
+	},
+	{
+		"armenian": "հնդկերեն",
+		"english": "Indian (language)",
+		"audio": "հնդկերեն.mp3"
+	},
+	{
+		"armenian": "հնդկական թեյ",
+		"english": "Indian tea",
+		"audio": "հնդկական թեյ.mp3"
+	},
+	{
+		"armenian": "իրան / պարսկաստան",
+		"english": "Iran / Persia",
+		"audio": "իրան.mp3"
+	},
+	{
+		"armenian": "պարսիկ",
+		"english": "Persian (nationality)",
+		"audio": "պարսիկ.mp3"
+	},
+	{
+		"armenian": "պարսկերեն",
+		"english": "Persian (language)",
+		"audio": "պարսկերեն.mp3"
+	},
+	{
+		"armenian": "պարսկական գորգ",
+		"english": "Persian carpet",
+		"audio": "պարսկական գորգ.mp3"
+	},
+	{
+		"armenian": "վրաստան",
+		"english": "Georgia",
+		"audio": "վրաստան.mp3"
+	},
+	{
+		"armenian": "վրացի",
+		"english": "Georgian (nationality)",
+		"audio": "վրացի.mp3"
+	},
+	{
+		"armenian": "վրացերեն",
+		"english": "Georgian (language)",
+		"audio": "վրացերեն.mp3"
+	},
+	{
+		"armenian": "վրացական գինի",
+		"english": "Georgian wine",
+		"audio": "վրացական գինի.mp3"
+	},
+	{
+		"armenian": "ամերիկայի միացյալ նահանգներ (ամն)",
+		"english": "United States of America (USA)",
+		"audio": "ամերիկայի միացյալ նահանգներ (ամն).mp3"
+	},
+	{
+		"armenian": "ամերիկացի",
+		"english": "American (nationality)",
+		"audio": "ամերիկացի.mp3"
+	},
+	{
+		"armenian": "ամերիկյան ֆուտբոլ",
+		"english": "American football",
+		"audio": "ամերիկյան ֆուտբոլ.mp3"
+	},
+	{
+		"armenian": "կանադա",
+		"english": "Canada",
+		"audio": "կանադա.mp3"
+	},
+	{
+		"armenian": "կանադացի",
+		"english": "Canadian (nationality)",
+		"audio": "կանադացի.mp3"
+	},
+	{
+		"armenian": "կանադական ձմեռ",
+		"english": "Canadian winter",
+		"audio": "կանադական ձմեռ.mp3"
+	},
+	{
+		"armenian": "սիրիա",
+		"english": "Syria",
+		"audio": "սիրիա.mp3"
+	},
+	{
+		"armenian": "սիրիացի",
+		"english": "Syrian (nationality)",
+		"audio": "սիրիացի.mp3"
+	},
+	{
+		"armenian": "արաբերեն",
+		"english": "Arabic",
+		"audio": "արաբերեն.mp3"
+	},
+	{
+		"armenian": "սիրիական ուտելիք",
+		"english": "Syrian food",
+		"audio": "սիրիական ուտելիք.mp3"
+	},
+	{
+		"armenian": "իսպանիա",
+		"english": "Spain",
+		"audio": "իսպանիա.mp3"
+	},
+	{
+		"armenian": "իսպանացի",
+		"english": "Spanish (nationality)",
+		"audio": "իսպանացի.mp3"
+	},
+	{
+		"armenian": "իսպաներեն",
+		"english": "Spanish (language)",
+		"audio": "իսպաներեն.mp3"
+	},
+	{
+		"armenian": "իսպանական պար",
+		"english": "Spanish dance",
+		"audio": "իսպանական պար.mp3"
+	},
+	{
+		"armenian": "իտալիա",
+		"english": "Italy",
+		"audio": "իտալիա.mp3"
+	},
+	{
+		"armenian": "իտալացի",
+		"english": "Italian (nationality)",
+		"audio": "իտալացի.mp3"
+	},
+	{
+		"armenian": "իտալերեն",
+		"english": "Italian (language)",
+		"audio": "իտալերեն.mp3"
+	},
+	{
+		"armenian": "իտալական պիցա",
+		"english": "Italian pizza",
+		"audio": "իտալական պիցա.mp3"
+	},
+	{
+		"armenian": "գերմանիա",
+		"english": "Germany",
+		"audio": "գերմանիա.mp3"
+	},
+	{
+		"armenian": "գերմանացի",
+		"english": "German (nationality)",
+		"audio": "գերմանացի.mp3"
+	},
+	{
+		"armenian": "գերմաներեն",
+		"english": "German (language)",
+		"audio": "գերմաներեն.mp3"
+	},
+	{
+		"armenian": "գերմանական մեքենա",
+		"english": "German car",
+		"audio": "գերմանական մեքենա.mp3"
+	},
+	{
+		"armenian": "հունաստան ",
+		"english": "Greece",
+		"audio": "հունաստան.mp3"
+	},
+	{
+		"armenian": "հույն",
+		"english": "Greek (nationality)",
+		"audio": "հույն.mp3"
+	},
+	{
+		"armenian": "հունարեն",
+		"english": "Greek (language)",
+		"audio": "հունարեն.mp3"
+	},
+	{
+		"armenian": "հունական այբուբեն",
+		"english": "Greek alphabet",
+		"audio": "հունական այբուբեն.mp3"
+	},
+	{
+		"armenian": "երևալ",
+		"english": "to seem, to be seen",
+		"audio": "երևալ.mp3"
+	},
+	{
+		"armenian": "երբևէ",
+		"english": "ever",
+		"audio": "երբևէ.mp3"
+	},
+	{
+		"armenian": "երկիր",
+		"english": "country",
+		"audio": "երկիր.mp3"
+	},
+	{
+		"armenian": "ճամփորդել",
+		"english": "to travel",
+		"audio": "ճամփորդել.mp3"
+	},
+	{
+		"armenian": "միայն",
+		"english": "only",
+		"audio": "միայն.mp3"
+	},
+	{
+		"armenian": "ճիշտ",
+		"english": "right",
+		"audio": "ճիշտ.mp3"
+	},
+	{
+		"armenian": "տարբեր",
+		"english": "different",
+		"audio": "տարբեր.mp3"
+	},
+	{
+		"armenian": "ծանոթացնել (հետ)",
+		"english": "to introduce to (somebody)",
+		"audio": "ծանոթացնել (հետ).mp3"
+	},
+	{
+		"armenian": "երկու անգամ",
+		"english": "twice",
+		"audio": "երկու անգամ.mp3"
+	},
+	{
+		"armenian": "իհարկե",
+		"english": "sure",
+		"audio": "իհարկե.mp3"
+	},
+	{
+		"armenian": "առայժմ",
+		"english": "see you soon",
+		"audio": "առայժմ.mp3"
+	},
+	{
+		"armenian": "նորից",
+		"english": "again",
+		"audio": "նորից.mp3"
+	},
+	{
+		"armenian": "եթե",
+		"english": "if",
+		"audio": "եթե.mp3"
+	},
+	{
+		"armenian": "շվեյցարիա",
+		"english": "Switzerland",
+		"audio": "շվեյցարիա.mp3"
+	},
+	{
+		"armenian": "երիտասարդներ",
+		"english": "young people",
+		"audio": "երիտասարդներ.mp3"
+	},
+	{
+		"armenian": "որոշել",
+		"english": "to decide",
+		"audio": "որոշել.mp3"
+	},
+	{
+		"armenian": "անծանոթ",
+		"english": "unknown",
+		"audio": "անծանոթ.mp3"
+	},
+	{
+		"armenian": "հատկապես",
+		"english": "especially",
+		"audio": "հատկապես.mp3"
+	},
+	{
+		"armenian": "մյուս",
+		"english": "next",
+		"audio": "մյուս.mp3"
+	},
+	{
+		"armenian": "քունը տանել",
+		"english": "to be sleepy",
+		"audio": "քունը տանել.mp3"
+	},
+	{
+		"armenian": "ինչքա՞ն ժամանակ",
+		"english": "how long?",
+		"audio": "ինչքա՞ն ժամանակ.mp3"
+	},
+	{
+		"armenian": "էլ որտե՞ղ",
+		"english": "where else?",
+		"audio": "էլ որտե՞ղ.mp3"
+	},
+	{
+		"armenian": "ճանաչել",
+		"english": "to know, recognize",
+		"audio": "ճանաչել.mp3"
+	},
+	{
+		"armenian": "ման գալ",
+		"english": "to walk",
+		"audio": "ման գալ.mp3"
+	},
+	{
+		"armenian": "համբերել",
+		"english": "to be patient",
+		"audio": "համբերել.mp3"
+	},
+	{
+		"armenian": "բար",
+		"english": "bar",
+		"audio": "բար.mp3"
+	},
+	{
+		"armenian": "արդեն",
+		"english": "already",
+		"audio": "արդեն.mp3"
+	},
+	{
+		"armenian": "դեռ",
+		"english": "yet, still",
+		"audio": "դեռ.mp3"
+	},
+	{
+		"armenian": "հենց նոր",
+		"english": "just",
+		"audio": "հենց նոր.mp3"
+	},
+	{
+		"armenian": "վերջերս",
+		"english": "recently",
+		"audio": "վերջերս.mp3"
+	},
+	{
+		"armenian": "եկել",
+		"english": "to come գալ (past participle)",
+		"audio": "եկել.mp3"
+	},
+	{
+		"armenian": "տվել",
+		"english": "to give տալ (past participle)",
+		"audio": "տվել.mp3"
+	},
+	{
+		"armenian": "կերել",
+		"english": "to eat ուտել (past participle)",
+		"audio": "կերել.mp3"
+	},
+	{
+		"armenian": "արել",
+		"english": "to do անել (past participle",
+		"audio": "արել.mp3"
+	},
+	{
+		"armenian": "դնել",
+		"english": "to put",
+		"audio": "դնել.mp3"
+	},
+	{
+		"armenian": "դրել",
+		"english": "to put դնել (past participle)",
+		"audio": "դրել.mp3"
+	},
+	{
+		"armenian": "տարել",
+		"english": "to carry, to take տանել (past participle)",
+		"audio": "տարել.mp3"
+	},
+	{
+		"armenian": "եղել",
+		"english": "to be լինել (past participle)",
+		"audio": "եղել.mp3"
+	},
+	{
+		"armenian": "դարձել",
+		"english": "to become դառնալ (past participle)",
+		"audio": "դարձել.mp3"
+	},
+	{
+		"armenian": "վերադարձել",
+		"english": "to return վերադառնալ (past participle)",
+		"audio": "վերադարձել.mp3"
+	},
+	{
+		"armenian": "վեր կենալ",
+		"english": "to get up, stand up",
+		"audio": "վեր կենալ.mp3"
+	},
+	{
+		"armenian": "վեր կացել",
+		"english": "to get up, stand up վեր կենալ (past participle)",
+		"audio": "վեր կացել.mp3"
+	},
+	{
+		"armenian": "կենսագրություն",
+		"english": "biography",
+		"audio": "կենսագրություն.mp3"
+	},
+	{
+		"armenian": "ծննդավայր",
+		"english": "birthplace",
+		"audio": "ծննդավայր.mp3"
+	},
+	{
+		"armenian": "ծնվել",
+		"english": "to be born",
+		"audio": "ծնվել.mp3"
+	},
+	{
+		"armenian": "դառնալ",
+		"english": "to become",
+		"audio": "դառնալ.mp3"
+	},
+	{
+		"armenian": "քոլեջ",
+		"english": "college",
+		"audio": "քոլեջ.mp3"
+	},
+	{
+		"armenian": "կուրս",
+		"english": "university year",
+		"audio": "կուրս.mp3"
+	},
+	{
+		"armenian": "վճարովի",
+		"english": "payable",
+		"audio": "վճարովի.mp3"
+	},
+	{
+		"armenian": "անվճար",
+		"english": "free of charge",
+		"audio": "անվճար.mp3"
+	},
+	{
+		"armenian": "մասնագիտություն",
+		"english": "profession",
+		"audio": "մասնագիտություն.mp3"
+	},
+	{
+		"armenian": "աշխատավարձ",
+		"english": "salary",
+		"audio": "աշխատավարձ.mp3"
+	},
+	{
+		"armenian": "կամավոր",
+		"english": "volunteer",
+		"audio": "կամավոր.mp3"
+	},
+	{
+		"armenian": "ընդունվել համալսարան",
+		"english": "to enter a university",
+		"audio": "ընդունվել համալսարան.mp3"
+	},
+	{
+		"armenian": "ավարտել համալսարանը",
+		"english": "to graduate from the university",
+		"audio": "ավարտել համալսարանը.mp3"
+	},
+	{
+		"armenian": "ընդունվել աշխատանքի",
+		"english": "to be accepted to work",
+		"audio": "ընդունվել աշխատանքի.mp3"
+	},
+	{
+		"armenian": "աշխատանքից դուրս գալ",
+		"english": "to quit the job",
+		"audio": "աշխատանքից դուրս գալ.mp3"
+	},
+	{
+		"armenian": "քիմիա",
+		"english": "chemistry",
+		"audio": "քիմիա.mp3"
+	},
+	{
+		"armenian": "ֆիզիկա",
+		"english": "physics",
+		"audio": "ֆիզիկա.mp3"
+	},
+	{
+		"armenian": "ընդունվել ",
+		"english": "to enter (a university)",
+		"audio": "ընդունվել.mp3"
+	},
+	{
+		"armenian": "ընտրել",
+		"english": "to choose",
+		"audio": "ընտրել.mp3"
+	},
+	{
+		"armenian": "ճոպանուղի",
+		"english": "ropeway",
+		"audio": "ճոպանուղի.mp3"
+	},
+	{
+		"armenian": "մինչև",
+		"english": "until",
+		"audio": "մինչև.mp3"
+	},
+	{
+		"armenian": "ամսագիր",
+		"english": "magazine",
+		"audio": "ամսագիր.mp3"
+	},
+	{
+		"armenian": "տեղ",
+		"english": "a place",
+		"audio": "տեղ.mp3"
+	},
+	{
+		"armenian": "հյուսիս",
+		"english": "north",
+		"audio": "հյուսիս.mp3"
+	},
+	{
+		"armenian": "վանք",
+		"english": "monastery",
+		"audio": "վանք.mp3"
+	},
+	{
+		"armenian": "շփվել",
+		"english": "to associate with, communicate",
+		"audio": "շփվել.mp3"
+	},
+	{
+		"armenian": "աշխարհահռչակ",
+		"english": "world-famous",
+		"audio": "աշխարհահռչակ.mp3"
+	},
+	{
+		"armenian": "դաշնակահար",
+		"english": "pianist",
+		"audio": "դաշնակահար.mp3"
+	},
+	{
+		"armenian": "մասնակցել",
+		"english": "to participate",
+		"audio": "մասնակցել.mp3"
+	},
+	{
+		"armenian": "փառատոն",
+		"english": "festival",
+		"audio": "փառատոն.mp3"
+	},
+	{
+		"armenian": "հաղթել",
+		"english": "to win",
+		"audio": "հաղթել.mp3"
+	},
+	{
+		"armenian": "միջազգային",
+		"english": "international",
+		"audio": "միջազգային.mp3"
+	},
+	{
+		"armenian": "ձայնագրել",
+		"english": "to record",
+		"audio": "ձայնագրել.mp3"
+	},
+	{
+		"armenian": "մրցույթ",
+		"english": "contest",
+		"audio": "մրցույթ.mp3"
+	},
+	{
+		"armenian": "սկիզբ",
+		"english": "beginning",
+		"audio": "սկիզբ.mp3"
+	},
+	{
+		"armenian": "տաք",
+		"english": "warm",
+		"audio": "տաք.mp3"
+	},
+	{
+		"armenian": "բացօթյա",
+		"english": "open-air",
+		"audio": "բացօթյա.mp3"
+	},
+	{
+		"armenian": "լի",
+		"english": "full",
+		"audio": "լի.mp3"
+	},
+	{
+		"armenian": "առաջին",
+		"english": "first",
+		"audio": "առաջին.mp3"
+	},
+	{
+		"armenian": "նույնիսկ",
+		"english": "even",
+		"audio": "նույնիսկ.mp3"
+	},
+	{
+		"armenian": "հմայիչ",
+		"english": "charming",
+		"audio": "հմայիչ.mp3"
+	},
+	{
+		"armenian": "կյանք",
+		"english": "life",
+		"audio": "կյանք.mp3"
+	},
+	{
+		"armenian": "զզվեցնել",
+		"english": "to make somebody sick and tired",
+		"audio": "զզվեցնել.mp3"
+	},
+	{
+		"armenian": "աչքդ լու՛յս",
+		"english": "Congratulations!",
+		"audio": "աչքդ լու՛յս.mp3"
+	},
+	{
+		"armenian": "գլուխ պահել",
+		"english": "to idle",
+		"audio": "գլուխ պահել.mp3"
+	},
+	{
+		"armenian": "պարզ",
+		"english": "clear",
+		"audio": "պարզ.mp3"
+	},
+	{
+		"armenian": "զանգ",
+		"english": "a call",
+		"audio": "զանգ.mp3"
+	},
+	{
+		"armenian": "բարձր",
+		"english": "high",
+		"audio": "բարձր.mp3"
+	},
+	{
+		"armenian": "լավ էլի",
+		"english": "come on",
+		"audio": "լավ էլի.mp3"
+	},
+	{
+		"armenian": "դեմք",
+		"english": "face",
+		"audio": "դեմք.mp3"
+	},
+	{
+		"armenian": "մոռանալ",
+		"english": "to forget",
+		"audio": "մոռանալ.mp3"
+	},
+	{
+		"armenian": "ծանոթանալ",
+		"english": "to get acquainted",
+		"audio": "ծանոթանալ.mp3"
+	},
+	{
+		"armenian": "բարկանալ",
+		"english": "to get angry",
+		"audio": "բարկանալ.mp3"
+	},
+	{
+		"armenian": "հեռանալ",
+		"english": "to go away",
+		"audio": "հեռանալ.mp3"
+	},
+	{
+		"armenian": "ուրախանալ",
+		"english": "to be glad/happy",
+		"audio": "ուրախանալ.mp3"
+	},
+	{
+		"armenian": "զարմանալ",
+		"english": "to get surprised",
+		"audio": "զարմանալ.mp3"
+	},
+	{
+		"armenian": "առողջանալ",
+		"english": "to recover/get healthy",
+		"audio": "առողջանալ.mp3"
+	},
+	{
+		"armenian": "մոտենալ",
+		"english": "to approach",
+		"audio": "մոտենալ.mp3"
+	},
+	{
+		"armenian": "վախենալ",
+		"english": "to be afraid",
+		"audio": "վախենալ.mp3"
+	},
+	{
+		"armenian": "գտնել",
+		"english": "to find",
+		"audio": "գտնել.mp3"
+	},
+	{
+		"armenian": "անցնել",
+		"english": "to pass (by), to cross (the street)",
+		"audio": "անցնել.mp3"
+	},
+	{
+		"armenian": "առնել",
+		"english": "to buy",
+		"audio": "առնել.mp3"
+	},
+	{
+		"armenian": "իջնել",
+		"english": "to go down, to get off transportation",
+		"audio": "իջնել.mp3"
+	},
+	{
+		"armenian": "ընկնել",
+		"english": "to fall down",
+		"audio": "ընկնել.mp3"
+	},
+	{
+		"armenian": "թողնել",
+		"english": "to leave something",
+		"audio": "թողնել.mp3"
+	},
+	{
+		"armenian": "կորչել",
+		"english": "to get lost",
+		"audio": "կորչել.mp3"
+	},
+	{
+		"armenian": "դիպչել",
+		"english": "to touch",
+		"audio": "դիպչել.mp3"
+	},
+	{
+		"armenian": "թռչել",
+		"english": "to fly",
+		"audio": "թռչել.mp3"
+	},
+	{
+		"armenian": "սառչել",
+		"english": "to freeze",
+		"audio": "սառչել.mp3"
+	},
+	{
+		"armenian": "փախչել",
+		"english": "to run away",
+		"audio": "փախչել.mp3"
+	},
+	{
+		"armenian": "մեծ",
+		"english": "big",
+		"audio": "մեծ.mp3"
+	},
+	{
+		"armenian": "փոքր",
+		"english": "small",
+		"audio": "փոքր.mp3"
+	},
+	{
+		"armenian": "ուժեղ",
+		"english": "strong",
+		"audio": "ուժեղ.mp3"
+	},
+	{
+		"armenian": "թույլ",
+		"english": "weak",
+		"audio": "թույլ.mp3"
+	},
+	{
+		"armenian": "նոր",
+		"english": "new",
+		"audio": "նոր.mp3"
+	},
+	{
+		"armenian": "հին",
+		"english": "old (things)",
+		"audio": "հին.mp3"
+	},
+	{
+		"armenian": "երկար",
+		"english": "long",
+		"audio": "երկար.mp3"
+	},
+	{
+		"armenian": "կարճ",
+		"english": "short",
+		"audio": "կարճ.mp3"
+	},
+	{
+		"armenian": "բարձր",
+		"english": "high",
+		"audio": "բարձր.mp3"
+	},
+	{
+		"armenian": "ցածր",
+		"english": "low",
+		"audio": "ցածր.mp3"
+	},
+	{
+		"armenian": "բարձրահասակ",
+		"english": "tall (people)",
+		"audio": "բարձրահասակ.mp3"
+	},
+	{
+		"armenian": "ցածրահասակ",
+		"english": "short (people)",
+		"audio": "ցածրահասակ.mp3"
+	},
+	{
+		"armenian": "նիհար",
+		"english": "thin (people)",
+		"audio": "նիհար.mp3"
+	},
+	{
+		"armenian": "գեր, չաղ",
+		"english": "fat",
+		"audio": "գեր, չաղ.mp3"
+	},
+	{
+		"armenian": "բարակ",
+		"english": "thin",
+		"audio": "բարակ.mp3"
+	},
+	{
+		"armenian": "հաստ",
+		"english": "thick",
+		"audio": "հաստ.mp3"
+	},
+	{
+		"armenian": "հեշտ",
+		"english": "easy",
+		"audio": "հեշտ.mp3"
+	},
+	{
+		"armenian": "դժվար",
+		"english": "difficult",
+		"audio": "դժվար.mp3"
+	},
+	{
+		"armenian": "էժան",
+		"english": "cheap",
+		"audio": "էժան.mp3"
+	},
+	{
+		"armenian": "թանկ",
+		"english": "expensive",
+		"audio": "թանկ.mp3"
+	},
+	{
+		"armenian": "հարուստ",
+		"english": "rich",
+		"audio": "հարուստ.mp3"
+	},
+	{
+		"armenian": "աղքատ",
+		"english": "poor",
+		"audio": "աղքատ.mp3"
+	},
+	{
+		"armenian": "երիտասարդ",
+		"english": "young",
+		"audio": "երիտասարդ.mp3"
+	},
+	{
+		"armenian": "ծեր",
+		"english": "old (people)",
+		"audio": "ծեր.mp3"
+	},
+	{
+		"armenian": "հետաքրքիր",
+		"english": "interesting",
+		"audio": "հետաքրքիր.mp3"
+	},
+	{
+		"armenian": "ձանձրալի",
+		"english": "boring",
+		"audio": "ձանձրալի.mp3"
+	},
+	{
+		"armenian": "աղմկոտ",
+		"english": "noisy",
+		"audio": "աղմկոտ.mp3"
+	},
+	{
+		"armenian": "հանգիստ",
+		"english": "peaceful, quiet",
+		"audio": "հանգիստ.mp3"
+	},
+	{
+		"armenian": "գեղեցիկ",
+		"english": "beautiful",
+		"audio": "գեղեցիկ.mp3"
+	},
+	{
+		"armenian": "տգեղ, գեշ",
+		"english": "ugly",
+		"audio": "տգեղ, գեշ.mp3"
+	},
+	{
+		"armenian": "արագ",
+		"english": "quick(ly)",
+		"audio": "արագ.mp3"
+	},
+	{
+		"armenian": "դանդաղ",
+		"english": "slow(ly)",
+		"audio": "դանդաղ.mp3"
+	},
+	{
+		"armenian": "ծանր",
+		"english": "heavy",
+		"audio": "ծանր.mp3"
+	},
+	{
+		"armenian": "թեթև",
+		"english": "light",
+		"audio": "թեթև.mp3"
+	},
+	{
+		"armenian": "կարևոր",
+		"english": "important",
+		"audio": "կարևոր.mp3"
+	},
+	{
+		"armenian": "եկեղեցիներից մեկը",
+		"english": "one of the churches",
+		"audio": "եկեղեցիներից մեկը.mp3"
+	},
+	{
+		"armenian": "աշխարհ",
+		"english": "world",
+		"audio": "աշխարհ.mp3"
+	},
+	{
+		"armenian": "ինձ պետք է",
+		"english": "I need",
+		"audio": "ինձ պետք է.mp3"
+	},
+	{
+		"armenian": "կենտրոն",
+		"english": "center",
+		"audio": "կենտրոն.mp3"
+	},
+	{
+		"armenian": "ինձնից / ինձանից",
+		"english": "from me",
+		"audio": "ինձնից.mp3"
+	},
+	{
+		"armenian": "քեզնից / քեզանից",
+		"english": "from you",
+		"audio": "քեզնից.mp3"
+	},
+	{
+		"armenian": "նրանից / իրենից",
+		"english": "from him / her",
+		"audio": "նրանից.mp3"
+	},
+	{
+		"armenian": "մեզնից / մեզանից",
+		"english": "from us",
+		"audio": "մեզնից.mp3"
+	},
+	{
+		"armenian": "ձեզնից / ձեզանից",
+		"english": "from you (pl/formal)",
+		"audio": "ձեզնից.mp3"
+	},
+	{
+		"armenian": "նրանցից / իրենցից",
+		"english": "from them",
+		"audio": "նրանցից.mp3"
+	},
+	{
+		"armenian": "ավելի",
+		"english": "more (comparative)",
+		"audio": "ավելի.mp3"
+	},
+	{
+		"armenian": "պակաս",
+		"english": "less (with adjectives)",
+		"audio": "պակաս.mp3"
+	},
+	{
+		"armenian": "քան",
+		"english": "than (in comparisons)",
+		"audio": "քան.mp3"
+	},
+	{
+		"armenian": "ամենա(...)",
+		"english": "superlative prefix (\"-est\")",
+		"audio": "ամենա(...).mp3"
+	},
+	{
+		"armenian": "ամենից",
+		"english": "of all (in superlative)",
+		"audio": "ամենից.mp3"
+	},
+	{
+		"armenian": "մոտակա",
+		"english": "nearby",
+		"audio": "մոտակա.mp3"
+	},
+	{
+		"armenian": "փաբ",
+		"english": "pub",
+		"audio": "փաբ.mp3"
+	},
+	{
+		"armenian": "ստել",
+		"english": "to lie",
+		"audio": "ստել.mp3"
+	},
+	{
+		"armenian": "այլևս",
+		"english": "any more",
+		"audio": "այլևս.mp3"
+	},
+	{
+		"armenian": "հանկարծ",
+		"english": "suddenly",
+		"audio": "հանկարծ.mp3"
+	},
+	{
+		"armenian": "ուշ ժամին",
+		"english": "at late hour",
+		"audio": "ուշ ժամին.mp3"
+	},
+	{
+		"armenian": "աչքից ընկնել",
+		"english": "to get disappointed",
+		"audio": "աչքից ընկնել.mp3"
+	},
+	{
+		"armenian": "համարձակվել",
+		"english": "to dare",
+		"audio": "համարձակվել.mp3"
+	},
+	{
+		"armenian": "խելացի",
+		"english": "smart",
+		"audio": "խելացի.mp3"
+	},
+	{
+		"armenian": "հիմար",
+		"english": "stupid",
+		"audio": "հիմար.mp3"
+	},
+	{
+		"armenian": "բարի",
+		"english": "kind",
+		"audio": "բարի.mp3"
+	},
+	{
+		"armenian": "չար",
+		"english": "wicked, evil",
+		"audio": "չար.mp3"
+	},
+	{
+		"armenian": "ընկերասեր",
+		"english": "friendly",
+		"audio": "ընկերասեր.mp3"
+	},
+	{
+		"armenian": "ճշտապահ",
+		"english": "punctual",
+		"audio": "ճշտապահ.mp3"
+	},
+	{
+		"armenian": "համբերատար",
+		"english": "patient",
+		"audio": "համբերատար.mp3"
+	},
+	{
+		"armenian": "անհամբեր",
+		"english": "impatient",
+		"audio": "անհամբեր.mp3"
+	},
+	{
+		"armenian": "ինքնավստահ",
+		"english": "self-confident",
+		"audio": "ինքնավստահ.mp3"
+	},
+	{
+		"armenian": "անինքնավստահ",
+		"english": "unconfident",
+		"audio": "անինքնավստահ.mp3"
+	},
+	{
+		"armenian": "մեծահոգի",
+		"english": "generous",
+		"audio": "մեծահոգի.mp3"
+	},
+	{
+		"armenian": "ժլատ",
+		"english": "greedy",
+		"audio": "ժլատ.mp3"
+	},
+	{
+		"armenian": "մարդամոտ",
+		"english": "sociable",
+		"audio": "մարդամոտ.mp3"
+	},
+	{
+		"armenian": "ամաչկոտ",
+		"english": "shy",
+		"audio": "ամաչկոտ.mp3"
+	},
+	{
+		"armenian": "նախանձ",
+		"english": "envious",
+		"audio": "նախանձ.mp3"
+	},
+	{
+		"armenian": "լուրջ",
+		"english": "serious",
+		"audio": "լուրջ.mp3"
+	},
+	{
+		"armenian": "կատակասեր",
+		"english": "humorous",
+		"audio": "կատակասեր.mp3"
+	},
+	{
+		"armenian": "ծույլ",
+		"english": "lazy",
+		"audio": "ծույլ.mp3"
+	},
+	{
+		"armenian": "աշխատասեր",
+		"english": "hard-working",
+		"audio": "աշխատասեր.mp3"
+	},
+	{
+		"armenian": "միամիտ",
+		"english": "naive",
+		"audio": "միամիտ.mp3"
+	},
+	{
+		"armenian": "խորամանկ",
+		"english": "sly",
+		"audio": "խորամանկ.mp3"
+	},
+	{
+		"armenian": "սուտասան",
+		"english": "liar",
+		"audio": "սուտասան.mp3"
+	},
+	{
+		"armenian": "փնթի",
+		"english": "untidy",
+		"audio": "փնթի.mp3"
+	},
+	{
+		"armenian": "անկեղծ",
+		"english": "sincere",
+		"audio": "անկեղծ.mp3"
+	},
+	{
+		"armenian": "մոռացկոտ",
+		"english": "forgetful",
+		"audio": "մոռացկոտ.mp3"
+	},
+	{
+		"armenian": "զգայուն",
+		"english": "sensitive",
+		"audio": "զգայուն.mp3"
+	},
+	{
+		"armenian": "սենյակակից",
+		"english": "roommate",
+		"audio": "սենյակակից.mp3"
+	},
+	{
+		"armenian": "փորձել",
+		"english": "to try",
+		"audio": "փորձել.mp3"
+	},
+	{
+		"armenian": "բնավորություն",
+		"english": "character",
+		"audio": "բնավորություն.mp3"
+	},
+	{
+		"armenian": "քննարկել",
+		"english": "to discuss",
+		"audio": "քննարկել.mp3"
+	},
+	{
+		"armenian": "հազվադեպ",
+		"english": "rarely",
+		"audio": "հազվադեպ.mp3"
+	},
+	{
+		"armenian": "տանել չկարողանալ",
+		"english": "unable to stand / bear",
+		"audio": "տանել չկարողանալ.mp3"
+	},
+	{
+		"armenian": "պարապել",
+		"english": "to study",
+		"audio": "պարապել.mp3"
+	},
+	{
+		"armenian": "տանտիրուհի",
+		"english": "landlady",
+		"audio": "տանտիրուհի.mp3"
+	},
+	{
+		"armenian": "քո հերթն է",
+		"english": "it's your turn",
+		"audio": "քո հերթն է.mp3"
+	},
+	{
+		"armenian": "սոված մեռնել",
+		"english": "to die of hunger",
+		"audio": "սոված մեռնել.mp3"
+	},
+	{
+		"armenian": "գլուխ հանել",
+		"english": "to be well informed",
+		"audio": "գլուխ հանել.mp3"
+	},
+	{
+		"armenian": "գլուխ չեմ հանում։",
+		"english": "I have no clue.",
+		"audio": "գլուխ չեմ հանում։.mp3"
+	},
+	{
+		"armenian": "մեզ պետք է",
+		"english": "we need",
+		"audio": "մեզ պետք է.mp3"
+	},
+	{
+		"armenian": "մինչև",
+		"english": "until",
+		"audio": "մինչև.mp3"
+	},
+	{
+		"armenian": "ինչ արած",
+		"english": "what to do",
+		"audio": "ինչ արած.mp3"
+	},
+	{
+		"armenian": "միգուցե բարին սա է։",
+		"english": "Maybe it's for the better.",
+		"audio": "միգուցե բարին սա է։.mp3"
+	},
+	{
+		"armenian": "բախտը բերել",
+		"english": "to be lucky",
+		"audio": "բախտը բերել.mp3"
+	},
+	{
+		"armenian": "հավատալ",
+		"english": "to believe",
+		"audio": "հավատալ.mp3"
+	},
+	{
+		"armenian": "օգնել",
+		"english": "to help",
+		"audio": "օգնել.mp3"
+	},
+	{
+		"armenian": "բնակարան",
+		"english": "apartment",
+		"audio": "բնակարան.mp3"
+	},
+	{
+		"armenian": "հյուրասենյակ",
+		"english": "living room",
+		"audio": "հյուրասենյակ.mp3"
+	},
+	{
+		"armenian": "ննջարան",
+		"english": "bedroom",
+		"audio": "ննջարան.mp3"
+	},
+	{
+		"armenian": "խոհանոց",
+		"english": "kitchen",
+		"audio": "խոհանոց.mp3"
+	},
+	{
+		"armenian": "լողասենյակ",
+		"english": "bathroom",
+		"audio": "լողասենյակ.mp3"
+	},
+	{
+		"armenian": "զուգարան",
+		"english": "toilet",
+		"audio": "զուգարան.mp3"
+	},
+	{
+		"armenian": "պատշգամբ",
+		"english": "balcony",
+		"audio": "պատշգամբ.mp3"
+	},
+	{
+		"armenian": "պատ",
+		"english": "wall",
+		"audio": "պատ.mp3"
+	},
+	{
+		"armenian": "հատակ",
+		"english": "ground, floor",
+		"audio": "հատակ.mp3"
+	},
+	{
+		"armenian": "գորգ",
+		"english": "carpet",
+		"audio": "գորգ.mp3"
+	},
+	{
+		"armenian": "վարագույր / շերտավարագույր",
+		"english": "curtain / blinds",
+		"audio": "վարագույր.mp3"
+	},
+	{
+		"armenian": "օդորակիչ",
+		"english": "air conditioner",
+		"audio": "օդորակիչ.mp3"
+	},
+	{
+		"armenian": "կահույք",
+		"english": "furniture",
+		"audio": "կահույք.mp3"
+	},
+	{
+		"armenian": "բազկաթոռ",
+		"english": "armchair",
+		"audio": "բազկաթոռ.mp3"
+	},
+	{
+		"armenian": "մահճակալ",
+		"english": "bed",
+		"audio": "մահճակալ.mp3"
+	},
+	{
+		"armenian": "բազմոց",
+		"english": "sofa",
+		"audio": "բազմոց.mp3"
+	},
+	{
+		"armenian": "հայելի",
+		"english": "mirror",
+		"audio": "հայելի.mp3"
+	},
+	{
+		"armenian": "հեռուստացույց",
+		"english": "TV",
+		"audio": "հեռուստացույց.mp3"
+	},
+	{
+		"armenian": "գազօջախ",
+		"english": "gas-stove",
+		"audio": "գազօջախ.mp3"
+	},
+	{
+		"armenian": "լվացքի մեքենա",
+		"english": "washing machine",
+		"audio": "լվացքի մեքենա.mp3"
+	},
+	{
+		"armenian": "սառնարան",
+		"english": "refrigerator",
+		"audio": "սառնարան.mp3"
+	},
+	{
+		"armenian": "համակարգիչ",
+		"english": "computer",
+		"audio": "համակարգիչ.mp3"
+	},
+	{
+		"armenian": "ջեռոց",
+		"english": "oven",
+		"audio": "ջեռոց.mp3"
+	},
+	{
+		"armenian": "ափսե",
+		"english": "plate",
+		"audio": "ափսե.mp3"
+	},
+	{
+		"armenian": "բաժակ",
+		"english": "glass, cup",
+		"audio": "բաժակ.mp3"
+	},
+	{
+		"armenian": "դանակ",
+		"english": "knife",
+		"audio": "դանակ.mp3"
+	},
+	{
+		"armenian": "գդալ",
+		"english": "spoon",
+		"audio": "գդալ.mp3"
+	},
+	{
+		"armenian": "պատառաքաղ",
+		"english": "fork",
+		"audio": "պատառաքաղ.mp3"
+	},
+	{
+		"armenian": "սրբիչ",
+		"english": "towel",
+		"audio": "սրբիչ.mp3"
+	},
+	{
+		"armenian": "բարձ",
+		"english": "pillow",
+		"audio": "բարձ.mp3"
+	},
+	{
+		"armenian": "վերմակ",
+		"english": "blanket",
+		"audio": "վերմակ.mp3"
+	},
+	{
+		"armenian": "աստիճաններ",
+		"english": "stairs",
+		"audio": "աստիճաններ.mp3"
+	},
+	{
+		"armenian": "աստիճաններով բարձրանալ",
+		"english": "to go up the stairs",
+		"audio": "աստիճաններով բարձրանալ.mp3"
+	},
+	{
+		"armenian": "վերելակ",
+		"english": "elevator",
+		"audio": "վերելակ.mp3"
+	},
+	{
+		"armenian": "վերելակով իջնել",
+		"english": "to go down by the elevator",
+		"audio": "վերելակով իջնել.mp3"
+	},
+	{
+		"armenian": "ծաղկաման",
+		"english": "vase",
+		"audio": "ծաղկաման.mp3"
+	},
+	{
+		"armenian": "լամպ",
+		"english": "lamp",
+		"audio": "լամպ.mp3"
+	},
+	{
+		"armenian": "թեյնիկ",
+		"english": "teapot",
+		"audio": "թեյնիկ.mp3"
+	},
+	{
+		"armenian": "օճառ",
+		"english": "soap",
+		"audio": "օճառ.mp3"
+	},
+	{
+		"armenian": "ձախ կողմում",
+		"english": "on the left",
+		"audio": "ձախ կողմում.mp3"
+	},
+	{
+		"armenian": "աջ կողմում",
+		"english": "on the right",
+		"audio": "աջ կողմում.mp3"
+	},
+	{
+		"armenian": "շուրջը",
+		"english": "around",
+		"audio": "շուրջը.mp3"
+	},
+	{
+		"armenian": "կողքին",
+		"english": "next to",
+		"audio": "կողքին.mp3"
+	},
+	{
+		"armenian": "վերևում",
+		"english": "above",
+		"audio": "վերևում.mp3"
+	},
+	{
+		"armenian": "ներքևում",
+		"english": "below",
+		"audio": "ներքևում.mp3"
+	},
+	{
+		"armenian": "դիմաց",
+		"english": "in front of, opposite",
+		"audio": "դիմաց.mp3"
+	},
+	{
+		"armenian": "ետևում",
+		"english": "behind",
+		"audio": "ետևում.mp3"
+	},
+	{
+		"armenian": "կենտրոնում",
+		"english": "in the center",
+		"audio": "կենտրոնում.mp3"
+	},
+	{
+		"armenian": "շենքերից մեկում",
+		"english": "in one of the buildings",
+		"audio": "շենքերից մեկում.mp3"
+	},
+	{
+		"armenian": "կլոր",
+		"english": "round",
+		"audio": "կլոր.mp3"
+	},
+	{
+		"armenian": "չորրորդ հարկ",
+		"english": "fourth floor",
+		"audio": "չորրորդ հարկ.mp3"
+	},
+	{
+		"armenian": "լուսավոր",
+		"english": "light",
+		"audio": "լուսավոր.mp3"
+	},
+	{
+		"armenian": "կախված լինել",
+		"english": "to be hung",
+		"audio": "կախված լինել.mp3"
+	},
+	{
+		"armenian": "երեք տարեկան",
+		"english": "three year-old",
+		"audio": "երեք տարեկան.mp3"
+	},
+	{
+		"armenian": "մարզասրահ",
+		"english": "gym",
+		"audio": "մարզասրահ.mp3"
+	},
+	{
+		"armenian": "վերանորոգված",
+		"english": "repaired/renovated",
+		"audio": "վերանորոգված.mp3"
+	},
+	{
+		"armenian": "վերանորոգել",
+		"english": "to repair",
+		"audio": "վերանորոգել.mp3"
+	},
+	{
+		"armenian": "հայտարարություն",
+		"english": "announcement",
+		"audio": "հայտարարություն.mp3"
+	},
+	{
+		"armenian": "խաչմերուկ",
+		"english": "crossroad",
+		"audio": "խաչմերուկ.mp3"
+	},
+	{
+		"armenian": "քար",
+		"english": "stone",
+		"audio": "քար.mp3"
+	},
+	{
+		"armenian": "ավտոտնակ",
+		"english": "garage",
+		"audio": "ավտոտնակ.mp3"
+	},
+	{
+		"armenian": "կահավորված",
+		"english": "furnished",
+		"audio": "կահավորված.mp3"
+	},
+	{
+		"armenian": "դատարկ",
+		"english": "empty",
+		"audio": "դատարկ.mp3"
+	},
+	{
+		"armenian": "առանձնատուն",
+		"english": "house (seperate)",
+		"audio": "առանձնատուն.mp3"
+	},
+	{
+		"armenian": "վարձով տալ",
+		"english": "to rent out",
+		"audio": "վարձով տալ.mp3"
+	},
+	{
+		"armenian": "նկուղ",
+		"english": "cellar",
+		"audio": "նկուղ.mp3"
+	},
+	{
+		"armenian": "միջնորդ",
+		"english": "broker",
+		"audio": "միջնորդ.mp3"
+	},
+	{
+		"armenian": "գին",
+		"english": "price",
+		"audio": "գին.mp3"
+	},
+	{
+		"armenian": "մեկ սենյականոց",
+		"english": "one-room apartment",
+		"audio": "մեկ սենյականոց.mp3"
+	},
+	{
+		"armenian": "վարձ",
+		"english": "rent",
+		"audio": "վարձ.mp3"
+	},
+	{
+		"armenian": "թերթ",
+		"english": "newspaper",
+		"audio": "թերթ.mp3"
+	},
+	{
+		"armenian": "հայտարարություն",
+		"english": "announcement",
+		"audio": "հայտարարություն.mp3"
+	},
+	{
+		"armenian": "երեք սենյականոց",
+		"english": "two-bedroom apartment",
+		"audio": "երեք սենյականոց.mp3"
+	},
+	{
+		"armenian": "կահավորված",
+		"english": "furnished",
+		"audio": "կահավորված.mp3"
+	},
+	{
+		"armenian": "հենց",
+		"english": "just",
+		"audio": "հենց.mp3"
+	},
+	{
+		"armenian": "հասցե",
+		"english": "address",
+		"audio": "հասցե.mp3"
+	},
+	{
+		"armenian": "ո՞ր հարկում",
+		"english": "On which floor?",
+		"audio": "ո՞ր հարկում.mp3"
+	},
+	{
+		"armenian": "համաձայն լինել",
+		"english": "to agree",
+		"audio": "համաձայն լինել.mp3"
+	},
+	{
+		"armenian": "բերել",
+		"english": "to bring",
+		"audio": "բերել.mp3"
+	},
+	{
+		"armenian": "միացնել",
+		"english": "to turn on, to assemble",
+		"audio": "միացնել.mp3"
+	},
+	{
+		"armenian": "անջատել",
+		"english": "to turn off",
+		"audio": "անջատել.mp3"
+	},
+	{
+		"armenian": "փչացնել",
+		"english": "to break down, to ruin",
+		"audio": "փչացնել.mp3"
+	},
+	{
+		"armenian": "ուղարկել",
+		"english": "to send",
+		"audio": "ուղարկել.mp3"
+	},
+	{
+		"armenian": "առաջարկել",
+		"english": "to suggest",
+		"audio": "առաջարկել.mp3"
+	},
+	{
+		"armenian": "ներել",
+		"english": "to forgive",
+		"audio": "ներել.mp3"
+	},
+	{
+		"armenian": "բանան",
+		"english": "banana",
+		"audio": "բանան.mp3"
+	},
+	{
+		"armenian": "նարինջ",
+		"english": "orange",
+		"audio": "նարինջ.mp3"
+	},
+	{
+		"armenian": "բալ",
+		"english": "sour cherry",
+		"audio": "բալ.mp3"
+	},
+	{
+		"armenian": "խաղող",
+		"english": "grapes",
+		"audio": "խաղող.mp3"
+	},
+	{
+		"armenian": "տանձ",
+		"english": "pear",
+		"audio": "տանձ.mp3"
+	},
+	{
+		"armenian": "ձմերուկ",
+		"english": "watermelon",
+		"audio": "ձմերուկ.mp3"
+	},
+	{
+		"armenian": "մանդարին",
+		"english": "tangerine",
+		"audio": "մանդարին.mp3"
+	},
+	{
+		"armenian": "կաղամբ",
+		"english": "cabbage",
+		"audio": "կաղամբ.mp3"
+	},
+	{
+		"armenian": "գազար",
+		"english": "carrot",
+		"audio": "գազար.mp3"
+	},
+	{
+		"armenian": "սոխ",
+		"english": "onion",
+		"audio": "սոխ.mp3"
+	},
+	{
+		"armenian": "սմբուկ",
+		"english": "eggplant",
+		"audio": "սմբուկ.mp3"
+	},
+	{
+		"armenian": "սունկ",
+		"english": "mushroom",
+		"audio": "սունկ.mp3"
+	},
+	{
+		"armenian": "սխտոր",
+		"english": "garlic",
+		"audio": "սխտոր.mp3"
+	},
+	{
+		"armenian": "պղպեղ / բիբար",
+		"english": "pepper / bell pepper",
+		"audio": "պղպեղ.mp3"
+	},
+	{
+		"armenian": "քաղցր",
+		"english": "sweet",
+		"audio": "քաղցր.mp3"
+	},
+	{
+		"armenian": "աղի",
+		"english": "salty",
+		"audio": "աղի.mp3"
+	},
+	{
+		"armenian": "կծու",
+		"english": "spicy",
+		"audio": "կծու.mp3"
+	},
+	{
+		"armenian": "թթու",
+		"english": "sour",
+		"audio": "թթու.mp3"
+	},
+	{
+		"armenian": "դառը",
+		"english": "bitter",
+		"audio": "դառը.mp3"
+	},
+	{
+		"armenian": "թթվասեր",
+		"english": "sour cream",
+		"audio": "թթվասեր.mp3"
+	},
+	{
+		"armenian": "մածուն",
+		"english": "yoghurt (Armenian)",
+		"audio": "մածուն.mp3"
+	},
+	{
+		"armenian": "կաթ",
+		"english": "milk",
+		"audio": "կաթ.mp3"
+	},
+	{
+		"armenian": "բրինձ",
+		"english": "rice",
+		"audio": "բրինձ.mp3"
+	},
+	{
+		"armenian": "փլավ",
+		"english": "pilaf",
+		"audio": "փլավ.mp3"
+	},
+	{
+		"armenian": "տորթ",
+		"english": "cake",
+		"audio": "տորթ.mp3"
+	},
+	{
+		"armenian": "շոկոլադ",
+		"english": "chocolate",
+		"audio": "շոկոլադ.mp3"
+	},
+	{
+		"armenian": "պաղպաղակ",
+		"english": "ice-cream",
+		"audio": "պաղպաղակ.mp3"
+	},
+	{
+		"armenian": "մեղր",
+		"english": "honey",
+		"audio": "մեղր.mp3"
+	},
+	{
+		"armenian": "չիր",
+		"english": "dried fruit",
+		"audio": "չիր.mp3"
+	},
+	{
+		"armenian": "գարեջուր",
+		"english": "beer",
+		"audio": "գարեջուր.mp3"
+	},
+	{
+		"armenian": "օղի",
+		"english": "vodka",
+		"audio": "օղի.mp3"
+	},
+	{
+		"armenian": "գինի",
+		"english": "wine",
+		"audio": "գինի.mp3"
+	},
+	{
+		"armenian": "հանքային ջուր",
+		"english": "mineral water",
+		"audio": "հանքային ջուր.mp3"
+	},
+	{
+		"armenian": "կանաչի",
+		"english": "greens",
+		"audio": "կանաչի.mp3"
+	},
+	{
+		"armenian": "ճաշ",
+		"english": "dinner",
+		"audio": "ճաշ.mp3"
+	},
+	{
+		"armenian": "առնել",
+		"english": "to buy",
+		"audio": "առնել.mp3"
+	},
+	{
+		"armenian": "ամեն ինչ",
+		"english": "everything",
+		"audio": "ամեն ինչ.mp3"
+	},
+	{
+		"armenian": "աղցան",
+		"english": "salad",
+		"audio": "աղցան.mp3"
+	},
+	{
+		"armenian": "թարմ",
+		"english": "fresh",
+		"audio": "թարմ.mp3"
+	},
+	{
+		"armenian": "նախընտրել",
+		"english": "to prefer",
+		"audio": "նախընտրել.mp3"
+	},
+	{
+		"armenian": "ինձ պետք է",
+		"english": "I need",
+		"audio": "ինձ պետք է.mp3"
+	},
+	{
+		"armenian": "կարծում եմ",
+		"english": "I think",
+		"audio": "կարծում եմ.mp3"
+	},
+	{
+		"armenian": "համեղ",
+		"english": "tasty",
+		"audio": "համեղ.mp3"
+	},
+	{
+		"armenian": "ընթրիք",
+		"english": "supper",
+		"audio": "ընթրիք.mp3"
+	},
+	{
+		"armenian": "ուրեմն",
+		"english": "so",
+		"audio": "ուրեմն.mp3"
+	},
+	{
+		"armenian": "ողջույն",
+		"english": "hello",
+		"audio": "ողջույն.mp3"
+	},
+	{
+		"armenian": "ի՞նչ արժի։",
+		"english": "How much does it cost?",
+		"audio": "ի՞նչ արժի։.mp3"
+	},
+	{
+		"armenian": "արժենալ",
+		"english": "to cost",
+		"audio": "արժենալ.mp3"
+	},
+	{
+		"armenian": "թանկ",
+		"english": "expensive",
+		"audio": "թանկ.mp3"
+	},
+	{
+		"armenian": "բերել",
+		"english": "to bring",
+		"audio": "բերել.mp3"
+	},
+	{
+		"armenian": "էժան",
+		"english": "cheap",
+		"audio": "էժան.mp3"
+	},
+	{
+		"armenian": "վաճառել",
+		"english": "to sell",
+		"audio": "վաճառել.mp3"
+	},
+	{
+		"armenian": "թողնե՞մ։",
+		"english": "Shall I leave it?",
+		"audio": "թողնե՞մ։.mp3"
+	},
+	{
+		"armenian": "ասա՛",
+		"english": "say! (sg) ասել",
+		"audio": "ասա՛.mp3"
+	},
+	{
+		"armenian": "ասե՛ք",
+		"english": "say! (pl) ասել",
+		"audio": "ասե՛ք.mp3"
+	},
+	{
+		"armenian": "արա՛",
+		"english": "do! (sg) անել",
+		"audio": "արա՛.mp3"
+	},
+	{
+		"armenian": "արե՛ք",
+		"english": "do! (pl) անել",
+		"audio": "արե՛ք.mp3"
+	},
+	{
+		"armenian": "դի՛ր",
+		"english": "put! (sg) դնել",
+		"audio": "դի՛ր.mp3"
+	},
+	{
+		"armenian": "դրե՛ք",
+		"english": "put! (pl) դնել",
+		"audio": "դրե՛ք.mp3"
+	},
+	{
+		"armenian": "արի՛, ե՛կ",
+		"english": "come! (sg) գալ",
+		"audio": "արի՛, ե՛կ.mp3"
+	},
+	{
+		"armenian": "եկե՛ք",
+		"english": "come! (pl) գալ",
+		"audio": "եկե՛ք.mp3"
+	},
+	{
+		"armenian": "տու՛ր",
+		"english": "give! (sg) տալ",
+		"audio": "տու՛ր.mp3"
+	},
+	{
+		"armenian": "տվե՛ք",
+		"english": "give! (pl) տալ",
+		"audio": "տվե՛ք.mp3"
+	},
+	{
+		"armenian": "կե՛ր",
+		"english": "eat! (sg) ուտել",
+		"audio": "կե՛ր.mp3"
+	},
+	{
+		"armenian": "կերե՛ք",
+		"english": "eat! (pl) ուտել",
+		"audio": "կերե՛ք.mp3"
+	},
+	{
+		"armenian": "տա՛ր",
+		"english": "take away! (sg) տանել",
+		"audio": "տա՛ր.mp3"
+	},
+	{
+		"armenian": "տարե՛ք",
+		"english": "take away! (pl) տանել",
+		"audio": "տարե՛ք.mp3"
+	},
+	{
+		"armenian": "բե՛ր",
+		"english": "bring! (sg) բերել",
+		"audio": "բե՛ր.mp3"
+	},
+	{
+		"armenian": "բերե՛ք",
+		"english": "bring! (pl) բերել",
+		"audio": "բերե՛ք.mp3"
+	},
+	{
+		"armenian": "ա՛ռ",
+		"english": "buy! (sg) առնել",
+		"audio": "ա՛ռ.mp3"
+	},
+	{
+		"armenian": "առե՛ք",
+		"english": "buy! (pl) առնել",
+		"audio": "առե՛ք.mp3"
+	},
+	{
+		"armenian": "եղի՛ր",
+		"english": "be! (sg) լինել",
+		"audio": "եղի՛ր.mp3"
+	},
+	{
+		"armenian": "եղե՛ք",
+		"english": "be (pl) լինել",
+		"audio": "եղե՛ք.mp3"
+	},
+	{
+		"armenian": "տե՛ս",
+		"english": "see! (sg) տեսնել",
+		"audio": "տե՛ս.mp3"
+	},
+	{
+		"armenian": "տեսե՛ք",
+		"english": "see! (pl) տեսնել",
+		"audio": "տեսե՛ք.mp3"
+	},
+	{
+		"armenian": "վերադարձի՛ր",
+		"english": "return! (sg) վերադառնալ",
+		"audio": "վերադարձի՛ր.mp3"
+	},
+	{
+		"armenian": "վերադարձե՛ք",
+		"english": "return! (pl) վերադառնալ",
+		"audio": "վերադարձե՛ք.mp3"
+	},
+	{
+		"armenian": "դարձի՛ր",
+		"english": "become! (sg) դառնալ",
+		"audio": "դարձի՛ր.mp3"
+	},
+	{
+		"armenian": "դարձե՛ք",
+		"english": "become! (pl) դառնալ",
+		"audio": "դարձե՛ք.mp3"
+	},
+	{
+		"armenian": "թո՛ղ",
+		"english": "leave/let sth! (sg) թողնել",
+		"audio": "թո՛ղ.mp3"
+	},
+	{
+		"armenian": "թողե՛ք",
+		"english": "leave/let sth! (pl) թողնել",
+		"audio": "թողե՛ք.mp3"
+	},
+	{
+		"armenian": "լվա՛",
+		"english": "wash! (sg) լվանալ",
+		"audio": "լվա՛.mp3"
+	},
+	{
+		"armenian": "լվացե՛ք",
+		"english": "wash! (pl) լվանալ",
+		"audio": "լվացե՛ք.mp3"
+	},
+	{
+		"armenian": "վե՛ր կաց",
+		"english": "get up! (sg) վեր կենալ",
+		"audio": "վե՛ր կաց.mp3"
+	},
+	{
+		"armenian": "վե՛ր կացեք",
+		"english": "get up! (pl) վեր կենալ",
+		"audio": "վե՛ր կացեք.mp3"
+	},
+	{
+		"armenian": "հաշտվել",
+		"english": "to reconcile",
+		"audio": "հաշտվել.mp3"
+	},
+	{
+		"armenian": "թխել",
+		"english": "to bake",
+		"audio": "թխել.mp3"
+	},
+	{
+		"armenian": "ոճ",
+		"english": "style",
+		"audio": "ոճ.mp3"
+	},
+	{
+		"armenian": "նորություն",
+		"english": "news",
+		"audio": "նորություն.mp3"
+	},
+	{
+		"armenian": "մատուցող",
+		"english": "waiter",
+		"audio": "մատուցող.mp3"
+	},
+	{
+		"armenian": "ձկան խորոված",
+		"english": "fish barbecue",
+		"audio": "ձկան խորոված.mp3"
+	},
+	{
+		"armenian": "ուղղակի",
+		"english": "just, simply",
+		"audio": "ուղղակի.mp3"
+	},
+	{
+		"armenian": "գժվել",
+		"english": "to go mad",
+		"audio": "գժվել.mp3"
+	},
+	{
+		"armenian": "գլխի ընկնել",
+		"english": "to realize",
+		"audio": "գլխի ընկնել.mp3"
+	},
+	{
+		"armenian": "միշտ քո ոճի մեջ ես։",
+		"english": "This is so typical of you.",
+		"audio": "միշտ քո ոճի մեջ ես։.mp3"
+	},
+	{
+		"armenian": "նորաձև",
+		"english": "stylish",
+		"audio": "նորաձև.mp3"
+	},
+	{
+		"armenian": "հագնված",
+		"english": "dressed",
+		"audio": "հագնված.mp3"
+	},
+	{
+		"armenian": "առայժմ",
+		"english": "see you soon",
+		"audio": "առայժմ.mp3"
+	},
+	{
+		"armenian": "փոխել",
+		"english": "to change",
+		"audio": "փոխել.mp3"
+	},
+	{
+		"armenian": "պատվիրել",
+		"english": "to order",
+		"audio": "պատվիրել.mp3"
+	},
+	{
+		"armenian": "կատակել",
+		"english": "to joke",
+		"audio": "կատակել.mp3"
+	},
+	{
+		"armenian": "ինձ համար մեկ է։",
+		"english": "It's all the same for me.",
+		"audio": "ինձ համար մեկ է։.mp3"
+	},
+	{
+		"armenian": "ընդամենը",
+		"english": "all in all, only, just",
+		"audio": "ընդամենը.mp3"
+	},
+	{
+		"armenian": "հերիք է",
+		"english": "it's enough",
+		"audio": "հերիք է.mp3"
+	},
+	{
+		"armenian": "րոպե",
+		"english": "minute",
+		"audio": "րոպե.mp3"
+	},
+	{
+		"armenian": "շտապել",
+		"english": "to hurry",
+		"audio": "շտապել.mp3"
+	},
+	{
+		"armenian": "թեքվել",
+		"english": "to turn",
+		"audio": "թեքվել.mp3"
+	},
+	{
+		"armenian": "վազել",
+		"english": "to run",
+		"audio": "վազել.mp3"
+	},
+	{
+		"armenian": "գոռալ",
+		"english": "to shout",
+		"audio": "գոռալ.mp3"
+	},
+	{
+		"armenian": "տրանսպորտ",
+		"english": "transportation",
+		"audio": "տրանսպորտ.mp3"
+	},
+	{
+		"armenian": "նստել ավտոբուս",
+		"english": "to get on the bus",
+		"audio": "նստել ավտոբուս.mp3"
+	},
+	{
+		"armenian": "իջնել ավտոբուսից",
+		"english": "to get off the bus",
+		"audio": "իջնել ավտոբուսից.mp3"
+	},
+	{
+		"armenian": "մեքենա վարել",
+		"english": "to drive a car",
+		"audio": "մեքենա վարել.mp3"
+	},
+	{
+		"armenian": "մեքենա վարձել",
+		"english": "to rent a car",
+		"audio": "մեքենա վարձել.mp3"
+	},
+	{
+		"armenian": "մայթ",
+		"english": "sidewalk",
+		"audio": "մայթ.mp3"
+	},
+	{
+		"armenian": "դիմացի մայթին",
+		"english": "across the street",
+		"audio": "դիմացի մայթին.mp3"
+	},
+	{
+		"armenian": "խաչմերուկ",
+		"english": "crossroad",
+		"audio": "խաչմերուկ.mp3"
+	},
+	{
+		"armenian": "խցանում",
+		"english": "traffic jam",
+		"audio": "խցանում.mp3"
+	},
+	{
+		"armenian": "լուսակիր",
+		"english": "traffic light",
+		"audio": "լուսակիր.mp3"
+	},
+	{
+		"armenian": "ուղևոր",
+		"english": "passenger",
+		"audio": "ուղևոր.mp3"
+	},
+	{
+		"armenian": "երթևեկություն",
+		"english": "traffic",
+		"audio": "երթևեկություն.mp3"
+	},
+	{
+		"armenian": "ճոպանուղի",
+		"english": "ropeway",
+		"audio": "ճոպանուղի.mp3"
+	},
+	{
+		"armenian": "նավ",
+		"english": "ship",
+		"audio": "նավ.mp3"
+	},
+	{
+		"armenian": "կանգառ",
+		"english": "bus stop",
+		"audio": "կանգառ.mp3"
+	},
+	{
+		"armenian": "ուղիղ",
+		"english": "straight",
+		"audio": "ուղիղ.mp3"
+	},
+	{
+		"armenian": "մինչև",
+		"english": "up to, till",
+		"audio": "մինչև.mp3"
+	},
+	{
+		"armenian": "աջ",
+		"english": "right",
+		"audio": "աջ.mp3"
+	},
+	{
+		"armenian": "ձախ",
+		"english": "left",
+		"audio": "ձախ.mp3"
+	},
+	{
+		"armenian": "ներքև",
+		"english": "down",
+		"audio": "ներքև.mp3"
+	},
+	{
+		"armenian": "վերեւ",
+		"english": "up",
+		"audio": "վերեւ.mp3"
+	},
+	{
+		"armenian": "կողքին",
+		"english": "next to",
+		"audio": "կողքին.mp3"
+	},
+	{
+		"armenian": "կողմ",
+		"english": "side",
+		"audio": "կողմ.mp3"
+	},
+	{
+		"armenian": "առաջին",
+		"english": "first",
+		"audio": "առաջին.mp3"
+	},
+	{
+		"armenian": "երկրորդ",
+		"english": "second (number)",
+		"audio": "երկրորդ.mp3"
+	},
+	{
+		"armenian": "երրորդ",
+		"english": "third",
+		"audio": "երրորդ.mp3"
+	},
+	{
+		"armenian": "չորրորդ",
+		"english": "fourth",
+		"audio": "չորրորդ.mp3"
+	},
+	{
+		"armenian": "հինգերորդ",
+		"english": "fifth",
+		"audio": "հինգերորդ.mp3"
+	},
+	{
+		"armenian": "վեցերորդ",
+		"english": "sixth",
+		"audio": "վեցերորդ.mp3"
+	},
+	{
+		"armenian": "յոթերորդ",
+		"english": "seventh",
+		"audio": "յոթերորդ.mp3"
+	},
+	{
+		"armenian": "ութերորդ",
+		"english": "eighth",
+		"audio": "ութերորդ.mp3"
+	},
+	{
+		"armenian": "իններորդ",
+		"english": "ninth",
+		"audio": "իններորդ.mp3"
+	},
+	{
+		"armenian": "տասներորդ",
+		"english": "tenth",
+		"audio": "տասներորդ.mp3"
+	},
+	{
+		"armenian": "երկխոսություն",
+		"english": "Dialogue",
+		"audio": "երկխոսություն.mp3"
+	},
+	{
+		"armenian": "թեքվել",
+		"english": "to turn",
+		"audio": "թեքվել.mp3"
+	},
+	{
+		"armenian": "հանրապետության հրապարակ",
+		"english": "Republic Square",
+		"audio": "հանրապետության հրապարակ.mp3"
+	},
+	{
+		"armenian": "արձան",
+		"english": "statue",
+		"audio": "արձան.mp3"
+	},
+	{
+		"armenian": "դրամ",
+		"english": "money (Armenian currency)",
+		"audio": "դրամ.mp3"
+	},
+	{
+		"armenian": "խնդրում եմ, կանգառում կանգնե՛ք։",
+		"english": "Please, stop at the bus stop!",
+		"audio": "խնդրում եմ, կանգառում կանգնե՛ք։.mp3"
+	},
+	{
+		"armenian": "քիչ անց",
+		"english": "a bit later",
+		"audio": "քիչ անց.mp3"
+	},
+	{
+		"armenian": "կարապի լիճ",
+		"english": "Swan Lake",
+		"audio": "կարապի լիճ.mp3"
+	},
+	{
+		"armenian": "մի քիչ",
+		"english": "a little bit",
+		"audio": "մի քիչ.mp3"
+	},
+	{
+		"armenian": "տեղում է",
+		"english": "it is in its place",
+		"audio": "տեղում է.mp3"
+	},
+	{
+		"armenian": "կանգնել",
+		"english": "to stand",
+		"audio": "կանգնել.mp3"
+	},
+	{
+		"armenian": "հետիոտն",
+		"english": "pedestrian",
+		"audio": "հետիոտն.mp3"
+	},
+	{
+		"armenian": "հեռու",
+		"english": "far",
+		"audio": "հեռու.mp3"
+	},
+	{
+		"armenian": "կամ ... կամ ...",
+		"english": "either ... or ...",
+		"audio": "կամ ... կամ ....mp3"
+	},
+	{
+		"armenian": "անցնել փողոցը",
+		"english": "to cross the street",
+		"audio": "անցնել փողոցը.mp3"
+	},
+	{
+		"armenian": "էլ",
+		"english": "here: any more",
+		"audio": "էլ.mp3"
+	},
+	{
+		"armenian": "աչքիս վրա",
+		"english": "with pleasure (I will do)",
+		"audio": "աչքիս վրա.mp3"
+	},
+	{
+		"armenian": "փող",
+		"english": "money",
+		"audio": "փող.mp3"
+	},
+	{
+		"armenian": "կես ժամ",
+		"english": "half an hour",
+		"audio": "կես ժամ.mp3"
+	},
+	{
+		"armenian": "տաղանդավոր",
+		"english": "talented",
+		"audio": "տաղանդավոր.mp3"
+	},
+	{
+		"armenian": "խաբել",
+		"english": "to cheat, lie",
+		"audio": "խաբել.mp3"
+	},
+	{
+		"armenian": "խոստանալ",
+		"english": "to promise",
+		"audio": "խոստանալ.mp3"
+	},
+	{
+		"armenian": "ձանձրանալ",
+		"english": "to get bored",
+		"audio": "ձանձրանալ.mp3"
+	},
+	{
+		"armenian": "հիվանդանալ",
+		"english": "to get sick",
+		"audio": "հիվանդանալ.mp3"
+	},
+	{
+		"armenian": "գողանալ",
+		"english": "to steal",
+		"audio": "գողանալ.mp3"
+	},
+	{
+		"armenian": "զայրանալ",
+		"english": "to get angry",
+		"audio": "զայրանալ.mp3"
+	},
+	{
+		"armenian": "զվարճանալ",
+		"english": "to have fun",
+		"audio": "զվարճանալ.mp3"
+	},
+	{
+		"armenian": "վերնաշապիկ",
+		"english": "shirt",
+		"audio": "վերնաշապիկ.mp3"
+	},
+	{
+		"armenian": "շապիկ",
+		"english": "undershirt",
+		"audio": "շապիկ.mp3"
+	},
+	{
+		"armenian": "զգեստ / շոր",
+		"english": "dress",
+		"audio": "զգեստ.mp3"
+	},
+	{
+		"armenian": "բլուզ",
+		"english": "blouse",
+		"audio": "բլուզ.mp3"
+	},
+	{
+		"armenian": "տաբատ / շալվար / անդրավարտիք",
+		"english": "pants, trousers",
+		"audio": "տաբատ.mp3"
+	},
+	{
+		"armenian": "ջինս",
+		"english": "jeans",
+		"audio": "ջինս.mp3"
+	},
+	{
+		"armenian": "գուլպա",
+		"english": "sock",
+		"audio": "գուլպա.mp3"
+	},
+	{
+		"armenian": "անձրևանոց",
+		"english": "umbrella",
+		"audio": "անձրևանոց.mp3"
+	},
+	{
+		"armenian": "կոշիկ",
+		"english": "shoe",
+		"audio": "կոշիկ.mp3"
+	},
+	{
+		"armenian": "մարզակոշիկ",
+		"english": "sneaker",
+		"audio": "մարզակոշիկ.mp3"
+	},
+	{
+		"armenian": "մատանի",
+		"english": "ring",
+		"audio": "մատանի.mp3"
+	},
+	{
+		"armenian": "ակնոց",
+		"english": "glasses",
+		"audio": "ակնոց.mp3"
+	},
+	{
+		"armenian": "վերարկու",
+		"english": "overcoat",
+		"audio": "վերարկու.mp3"
+	},
+	{
+		"armenian": "բաճկոն",
+		"english": "coat",
+		"audio": "բաճկոն.mp3"
+	},
+	{
+		"armenian": "կոստյում",
+		"english": "suit",
+		"audio": "կոստյում.mp3"
+	},
+	{
+		"armenian": "ժակետ",
+		"english": "jacket, cardigan",
+		"audio": "ժակետ.mp3"
+	},
+	{
+		"armenian": "սվիտեր",
+		"english": "sweater",
+		"audio": "սվիտեր.mp3"
+	},
+	{
+		"armenian": "գլխարկ",
+		"english": "hat",
+		"audio": "գլխարկ.mp3"
+	},
+	{
+		"armenian": "գոտի",
+		"english": "belt",
+		"audio": "գոտի.mp3"
+	},
+	{
+		"armenian": "ձեռնոց",
+		"english": "glove",
+		"audio": "ձեռնոց.mp3"
+	},
+	{
+		"armenian": "շարֆ",
+		"english": "scarf",
+		"audio": "շարֆ.mp3"
+	},
+	{
+		"armenian": "կարճ շալվար",
+		"english": "shorts",
+		"audio": "կարճ շալվար.mp3"
+	},
+	{
+		"armenian": "փողկապ",
+		"english": "tie",
+		"audio": "փողկապ.mp3"
+	},
+	{
+		"armenian": "ականջօղ",
+		"english": "earring",
+		"audio": "ականջօղ.mp3"
+	},
+	{
+		"armenian": "սպիտակ",
+		"english": "white",
+		"audio": "սպիտակ.mp3"
+	},
+	{
+		"armenian": "կարմիր",
+		"english": "red",
+		"audio": "կարմիր.mp3"
+	},
+	{
+		"armenian": "կապույտ",
+		"english": "blue",
+		"audio": "կապույտ.mp3"
+	},
+	{
+		"armenian": "կանաչ",
+		"english": "green",
+		"audio": "կանաչ.mp3"
+	},
+	{
+		"armenian": "դեղին",
+		"english": "yellow",
+		"audio": "դեղին.mp3"
+	},
+	{
+		"armenian": "բաց",
+		"english": "light (color)",
+		"audio": "բաց.mp3"
+	},
+	{
+		"armenian": "սև",
+		"english": "black",
+		"audio": "սև.mp3"
+	},
+	{
+		"armenian": "շագանակագույն",
+		"english": "brown",
+		"audio": "շագանակագույն.mp3"
+	},
+	{
+		"armenian": "մոխրագույն",
+		"english": "grey",
+		"audio": "մոխրագույն.mp3"
+	},
+	{
+		"armenian": "վարդագույն",
+		"english": "pink",
+		"audio": "վարդագույն.mp3"
+	},
+	{
+		"armenian": "մանուշակագույն",
+		"english": "purple",
+		"audio": "մանուշակագույն.mp3"
+	},
+	{
+		"armenian": "մուգ",
+		"english": "dark (color)",
+		"audio": "մուգ.mp3"
+	},
+	{
+		"armenian": "գնալ գնումների",
+		"english": "to go shopping",
+		"audio": "գնալ գնումների.mp3"
+	},
+	{
+		"armenian": "նորաձև",
+		"english": "modern",
+		"audio": "նորաձև.mp3"
+	},
+	{
+		"armenian": "բավական",
+		"english": "enough",
+		"audio": "բավական.mp3"
+	},
+	{
+		"armenian": "փորձել",
+		"english": "to try on",
+		"audio": "փորձել.mp3"
+	},
+	{
+		"armenian": "հինգ րոպե անց",
+		"english": "five minutes later",
+		"audio": "հինգ րոպե անց.mp3"
+	},
+	{
+		"armenian": "լավ նստել",
+		"english": "to fit well",
+		"audio": "լավ նստել.mp3"
+	},
+	{
+		"armenian": "հաճախորդ",
+		"english": "customer, client",
+		"audio": "հաճախորդ.mp3"
+	},
+	{
+		"armenian": "30 տոկոս գեղչ",
+		"english": "30 percent discount",
+		"audio": "30 տոկոս գեղչ.mp3"
+	},
+	{
+		"armenian": "կաշվե",
+		"english": "leather",
+		"audio": "կաշվե.mp3"
+	},
+	{
+		"armenian": "սա ձեր վրայով է։",
+		"english": "It fits you like a glove.",
+		"audio": "սա ձեր վրայով է։.mp3"
+	},
+	{
+		"armenian": "կարճաթև",
+		"english": "with short sleeves",
+		"audio": "կարճաթև.mp3"
+	},
+	{
+		"armenian": "երկարաթև",
+		"english": "with long sleeves",
+		"audio": "երկարաթև.mp3"
+	},
+	{
+		"armenian": "գումար",
+		"english": "sum of money",
+		"audio": "գումար.mp3"
+	},
+	{
+		"armenian": "խնայել",
+		"english": "to save (money)",
+		"audio": "խնայել.mp3"
+	},
+	{
+		"armenian": "սազել",
+		"english": "to suit",
+		"audio": "սազել.mp3"
+	},
+	{
+		"armenian": "լայն",
+		"english": "loose / wide",
+		"audio": "լայն.mp3"
+	},
+	{
+		"armenian": "նեղ",
+		"english": "tight",
+		"audio": "նեղ.mp3"
+	},
+	{
+		"armenian": "չափս",
+		"english": "size / measurement",
+		"audio": "չափս.mp3"
+	},
+	{
+		"armenian": "իմ չափսը ունե՞ք։",
+		"english": "Do you have my size?",
+		"audio": "իմ չափսը ունե՞ք։.mp3"
+	},
+	{
+		"armenian": "հանդերձարան",
+		"english": "fitting room",
+		"audio": "հանդերձարան.mp3"
+	},
+	{
+		"armenian": "մեկ համարով մեծ",
+		"english": "one size bigger",
+		"audio": "մեկ համարով մեծ.mp3"
+	},
+	{
+		"armenian": "սա հենց իմ ուզածն է։",
+		"english": "This is what I want.",
+		"audio": "սա հենց իմ ուզածն է։.mp3"
+	},
+	{
+		"armenian": "վաճառող",
+		"english": "shop assistant",
+		"audio": "վաճառող.mp3"
+	},
+	{
+		"armenian": "ցավոք սրտի",
+		"english": "unfortunately",
+		"audio": "ցավոք սրտի.mp3"
+	},
+	{
+		"armenian": "զրուցել",
+		"english": "to talk",
+		"audio": "զրուցել.mp3"
+	},
+	{
+		"armenian": "գաղափար",
+		"english": "idea",
+		"audio": "գաղափար.mp3"
+	},
+	{
+		"armenian": "հավես չունեմ",
+		"english": "I am not in the mood",
+		"audio": "հավես չունեմ.mp3"
+	},
+	{
+		"armenian": "կիսազգեստ",
+		"english": "skirt",
+		"audio": "կիսազգեստ.mp3"
+	},
+	{
+		"armenian": "նայած",
+		"english": "it depends",
+		"audio": "նայած.mp3"
+	},
+	{
+		"armenian": "բարձրակրունկ",
+		"english": "high-heeled",
+		"audio": "բարձրակրունկ.mp3"
+	},
+	{
+		"armenian": "ձեռք առնել",
+		"english": "to mock",
+		"audio": "ձեռք առնել.mp3"
+	},
+	{
+		"armenian": "ոչ միայն ... այլ նաև ...",
+		"english": "not only ... but also ...",
+		"audio": "ոչ միայն ... այլ նաև ....mp3"
+	},
+	{
+		"armenian": "տաղավար",
+		"english": "stall, pavilion",
+		"audio": "տաղավար.mp3"
+	},
+	{
+		"armenian": "մարմնի մասեր",
+		"english": "parts of the body",
+		"audio": "մարմնի մասեր.mp3"
+	},
+	{
+		"armenian": "մարմին",
+		"english": "body",
+		"audio": "մարմին.mp3"
+	},
+	{
+		"armenian": "գլուխ",
+		"english": "head",
+		"audio": "գլուխ.mp3"
+	},
+	{
+		"armenian": "վիզ",
+		"english": "neck",
+		"audio": "վիզ.mp3"
+	},
+	{
+		"armenian": "մազեր",
+		"english": "hair",
+		"audio": "մազեր.mp3"
+	},
+	{
+		"armenian": "դեմք",
+		"english": "face",
+		"audio": "դեմք.mp3"
+	},
+	{
+		"armenian": "ճակատ",
+		"english": "forehead",
+		"audio": "ճակատ.mp3"
+	},
+	{
+		"armenian": "ձեռք",
+		"english": "hand",
+		"audio": "ձեռք.mp3"
+	},
+	{
+		"armenian": "մատ",
+		"english": "finger",
+		"audio": "մատ.mp3"
+	},
+	{
+		"armenian": "արմունկ",
+		"english": "elbow",
+		"audio": "արմունկ.mp3"
+	},
+	{
+		"armenian": "կոկորդ",
+		"english": "throat",
+		"audio": "կոկորդ.mp3"
+	},
+	{
+		"armenian": "աչք",
+		"english": "eye",
+		"audio": "աչք.mp3"
+	},
+	{
+		"armenian": "քիթ",
+		"english": "nose",
+		"audio": "քիթ.mp3"
+	},
+	{
+		"armenian": "բերան",
+		"english": "mouth",
+		"audio": "բերան.mp3"
+	},
+	{
+		"armenian": "լեզու",
+		"english": "tongue",
+		"audio": "լեզու.mp3"
+	},
+	{
+		"armenian": "ականջ",
+		"english": "ear",
+		"audio": "ականջ.mp3"
+	},
+	{
+		"armenian": "այտ",
+		"english": "cheek",
+		"audio": "այտ.mp3"
+	},
+	{
+		"armenian": "եղունգ",
+		"english": "nail",
+		"audio": "եղունգ.mp3"
+	},
+	{
+		"armenian": "ոտք",
+		"english": "leg",
+		"audio": "ոտք.mp3"
+	},
+	{
+		"armenian": "ուս",
+		"english": "shoulder",
+		"audio": "ուս.mp3"
+	},
+	{
+		"armenian": "ատամ",
+		"english": "tooth",
+		"audio": "ատամ.mp3"
+	},
+	{
+		"armenian": "մաշկ",
+		"english": "skin",
+		"audio": "մաշկ.mp3"
+	},
+	{
+		"armenian": "մկան",
+		"english": "muscle",
+		"audio": "մկան.mp3"
+	},
+	{
+		"armenian": "շուրթ",
+		"english": "lip",
+		"audio": "շուրթ.mp3"
+	},
+	{
+		"armenian": "թև",
+		"english": "arm",
+		"audio": "թև.mp3"
+	},
+	{
+		"armenian": "կուրծք",
+		"english": "breast",
+		"audio": "կուրծք.mp3"
+	},
+	{
+		"armenian": "փոր",
+		"english": "abdomen",
+		"audio": "փոր.mp3"
+	},
+	{
+		"armenian": "ոսկոր",
+		"english": "bone",
+		"audio": "ոսկոր.mp3"
+	},
+	{
+		"armenian": "ստամոքս",
+		"english": "stomach",
+		"audio": "ստամոքս.mp3"
+	},
+	{
+		"armenian": "թոքեր",
+		"english": "lungs",
+		"audio": "թոքեր.mp3"
+	},
+	{
+		"armenian": "սիրտ",
+		"english": "heart",
+		"audio": "սիրտ.mp3"
+	},
+	{
+		"armenian": "լարված",
+		"english": "tense",
+		"audio": "լարված.mp3"
+	},
+	{
+		"armenian": "լարվածությունը հանել",
+		"english": "to remove the tension",
+		"audio": "լարվածությունը հանել.mp3"
+	},
+	{
+		"armenian": "հերթով",
+		"english": "one by one",
+		"audio": "հերթով.mp3"
+	},
+	{
+		"armenian": "ձգել",
+		"english": "to stretch",
+		"audio": "ձգել.mp3"
+	},
+	{
+		"armenian": "սկզբում",
+		"english": "at first",
+		"audio": "սկզբում.mp3"
+	},
+	{
+		"armenian": "զգալ",
+		"english": "to feel",
+		"audio": "զգալ.mp3"
+	},
+	{
+		"armenian": "վայր",
+		"english": "a place",
+		"audio": "վայր.mp3"
+	},
+	{
+		"armenian": "խորհուրդ տալ",
+		"english": "to advise",
+		"audio": "խորհուրդ տալ.mp3"
+	},
+	{
+		"armenian": "թուլացնել",
+		"english": "weaken",
+		"audio": "թուլացնել.mp3"
+	},
+	{
+		"armenian": "կրկնել",
+		"english": "to repeat",
+		"audio": "կրկնել.mp3"
+	},
+	{
+		"armenian": "պառկել",
+		"english": "to lie down",
+		"audio": "պառկել.mp3"
+	},
+	{
+		"armenian": "շնչել",
+		"english": "to breathe",
+		"audio": "շնչել.mp3"
+	},
+	{
+		"armenian": "խորը",
+		"english": "deep(ly)",
+		"audio": "խորը.mp3"
+	},
+	{
+		"armenian": "պատկերացնել",
+		"english": "to imagine",
+		"audio": "պատկերացնել.mp3"
+	},
+	{
+		"armenian": "ծովափ",
+		"english": "seaside",
+		"audio": "ծովափ.mp3"
+	},
+	{
+		"armenian": "շպարվել",
+		"english": "to do makeup",
+		"audio": "շպարվել.mp3"
+	},
+	{
+		"armenian": "շու՛տ արա",
+		"english": "hurry up!",
+		"audio": "շու՛տ արա.mp3"
+	},
+	{
+		"armenian": "արձան",
+		"english": "statue",
+		"audio": "արձան.mp3"
+	},
+	{
+		"armenian": "օգնություն",
+		"english": "help",
+		"audio": "օգնություն.mp3"
+	},
+	{
+		"armenian": "ուշադրություն դարձնել",
+		"english": "to pay attention",
+		"audio": "ուշադրություն դարձնել.mp3"
+	},
+	{
+		"armenian": "թվալ",
+		"english": "to seem",
+		"audio": "թվալ.mp3"
+	},
+	{
+		"armenian": "նկարվել",
+		"english": "to be photographed",
+		"audio": "նկարվել.mp3"
+	},
+	{
+		"armenian": "հավաքվել",
+		"english": "to gather",
+		"audio": "հավաքվել.mp3"
+	},
+	{
+		"armenian": "դիտավորյալ",
+		"english": "intentionally",
+		"audio": "դիտավորյալ.mp3"
+	},
+	{
+		"armenian": "վերջ տալ",
+		"english": "to stop",
+		"audio": "վերջ տալ.mp3"
+	},
+	{
+		"armenian": "ծաղրել",
+		"english": "to mock, to make fun of",
+		"audio": "ծաղրել.mp3"
+	},
+	{
+		"armenian": "համոզված լինել",
+		"english": "to be sure",
+		"audio": "համոզված լինել.mp3"
+	},
+	{
+		"armenian": "մյուս անգամ",
+		"english": "next time",
+		"audio": "մյուս անգամ.mp3"
+	},
+	{
+		"armenian": "թե չէ",
+		"english": "or else",
+		"audio": "թե չէ.mp3"
+	},
+	{
+		"armenian": "թրջվել",
+		"english": "to get wet",
+		"audio": "թրջվել.mp3"
+	},
+	{
+		"armenian": "լրիվ",
+		"english": "fully",
+		"audio": "լրիվ.mp3"
+	},
+	{
+		"armenian": "նվիրել",
+		"english": "to give a present",
+		"audio": "նվիրել.mp3"
+	},
+	{
+		"armenian": "զեկույց",
+		"english": "report",
+		"audio": "զեկույց.mp3"
+	},
+	{
+		"armenian": "կազմակերպել",
+		"english": "to organize",
+		"audio": "կազմակերպել.mp3"
+	},
+	{
+		"armenian": "առողջություն",
+		"english": "health",
+		"audio": "առողջություն.mp3"
+	},
+	{
+		"armenian": "բժիշկ",
+		"english": "doctor",
+		"audio": "բժիշկ.mp3"
+	},
+	{
+		"armenian": "բուժքույր",
+		"english": "nurse",
+		"audio": "բուժքույր.mp3"
+	},
+	{
+		"armenian": "հիվանդ",
+		"english": "patient (n), sick (adj)",
+		"audio": "հիվանդ.mp3"
+	},
+	{
+		"armenian": "հիվանդություն",
+		"english": "illness",
+		"audio": "հիվանդություն.mp3"
+	},
+	{
+		"armenian": "ջերմություն",
+		"english": "temperature",
+		"audio": "ջերմություն.mp3"
+	},
+	{
+		"armenian": "ջերմաչափ",
+		"english": "thermometer",
+		"audio": "ջերմաչափ.mp3"
+	},
+	{
+		"armenian": "գրիպ",
+		"english": "the flu",
+		"audio": "գրիպ.mp3"
+	},
+	{
+		"armenian": "շտապօգնություն",
+		"english": "ambulance",
+		"audio": "շտապօգնություն.mp3"
+	},
+	{
+		"armenian": "դեղ",
+		"english": "medicine",
+		"audio": "դեղ.mp3"
+	},
+	{
+		"armenian": "բժշկի գնալ",
+		"english": "to go to the doctor",
+		"audio": "բժշկի գնալ.mp3"
+	},
+	{
+		"armenian": "գլխապտույտ",
+		"english": "dizziness",
+		"audio": "գլխապտույտ.mp3"
+	},
+	{
+		"armenian": "գլխացավ",
+		"english": "headache",
+		"audio": "գլխացավ.mp3"
+	},
+	{
+		"armenian": "բուժել",
+		"english": "to cure",
+		"audio": "բուժել.mp3"
+	},
+	{
+		"armenian": "չափել",
+		"english": "to measure",
+		"audio": "չափել.mp3"
+	},
+	{
+		"armenian": "ցավել",
+		"english": "to hurt",
+		"audio": "ցավել.mp3"
+	},
+	{
+		"armenian": "հազալ",
+		"english": "to cough",
+		"audio": "հազալ.mp3"
+	},
+	{
+		"armenian": "փռշտալ",
+		"english": "to sneeze",
+		"audio": "փռշտալ.mp3"
+	},
+	{
+		"armenian": "փսխել / հետ տալ",
+		"english": "to vomit, to throw up",
+		"audio": "փսխել.mp3"
+	},
+	{
+		"armenian": "վարակվել",
+		"english": "to get infected",
+		"audio": "վարակվել.mp3"
+	},
+	{
+		"armenian": "լավանալ",
+		"english": "to recover",
+		"audio": "լավանալ.mp3"
+	},
+	{
+		"armenian": "վատանալ",
+		"english": "to go worse",
+		"audio": "վատանալ.mp3"
+	},
+	{
+		"armenian": "սիրտը խառնել",
+		"english": "to feel nauseous",
+		"audio": "սիրտը խառնել.mp3"
+	},
+	{
+		"armenian": "դեղ խմել",
+		"english": "to take medicine",
+		"audio": "դեղ խմել.mp3"
+	},
+	{
+		"armenian": "քրտնել",
+		"english": "to sweat",
+		"audio": "քրտնել.mp3"
+	},
+	{
+		"armenian": "թունավորվել",
+		"english": "to get poisoned",
+		"audio": "թունավորվել.mp3"
+	},
+	{
+		"armenian": "խորհուրդ",
+		"english": "advice",
+		"audio": "խորհուրդ.mp3"
+	},
+	{
+		"armenian": "ցանկանալ",
+		"english": "to wish",
+		"audio": "ցանկանալ.mp3"
+	},
+	{
+		"armenian": "ախորժակ",
+		"english": "appetite",
+		"audio": "ախորժակ.mp3"
+	},
+	{
+		"armenian": "ջերմությունը իջնում է։",
+		"english": "The temperature drops. ",
+		"audio": "ջերմությունը իջնում է։.mp3"
+	},
+	{
+		"armenian": "պարզ",
+		"english": "clear",
+		"audio": "պարզ.mp3"
+	},
+	{
+		"armenian": "ցավեր ունենալ",
+		"english": "to be in pain",
+		"audio": "ցավեր ունենալ.mp3"
+	},
+	{
+		"armenian": "ուղղակի",
+		"english": "just",
+		"audio": "ուղղակի.mp3"
+	},
+	{
+		"armenian": "գանգատ",
+		"english": "complaint",
+		"audio": "գանգատ.mp3"
+	},
+	{
+		"armenian": "համ էլ",
+		"english": "and also",
+		"audio": "համ էլ.mp3"
+	},
+	{
+		"armenian": "կուլ տալ",
+		"english": "to swallow",
+		"audio": "կուլ տալ.mp3"
+	},
+	{
+		"armenian": "մեղավոր",
+		"english": "guilty",
+		"audio": "մեղավոր.mp3"
+	},
+	{
+		"armenian": "պայծառ",
+		"english": "bright",
+		"audio": "պայծառ.mp3"
+	},
+	{
+		"armenian": "հետ բերել",
+		"english": "bring back",
+		"audio": "հետ բերել.mp3"
+	},
+	{
+		"armenian": "դռան զանգը հնչում է։",
+		"english": "The doorbell is ringing",
+		"audio": "դռան զանգը հնչում է։.mp3"
+	},
+	{
+		"armenian": "մեկ է",
+		"english": "anyway",
+		"audio": "մեկ է.mp3"
+	},
+	{
+		"armenian": "կրկին",
+		"english": "again",
+		"audio": "կրկին.mp3"
+	},
+	{
+		"armenian": "պայմանավորվել",
+		"english": "to arrange, to agree",
+		"audio": "պայմանավորվել.mp3"
+	},
+	{
+		"armenian": "պայմանով, որ ...",
+		"english": "on condition that ...",
+		"audio": "պայմանով, որ ....mp3"
+	},
+	{
+		"armenian": "եթե նույնիսկ / եթե անգամ",
+		"english": "even if",
+		"audio": "եթե նույնիսկ.mp3"
+	},
+	{
+		"armenian": "երբ էլ",
+		"english": "whenever",
+		"audio": "երբ էլ.mp3"
+	},
+	{
+		"armenian": "ինչ էլ",
+		"english": "whatever",
+		"audio": "ինչ էլ.mp3"
+	},
+	{
+		"armenian": "ով էլ",
+		"english": "whoever",
+		"audio": "ով էլ.mp3"
+	},
+	{
+		"armenian": "որտեղ էլ",
+		"english": "wherever",
+		"audio": "որտեղ էլ.mp3"
+	},
+	{
+		"armenian": "ինչպես էլ",
+		"english": "no matter how",
+		"audio": "ինչպես էլ.mp3"
+	},
+	{
+		"armenian": "որքան էլ",
+		"english": "no matter how much",
+		"audio": "որքան էլ.mp3"
+	},
+	{
+		"armenian": "երանի (թե)",
+		"english": "I wish",
+		"audio": "երանի (թե).mp3"
+	},
+	{
+		"armenian": "միայն թե",
+		"english": "if only",
+		"audio": "միայն թե.mp3"
+	},
+	{
+		"armenian": "որպեսզի",
+		"english": "in order to",
+		"audio": "որպեսզի.mp3"
+	},
+	{
+		"armenian": "մրսել",
+		"english": "to catch a cold",
+		"audio": "մրսել.mp3"
+	},
+	{
+		"armenian": "ֆուտբոլ",
+		"english": "football",
+		"audio": "ֆուտբոլ.mp3"
+	},
+	{
+		"armenian": "բասկետբոլ",
+		"english": "basketball",
+		"audio": "բասկետբոլ.mp3"
+	},
+	{
+		"armenian": "թենիս",
+		"english": "tennis",
+		"audio": "թենիս.mp3"
+	},
+	{
+		"armenian": "սեղանի թենիս",
+		"english": "table tennis",
+		"audio": "սեղանի թենիս.mp3"
+	},
+	{
+		"armenian": "լող",
+		"english": "swimming",
+		"audio": "լող.mp3"
+	},
+	{
+		"armenian": "նարդի",
+		"english": "backgammon",
+		"audio": "նարդի.mp3"
+	},
+	{
+		"armenian": "շախմատ",
+		"english": "chess",
+		"audio": "շախմատ.mp3"
+	},
+	{
+		"armenian": "մարզադաշտ",
+		"english": "stadium",
+		"audio": "մարզադաշտ.mp3"
+	},
+	{
+		"armenian": "լողավազան",
+		"english": "swimming pool",
+		"audio": "լողավազան.mp3"
+	},
+	{
+		"armenian": "սահադաշտ",
+		"english": "skating rink",
+		"audio": "սահադաշտ.mp3"
+	},
+	{
+		"armenian": "հեծանվորդ",
+		"english": "cyclist",
+		"audio": "հեծանվորդ.mp3"
+	},
+	{
+		"armenian": "լողորդ",
+		"english": "swimmer",
+		"audio": "լողորդ.mp3"
+	},
+	{
+		"armenian": "մարզվել",
+		"english": "to work out",
+		"audio": "մարզվել.mp3"
+	},
+	{
+		"armenian": "հաղթել",
+		"english": "to win",
+		"audio": "հաղթել.mp3"
+	},
+	{
+		"armenian": "պարտվել",
+		"english": "to lose (a game, war)",
+		"audio": "պարտվել.mp3"
+	},
+	{
+		"armenian": "երկրպագել",
+		"english": "support a team",
+		"audio": "երկրպագել.mp3"
+	},
+	{
+		"armenian": "մասնակցել",
+		"english": "to participate",
+		"audio": "մասնակցել.mp3"
+	},
+	{
+		"armenian": "թիմ / հավաքական",
+		"english": "team",
+		"audio": "թիմ.mp3"
+	},
+	{
+		"armenian": "հաշիվ",
+		"english": "score",
+		"audio": "հաշիվ.mp3"
+	},
+	{
+		"armenian": "մրցել",
+		"english": "to compete",
+		"audio": "մրցել.mp3"
+	},
+	{
+		"armenian": "սպորտով զբաղվել",
+		"english": "to play sports",
+		"audio": "սպորտով զբաղվել.mp3"
+	},
+	{
+		"armenian": "մրցանակ",
+		"english": "prize",
+		"audio": "մրցանակ.mp3"
+	},
+	{
+		"armenian": "ֆուտբոլիստ",
+		"english": "footballer",
+		"audio": "ֆուտբոլիստ.mp3"
+	},
+	{
+		"armenian": "մարզիկ",
+		"english": "sportsman",
+		"audio": "մարզիկ.mp3"
+	},
+	{
+		"armenian": "չմշկել",
+		"english": "to skate",
+		"audio": "չմշկել.mp3"
+	},
+	{
+		"armenian": "կանչել",
+		"english": "to call",
+		"audio": "կանչել.mp3"
+	},
+	{
+		"armenian": "անհանգստանալ",
+		"english": "to worry",
+		"audio": "անհանգստանալ.mp3"
+	},
+	{
+		"armenian": "հենց որ",
+		"english": "as soon as",
+		"audio": "հենց որ.mp3"
+	},
+	{
+		"armenian": "խնդրել",
+		"english": "to ask (for sth.)",
+		"audio": "խնդրել.mp3"
+	},
+	{
+		"armenian": "համոզել",
+		"english": "to persuade",
+		"audio": "համոզել.mp3"
+	},
+	{
+		"armenian": "պահանջել",
+		"english": "to demand",
+		"audio": "պահանջել.mp3"
+	},
+	{
+		"armenian": "պնդել",
+		"english": "to insist",
+		"audio": "պնդել.mp3"
+	},
+	{
+		"armenian": "հետևում",
+		"english": "behind",
+		"audio": "հետևում.mp3"
+	},
+	{
+		"armenian": "առաջ դնել",
+		"english": "to put forward",
+		"audio": "առաջ դնել.mp3"
+	},
+	{
+		"armenian": "խեղդվել",
+		"english": "to be suffocated",
+		"audio": "խեղդվել.mp3"
+	},
+	{
+		"armenian": "հեռուստաալիք",
+		"english": "TV channel",
+		"audio": "հեռուստաալիք.mp3"
+	},
+	{
+		"armenian": "ցույց տալ",
+		"english": "to show",
+		"audio": "ցույց տալ.mp3"
+	},
+	{
+		"armenian": "կռահել",
+		"english": "to guess",
+		"audio": "կռահել.mp3"
+	},
+	{
+		"armenian": "գլուխը գովել",
+		"english": "to brag, to boast",
+		"audio": "գլուխը գովել.mp3"
+	},
+	{
+		"armenian": "հավեսով",
+		"english": "full of fun",
+		"audio": "հավեսով.mp3"
+	},
+	{
+		"armenian": "կիրճ",
+		"english": "gorge",
+		"audio": "կիրճ.mp3"
+	},
+	{
+		"armenian": "միանալ",
+		"english": "to join",
+		"audio": "միանալ.mp3"
+	},
+	{
+		"armenian": "շրջել",
+		"english": "to tour around",
+		"audio": "շրջել.mp3"
+	},
+	{
+		"armenian": "բացատրել",
+		"english": "to explain",
+		"audio": "բացատրել.mp3"
+	},
+	{
+		"armenian": "բաժանվել",
+		"english": "to divide",
+		"audio": "բաժանվել.mp3"
+	},
+	{
+		"armenian": "խաղացող",
+		"english": "player",
+		"audio": "խաղացող.mp3"
+	},
+	{
+		"armenian": "ժեստ",
+		"english": "gesture",
+		"audio": "ժեստ.mp3"
+	},
+	{
+		"armenian": "անդամ",
+		"english": "member",
+		"audio": "անդամ.mp3"
+	},
+	{
+		"armenian": "ցուցահանդես",
+		"english": "exhibition",
+		"audio": "ցուցահանդես.mp3"
+	},
+	{
+		"armenian": "արձակուրդ",
+		"english": "vacation",
+		"audio": "արձակուրդ.mp3"
+	},
+	{
+		"armenian": "նշել",
+		"english": "to celebrate",
+		"audio": "նշել.mp3"
+	},
+	{
+		"armenian": "տոն",
+		"english": "holiday",
+		"audio": "տոն.mp3"
+	},
+	{
+		"armenian": "ծննդյան օր",
+		"english": "birthday",
+		"audio": "ծննդյան օր.mp3"
+	},
+	{
+		"armenian": "սուրբ ծնունդ",
+		"english": "Christmas",
+		"audio": "սուրբ ծնունդ.mp3"
+	},
+	{
+		"armenian": "զատիկ",
+		"english": "Easter",
+		"audio": "զատիկ.mp3"
+	},
+	{
+		"armenian": "կնունք",
+		"english": "baptism",
+		"audio": "կնունք.mp3"
+	},
+	{
+		"armenian": "արձակուրդ",
+		"english": "vacation",
+		"audio": "արձակուրդ.mp3"
+	},
+	{
+		"armenian": "նոր տարի",
+		"english": "New Year",
+		"audio": "նոր տարի.mp3"
+	},
+	{
+		"armenian": "տոնածառ",
+		"english": "Christmas tree",
+		"audio": "տոնածառ.mp3"
+	},
+	{
+		"armenian": "ձմեռ պապիկ",
+		"english": "Santa Claus (Ded Moroz)",
+		"audio": "ձմեռ պապիկ.mp3"
+	},
+	{
+		"armenian": "նվեր",
+		"english": "a present",
+		"audio": "նվեր.mp3"
+	},
+	{
+		"armenian": "շնորհավորել",
+		"english": "to congratulate",
+		"audio": "շնորհավորել.mp3"
+	},
+	{
+		"armenian": "մաղթել / ցանկանալ",
+		"english": "to wish s.o. s.th.",
+		"audio": "մաղթել.mp3"
+	},
+	{
+		"armenian": "նշել / տոնել",
+		"english": "to celebrate",
+		"audio": "նշել.mp3"
+	},
+	{
+		"armenian": "արձակուրդ գնալ",
+		"english": "to go on vacation",
+		"audio": "արձակուրդ գնալ.mp3"
+	},
+	{
+		"armenian": "անակնկալ անել",
+		"english": "to make a surprise",
+		"audio": "անակնկալ անել.mp3"
+	},
+	{
+		"armenian": "զարդարել",
+		"english": "to decorate",
+		"audio": "զարդարել.mp3"
+	},
+	{
+		"armenian": "տեղի ունենալ",
+		"english": "to take place",
+		"audio": "տեղի ունենալ.mp3"
+	},
+	{
+		"armenian": "ծննդյան օրը նշել",
+		"english": "to celebrate the birthday",
+		"audio": "ծննդյան օրը նշել.mp3"
+	},
+	{
+		"armenian": "ծիծաղել",
+		"english": "to laugh",
+		"audio": "ծիծաղել.mp3"
+	},
+	{
+		"armenian": "ժպտալ",
+		"english": "to smile",
+		"audio": "ժպտալ.mp3"
+	},
+	{
+		"armenian": "շնորհավորում եմ։",
+		"english": "Congratulations!",
+		"audio": "շնորհավորում եմ։.mp3"
+	},
+	{
+		"armenian": "շնորհավոր նոր տարի / ամանոր։",
+		"english": "Happy New Year!",
+		"audio": "շնորհավոր նոր տարի.mp3"
+	},
+	{
+		"armenian": "շնորհավոր սուրբ ծնունդը։",
+		"english": "Merry Christmas!",
+		"audio": "շնորհավոր սուրբ ծնունդը։.mp3"
+	},
+	{
+		"armenian": "շնորհավոր սուրբ զատիկ։",
+		"english": "Happy Easter!",
+		"audio": "շնորհավոր սուրբ զատիկ։.mp3"
+	},
+	{
+		"armenian": "ծնունդդ շնորհավոր։",
+		"english": "Happy birthday!",
+		"audio": "ծնունդդ շնորհավոր։.mp3"
+	},
+	{
+		"armenian": "թող իրականանան քո բոլոր երազանքները։",
+		"english": "May all your wishes come true!",
+		"audio": "թող իրականանան քո բոլոր երազանքները։.mp3"
+	},
+	{
+		"armenian": "ցանկանում եմ ձեզ ամենայն բարիք։",
+		"english": "All the best to you!",
+		"audio": "ցանկանում եմ ձեզ ամենայն բարիք։.mp3"
+	},
+	{
+		"armenian": "մաղթում եմ առողջություն, հաջողություն և երջանկություն։",
+		"english": "I wish you health, success, and happiness!",
+		"audio": "մաղթում եմ առողջություն, հաջողություն և երջանկություն։.mp3"
+	},
+	{
+		"armenian": "մաղթում եմ հաճելի ժամանց։",
+		"english": "I wish you a pleasant time!",
+		"audio": "մաղթում եմ հաճելի ժամանց։.mp3"
+	},
+	{
+		"armenian": "ձեր (քո) կենացը։",
+		"english": "A toast to you!",
+		"audio": "ձեր (քո) կենացը։.mp3"
+	},
+	{
+		"armenian": "ընկերության կենացը։",
+		"english": "To friendship!",
+		"audio": "ընկերության կենացը։.mp3"
+	},
+	{
+		"armenian": "ձեր ընտանիքի կենացը։",
+		"english": "To your family!",
+		"audio": "ձեր ընտանիքի կենացը։.mp3"
+	},
+	{
+		"armenian": "դիմավորել",
+		"english": "to meet",
+		"audio": "դիմավորել.mp3"
+	},
+	{
+		"armenian": "ուտեստ",
+		"english": "dish",
+		"audio": "ուտեստ.mp3"
+	},
+	{
+		"armenian": "խմոր",
+		"english": "dough",
+		"audio": "խմոր.mp3"
+	},
+	{
+		"armenian": "այդ ընթացքում",
+		"english": "during that time",
+		"audio": "այդ ընթացքում.mp3"
+	},
+	{
+		"armenian": "միմյանց",
+		"english": "each other",
+		"audio": "միմյանց.mp3"
+	},
+	{
+		"armenian": "հրավառություն",
+		"english": "firework",
+		"audio": "հրավառություն.mp3"
+	},
+	{
+		"armenian": "տեսակ",
+		"english": "type",
+		"audio": "տեսակ.mp3"
+	},
+	{
+		"armenian": "մերժել",
+		"english": "to reject, refuse",
+		"audio": "մերժել.mp3"
+	},
+	{
+		"armenian": "նեղանալ",
+		"english": "to get offended",
+		"audio": "նեղանալ.mp3"
+	},
+	{
+		"armenian": "կտրատել",
+		"english": "to chop",
+		"audio": "կտրատել.mp3"
+	},
+	{
+		"armenian": "պատրաստի",
+		"english": "ready (adj.)",
+		"audio": "պատրաստի.mp3"
+	},
+	{
+		"armenian": "կանչել",
+		"english": "to call",
+		"audio": "կանչել.mp3"
+	},
+	{
+		"armenian": "մեկ ամիս անց",
+		"english": "a month later",
+		"audio": "մեկ ամիս անց.mp3"
+	},
+	{
+		"armenian": "դիմակ",
+		"english": "mask",
+		"audio": "դիմակ.mp3"
+	},
+	{
+		"armenian": "բավականին",
+		"english": "rather",
+		"audio": "բավականին.mp3"
+	},
+	{
+		"armenian": "գաղտնիք",
+		"english": "secret",
+		"audio": "գաղտնիք.mp3"
+	},
+	{
+		"armenian": "պատահել",
+		"english": "to happen",
+		"audio": "պատահել.mp3"
+	},
+	{
+		"armenian": "ներս գնալ",
+		"english": "to go inside",
+		"audio": "ներս գնալ.mp3"
+	},
+	{
+		"armenian": "գլորվել",
+		"english": "to roll",
+		"audio": "գլորվել.mp3"
+	},
+	{
+		"armenian": "փուչիկ",
+		"english": "balloon",
+		"audio": "փուչիկ.mp3"
+	},
+	{
+		"armenian": "ժամանել",
+		"english": "to arrive",
+		"audio": "ժամանել.mp3"
+	},
+	{
+		"armenian": "հետաձգվել",
+		"english": "to be postponed",
+		"audio": "հետաձգվել.mp3"
+	},
+	{
+		"armenian": "միջոցառում",
+		"english": "event",
+		"audio": "միջոցառում.mp3"
+	},
+	{
+		"armenian": "կենդանիներ",
+		"english": "animals",
+		"audio": "կենդանիներ.mp3"
+	},
+	{
+		"armenian": "ընտանի",
+		"english": "domesticated",
+		"audio": "ընտանի.mp3"
+	},
+	{
+		"armenian": "վայրի",
+		"english": "wild",
+		"audio": "վայրի.mp3"
+	},
+	{
+		"armenian": "ոչխար",
+		"english": "sheep",
+		"audio": "ոչխար.mp3"
+	},
+	{
+		"armenian": "էշ",
+		"english": "donkey",
+		"audio": "էշ.mp3"
+	},
+	{
+		"armenian": "ձի",
+		"english": "horse",
+		"audio": "ձի.mp3"
+	},
+	{
+		"armenian": "շուն",
+		"english": "dog",
+		"audio": "շուն.mp3"
+	},
+	{
+		"armenian": "կատու",
+		"english": "cat",
+		"audio": "կատու.mp3"
+	},
+	{
+		"armenian": "կով",
+		"english": "cow",
+		"audio": "կով.mp3"
+	},
+	{
+		"armenian": "փիղ",
+		"english": "elephant",
+		"audio": "փիղ.mp3"
+	},
+	{
+		"armenian": "գայլ",
+		"english": "wolf",
+		"audio": "գայլ.mp3"
+	},
+	{
+		"armenian": "արջ",
+		"english": "bear",
+		"audio": "արջ.mp3"
+	},
+	{
+		"armenian": "առյուծ",
+		"english": "lion",
+		"audio": "առյուծ.mp3"
+	},
+	{
+		"armenian": "նապաստակ",
+		"english": "rabbit",
+		"audio": "նապաստակ.mp3"
+	},
+	{
+		"armenian": "կապիկ",
+		"english": "monkey",
+		"audio": "կապիկ.mp3"
+	},
+	{
+		"armenian": "վագր",
+		"english": "tiger",
+		"audio": "վագր.mp3"
+	},
+	{
+		"armenian": "թռչուններ",
+		"english": "birds",
+		"audio": "թռչուններ.mp3"
+	},
+	{
+		"armenian": "հավ",
+		"english": "hen",
+		"audio": "հավ.mp3"
+	},
+	{
+		"armenian": "հնդկահավ",
+		"english": "turkey",
+		"audio": "հնդկահավ.mp3"
+	},
+	{
+		"armenian": "կարապ",
+		"english": "swan",
+		"audio": "կարապ.mp3"
+	},
+	{
+		"armenian": "արծիվ",
+		"english": "eagle",
+		"audio": "արծիվ.mp3"
+	},
+	{
+		"armenian": "թութակ",
+		"english": "parrot",
+		"audio": "թութակ.mp3"
+	},
+	{
+		"armenian": "միջատներ և սողուններ",
+		"english": "insects and reptiles",
+		"audio": "միջատներ և սողուններ.mp3"
+	},
+	{
+		"armenian": "ճանճ",
+		"english": "fly",
+		"audio": "ճանճ.mp3"
+	},
+	{
+		"armenian": "թիթեռ",
+		"english": "butterfly",
+		"audio": "թիթեռ.mp3"
+	},
+	{
+		"armenian": "մեղու",
+		"english": "bee",
+		"audio": "մեղու.mp3"
+	},
+	{
+		"armenian": "մոծակ",
+		"english": "mosquito",
+		"audio": "մոծակ.mp3"
+	},
+	{
+		"armenian": "օձ",
+		"english": "snake",
+		"audio": "օձ.mp3"
+	},
+	{
+		"armenian": "մողես",
+		"english": "lizard",
+		"audio": "մողես.mp3"
+	},
+	{
+		"armenian": "սարդ",
+		"english": "spider",
+		"audio": "սարդ.mp3"
+	},
+	{
+		"armenian": "որդ",
+		"english": "worm",
+		"audio": "որդ.mp3"
+	},
+	{
+		"armenian": "ծաղիկներ",
+		"english": "flowers",
+		"audio": "ծաղիկներ.mp3"
+	},
+	{
+		"armenian": "ձնծաղիկ",
+		"english": "snowdrop",
+		"audio": "ձնծաղիկ.mp3"
+	},
+	{
+		"armenian": "կակաչ",
+		"english": "tulip",
+		"audio": "կակաչ.mp3"
+	},
+	{
+		"armenian": "շուշան",
+		"english": "lily",
+		"audio": "շուշան.mp3"
+	},
+	{
+		"armenian": "վարդ",
+		"english": "rose",
+		"audio": "վարդ.mp3"
+	},
+	{
+		"armenian": "մանուշակ",
+		"english": "violet",
+		"audio": "մանուշակ.mp3"
+	},
+	{
+		"armenian": "նկատել",
+		"english": "to notice",
+		"audio": "նկատել.mp3"
+	},
+	{
+		"armenian": "անսովոր",
+		"english": "unusual",
+		"audio": "անսովոր.mp3"
+	},
+	{
+		"armenian": "հոտ",
+		"english": "smell",
+		"audio": "հոտ.mp3"
+	},
+	{
+		"armenian": "անմեղ",
+		"english": "innocent, sinless",
+		"audio": "անմեղ.mp3"
+	},
+	{
+		"armenian": "գող",
+		"english": "thief",
+		"audio": "գող.mp3"
+	},
+	{
+		"armenian": "ընդամենը",
+		"english": "just",
+		"audio": "ընդամենը.mp3"
+	},
+	{
+		"armenian": "սանրվել",
+		"english": "to comb oneself",
+		"audio": "սանրվել.mp3"
+	},
+	{
+		"armenian": "ինչ-որ բան այն չէր։",
+		"english": "Something was wrong.",
+		"audio": "ինչ-որ բան այն չէր։.mp3"
+	},
+	{
+		"armenian": "վախեցած",
+		"english": "frightened",
+		"audio": "վախեցած.mp3"
+	},
+	{
+		"armenian": "ետևից",
+		"english": "from behind",
+		"audio": "ետևից.mp3"
+	},
+	{
+		"armenian": "ցատկել",
+		"english": "to jump",
+		"audio": "ցատկել.mp3"
+	},
+	{
+		"armenian": "սարսափել",
+		"english": "to be terrified",
+		"audio": "սարսափել.mp3"
+	},
+	{
+		"armenian": "գնալ ինչ-որ մեկի ետևից",
+		"english": "to go and get somebody",
+		"audio": "գնալ ինչ-որ մեկի ետևից.mp3"
+	},
+	{
+		"armenian": "ոչ թե ... այլ ...",
+		"english": "not ... but ...",
+		"audio": "ոչ թե ... այլ ....mp3"
+	},
+	{
+		"armenian": "կենդանաբանական այգի",
+		"english": "zoo",
+		"audio": "կենդանաբանական այգի.mp3"
+	},
+	{
+		"armenian": "պատմել",
+		"english": "to retell",
+		"audio": "պատմել.mp3"
+	},
+	{
+		"armenian": "ձագ",
+		"english": "cub",
+		"audio": "ձագ.mp3"
+	},
+	{
+		"armenian": "վանդակ",
+		"english": "cage",
+		"audio": "վանդակ.mp3"
+	},
+	{
+		"armenian": "ճյուղ",
+		"english": "branch",
+		"audio": "ճյուղ.mp3"
+	},
+	{
+		"armenian": "հայացք",
+		"english": "a look",
+		"audio": "հայացք.mp3"
+	},
+	{
+		"armenian": "մյուսները",
+		"english": "the others",
+		"audio": "մյուսները.mp3"
+	},
+	{
+		"armenian": "զվարճալի",
+		"english": "funny",
+		"audio": "զվարճալի.mp3"
+	},
+	{
+		"armenian": "ալարկոտ",
+		"english": "lazy",
+		"audio": "ալարկոտ.mp3"
+	},
+	{
+		"armenian": "շարժվել",
+		"english": "to move (intr.)",
+		"audio": "շարժվել.mp3"
+	},
+	{
+		"armenian": "բույն",
+		"english": "den / nest",
+		"audio": "բույն.mp3"
+	},
+	{
+		"armenian": "ձիարշավարան",
+		"english": "racecourse",
+		"audio": "ձիարշավարան.mp3"
+	},
+	{
+		"armenian": "քշել",
+		"english": "to ride",
+		"audio": "քշել.mp3"
+	},
+	{
+		"armenian": "կողքը",
+		"english": "next to",
+		"audio": "կողքը.mp3"
+	},
+	{
+		"armenian": "շան ձագ",
+		"english": "puppy",
+		"audio": "շան ձագ.mp3"
+	},
+	{
+		"armenian": "շարժել",
+		"english": "to move (trans.)",
+		"audio": "շարժել.mp3"
+	},
+	{
+		"armenian": "ձեռք տալ",
+		"english": "to touch",
+		"audio": "ձեռք տալ.mp3"
+	},
+	{
+		"armenian": "միանգամից",
+		"english": "at once",
+		"audio": "միանգամից.mp3"
+	},
+	{
+		"armenian": "տակնուվրա",
+		"english": "upside down",
+		"audio": "տակնուվրա.mp3"
+	},
+	{
+		"armenian": "պոչ",
+		"english": "tail",
+		"audio": "պոչ.mp3"
+	},
+	{
+		"armenian": "անվանել",
+		"english": "to name",
+		"audio": "անվանել.mp3"
+	},
+	{
+		"armenian": "անկարգ",
+		"english": "naughty",
+		"audio": "անկարգ.mp3"
+	},
+	{
+		"armenian": "ատամնաբույժ",
+		"english": "dentist",
+		"audio": "ատամնաբույժ.mp3"
+	},
+	{
+		"armenian": "պատմություն",
+		"english": "history",
+		"audio": "պատմություն.mp3"
+	},
+	{
+		"armenian": "պետություն",
+		"english": "state",
+		"audio": "պետություն.mp3"
+	},
+	{
+		"armenian": "հանրապետություն",
+		"english": "republic",
+		"audio": "հանրապետություն.mp3"
+	},
+	{
+		"armenian": "աշխարհ",
+		"english": "world",
+		"audio": "աշխարհ.mp3"
+	},
+	{
+		"armenian": "երկիր",
+		"english": "country",
+		"audio": "երկիր.mp3"
+	},
+	{
+		"armenian": "բնակչություն",
+		"english": "population",
+		"audio": "բնակչություն.mp3"
+	},
+	{
+		"armenian": "մայրաքաղաք",
+		"english": "capital city",
+		"audio": "մայրաքաղաք.mp3"
+	},
+	{
+		"armenian": "թագավորություն",
+		"english": "kingdom",
+		"audio": "թագավորություն.mp3"
+	},
+	{
+		"armenian": "նախագահ",
+		"english": "president",
+		"audio": "նախագահ.mp3"
+	},
+	{
+		"armenian": "բանակ",
+		"english": "army",
+		"audio": "բանակ.mp3"
+	},
+	{
+		"armenian": "զինվոր",
+		"english": "soldier",
+		"audio": "զինվոր.mp3"
+	},
+	{
+		"armenian": "մշակույթ",
+		"english": "culture",
+		"audio": "մշակույթ.mp3"
+	},
+	{
+		"armenian": "արդյունաբերություն",
+		"english": "industry",
+		"audio": "արդյունաբերություն.mp3"
+	},
+	{
+		"armenian": "գիտություն",
+		"english": "science",
+		"audio": "գիտություն.mp3"
+	},
+	{
+		"armenian": "գյուղատնտեսություն",
+		"english": "agriculture",
+		"audio": "գյուղատնտեսություն.mp3"
+	},
+	{
+		"armenian": "ժառանգություն",
+		"english": "heritage",
+		"audio": "ժառանգություն.mp3"
+	},
+	{
+		"armenian": "տեսարժան վայրեր",
+		"english": "sights",
+		"audio": "տեսարժան վայրեր.mp3"
+	},
+	{
+		"armenian": "թագավոր",
+		"english": "king",
+		"audio": "թագավոր.mp3"
+	},
+	{
+		"armenian": "քաղաքացի",
+		"english": "citizen",
+		"audio": "քաղաքացի.mp3"
+	},
+	{
+		"armenian": "թշնամի",
+		"english": "enemy",
+		"audio": "թշնամի.mp3"
+	},
+	{
+		"armenian": "զենք",
+		"english": "weapon",
+		"audio": "զենք.mp3"
+	},
+	{
+		"armenian": "հնագույն",
+		"english": "ancient",
+		"audio": "հնագույն.mp3"
+	},
+	{
+		"armenian": "մոտ",
+		"english": "nearly",
+		"audio": "մոտ.mp3"
+	},
+	{
+		"armenian": "պատմական",
+		"english": "historic",
+		"audio": "պատմական.mp3"
+	},
+	{
+		"armenian": "մշակութային",
+		"english": "cultural",
+		"audio": "մշակութային.mp3"
+	},
+	{
+		"armenian": "քրիստոնեություն",
+		"english": "Christianity",
+		"audio": "քրիստոնեություն.mp3"
+	},
+	{
+		"armenian": "ընդունել",
+		"english": "to adopt, to accept",
+		"audio": "ընդունել.mp3"
+	},
+	{
+		"armenian": "կրոն",
+		"english": "religion",
+		"audio": "կրոն.mp3"
+	},
+	{
+		"armenian": "այբուբեն",
+		"english": "alphabet",
+		"audio": "այբուբեն.mp3"
+	},
+	{
+		"armenian": "ստեղծել",
+		"english": "to create",
+		"audio": "ստեղծել.mp3"
+	},
+	{
+		"armenian": "կառուցել",
+		"english": "to build",
+		"audio": "կառուցել.mp3"
+	},
+	{
+		"armenian": "հիմնադրել",
+		"english": "to found",
+		"audio": "հիմնադրել.mp3"
+	},
+	{
+		"armenian": "ամրոց",
+		"english": "castle",
+		"audio": "ամրոց.mp3"
+	},
+	{
+		"armenian": "քաղաքական",
+		"english": "political",
+		"audio": "քաղաքական.mp3"
+	},
+	{
+		"armenian": "քառակուսի կիլոմետր",
+		"english": "square kilometer",
+		"audio": "քառակուսի կիլոմետր.mp3"
+	},
+	{
+		"armenian": "հզոր",
+		"english": "powerful",
+		"audio": "հզոր.mp3"
+	},
+	{
+		"armenian": "մ.թ. (մեր թվարկություն)",
+		"english": "Years AD",
+		"audio": "մ.թ. (մեր թվարկություն).mp3"
+	},
+	{
+		"armenian": "մ.թ.ա. (մեր թվարկությունից առաջ)",
+		"english": "Years BC",
+		"audio": "մ.թ.ա. (մեր թվարկությունից առաջ).mp3"
+	},
+	{
+		"armenian": "այժմ",
+		"english": "now",
+		"audio": "այժմ.mp3"
+	},
+	{
+		"armenian": "անկախ",
+		"english": "independent",
+		"audio": "անկախ.mp3"
+	},
+	{
+		"armenian": "խաչքար",
+		"english": "cross-stone",
+		"audio": "խաչքար.mp3"
+	},
+	{
+		"armenian": "տաճար",
+		"english": "temple",
+		"audio": "տաճար.mp3"
+	},
+	{
+		"armenian": "վանք",
+		"english": "monastery",
+		"audio": "վանք.mp3"
+	},
+	{
+		"armenian": "հետագայում",
+		"english": "afterwards, later",
+		"audio": "հետագայում.mp3"
+	},
+	{
+		"armenian": "առաջանալ",
+		"english": "to emerge",
+		"audio": "առաջանալ.mp3"
+	},
+	{
+		"armenian": "անվանում",
+		"english": "name",
+		"audio": "անվանում.mp3"
+	},
+	{
+		"armenian": "արդյունաբերական",
+		"english": "industrial",
+		"audio": "արդյունաբերական.mp3"
+	},
+	{
+		"armenian": "լուր",
+		"english": "news",
+		"audio": "լուր.mp3"
+	},
+	{
+		"armenian": "երաժշտական ստուդիա",
+		"english": "musical studio",
+		"audio": "երաժշտական ստուդիա.mp3"
+	},
+	{
+		"armenian": "երազել",
+		"english": "to dream of s.th.",
+		"audio": "երազել.mp3"
+	},
+	{
+		"armenian": "պաչիկ",
+		"english": "kiss",
+		"audio": "պաչիկ.mp3"
+	},
+	{
+		"armenian": "այցելել",
+		"english": "to visit",
+		"audio": "այցելել.mp3"
+	},
+	{
+		"armenian": "դիմանալ",
+		"english": "to bear, to withstand",
+		"audio": "դիմանալ.mp3"
+	},
+	{
+		"armenian": "աշխարհագրություն",
+		"english": "geography",
+		"audio": "աշխարհագրություն.mp3"
+	},
+	{
+		"armenian": "քարտեզ",
+		"english": "map",
+		"audio": "քարտեզ.mp3"
+	},
+	{
+		"armenian": "կղզի",
+		"english": "island",
+		"audio": "կղզի.mp3"
+	},
+	{
+		"armenian": "օվկիանոս",
+		"english": "ocean",
+		"audio": "օվկիանոս.mp3"
+	},
+	{
+		"armenian": "ծով",
+		"english": "sea",
+		"audio": "ծով.mp3"
+	},
+	{
+		"armenian": "լիճ",
+		"english": "lake",
+		"audio": "լիճ.mp3"
+	},
+	{
+		"armenian": "գետ",
+		"english": "river",
+		"audio": "գետ.mp3"
+	},
+	{
+		"armenian": "ափ",
+		"english": "coast, river bank",
+		"audio": "ափ.mp3"
+	},
+	{
+		"armenian": "ջրվեժ",
+		"english": "waterfall",
+		"audio": "ջրվեժ.mp3"
+	},
+	{
+		"armenian": "երկրաշարժ",
+		"english": "earthquake",
+		"audio": "երկրաշարժ.mp3"
+	},
+	{
+		"armenian": "անտառ",
+		"english": "wood, forest",
+		"audio": "անտառ.mp3"
+	},
+	{
+		"armenian": "ջրհեղեղ",
+		"english": "flood",
+		"audio": "ջրհեղեղ.mp3"
+	},
+	{
+		"armenian": "երկինք",
+		"english": "sky",
+		"audio": "երկինք.mp3"
+	},
+	{
+		"armenian": "կլիմա",
+		"english": "climate",
+		"audio": "կլիմա.mp3"
+	},
+	{
+		"armenian": "դաշտ",
+		"english": "field",
+		"audio": "դաշտ.mp3"
+	},
+	{
+		"armenian": "անապատ",
+		"english": "desert",
+		"audio": "անապատ.mp3"
+	},
+	{
+		"armenian": "լուսին",
+		"english": "moon",
+		"audio": "լուսին.mp3"
+	},
+	{
+		"armenian": "աստղ",
+		"english": "star",
+		"audio": "աստղ.mp3"
+	},
+	{
+		"armenian": "հանք",
+		"english": "mine",
+		"audio": "հանք.mp3"
+	},
+	{
+		"armenian": "արև",
+		"english": "sun",
+		"audio": "արև.mp3"
+	},
+	{
+		"armenian": "կիրճ",
+		"english": "gorge",
+		"audio": "կիրճ.mp3"
+	},
+	{
+		"armenian": "հյուսիս",
+		"english": "north",
+		"audio": "հյուսիս.mp3"
+	},
+	{
+		"armenian": "հարավ",
+		"english": "south",
+		"audio": "հարավ.mp3"
+	},
+	{
+		"armenian": "արևելք",
+		"english": "east",
+		"audio": "արևելք.mp3"
+	},
+	{
+		"armenian": "արևմուտք",
+		"english": "west",
+		"audio": "արևմուտք.mp3"
+	},
+	{
+		"armenian": "լեռնային",
+		"english": "mountainous",
+		"audio": "լեռնային.mp3"
+	},
+	{
+		"armenian": "միատեսակ",
+		"english": "identical",
+		"audio": "միատեսակ.mp3"
+	},
+	{
+		"armenian": "խոշոր",
+		"english": "large, big",
+		"audio": "խոշոր.mp3"
+	},
+	{
+		"armenian": "մանր",
+		"english": "petty",
+		"audio": "մանր.mp3"
+	},
+	{
+		"armenian": "անվանել",
+		"english": "to name",
+		"audio": "անվանել.mp3"
+	},
+	{
+		"armenian": "շրջան",
+		"english": "region, area",
+		"audio": "շրջան.mp3"
+	},
+	{
+		"armenian": "արհեստական",
+		"english": "artificial",
+		"audio": "արհեստական.mp3"
+	},
+	{
+		"armenian": "որսատեղ",
+		"english": "hunting place",
+		"audio": "որսատեղ.mp3"
+	},
+	{
+		"armenian": "պետականություն",
+		"english": "statehood",
+		"audio": "պետականություն.mp3"
+	},
+	{
+		"armenian": "խիտ",
+		"english": "dense",
+		"audio": "խիտ.mp3"
+	},
+	{
+		"armenian": "բնակեցված",
+		"english": "inhabited, populated",
+		"audio": "բնակեցված.mp3"
+	},
+	{
+		"armenian": "ենթադրել",
+		"english": "to assume, to suppose",
+		"audio": "ենթադրել.mp3"
+	},
+	{
+		"armenian": "փայլել",
+		"english": "to shine",
+		"audio": "փայլել.mp3"
+	},
+	{
+		"armenian": "կլոր",
+		"english": "round",
+		"audio": "կլոր.mp3"
+	},
+	{
+		"armenian": "շրջապատված",
+		"english": "surrounded",
+		"audio": "շրջապատված.mp3"
+	},
+	{
+		"armenian": "հնարավորություն",
+		"english": "opportunity, possibility",
+		"audio": "հնարավորություն.mp3"
+	},
+	{
+		"armenian": "փոշմանել",
+		"english": "to regret",
+		"audio": "փոշմանել.mp3"
+	},
+	{
+		"armenian": "հոգ տանել",
+		"english": "to take care",
+		"audio": "հոգ տանել.mp3"
+	},
+	{
+		"armenian": "հրաժեշտ",
+		"english": "goodbye, farewell",
+		"audio": "հրաժեշտ.mp3"
+	},
+	{
+		"armenian": "ոչ ... ոչ ...",
+		"english": "neither ... nor ...",
+		"audio": "ոչ ... ոչ ....mp3"
+	},
+	{
+		"armenian": "ճիշտն ասած",
+		"english": "to tell the truth",
+		"audio": "ճիշտն ասած.mp3"
+	},
+	{
+		"armenian": "բան",
+		"english": "thing",
+		"audio": "բան.mp3"
+	},
+	{
+		"armenian": "կիթառահար",
+		"english": "guitarist",
+		"audio": "կիթառահար.mp3"
+	},
+	{
+		"armenian": "օգտվել",
+		"english": "to make use of, profit",
+		"audio": "օգտվել.mp3"
+	},
+	{
+		"armenian": "ինքս",
+		"english": "myself",
+		"audio": "ինքս.mp3"
+	},
+	{
+		"armenian": "զարթուցիչ",
+		"english": "alarm clock",
+		"audio": "զարթուցիչ.mp3"
+	},
+	{
+		"armenian": "հանդիսատես",
+		"english": "audience",
+		"audio": "հանդիսատես.mp3"
+	},
+	{
+		"armenian": "անձնագիր",
+		"english": "passport",
+		"audio": "անձնագիր.mp3"
+	},
+	{
+		"armenian": "ցրված",
+		"english": "absent-minded",
+		"audio": "ցրված.mp3"
+	},
+	{
+		"armenian": "հաշվել",
+		"english": "to count",
+		"audio": "հաշվել.mp3"
+	},
+	{
+		"armenian": "ականջ դնել",
+		"english": "to listen",
+		"audio": "ականջ դնել.mp3"
+	},
+	{
+		"armenian": "աչքով տալ",
+		"english": "to bewitch (with the evil eye)",
+		"audio": "աչքով տալ.mp3"
+	},
+	{
+		"armenian": "աչքի ընկնել",
+		"english": "to catch the attention",
+		"audio": "աչքի ընկնել.mp3"
+	},
+	{
+		"armenian": "աչքից ընկնել",
+		"english": "to get disappointed",
+		"audio": "աչքից ընկնել.mp3"
+	},
+	{
+		"armenian": "աչք փակել",
+		"english": "to pretend not seeing",
+		"audio": "աչք փակել.mp3"
+	},
+	{
+		"armenian": "աչքերին չհավատալ",
+		"english": "not to believe",
+		"audio": "աչքերին չհավատալ.mp3"
+	},
+	{
+		"armenian": "աչքիս վրա",
+		"english": "with pleasure (I will do)",
+		"audio": "աչքիս վրա.mp3"
+	},
+	{
+		"armenian": "աչքդ լու՛յս",
+		"english": "Congratulations!",
+		"audio": "աչքդ լու՛յս.mp3"
+	},
+	{
+		"armenian": "աչքով անել",
+		"english": "to wink",
+		"audio": "աչքով անել.mp3"
+	},
+	{
+		"armenian": "բաց անել",
+		"english": "to open",
+		"audio": "բաց անել.mp3"
+	},
+	{
+		"armenian": "գլուխ հանել",
+		"english": "to understand",
+		"audio": "գլուխ հանել.mp3"
+	},
+	{
+		"armenian": "գլխի ընկնել",
+		"english": "to realise",
+		"audio": "գլխի ընկնել.mp3"
+	},
+	{
+		"armenian": "գլուխ պահել",
+		"english": "to idle",
+		"audio": "գլուխ պահել.mp3"
+	},
+	{
+		"armenian": "դեմ գնալ",
+		"english": "to oppose",
+		"audio": "դեմ գնալ.mp3"
+	},
+	{
+		"armenian": "դեն նետել",
+		"english": "to throw away",
+		"audio": "դեն նետել.mp3"
+	},
+	{
+		"armenian": "դուր գալ",
+		"english": "to like",
+		"audio": "դուր գալ.mp3"
+	},
+	{
+		"armenian": "դուրս գալ",
+		"english": "to come out",
+		"audio": "դուրս գալ.mp3"
+	},
+	{
+		"armenian": "երես առնել",
+		"english": "to get spoiled",
+		"audio": "երես առնել.mp3"
+	},
+	{
+		"armenian": "երես տալ",
+		"english": "to spoil somebody",
+		"audio": "երես տալ.mp3"
+	},
+	{
+		"armenian": "երեսով տալ",
+		"english": "to remind about the good things you have done for somebody",
+		"audio": "երեսով տալ.mp3"
+	},
+	{
+		"armenian": "թափ տալ",
+		"english": "to shake off",
+		"audio": "թափ տալ.mp3"
+	},
+	{
+		"armenian": "թույլ տալ",
+		"english": "to allow",
+		"audio": "թույլ տալ.mp3"
+	},
+	{
+		"armenian": "լեզու գտնել",
+		"english": "to find common ground",
+		"audio": "լեզու գտնել.mp3"
+	},
+	{
+		"armenian": "ծափ տալ",
+		"english": "to applaud",
+		"audio": "ծափ տալ.mp3"
+	},
+	{
+		"armenian": "կանգ առնել",
+		"english": "to stop",
+		"audio": "կանգ առնել.mp3"
+	},
+	{
+		"armenian": "կարգի բերել",
+		"english": "to put in order",
+		"audio": "կարգի բերել.mp3"
+	},
+	{
+		"armenian": "կյանքը ուտել",
+		"english": "to torture somebody",
+		"audio": "կյանքը ուտել.mp3"
+	},
+	{
+		"armenian": "հետ բերել",
+		"english": "to bring back",
+		"audio": "հետ բերել.mp3"
+	},
+	{
+		"armenian": "հետ գալ",
+		"english": "to come back",
+		"audio": "հետ գալ.mp3"
+	},
+	{
+		"armenian": "հետ մնալ",
+		"english": "to fall behind",
+		"audio": "հետ մնալ.mp3"
+	},
+	{
+		"armenian": "ձեռք առնել",
+		"english": "to mock",
+		"audio": "ձեռք առնել.mp3"
+	},
+	{
+		"armenian": "ձեռք բերել",
+		"english": "to obtain",
+		"audio": "ձեռք բերել.mp3"
+	},
+	{
+		"armenian": "ձեռք տալ",
+		"english": "to touch",
+		"audio": "ձեռք տալ.mp3"
+	},
+	{
+		"armenian": "ձեռք քաշել",
+		"english": "to give up",
+		"audio": "ձեռք քաշել.mp3"
+	},
+	{
+		"armenian": "ման գալ",
+		"english": "to walk, to stroll",
+		"audio": "ման գալ.mp3"
+	},
+	{
+		"armenian": "մեջ ընկնել",
+		"english": "to interfere",
+		"audio": "մեջ ընկնել.mp3"
+	},
+	{
+		"armenian": "մոտ գալ",
+		"english": "to approach",
+		"audio": "մոտ գալ.mp3"
+	},
+	{
+		"armenian": "ներս գալ",
+		"english": "to come in",
+		"audio": "ներս գալ.mp3"
+	},
+	{
+		"armenian": "շուռ գալ",
+		"english": "to turn around",
+		"audio": "շուռ գալ.mp3"
+	},
+	{
+		"armenian": "վայր ընկնել",
+		"english": "to fall down",
+		"audio": "վայր ընկնել.mp3"
+	},
+	{
+		"armenian": "վեր կենալ",
+		"english": "to stand up",
+		"audio": "վեր կենալ.mp3"
+	},
+	{
+		"armenian": "ցույց տալ",
+		"english": "to show",
+		"audio": "ցույց տալ.mp3"
+	},
+	{
+		"armenian": "քունը տանել",
+		"english": "to feel sleepy",
+		"audio": "քունը տանել.mp3"
+	},
+	{
+		"armenian": "տավարի միս",
+		"english": "beef",
+		"audio": "տավարի միս.mp3"
+	},
+	{
+		"armenian": "հնդկահավի միս",
+		"english": "turkey meat",
+		"audio": "հնդկահավի միս.mp3"
+	},
+	{
+		"armenian": "ձուկ",
+		"english": "fish",
+		"audio": "ձուկ.mp3"
+	},
+	{
+		"armenian": "նրբերշիկ",
+		"english": "sausage",
+		"audio": "նրբերշիկ.mp3"
+	},
+	{
+		"armenian": "հավի միս",
+		"english": "chicken meat",
+		"audio": "հավի միս.mp3"
+	},
+	{
+		"armenian": "ոչխարի միս",
+		"english": "mutton meat",
+		"audio": "ոչխարի միս.mp3"
+	},
+	{
+		"armenian": "խոզի միս",
+		"english": "pork meat",
+		"audio": "խոզի միս.mp3"
+	},
+	{
+		"armenian": "շամպայն",
+		"english": "champagne",
+		"audio": "շամպայն.mp3"
+	},
+	{
+		"armenian": "նարնջի հյութ",
+		"english": "orange juice",
+		"audio": "նարնջի հյութ.mp3"
+	},
+	{
+		"armenian": "կոնյակ",
+		"english": "cognac",
+		"audio": "կոնյակ.mp3"
+	},
+	{
+		"armenian": "թխվածք",
+		"english": "pastry",
+		"audio": "թխվածք.mp3"
+	},
+	{
+		"armenian": "ծաղկակաղամբ",
+		"english": "cauliflower",
+		"audio": "ծաղկակաղամբ.mp3"
+	},
+	{
+		"armenian": "կոնֆետ",
+		"english": "candy, sweets",
+		"audio": "կոնֆետ.mp3"
+	},
+	{
+		"armenian": "դաղձ",
+		"english": "mint",
+		"audio": "դաղձ.mp3"
+	},
+	{
+		"armenian": "բազուկ",
+		"english": "beet",
+		"audio": "բազուկ.mp3"
+	},
+	{
+		"armenian": "բողկ",
+		"english": "radish",
+		"audio": "բողկ.mp3"
+	},
+	{
+		"armenian": "տապակած կարտոֆիլ",
+		"english": "fried potatoes",
+		"audio": "տապակած կարտոֆիլ.mp3"
+	},
+	{
+		"armenian": "խաշած ձու",
+		"english": "boiled egg",
+		"audio": "խաշած ձու.mp3"
+	},
+	{
+		"armenian": "ձեթ",
+		"english": "vegetable oil",
+		"audio": "ձեթ.mp3"
+	},
+	{
+		"armenian": "կաթնաշոռ",
+		"english": "cottage cheese, curds",
+		"audio": "կաթնաշոռ.mp3"
+	},
+	{
+		"armenian": "սեխ",
+		"english": "melon",
+		"audio": "սեխ.mp3"
+	},
+	{
+		"armenian": "նուռ",
+		"english": "pomegranate",
+		"audio": "նուռ.mp3"
+	},
+	{
+		"armenian": "մուրաբա",
+		"english": "fruit preserve",
+		"audio": "մուրաբա.mp3"
+	},
+	{
+		"armenian": "ջեմ",
+		"english": "jam",
+		"audio": "ջեմ.mp3"
+	},
+	{
+		"armenian": "եգիպտացորեն",
+		"english": "corn",
+		"audio": "եգիպտացորեն.mp3"
+	},
+	{
+		"armenian": "ելակի մուրաբա",
+		"english": "strawberry preserve",
+		"audio": "ելակի մուրաբա.mp3"
+	},
+	{
+		"armenian": "սալորի չիր",
+		"english": "dried plum",
+		"audio": "սալորի չիր.mp3"
+	},
+	{
+		"armenian": "ծիրանի ջեմ",
+		"english": "apricot jam",
+		"audio": "ծիրանի ջեմ.mp3"
+	},
+	{
+		"armenian": "թթու կաղամբ",
+		"english": "pickled cabbage",
+		"audio": "թթու կաղամբ.mp3"
+	},
+	{
+		"armenian": "լիմոն",
+		"english": "lemon",
+		"audio": "լիմոն.mp3"
+	},
+	{
+		"armenian": "սալոր",
+		"english": "plum",
+		"audio": "սալոր.mp3"
+	},
+	{
+		"armenian": "ելակ",
+		"english": "strawberry",
+		"audio": "ելակ.mp3"
+	},
+	{
+		"armenian": "դդում",
+		"english": "pumpkin",
+		"audio": "դդում.mp3"
+	},
+	{
+		"armenian": "կանաչ լոբի",
+		"english": "green bean",
+		"audio": "կանաչ լոբի.mp3"
+	},
+	{
+		"armenian": "զուգագուլպա",
+		"english": "pantyhose, tights",
+		"audio": "զուգագուլպա.mp3"
+	},
+	{
+		"armenian": "կիսավարտիք",
+		"english": "panties, underwear",
+		"audio": "կիսավարտիք.mp3"
+	},
+	{
+		"armenian": "գիշերանոց",
+		"english": "pajamas",
+		"audio": "գիշերանոց.mp3"
+	},
+	{
+		"armenian": "կրծկալ",
+		"english": "bra",
+		"audio": "կրծկալ.mp3"
+	},
+	{
+		"armenian": "հողաթափ",
+		"english": "slipper",
+		"audio": "հողաթափ.mp3"
+	},
+	{
+		"armenian": "սպորտային շապիկ",
+		"english": "T-Shirt",
+		"audio": "սպորտային շապիկ.mp3"
+	},
+	{
+		"armenian": "կիսազգեստ",
+		"english": "skirt",
+		"audio": "կիսազգեստ.mp3"
+	},
+	{
+		"armenian": "վզնոց",
+		"english": "necklace",
+		"audio": "վզնոց.mp3"
+	},
+	{
+		"armenian": "գրպան",
+		"english": "pocket",
+		"audio": "գրպան.mp3"
+	},
+	{
+		"armenian": "կոճակ",
+		"english": "button",
+		"audio": "կոճակ.mp3"
+	},
+	{
+		"armenian": "թաշկինակ",
+		"english": "handkerchief",
+		"audio": "թաշկինակ.mp3"
+	},
+	{
+		"armenian": "օձիք",
+		"english": "collar",
+		"audio": "օձիք.mp3"
+	},
+	{
+		"armenian": "մուշտակ",
+		"english": "fur coat",
+		"audio": "մուշտակ.mp3"
+	},
+	{
+		"armenian": "երկարաճիտ կոշիկներ",
+		"english": "boots",
+		"audio": "երկարաճիտ կոշիկներ.mp3"
+	},
+	{
+		"armenian": "ժիլետ",
+		"english": "vest",
+		"audio": "ժիլետ.mp3"
+	},
+	{
+		"armenian": "ապարանջան",
+		"english": "bracelet",
+		"audio": "ապարանջան.mp3"
+	},
+	{
+		"armenian": "կաշվե",
+		"english": "leather",
+		"audio": "կաշվե.mp3"
+	},
+	{
+		"armenian": "բամբակյա",
+		"english": "cotton",
+		"audio": "բամբակյա.mp3"
+	},
+	{
+		"armenian": "բրդյա",
+		"english": "woolen",
+		"audio": "բրդյա.mp3"
+	},
+	{
+		"armenian": "ոսկե",
+		"english": "golden",
+		"audio": "ոսկե.mp3"
+	},
+	{
+		"armenian": "արծաթե",
+		"english": "silver",
+		"audio": "արծաթե.mp3"
+	},
+	{
+		"armenian": "արհեստական",
+		"english": "artificial",
+		"audio": "արհեստական.mp3"
+	},
+	{
+		"armenian": "բնական",
+		"english": "natural",
+		"audio": "բնական.mp3"
+	},
+	{
+		"armenian": "գլխացավ",
+		"english": "headache",
+		"audio": "գլխացավ.mp3"
+	},
+	{
+		"armenian": "սրտխառնոց",
+		"english": "nausea",
+		"audio": "սրտխառնոց.mp3"
+	},
+	{
+		"armenian": "արյան ճնշում",
+		"english": "blood pressure",
+		"audio": "արյան ճնշում.mp3"
+	},
+	{
+		"armenian": "ստուգում",
+		"english": "checking",
+		"audio": "ստուգում.mp3"
+	},
+	{
+		"armenian": "ախտանշան",
+		"english": "symptom",
+		"audio": "ախտանշան.mp3"
+	},
+	{
+		"armenian": "ախտորոշում",
+		"english": "diagnosis",
+		"audio": "ախտորոշում.mp3"
+	},
+	{
+		"armenian": "դեղատոմս",
+		"english": "prescription",
+		"audio": "դեղատոմս.mp3"
+	},
+	{
+		"armenian": "կոտրվածք",
+		"english": "fracture",
+		"audio": "կոտրվածք.mp3"
+	},
+	{
+		"armenian": "վերք",
+		"english": "wound",
+		"audio": "վերք.mp3"
+	},
+	{
+		"armenian": "ողողել (կոկորդը)",
+		"english": "to gargle",
+		"audio": "ողողել (կոկորդը).mp3"
+	},
+	{
+		"armenian": "կոտրել",
+		"english": "to break",
+		"audio": "կոտրել.mp3"
+	},
+	{
+		"armenian": "ջերմությունը բարձրանում է։",
+		"english": "the temperature goes up",
+		"audio": "ջերմությունը բարձրանում է։.mp3"
+	},
+	{
+		"armenian": "բժիշկ կանչել",
+		"english": "to call for a doctor",
+		"audio": "բժիշկ կանչել.mp3"
+	},
+	{
+		"armenian": "դեղ նշանակել",
+		"english": "to prescribe medicine",
+		"audio": "դեղ նշանակել.mp3"
+	},
+	{
+		"armenian": "սրսկել",
+		"english": "to inject",
+		"audio": "սրսկել.mp3"
+	},
+	{
+		"armenian": "վիրահատել",
+		"english": "to operate",
+		"audio": "վիրահատել.mp3"
+	},
+	{
+		"armenian": "դիետա պահպանել",
+		"english": "to keep a diet",
+		"audio": "դիետա պահպանել.mp3"
+	},
+	{
+		"armenian": "գլխապտույտ",
+		"english": "dizziness",
+		"audio": "գլխապտույտ.mp3"
+	},
+	{
+		"armenian": "թիավարություն",
+		"english": "rowing",
+		"audio": "թիավարություն.mp3"
+	},
+	{
+		"armenian": "ձիավարություն",
+		"english": "riding",
+		"audio": "ձիավարություն.mp3"
+	},
+	{
+		"armenian": "գոլֆ",
+		"english": "golf",
+		"audio": "գոլֆ.mp3"
+	},
+	{
+		"armenian": "բադմինտոն / փետրագնդակ",
+		"english": "badminton",
+		"audio": "բադմինտոն.mp3"
+	},
+	{
+		"armenian": "վոլեյբոլ",
+		"english": "volleyball",
+		"audio": "վոլեյբոլ.mp3"
+	},
+	{
+		"armenian": "բեյսբոլ",
+		"english": "baseball",
+		"audio": "բեյսբոլ.mp3"
+	},
+	{
+		"armenian": "հոկեյ",
+		"english": "hockey",
+		"audio": "հոկեյ.mp3"
+	},
+	{
+		"armenian": "բռնցքամարտ",
+		"english": "boxing",
+		"audio": "բռնցքամարտ.mp3"
+	},
+	{
+		"armenian": "սուսերամարտ",
+		"english": "fencing",
+		"audio": "սուսերամարտ.mp3"
+	},
+	{
+		"armenian": "ըմբշամարտ",
+		"english": "wrestling",
+		"audio": "ըմբշամարտ.mp3"
+	},
+	{
+		"armenian": "ծանրամարտ",
+		"english": "weightlifting",
+		"audio": "ծանրամարտ.mp3"
+	},
+	{
+		"armenian": "շախմատիստ",
+		"english": "chess player",
+		"audio": "շախմատիստ.mp3"
+	},
+	{
+		"armenian": "մարմնամարզիկ",
+		"english": "gymnast",
+		"audio": "մարմնամարզիկ.mp3"
+	},
+	{
+		"armenian": "մարմնամարզություն",
+		"english": "gymnastics",
+		"audio": "մարմնամարզություն.mp3"
+	},
+	{
+		"armenian": "աթլետիկա",
+		"english": "athletics",
+		"audio": "աթլետիկա.mp3"
+	},
+	{
+		"armenian": "արշավ",
+		"english": "hiking",
+		"audio": "արշավ.mp3"
+	},
+	{
+		"armenian": "վրանային արշավ",
+		"english": "camping",
+		"audio": "վրանային արշավ.mp3"
+	},
+	{
+		"armenian": "հեծանվավազք",
+		"english": "cycling",
+		"audio": "հեծանվավազք.mp3"
+	},
+	{
+		"armenian": "վազք",
+		"english": "running",
+		"audio": "վազք.mp3"
+	},
+	{
+		"armenian": "դահուկային սպորտ",
+		"english": "skiing",
+		"audio": "դահուկային սպորտ.mp3"
+	},
+	{
+		"armenian": "չմշկասահք",
+		"english": "skating",
+		"audio": "չմշկասահք.mp3"
+	},
+	{
+		"armenian": "որսորդություն",
+		"english": "hunting",
+		"audio": "որսորդություն.mp3"
+	},
+	{
+		"armenian": "խաղաքարտեր",
+		"english": "cards",
+		"audio": "խաղաքարտեր.mp3"
+	},
+	{
+		"armenian": "մարզիչ",
+		"english": "trainer",
+		"audio": "մարզիչ.mp3"
+	},
+	{
+		"armenian": "բռնցքամարտիկ",
+		"english": "boxer",
+		"audio": "բռնցքամարտիկ.mp3"
+	},
+	{
+		"armenian": "թենիսիստ",
+		"english": "tennis player",
+		"audio": "թենիսիստ.mp3"
+	},
+	{
+		"armenian": "խոզ",
+		"english": "pig",
+		"audio": "խոզ.mp3"
+	},
+	{
+		"armenian": "այծ",
+		"english": "goat",
+		"audio": "այծ.mp3"
+	},
+	{
+		"armenian": "կրիա",
+		"english": "turtle",
+		"audio": "կրիա.mp3"
+	},
+	{
+		"armenian": "եղջերու",
+		"english": "deer",
+		"audio": "եղջերու.mp3"
+	},
+	{
+		"armenian": "ցեց",
+		"english": "moth",
+		"audio": "ցեց.mp3"
+	},
+	{
+		"armenian": "մրջյուն",
+		"english": "ant",
+		"audio": "մրջյուն.mp3"
+	},
+	{
+		"armenian": "բու",
+		"english": "owl",
+		"audio": "բու.mp3"
+	},
+	{
+		"armenian": "աղավնի",
+		"english": "dove",
+		"audio": "աղավնի.mp3"
+	},
+	{
+		"armenian": "ճնճղուկ",
+		"english": "sparrow",
+		"audio": "ճնճղուկ.mp3"
+	},
+	{
+		"armenian": "ընձուղտ",
+		"english": "giraffe",
+		"audio": "ընձուղտ.mp3"
+	},
+	{
+		"armenian": "ուղտ",
+		"english": "camel",
+		"audio": "ուղտ.mp3"
+	},
+	{
+		"armenian": "աղվես",
+		"english": "fox",
+		"audio": "աղվես.mp3"
+	},
+	{
+		"armenian": "գորտ",
+		"english": "frog",
+		"audio": "գորտ.mp3"
+	},
+	{
+		"armenian": "ոզնի",
+		"english": "hedgehog",
+		"audio": "ոզնի.mp3"
+	},
+	{
+		"armenian": "սկյուռ",
+		"english": "squirrel",
+		"audio": "սկյուռ.mp3"
+	},
+	{
+		"armenian": "սագ",
+		"english": "goose",
+		"audio": "սագ.mp3"
+	},
+	{
+		"armenian": "բադ",
+		"english": "duck",
+		"audio": "բադ.mp3"
+	},
+	{
+		"armenian": "ծիծեռնակ",
+		"english": "swallow",
+		"audio": "ծիծեռնակ.mp3"
+	},
+	{
+		"armenian": "սոխակ",
+		"english": "nightingale",
+		"audio": "սոխակ.mp3"
+	},
+	{
+		"armenian": "աքլոր",
+		"english": "rooster",
+		"audio": "աքլոր.mp3"
+	},
+	{
+		"armenian": "ծիրանենի",
+		"english": "apricot tree",
+		"audio": "ծիրանենի.mp3"
+	},
+	{
+		"armenian": "խնձորենի",
+		"english": "apple tree",
+		"audio": "խնձորենի.mp3"
+	},
+	{
+		"armenian": "ընկուզենի",
+		"english": "walnut tree",
+		"audio": "ընկուզենի.mp3"
+	},
+	{
+		"armenian": "արմավենի",
+		"english": "palm tree",
+		"audio": "արմավենի.mp3"
+	},
+	{
+		"armenian": "ուռենի",
+		"english": "willow",
+		"audio": "ուռենի.mp3"
+	},
+	{
+		"armenian": "պաշտպանել",
+		"english": "to defend",
+		"audio": "պաշտպանել.mp3"
+	},
+	{
+		"armenian": "հարձակվել",
+		"english": "to attack",
+		"audio": "հարձակվել.mp3"
+	},
+	{
+		"armenian": "կռվել",
+		"english": "to fight",
+		"audio": "կռվել.mp3"
+	},
+	{
+		"armenian": "հաղթել",
+		"english": "to win",
+		"audio": "հաղթել.mp3"
+	},
+	{
+		"armenian": "պարտվել",
+		"english": "to lose",
+		"audio": "պարտվել.mp3"
+	},
+	{
+		"armenian": "կրակել",
+		"english": "to shoot",
+		"audio": "կրակել.mp3"
+	},
+	{
+		"armenian": "վիրավորել",
+		"english": "to wound",
+		"audio": "վիրավորել.mp3"
+	},
+	{
+		"armenian": "սպանել",
+		"english": "to kill",
+		"audio": "սպանել.mp3"
+	},
+	{
+		"armenian": "գրավել",
+		"english": "to conquer",
+		"audio": "գրավել.mp3"
+	},
+	{
+		"armenian": "պայքարել",
+		"english": "to struggle",
+		"audio": "պայքարել.mp3"
+	},
+	{
+		"armenian": "ախպեր",
+		"english": "եղբայր, brother",
+		"audio": "ախպեր.mp3"
+	},
+	{
+		"armenian": "ախմախ",
+		"english": "հիմար, stupid",
+		"audio": "ախմախ.mp3"
+	},
+	{
+		"armenian": "ազիզ",
+		"english": "սիրելի, dear",
+		"audio": "ազիզ.mp3"
+	},
+	{
+		"armenian": "բեսամթ",
+		"english": "չափազանց շատ, too much",
+		"audio": "բեսամթ.mp3"
+	},
+	{
+		"armenian": "բիթի",
+		"english": "տեղեկացված, well informed (person)",
+		"audio": "բիթի.mp3"
+	},
+	{
+		"armenian": "բլթցնել",
+		"english": "անիմաստ խոսել, to talk nonsense",
+		"audio": "բլթցնել.mp3"
+	},
+	{
+		"armenian": "դաժե",
+		"english": "նույնիսկ, անգամ, even",
+		"audio": "դաժե.mp3"
+	},
+	{
+		"armenian": "դզեց, կայֆ",
+		"english": "շատ լավ է, it's cool",
+		"audio": "դզեց, կայֆ.mp3"
+	},
+	{
+		"armenian": "դիլխոր",
+		"english": "անտրամադիր, in no mood",
+		"audio": "դիլխոր.mp3"
+	},
+	{
+		"armenian": "դուզ",
+		"english": "ճիշտ, right, correct",
+		"audio": "դուզ.mp3"
+	},
+	{
+		"armenian": "դեմք ես",
+		"english": "շատ լավն ես / յուրօրինակ ես, you are cool",
+		"audio": "դեմք ես.mp3"
+	},
+	{
+		"armenian": "դուխով",
+		"english": "խիզախությամբ, with courage",
+		"audio": "դուխով.mp3"
+	},
+	{
+		"armenian": "դինջանալ",
+		"english": "հանգստանալ, to calm down",
+		"audio": "դինջանալ.mp3"
+	},
+	{
+		"armenian": "զոռով",
+		"english": "ստիպելով, by force",
+		"audio": "զոռով.mp3"
+	},
+	{
+		"armenian": "էս / էդ / էն",
+		"english": "այս / այդ / այն, this / that",
+		"audio": "էս.mp3"
+	},
+	{
+		"armenian": "էքուց",
+		"english": "վաղը, tomorrow",
+		"audio": "էքուց.mp3"
+	},
+	{
+		"armenian": "էթալ",
+		"english": "գնալ, to go",
+		"audio": "էթալ.mp3"
+	},
+	{
+		"armenian": "թազա",
+		"english": "նոր, new",
+		"audio": "թազա.mp3"
+	},
+	{
+		"armenian": "թույն",
+		"english": "շատ լավ, աննախադեպ, cool",
+		"audio": "թույն.mp3"
+	},
+	{
+		"armenian": "թքել / քաշվել",
+		"english": "փորձանքի մեջ ընկնել, to fall into trouble",
+		"audio": "թքել.mp3"
+	},
+	{
+		"armenian": "թռնել",
+		"english": "պարտականությունից խուսափել, to avoid resposibility",
+		"audio": "թռնել.mp3"
+	},
+	{
+		"armenian": "լազաթ տալ",
+		"english": "հաճույք պատճառել, to give pleasure",
+		"audio": "լազաթ տալ.mp3"
+	},
+	{
+		"armenian": "լոշվել",
+		"english": "ընկնել, to fall down",
+		"audio": "լոշվել.mp3"
+	},
+	{
+		"armenian": "լիքը",
+		"english": "շատ, a lot",
+		"audio": "լիքը.mp3"
+	},
+	{
+		"armenian": "լոքշ",
+		"english": "պարապ, idle",
+		"audio": "լոքշ.mp3"
+	},
+	{
+		"armenian": "խի՞ / ինչի՞",
+		"english": "ինչու՞, why?",
+		"audio": "խի՞.mp3"
+	},
+	{
+		"armenian": "խիար",
+		"english": "վարունգ, cucumber",
+		"audio": "խիար.mp3"
+	},
+	{
+		"armenian": "խզարել",
+		"english": "շատ լավ անել, to do something perfectly",
+		"audio": "խզարել.mp3"
+	},
+	{
+		"armenian": "խոխմա / օղբաթ",
+		"english": "ծիծաղելի, funny",
+		"audio": "խոխմա.mp3"
+	},
+	{
+		"armenian": "խուրդել",
+		"english": "մանրել, to change (the money)",
+		"audio": "խուրդել.mp3"
+	},
+	{
+		"armenian": "խարաբ",
+		"english": "փչացած, broken",
+		"audio": "խարաբ.mp3"
+	},
+	{
+		"armenian": "կարամ / կարաս / կարա",
+		"english": "կարող եմ / կարող ես / կարող է, I can, you can, he/she can",
+		"audio": "կարամ.mp3"
+	},
+	{
+		"armenian": "կարանք / կարաք / կարան",
+		"english": "կարող ենք / կարող եք / կարող են, we can, you can, they can",
+		"audio": "կարանք.mp3"
+	},
+	{
+		"armenian": "կայֆ / կայֆոտ",
+		"english": "հիանալի, great, admirable",
+		"audio": "կայֆ.mp3"
+	},
+	{
+		"armenian": "կռուտիտ",
+		"english": "սուտ պատճառաբանություն, to get away with something",
+		"audio": "կռուտիտ.mp3"
+	},
+	{
+		"armenian": "հայաթ",
+		"english": "բակ, yard",
+		"audio": "հայաթ.mp3"
+	},
+	{
+		"armenian": "քուչա",
+		"english": "փողոց, street",
+		"audio": "քուչա.mp3"
+	},
+	{
+		"armenian": "հելնել / ես հելա",
+		"english": "վեր կենալ, ես գնացի, to get up / I am going",
+		"audio": "հելնել.mp3"
+	},
+	{
+		"armenian": "հմո եմ",
+		"english": "համաձայն եմ, I agree",
+		"audio": "հմո եմ.mp3"
+	},
+	{
+		"armenian": "հավայի",
+		"english": "անկապ, անիմաստ, pointless, senseless",
+		"audio": "հավայի.mp3"
+	},
+	{
+		"armenian": "ղզիկ, ղզօղլան",
+		"english": "կանացի տղա, a feminine guy",
+		"audio": "ղզիկ, ղզօղլան.mp3"
+	},
+	{
+		"armenian": "մանթո / մանթրաշ",
+		"english": "ցնցված, shocked",
+		"audio": "մանթո.mp3"
+	},
+	{
+		"armenian": "մուտիլովշիկ",
+		"english": "խաբեբա, a liar, a cheater",
+		"audio": "մուտիլովշիկ.mp3"
+	},
+	{
+		"armenian": "մուխանաթ",
+		"english": "բարդ, complex, tricky",
+		"audio": "մուխանաթ.mp3"
+	},
+	{
+		"armenian": "մունաթ գալ",
+		"english": "դժգոհել, to complain",
+		"audio": "մունաթ գալ.mp3"
+	},
+	{
+		"armenian": "մթոմ / խոսքի",
+		"english": "իբր, as if",
+		"audio": "մթոմ.mp3"
+	},
+	{
+		"armenian": "մի վախտ",
+		"english": "շատ, a lot",
+		"audio": "մի վախտ.mp3"
+	},
+	{
+		"armenian": "յոլա գնալ",
+		"english": "մի կերպ (դժվար) ապրել, to have a difficult time",
+		"audio": "յոլա գնալ.mp3"
+	},
+	{
+		"armenian": "յուղ վառել",
+		"english": "սուտ խոսել, ավելորդ բան ասել, to lie, to say something stupid",
+		"audio": "յուղ վառել.mp3"
+	},
+	{
+		"armenian": "յանը տարած",
+		"english": "գիժ, crazy",
+		"audio": "յանը տարած.mp3"
+	},
+	{
+		"armenian": "շուխուռ",
+		"english": "աղմուկ, noise",
+		"audio": "շուխուռ.mp3"
+	},
+	{
+		"armenian": "շուլուխ / հանաք",
+		"english": "կատակ, a joke",
+		"audio": "շուլուխ.mp3"
+	},
+	{
+		"armenian": "որտև",
+		"english": "որովհետև, because",
+		"audio": "որտև.mp3"
+	},
+	{
+		"armenian": "ոբշմ",
+		"english": "մի խոսքով, կարճ ասած, in one word, in short",
+		"audio": "ոբշմ.mp3"
+	},
+	{
+		"armenian": "ջիգյարով",
+		"english": "սիրով, with love",
+		"audio": "ջիգյարով.mp3"
+	},
+	{
+		"armenian": "ջան սաղություն",
+		"english": "ամեն ինչ լավ է, everything is well",
+		"audio": "ջան սաղություն.mp3"
+	},
+	{
+		"armenian": "ջոկել",
+		"english": "հասկանալ, to understand",
+		"audio": "ջոկել.mp3"
+	},
+	{
+		"armenian": "սաղ / թամամ",
+		"english": "լրիվ, all",
+		"audio": "սաղ.mp3"
+	},
+	{
+		"armenian": "ստեղ / ըտեղ / ընտեղ",
+		"english": "այստեղ / այդտեղ / այնտեղ, here / there",
+		"audio": "ստեղ.mp3"
+	},
+	{
+		"armenian": "սենց / տենց / նենց",
+		"english": "այսպես / այդպես / այնպես, like this / like that",
+		"audio": "սենց.mp3"
+	},
+	{
+		"armenian": "վախտ / էն վախտ",
+		"english": "ժամանակ / այն ժամանակ, time / in those times",
+		"audio": "վախտ.mp3"
+	},
+	{
+		"armenian": "վայթե",
+		"english": "երևի, maybe",
+		"audio": "վայթե.mp3"
+	},
+	{
+		"armenian": "վաբշե",
+		"english": "ընդհանրապես, generally",
+		"audio": "վաբշե.mp3"
+	},
+	{
+		"armenian": "վեկալել",
+		"english": "վերցնել, to take",
+		"audio": "վեկալել.mp3"
+	},
+	{
+		"armenian": "վնուշկվել",
+		"english": "շատ մտածել, անհանգստանալ, to think a lot, to worry",
+		"audio": "վնուշկվել.mp3"
+	},
+	{
+		"armenian": "վռազել",
+		"english": "շտապել, to hurry",
+		"audio": "վռազել.mp3"
+	},
+	{
+		"armenian": "տալդա / խախանդ",
+		"english": "հանգիստ, peaceful (place)",
+		"audio": "տալդա.mp3"
+	},
+	{
+		"armenian": "տակ տալ",
+		"english": "ֆինանսական կորուստ ունենալ, to have a financial loss",
+		"audio": "տակ տալ.mp3"
+	},
+	{
+		"armenian": "տենալ",
+		"english": "տեսնել, to see",
+		"audio": "տենալ.mp3"
+	},
+	{
+		"armenian": "ցկցկալ / տժալ",
+		"english": "լավ ժամանակ անցկացնել, to spend a good time",
+		"audio": "ցկցկալ.mp3"
+	},
+	{
+		"armenian": "ուրդե՞",
+		"english": "որտե՞ղ, where?",
+		"audio": "ուրդե՞.mp3"
+	},
+	{
+		"armenian": "փախած",
+		"english": "պատահական (վատ իմաստով), irrelevant (bad connotation)",
+		"audio": "փախած.mp3"
+	},
+	{
+		"armenian": "քցիպ",
+		"english": "ժլատ, stingy",
+		"audio": "քցիպ.mp3"
+	},
+	{
+		"armenian": "քե՛լ",
+		"english": "արի՛, come!",
+		"audio": "քե՛լ.mp3"
+	},
+	{
+		"armenian": "քոքել",
+		"english": "բարձրանցնել երաժշտությունը, to make the music loud",
+		"audio": "քոքել.mp3"
+	},
+	{
+		"armenian": "օբշի",
+		"english": "ընդհանուր առմամբ, in general",
+		"audio": "օբշի.mp3"
+	},
+	{
+		"armenian": "ֆռֆռալ",
+		"english": "ման գալ, to walk",
+		"audio": "ֆռֆռալ.mp3"
+	}
+]
